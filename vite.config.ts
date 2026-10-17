@@ -5,7 +5,7 @@ import { VitePWA } from 'vite-plugin-pwa';
 
 // GitHub Pages serves the app from /<repo>/. Override with BASE_PATH=/ for a
 // custom domain or Cloudflare Pages.
-const base = process.env.BASE_PATH ?? '/duzi/';
+const base = process.env.BASE_PATH ?? '/DuZi-/';
 
 export default defineConfig({
   base,

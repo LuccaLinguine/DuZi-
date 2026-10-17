@@ -26,13 +26,13 @@ deploy.
 
 ### Put it on GitHub Pages
 
-1. Create a GitHub repo named **`duzi`** and push this directory to `main`.
-   (A different name is fine — the workflow derives the base path from it, but
-   update the `base` fallback in `vite.config.ts` to match.)
+1. This repo deploys to **[LuccaLinguine/DuZi-](https://github.com/LuccaLinguine/DuZi-)**.
+   The workflow derives the Pages base path from the repo name automatically;
+   `vite.config.ts`'s `base` fallback matches it for local builds.
 2. **Settings → Pages → Build and deployment → Source: GitHub Actions.**
 3. Push. The workflow in `.github/workflows/deploy.yml` installs, builds the
    dictionary data, runs the tests, validates the stories, builds, and deploys.
-4. The app lands at `https://<your-user>.github.io/duzi/`.
+4. The app lands at `https://luccalinguine.github.io/DuZi-/`.
 
 A PWA needs HTTPS to install, which is why `http://<mac-ip>:5173` is only good
 for quick UI checks — it will not register a service worker or work offline.
