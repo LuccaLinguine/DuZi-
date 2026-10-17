@@ -1,0 +1,46 @@
+{
+  "name": "duzi",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "\u8bfb\u5b57 (D\u00faz\u00ec) \u2014 a personal offline graded Chinese reader PWA",
+  "scripts": {
+    "dev": "vite --host",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "data:cedict": "node scripts/build-cedict.ts",
+    "data:hsk": "node scripts/build-hsk.ts",
+    "data": "npm run data:cedict && npm run data:hsk",
+    "validate-stories": "node scripts/validate-stories.ts",
+    "build:content": "node scripts/build-content.ts",
+    "prebuild": "npm run validate-stories && npm run build:content",
+    "deploy": "npm run validate-stories && npm run build && node scripts/deploy.ts",
+    "predev": "node scripts/build-content.ts"
+  },
+  "dependencies": {
+    "dexie": "^4.4.6",
+    "dexie-react-hooks": "^4.4.0",
+    "opencc-js": "^1.4.2",
+    "pinyin-pro": "^3.29.5",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "ts-fsrs": "^5.4.2"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.3.3",
+    "@types/node": "^26.6.5",
+    "@types/opencc-js": "^1.0.3",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "@vitejs/plugin-react": "^6.1.2",
+    "tailwindcss": "^4.3.3",
+    "typescript": "^7.0.2",
+    "vite": "^8.3.4",
+    "vite-plugin-pwa": "^2.0.0",
+    "vitest": "^5.0.5",
+    "workbox-build": "^7.4.1",
+    "workbox-window": "^7.4.1"
+  }
+}

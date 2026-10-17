@@ -1,0 +1,1130 @@
+{
+  "id": "20261017-elem-the-best-dumplings",
+  "series_id": null,
+  "chapter": null,
+  "topic": "Food",
+  "format": "story",
+  "created_at": "2026-10-17",
+  "title_zh": "最好吃的饺子",
+  "title_en": "The Best Dumplings",
+  "summary_en": "A famous restaurant sells beautiful dumplings with no taste. The narrator goes home disappointed, and their grandmother explains what was actually missing.",
+  "level": "elementary",
+  "sentences": [
+    {
+      "zh": "我家旁边有一个很有名的饭馆。",
+      "en": "There is a very famous restaurant next to my house.",
+      "tokens": [
+        {
+          "w": "我家",
+          "py": "wǒ jiā",
+          "gloss": "my home"
+        },
+        {
+          "w": "旁边",
+          "py": "páng biān",
+          "gloss": "next to"
+        },
+        {
+          "w": "有",
+          "py": "yǒu",
+          "gloss": "there is"
+        },
+        {
+          "w": "一",
+          "py": "yí",
+          "gloss": "a"
+        },
+        {
+          "w": "个",
+          "py": "gè",
+          "gloss": "(measure word)"
+        },
+        {
+          "w": "很",
+          "py": "hěn",
+          "gloss": "very"
+        },
+        {
+          "w": "有名",
+          "py": "yǒu míng",
+          "gloss": "famous"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(possessive)"
+        },
+        {
+          "w": "饭馆",
+          "py": "fàn guǎn",
+          "gloss": "restaurant"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": ""
+        }
+      ]
+    },
+    {
+      "zh": "很多人说，那里的饺子最好吃。",
+      "en": "Lots of people say their dumplings are the best.",
+      "tokens": [
+        {
+          "w": "很多",
+          "py": "hěn duō",
+          "gloss": "many"
+        },
+        {
+          "w": "人",
+          "py": "rén",
+          "gloss": "people"
+        },
+        {
+          "w": "说",
+          "py": "shuō",
+          "gloss": "say"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": ""
+        },
+        {
+          "w": "那里",
+          "py": "nà lǐ",
+          "gloss": "there"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(possessive)"
+        },
+        {
+          "w": "饺子",
+          "py": "jiǎo zi",
+          "gloss": "dumplings"
+        },
+        {
+          "w": "最",
+          "py": "zuì",
+          "gloss": "most"
+        },
+        {
+          "w": "好吃",
+          "py": "hǎo chī",
+          "gloss": "tasty"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": ""
+        }
+      ]
+    },
+    {
+      "zh": "上个星期六，我和朋友去了那家饭馆。",
+      "en": "Last Saturday I went to that restaurant with a friend.",
+      "tokens": [
+        {
+          "w": "上",
+          "py": "shàng",
+          "gloss": "last"
+        },
+        {
+          "w": "个",
+          "py": "gè",
+          "gloss": "(measure word)"
+        },
+        {
+          "w": "星期六",
+          "py": "xīng qī liù",
+          "gloss": "Saturday"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": ""
+        },
+        {
+          "w": "我",
+          "py": "wǒ",
+          "gloss": "I"
+        },
+        {
+          "w": "和",
+          "py": "hé",
+          "gloss": "and"
+        },
+        {
+          "w": "朋友",
+          "py": "péng you",
+          "gloss": "friend"
+        },
+        {
+          "w": "去",
+          "py": "qù",
+          "gloss": "went"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(completed)"
+        },
+        {
+          "w": "那",
+          "py": "nà",
+          "gloss": "that"
+        },
+        {
+          "w": "家",
+          "py": "jiā",
+          "gloss": "(measure word for shops)"
+        },
+        {
+          "w": "饭馆",
+          "py": "fàn guǎn",
+          "gloss": "restaurant"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": ""
+        }
+      ]
+    },
+    {
+      "zh": "我们排了半个小时的队。",
+      "en": "We queued for half an hour.",
+      "tokens": [
+        {
+          "w": "我们",
+          "py": "wǒ men",
+          "gloss": "we"
+        },
+        {
+          "w": "排",
+          "py": "pái",
+          "gloss": "stood in"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(completed)"
+        },
+        {
+          "w": "半",
+          "py": "bàn",
+          "gloss": "half"
+        },
+        {
+          "w": "个",
+          "py": "gè",
+          "gloss": "(measure word)"
+        },
+        {
+          "w": "小时",
+          "py": "xiǎo shí",
+          "gloss": "hour"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(possessive)"
+        },
+        {
+          "w": "队",
+          "py": "duì",
+          "gloss": "queue"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": ""
+        }
+      ]
+    },
+    {
+      "zh": "饺子很贵，一份要六十块钱。",
+      "en": "The dumplings were expensive — sixty yuan a plate.",
+      "tokens": [
+        {
+          "w": "饺子",
+          "py": "jiǎo zi",
+          "gloss": "dumplings"
+        },
+        {
+          "w": "很",
+          "py": "hěn",
+          "gloss": "very"
+        },
+        {
+          "w": "贵",
+          "py": "guì",
+          "gloss": "expensive"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": ""
+        },
+        {
+          "w": "一",
+          "py": "yí",
+          "gloss": "one"
+        },
+        {
+          "w": "份",
+          "py": "fèn",
+          "gloss": "portion"
+        },
+        {
+          "w": "要",
+          "py": "yào",
+          "gloss": "costs"
+        },
+        {
+          "w": "六十",
+          "py": "liù shí",
+          "gloss": "sixty"
+        },
+        {
+          "w": "块",
+          "py": "kuài",
+          "gloss": "yuan"
+        },
+        {
+          "w": "钱",
+          "py": "qián",
+          "gloss": "money"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": ""
+        }
+      ]
+    },
+    {
+      "zh": "我吃了一个，又吃了一个。",
+      "en": "I ate one, then another.",
+      "tokens": [
+        {
+          "w": "我",
+          "py": "wǒ",
+          "gloss": "I"
+        },
+        {
+          "w": "吃",
+          "py": "chī",
+          "gloss": "ate"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(completed)"
+        },
+        {
+          "w": "一",
+          "py": "yí",
+          "gloss": "one"
+        },
+        {
+          "w": "个",
+          "py": "gè",
+          "gloss": "(measure word)"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": ""
+        },
+        {
+          "w": "又",
+          "py": "yòu",
+          "gloss": "then again"
+        },
+        {
+          "w": "吃",
+          "py": "chī",
+          "gloss": "ate"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(completed)"
+        },
+        {
+          "w": "一",
+          "py": "yí",
+          "gloss": "one"
+        },
+        {
+          "w": "个",
+          "py": "gè",
+          "gloss": "(measure word)"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": ""
+        }
+      ]
+    },
+    {
+      "zh": "它们很好看，可是没有味道。",
+      "en": "They looked lovely, but they had no taste.",
+      "tokens": [
+        {
+          "w": "它们",
+          "py": "tā men",
+          "gloss": "they"
+        },
+        {
+          "w": "很",
+          "py": "hěn",
+          "gloss": "very"
+        },
+        {
+          "w": "好看",
+          "py": "hǎo kàn",
+          "gloss": "good-looking"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": ""
+        },
+        {
+          "w": "可是",
+          "py": "kě shì",
+          "gloss": "but"
+        },
+        {
+          "w": "没有",
+          "py": "méi yǒu",
+          "gloss": "have no"
+        },
+        {
+          "w": "味道",
+          "py": "wèi dào",
+          "gloss": "flavour"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": ""
+        }
+      ]
+    },
+    {
+      "zh": "我有点儿难过。",
+      "en": "I felt a little sad.",
+      "tokens": [
+        {
+          "w": "我",
+          "py": "wǒ",
+          "gloss": "I"
+        },
+        {
+          "w": "有点儿",
+          "py": "yǒu diǎnr",
+          "gloss": "a little"
+        },
+        {
+          "w": "难过",
+          "py": "nán guò",
+          "gloss": "sad"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": ""
+        }
+      ]
+    },
+    {
+      "zh": "回家以后，我告诉奶奶：“那家饭馆的饺子不好吃。”",
+      "en": "When I got home I told my grandmother, \"The dumplings at that restaurant are not good.\"",
+      "tokens": [
+        {
+          "w": "回家",
+          "py": "huí jiā",
+          "gloss": "got home"
+        },
+        {
+          "w": "以后",
+          "py": "yǐ hòu",
+          "gloss": "after"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": ""
+        },
+        {
+          "w": "我",
+          "py": "wǒ",
+          "gloss": "I"
+        },
+        {
+          "w": "告诉",
+          "py": "gào su",
+          "gloss": "told"
+        },
+        {
+          "w": "奶奶",
+          "py": "nǎi nai",
+          "gloss": "grandma"
+        },
+        {
+          "w": "：“",
+          "py": "",
+          "gloss": ""
+        },
+        {
+          "w": "那",
+          "py": "nà",
+          "gloss": "that"
+        },
+        {
+          "w": "家",
+          "py": "jiā",
+          "gloss": "(measure word for shops)"
+        },
+        {
+          "w": "饭馆",
+          "py": "fàn guǎn",
+          "gloss": "restaurant"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(possessive)"
+        },
+        {
+          "w": "饺子",
+          "py": "jiǎo zi",
+          "gloss": "dumplings"
+        },
+        {
+          "w": "不",
+          "py": "bù",
+          "gloss": "not"
+        },
+        {
+          "w": "好吃",
+          "py": "hǎo chī",
+          "gloss": "tasty"
+        },
+        {
+          "w": "。”",
+          "py": "",
+          "gloss": ""
+        }
+      ]
+    },
+    {
+      "zh": "奶奶笑了，她说：“那我们自己做吧。”",
+      "en": "Grandma laughed. \"Then let's make our own,\" she said.",
+      "tokens": [
+        {
+          "w": "奶奶",
+          "py": "nǎi nai",
+          "gloss": "grandma"
+        },
+        {
+          "w": "笑",
+          "py": "xiào",
+          "gloss": "laughed"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(completed)"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": ""
+        },
+        {
+          "w": "她",
+          "py": "tā",
+          "gloss": "she"
+        },
+        {
+          "w": "说",
+          "py": "shuō",
+          "gloss": "said"
+        },
+        {
+          "w": "：“",
+          "py": "",
+          "gloss": ""
+        },
+        {
+          "w": "那",
+          "py": "nà",
+          "gloss": "then"
+        },
+        {
+          "w": "我们",
+          "py": "wǒ men",
+          "gloss": "we"
+        },
+        {
+          "w": "自己",
+          "py": "zì jǐ",
+          "gloss": "ourselves"
+        },
+        {
+          "w": "做",
+          "py": "zuò",
+          "gloss": "make"
+        },
+        {
+          "w": "吧",
+          "py": "ba",
+          "gloss": "let's"
+        },
+        {
+          "w": "。”",
+          "py": "",
+          "gloss": ""
+        }
+      ]
+    },
+    {
+      "zh": "那天下午，我和奶奶一起包饺子。",
+      "en": "That afternoon my grandmother and I made dumplings together.",
+      "tokens": [
+        {
+          "w": "那天",
+          "py": "nà tiān",
+          "gloss": "that day"
+        },
+        {
+          "w": "下午",
+          "py": "xià wǔ",
+          "gloss": "afternoon"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": ""
+        },
+        {
+          "w": "我",
+          "py": "wǒ",
+          "gloss": "I"
+        },
+        {
+          "w": "和",
+          "py": "hé",
+          "gloss": "and"
+        },
+        {
+          "w": "奶奶",
+          "py": "nǎi nai",
+          "gloss": "grandma"
+        },
+        {
+          "w": "一起",
+          "py": "yì qǐ",
+          "gloss": "together"
+        },
+        {
+          "w": "包",
+          "py": "bāo",
+          "gloss": "wrapped"
+        },
+        {
+          "w": "饺子",
+          "py": "jiǎo zi",
+          "gloss": "dumplings"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": ""
+        }
+      ]
+    },
+    {
+      "zh": "我的饺子包得很难看，奶奶的又大又漂亮。",
+      "en": "Mine came out ugly; hers were big and beautiful.",
+      "tokens": [
+        {
+          "w": "我",
+          "py": "wǒ",
+          "gloss": "my"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(possessive)"
+        },
+        {
+          "w": "饺子",
+          "py": "jiǎo zi",
+          "gloss": "dumplings"
+        },
+        {
+          "w": "包",
+          "py": "bāo",
+          "gloss": "wrapped"
+        },
+        {
+          "w": "得",
+          "py": "de",
+          "gloss": "(manner marker)"
+        },
+        {
+          "w": "很",
+          "py": "hěn",
+          "gloss": "very"
+        },
+        {
+          "w": "难看",
+          "py": "nán kàn",
+          "gloss": "ugly"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": ""
+        },
+        {
+          "w": "奶奶",
+          "py": "nǎi nai",
+          "gloss": "grandma"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(possessive)"
+        },
+        {
+          "w": "又",
+          "py": "yòu",
+          "gloss": "both"
+        },
+        {
+          "w": "大",
+          "py": "dà",
+          "gloss": "big"
+        },
+        {
+          "w": "又",
+          "py": "yòu",
+          "gloss": "and"
+        },
+        {
+          "w": "漂亮",
+          "py": "piào liang",
+          "gloss": "beautiful"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": ""
+        }
+      ]
+    },
+    {
+      "zh": "我们说了很多话，也笑了很多。",
+      "en": "We talked a lot, and laughed a lot.",
+      "tokens": [
+        {
+          "w": "我们",
+          "py": "wǒ men",
+          "gloss": "we"
+        },
+        {
+          "w": "说",
+          "py": "shuō",
+          "gloss": "spoke"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(completed)"
+        },
+        {
+          "w": "很多",
+          "py": "hěn duō",
+          "gloss": "a lot of"
+        },
+        {
+          "w": "话",
+          "py": "huà",
+          "gloss": "words"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": ""
+        },
+        {
+          "w": "也",
+          "py": "yě",
+          "gloss": "also"
+        },
+        {
+          "w": "笑",
+          "py": "xiào",
+          "gloss": "laughed"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(completed)"
+        },
+        {
+          "w": "很多",
+          "py": "hěn duō",
+          "gloss": "a lot"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": ""
+        }
+      ]
+    },
+    {
+      "zh": "晚上，饺子做好了。",
+      "en": "In the evening the dumplings were ready.",
+      "tokens": [
+        {
+          "w": "晚上",
+          "py": "wǎn shang",
+          "gloss": "evening"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": ""
+        },
+        {
+          "w": "饺子",
+          "py": "jiǎo zi",
+          "gloss": "dumplings"
+        },
+        {
+          "w": "做",
+          "py": "zuò",
+          "gloss": "made"
+        },
+        {
+          "w": "好",
+          "py": "hǎo",
+          "gloss": "(finished)"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(completed)"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": ""
+        }
+      ]
+    },
+    {
+      "zh": "我吃了二十个。",
+      "en": "I ate twenty.",
+      "tokens": [
+        {
+          "w": "我",
+          "py": "wǒ",
+          "gloss": "I"
+        },
+        {
+          "w": "吃",
+          "py": "chī",
+          "gloss": "ate"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(completed)"
+        },
+        {
+          "w": "二十",
+          "py": "èr shí",
+          "gloss": "twenty"
+        },
+        {
+          "w": "个",
+          "py": "gè",
+          "gloss": "(measure word)"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": ""
+        }
+      ]
+    },
+    {
+      "zh": "奶奶问我：“好吃吗？”",
+      "en": "Grandma asked me, \"Are they good?\"",
+      "tokens": [
+        {
+          "w": "奶奶",
+          "py": "nǎi nai",
+          "gloss": "grandma"
+        },
+        {
+          "w": "问",
+          "py": "wèn",
+          "gloss": "asked"
+        },
+        {
+          "w": "我",
+          "py": "wǒ",
+          "gloss": "me"
+        },
+        {
+          "w": "：“",
+          "py": "",
+          "gloss": ""
+        },
+        {
+          "w": "好吃",
+          "py": "hǎo chī",
+          "gloss": "tasty"
+        },
+        {
+          "w": "吗",
+          "py": "ma",
+          "gloss": "(question)"
+        },
+        {
+          "w": "？”",
+          "py": "",
+          "gloss": ""
+        }
+      ]
+    },
+    {
+      "zh": "我说：“这是我吃过的最好吃的饺子。”",
+      "en": "I said, \"These are the best dumplings I have ever eaten.\"",
+      "tokens": [
+        {
+          "w": "我",
+          "py": "wǒ",
+          "gloss": "I"
+        },
+        {
+          "w": "说",
+          "py": "shuō",
+          "gloss": "said"
+        },
+        {
+          "w": "：“",
+          "py": "",
+          "gloss": ""
+        },
+        {
+          "w": "这",
+          "py": "zhè",
+          "gloss": "these"
+        },
+        {
+          "w": "是",
+          "py": "shì",
+          "gloss": "are"
+        },
+        {
+          "w": "我",
+          "py": "wǒ",
+          "gloss": "I"
+        },
+        {
+          "w": "吃",
+          "py": "chī",
+          "gloss": "eaten"
+        },
+        {
+          "w": "过",
+          "py": "guo",
+          "gloss": "(experience)"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(possessive)"
+        },
+        {
+          "w": "最",
+          "py": "zuì",
+          "gloss": "most"
+        },
+        {
+          "w": "好吃",
+          "py": "hǎo chī",
+          "gloss": "tasty"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(possessive)"
+        },
+        {
+          "w": "饺子",
+          "py": "jiǎo zi",
+          "gloss": "dumplings"
+        },
+        {
+          "w": "。”",
+          "py": "",
+          "gloss": ""
+        }
+      ]
+    },
+    {
+      "zh": "奶奶说：“饺子都一样，不一样的是和谁一起做、一起吃。”",
+      "en": "Grandma said, \"Dumplings are all the same. What changes is who you make them and eat them with.\"",
+      "tokens": [
+        {
+          "w": "奶奶",
+          "py": "nǎi nai",
+          "gloss": "grandma"
+        },
+        {
+          "w": "说",
+          "py": "shuō",
+          "gloss": "said"
+        },
+        {
+          "w": "：“",
+          "py": "",
+          "gloss": ""
+        },
+        {
+          "w": "饺子",
+          "py": "jiǎo zi",
+          "gloss": "dumplings"
+        },
+        {
+          "w": "都",
+          "py": "dōu",
+          "gloss": "all"
+        },
+        {
+          "w": "一样",
+          "py": "yí yàng",
+          "gloss": "the same"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": ""
+        },
+        {
+          "w": "不",
+          "py": "bù",
+          "gloss": "not"
+        },
+        {
+          "w": "一样",
+          "py": "yí yàng",
+          "gloss": "the same"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(nominaliser)"
+        },
+        {
+          "w": "是",
+          "py": "shì",
+          "gloss": "is"
+        },
+        {
+          "w": "和",
+          "py": "hé",
+          "gloss": "with"
+        },
+        {
+          "w": "谁",
+          "py": "shéi",
+          "gloss": "whom"
+        },
+        {
+          "w": "一起",
+          "py": "yì qǐ",
+          "gloss": "together"
+        },
+        {
+          "w": "做",
+          "py": "zuò",
+          "gloss": "make"
+        },
+        {
+          "w": "、",
+          "py": "",
+          "gloss": ""
+        },
+        {
+          "w": "一起",
+          "py": "yì qǐ",
+          "gloss": "together"
+        },
+        {
+          "w": "吃",
+          "py": "chī",
+          "gloss": "eat"
+        },
+        {
+          "w": "。”",
+          "py": "",
+          "gloss": ""
+        }
+      ]
+    }
+  ],
+  "new_words": [],
+  "grammar_points": [
+    {
+      "pattern": "verb + 得 + description",
+      "explanation_en": "To say how well someone does something, add 得 after the verb and the description after 得. It describes the doing, not the thing.",
+      "example_zh": "她说得很慢。",
+      "example_en": "She speaks very slowly."
+    },
+    {
+      "pattern": "又 A 又 B",
+      "explanation_en": "Stacks two qualities onto one thing: \"both A and B\". Both A and B must be the same kind of word — two adjectives, or two verbs.",
+      "example_zh": "这个房间又大又干净。",
+      "example_en": "This room is both big and clean."
+    },
+    {
+      "pattern": "verb + 过",
+      "explanation_en": "过 after a verb marks an experience: you have done it at some point. 我吃过 means \"I have eaten (it) before\", not \"I ate it just now\".",
+      "example_zh": "我去过北京。",
+      "example_en": "I have been to Beijing."
+    }
+  ],
+  "questions": [
+    {
+      "q_zh": "那家饭馆的饺子为什么不好吃？",
+      "q_en": "Why aren't the restaurant's dumplings good?",
+      "answer_en": "They look beautiful and cost sixty yuan, but they have no flavour."
+    },
+    {
+      "q_zh": "奶奶听了以后做了什么？",
+      "q_en": "What does the grandmother do after hearing about it?",
+      "answer_en": "She suggests they make dumplings themselves, and they spend the afternoon making them together."
+    },
+    {
+      "q_zh": "奶奶觉得最重要的是什么？",
+      "q_en": "What does the grandmother think matters most?",
+      "answer_en": "Not the dumplings themselves, but who you make and eat them with."
+    }
+  ]
+}

@@ -1,0 +1,1709 @@
+{
+  "id": "20261017-inter-the-note-in-the-book",
+  "series_id": null,
+  "chapter": null,
+  "topic": "Mystery",
+  "format": "story",
+  "created_at": "2026-10-17",
+  "title_zh": "书里的纸条",
+  "title_en": "The Note in the Book",
+  "summary_en": "A student who reads only for exams finds an anonymous note inside a library novel. Finishing the book turns out to be the smaller of the two things that change.",
+  "level": "intermediate",
+  "sentences": [
+    {
+      "zh": "李明是大学二年级的学生。",
+      "en": "Li Ming is a second-year university student.",
+      "tokens": [
+        {
+          "w": "李明",
+          "py": "Lǐ Míng",
+          "gloss": "Li Ming (name)"
+        },
+        {
+          "w": "是",
+          "py": "shì",
+          "gloss": "is"
+        },
+        {
+          "w": "大学",
+          "py": "dà xué",
+          "gloss": "university"
+        },
+        {
+          "w": "二",
+          "py": "èr",
+          "gloss": "second"
+        },
+        {
+          "w": "年级",
+          "py": "nián jí",
+          "gloss": "year"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(possessive)"
+        },
+        {
+          "w": "学生",
+          "py": "xué sheng",
+          "gloss": "student"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": ""
+        }
+      ]
+    },
+    {
+      "zh": "他从来不看小说。",
+      "en": "He had never read a novel.",
+      "tokens": [
+        {
+          "w": "他",
+          "py": "tā",
+          "gloss": "he"
+        },
+        {
+          "w": "从来",
+          "py": "cóng lái",
+          "gloss": "ever"
+        },
+        {
+          "w": "不",
+          "py": "bú",
+          "gloss": "not"
+        },
+        {
+          "w": "看",
+          "py": "kàn",
+          "gloss": "read"
+        },
+        {
+          "w": "小说",
+          "py": "xiǎo shuō",
+          "gloss": "novels"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": ""
+        }
+      ]
+    },
+    {
+      "zh": "他觉得读书是为了考试。",
+      "en": "To him, reading was something you did for exams.",
+      "tokens": [
+        {
+          "w": "他",
+          "py": "tā",
+          "gloss": "he"
+        },
+        {
+          "w": "觉得",
+          "py": "jué de",
+          "gloss": "felt"
+        },
+        {
+          "w": "读书",
+          "py": "dú shū",
+          "gloss": "reading"
+        },
+        {
+          "w": "是",
+          "py": "shì",
+          "gloss": "was"
+        },
+        {
+          "w": "为了",
+          "py": "wèi le",
+          "gloss": "for the sake of"
+        },
+        {
+          "w": "考试",
+          "py": "kǎo shì",
+          "gloss": "exams"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": ""
+        }
+      ]
+    },
+    {
+      "zh": "上个月，老师要求大家读一本小说。",
+      "en": "Last month a teacher asked the class to read a novel.",
+      "tokens": [
+        {
+          "w": "上",
+          "py": "shàng",
+          "gloss": "last"
+        },
+        {
+          "w": "个",
+          "py": "gè",
+          "gloss": "(measure word)"
+        },
+        {
+          "w": "月",
+          "py": "yuè",
+          "gloss": "month"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": ""
+        },
+        {
+          "w": "老师",
+          "py": "lǎo shī",
+          "gloss": "teacher"
+        },
+        {
+          "w": "要求",
+          "py": "yāo qiú",
+          "gloss": "required"
+        },
+        {
+          "w": "大家",
+          "py": "dà jiā",
+          "gloss": "everyone"
+        },
+        {
+          "w": "读",
+          "py": "dú",
+          "gloss": "read"
+        },
+        {
+          "w": "一",
+          "py": "yì",
+          "gloss": "one"
+        },
+        {
+          "w": "本",
+          "py": "běn",
+          "gloss": "(measure word for books)"
+        },
+        {
+          "w": "小说",
+          "py": "xiǎo shuō",
+          "gloss": "novel"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": ""
+        }
+      ]
+    },
+    {
+      "zh": "李明去图书馆借了一本最短的。",
+      "en": "Li Ming went to the library and borrowed the shortest one.",
+      "tokens": [
+        {
+          "w": "李明",
+          "py": "Lǐ Míng",
+          "gloss": "Li Ming"
+        },
+        {
+          "w": "去",
+          "py": "qù",
+          "gloss": "went to"
+        },
+        {
+          "w": "图书馆",
+          "py": "tú shū guǎn",
+          "gloss": "library"
+        },
+        {
+          "w": "借",
+          "py": "jiè",
+          "gloss": "borrowed"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(completed)"
+        },
+        {
+          "w": "一",
+          "py": "yì",
+          "gloss": "one"
+        },
+        {
+          "w": "本",
+          "py": "běn",
+          "gloss": "(measure word for books)"
+        },
+        {
+          "w": "最",
+          "py": "zuì",
+          "gloss": "most"
+        },
+        {
+          "w": "短",
+          "py": "duǎn",
+          "gloss": "short"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(nominaliser)"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": ""
+        }
+      ]
+    },
+    {
+      "zh": "那天晚上，他打开书，发现里面有一张纸条。",
+      "en": "That evening he opened it and found a slip of paper inside.",
+      "tokens": [
+        {
+          "w": "那天",
+          "py": "nà tiān",
+          "gloss": "that day"
+        },
+        {
+          "w": "晚上",
+          "py": "wǎn shang",
+          "gloss": "evening"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": ""
+        },
+        {
+          "w": "他",
+          "py": "tā",
+          "gloss": "he"
+        },
+        {
+          "w": "打开",
+          "py": "dǎ kāi",
+          "gloss": "opened"
+        },
+        {
+          "w": "书",
+          "py": "shū",
+          "gloss": "the book"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": ""
+        },
+        {
+          "w": "发现",
+          "py": "fā xiàn",
+          "gloss": "found"
+        },
+        {
+          "w": "里面",
+          "py": "lǐ miàn",
+          "gloss": "inside"
+        },
+        {
+          "w": "有",
+          "py": "yǒu",
+          "gloss": "there was"
+        },
+        {
+          "w": "一",
+          "py": "yì",
+          "gloss": "one"
+        },
+        {
+          "w": "张",
+          "py": "zhāng",
+          "gloss": "(measure word for flat things)"
+        },
+        {
+          "w": "纸条",
+          "py": "zhǐ tiáo",
+          "gloss": "note, slip of paper"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": ""
+        }
+      ]
+    },
+    {
+      "zh": "纸条上写着几个字：“读完以后，请把这本书介绍给别人。”",
+      "en": "A few words were written on it: \"When you have finished, please pass this book on to someone else.\"",
+      "tokens": [
+        {
+          "w": "纸条",
+          "py": "zhǐ tiáo",
+          "gloss": "note, slip of paper"
+        },
+        {
+          "w": "上",
+          "py": "shàng",
+          "gloss": "on"
+        },
+        {
+          "w": "写",
+          "py": "xiě",
+          "gloss": "written"
+        },
+        {
+          "w": "着",
+          "py": "zhe",
+          "gloss": "(state marker)"
+        },
+        {
+          "w": "几",
+          "py": "jǐ",
+          "gloss": "a few"
+        },
+        {
+          "w": "个",
+          "py": "gè",
+          "gloss": "(measure word)"
+        },
+        {
+          "w": "字",
+          "py": "zì",
+          "gloss": "words"
+        },
+        {
+          "w": "：“",
+          "py": "",
+          "gloss": ""
+        },
+        {
+          "w": "读",
+          "py": "dú",
+          "gloss": "read"
+        },
+        {
+          "w": "完",
+          "py": "wán",
+          "gloss": "finish"
+        },
+        {
+          "w": "以后",
+          "py": "yǐ hòu",
+          "gloss": "after"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": ""
+        },
+        {
+          "w": "请",
+          "py": "qǐng",
+          "gloss": "please"
+        },
+        {
+          "w": "把",
+          "py": "bǎ",
+          "gloss": "(object marker)"
+        },
+        {
+          "w": "这",
+          "py": "zhè",
+          "gloss": "this"
+        },
+        {
+          "w": "本",
+          "py": "běn",
+          "gloss": "(measure word for books)"
+        },
+        {
+          "w": "书",
+          "py": "shū",
+          "gloss": "book"
+        },
+        {
+          "w": "介绍",
+          "py": "jiè shào",
+          "gloss": "recommend"
+        },
+        {
+          "w": "给",
+          "py": "gěi",
+          "gloss": "to"
+        },
+        {
+          "w": "别人",
+          "py": "bié rén",
+          "gloss": "someone else"
+        },
+        {
+          "w": "。”",
+          "py": "",
+          "gloss": ""
+        }
+      ]
+    },
+    {
+      "zh": "李明觉得很奇怪。",
+      "en": "Li Ming thought it was strange.",
+      "tokens": [
+        {
+          "w": "李明",
+          "py": "Lǐ Míng",
+          "gloss": "Li Ming"
+        },
+        {
+          "w": "觉得",
+          "py": "jué de",
+          "gloss": "thought"
+        },
+        {
+          "w": "很",
+          "py": "hěn",
+          "gloss": "very"
+        },
+        {
+          "w": "奇怪",
+          "py": "qí guài",
+          "gloss": "strange"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": ""
+        }
+      ]
+    },
+    {
+      "zh": "谁会在图书馆的书里放一张纸条呢？",
+      "en": "Who leaves a note inside a library book?",
+      "tokens": [
+        {
+          "w": "谁",
+          "py": "shéi",
+          "gloss": "who"
+        },
+        {
+          "w": "会",
+          "py": "huì",
+          "gloss": "would"
+        },
+        {
+          "w": "在",
+          "py": "zài",
+          "gloss": "in"
+        },
+        {
+          "w": "图书馆",
+          "py": "tú shū guǎn",
+          "gloss": "library"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(possessive)"
+        },
+        {
+          "w": "书",
+          "py": "shū",
+          "gloss": "books"
+        },
+        {
+          "w": "里",
+          "py": "lǐ",
+          "gloss": "inside"
+        },
+        {
+          "w": "放",
+          "py": "fàng",
+          "gloss": "put"
+        },
+        {
+          "w": "一",
+          "py": "yì",
+          "gloss": "one"
+        },
+        {
+          "w": "张",
+          "py": "zhāng",
+          "gloss": "(measure word for flat things)"
+        },
+        {
+          "w": "纸条",
+          "py": "zhǐ tiáo",
+          "gloss": "note, slip of paper"
+        },
+        {
+          "w": "呢",
+          "py": "ne",
+          "gloss": "(question particle)"
+        },
+        {
+          "w": "？",
+          "py": "",
+          "gloss": ""
+        }
+      ]
+    },
+    {
+      "zh": "他本来只想快点儿读完，交了作业就算了。",
+      "en": "He had meant to read it quickly, hand in the homework and be done with it.",
+      "tokens": [
+        {
+          "w": "他",
+          "py": "tā",
+          "gloss": "he"
+        },
+        {
+          "w": "本来",
+          "py": "běn lái",
+          "gloss": "originally"
+        },
+        {
+          "w": "只",
+          "py": "zhǐ",
+          "gloss": "only"
+        },
+        {
+          "w": "想",
+          "py": "xiǎng",
+          "gloss": "wanted to"
+        },
+        {
+          "w": "快点儿",
+          "py": "kuài diǎnr",
+          "gloss": "quickly"
+        },
+        {
+          "w": "读",
+          "py": "dú",
+          "gloss": "read"
+        },
+        {
+          "w": "完",
+          "py": "wán",
+          "gloss": "finish"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": ""
+        },
+        {
+          "w": "交",
+          "py": "jiāo",
+          "gloss": "hand in"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(completed)"
+        },
+        {
+          "w": "作业",
+          "py": "zuò yè",
+          "gloss": "homework"
+        },
+        {
+          "w": "就",
+          "py": "jiù",
+          "gloss": "then"
+        },
+        {
+          "w": "算",
+          "py": "suàn",
+          "gloss": "call it"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(done)"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": ""
+        }
+      ]
+    },
+    {
+      "zh": "可是那本小说很有意思。",
+      "en": "But the novel was interesting.",
+      "tokens": [
+        {
+          "w": "可是",
+          "py": "kě shì",
+          "gloss": "but"
+        },
+        {
+          "w": "那",
+          "py": "nà",
+          "gloss": "that"
+        },
+        {
+          "w": "本",
+          "py": "běn",
+          "gloss": "(measure word for books)"
+        },
+        {
+          "w": "小说",
+          "py": "xiǎo shuō",
+          "gloss": "novel"
+        },
+        {
+          "w": "很",
+          "py": "hěn",
+          "gloss": "very"
+        },
+        {
+          "w": "有意思",
+          "py": "yǒu yì si",
+          "gloss": "interesting"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": ""
+        }
+      ]
+    },
+    {
+      "zh": "故事里的人让他想起了自己。",
+      "en": "The people in the story reminded him of himself.",
+      "tokens": [
+        {
+          "w": "故事",
+          "py": "gù shi",
+          "gloss": "story"
+        },
+        {
+          "w": "里",
+          "py": "lǐ",
+          "gloss": "in"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(possessive)"
+        },
+        {
+          "w": "人",
+          "py": "rén",
+          "gloss": "people"
+        },
+        {
+          "w": "让",
+          "py": "ràng",
+          "gloss": "made"
+        },
+        {
+          "w": "他",
+          "py": "tā",
+          "gloss": "him"
+        },
+        {
+          "w": "想起",
+          "py": "xiǎng qǐ",
+          "gloss": "think of"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(completed)"
+        },
+        {
+          "w": "自己",
+          "py": "zì jǐ",
+          "gloss": "himself"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": ""
+        }
+      ]
+    },
+    {
+      "zh": "他一直读到半夜。",
+      "en": "He read until the middle of the night.",
+      "tokens": [
+        {
+          "w": "他",
+          "py": "tā",
+          "gloss": "he"
+        },
+        {
+          "w": "一直",
+          "py": "yì zhí",
+          "gloss": "continuously"
+        },
+        {
+          "w": "读",
+          "py": "dú",
+          "gloss": "read"
+        },
+        {
+          "w": "到",
+          "py": "dào",
+          "gloss": "until"
+        },
+        {
+          "w": "半夜",
+          "py": "bàn yè",
+          "gloss": "midnight"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": ""
+        }
+      ]
+    },
+    {
+      "zh": "这是他第一次看完一本小说。",
+      "en": "It was the first novel he had ever finished.",
+      "tokens": [
+        {
+          "w": "这",
+          "py": "zhè",
+          "gloss": "this"
+        },
+        {
+          "w": "是",
+          "py": "shì",
+          "gloss": "was"
+        },
+        {
+          "w": "他",
+          "py": "tā",
+          "gloss": "his"
+        },
+        {
+          "w": "第",
+          "py": "dì",
+          "gloss": "(ordinal)"
+        },
+        {
+          "w": "一",
+          "py": "yī",
+          "gloss": "one"
+        },
+        {
+          "w": "次",
+          "py": "cì",
+          "gloss": "time"
+        },
+        {
+          "w": "看",
+          "py": "kàn",
+          "gloss": "read"
+        },
+        {
+          "w": "完",
+          "py": "wán",
+          "gloss": "finish"
+        },
+        {
+          "w": "一",
+          "py": "yì",
+          "gloss": "one"
+        },
+        {
+          "w": "本",
+          "py": "běn",
+          "gloss": "(measure word for books)"
+        },
+        {
+          "w": "小说",
+          "py": "xiǎo shuō",
+          "gloss": "novel"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": ""
+        }
+      ]
+    },
+    {
+      "zh": "第二天上课的时候，老师问谁读完了，只有他举起了手。",
+      "en": "In class the next day, the teacher asked who had finished, and his was the only hand that went up.",
+      "tokens": [
+        {
+          "w": "第",
+          "py": "dì",
+          "gloss": "(ordinal)"
+        },
+        {
+          "w": "二",
+          "py": "èr",
+          "gloss": "two"
+        },
+        {
+          "w": "天",
+          "py": "tiān",
+          "gloss": "day"
+        },
+        {
+          "w": "上课",
+          "py": "shàng kè",
+          "gloss": "in class"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(possessive)"
+        },
+        {
+          "w": "时候",
+          "py": "shí hou",
+          "gloss": "time"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": ""
+        },
+        {
+          "w": "老师",
+          "py": "lǎo shī",
+          "gloss": "teacher"
+        },
+        {
+          "w": "问",
+          "py": "wèn",
+          "gloss": "asked"
+        },
+        {
+          "w": "谁",
+          "py": "shéi",
+          "gloss": "who"
+        },
+        {
+          "w": "读",
+          "py": "dú",
+          "gloss": "read"
+        },
+        {
+          "w": "完",
+          "py": "wán",
+          "gloss": "finished"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(completed)"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": ""
+        },
+        {
+          "w": "只有",
+          "py": "zhǐ yǒu",
+          "gloss": "only"
+        },
+        {
+          "w": "他",
+          "py": "tā",
+          "gloss": "he"
+        },
+        {
+          "w": "举",
+          "py": "jǔ",
+          "gloss": "raised"
+        },
+        {
+          "w": "起",
+          "py": "qǐ",
+          "gloss": "up"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(completed)"
+        },
+        {
+          "w": "手",
+          "py": "shǒu",
+          "gloss": "hand"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": ""
+        }
+      ]
+    },
+    {
+      "zh": "在最后一页，还有一张纸条。",
+      "en": "On the last page there was another slip of paper.",
+      "tokens": [
+        {
+          "w": "在",
+          "py": "zài",
+          "gloss": "on"
+        },
+        {
+          "w": "最后",
+          "py": "zuì hòu",
+          "gloss": "last"
+        },
+        {
+          "w": "一",
+          "py": "yí",
+          "gloss": "one"
+        },
+        {
+          "w": "页",
+          "py": "yè",
+          "gloss": "page"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": ""
+        },
+        {
+          "w": "还有",
+          "py": "hái yǒu",
+          "gloss": "there was also"
+        },
+        {
+          "w": "一",
+          "py": "yì",
+          "gloss": "one"
+        },
+        {
+          "w": "张",
+          "py": "zhāng",
+          "gloss": "(measure word for flat things)"
+        },
+        {
+          "w": "纸条",
+          "py": "zhǐ tiáo",
+          "gloss": "note, slip of paper"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": ""
+        }
+      ]
+    },
+    {
+      "zh": "上面写着：“谢谢你读完了。现在，该你了。”",
+      "en": "It said: \"Thank you for finishing. Now it is your turn.\"",
+      "tokens": [
+        {
+          "w": "上面",
+          "py": "shàng mian",
+          "gloss": "on it"
+        },
+        {
+          "w": "写",
+          "py": "xiě",
+          "gloss": "written"
+        },
+        {
+          "w": "着",
+          "py": "zhe",
+          "gloss": "(state marker)"
+        },
+        {
+          "w": "：“",
+          "py": "",
+          "gloss": ""
+        },
+        {
+          "w": "谢谢",
+          "py": "xiè xie",
+          "gloss": "thank you"
+        },
+        {
+          "w": "你",
+          "py": "nǐ",
+          "gloss": "you"
+        },
+        {
+          "w": "读",
+          "py": "dú",
+          "gloss": "read"
+        },
+        {
+          "w": "完",
+          "py": "wán",
+          "gloss": "finished"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(completed)"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": ""
+        },
+        {
+          "w": "现在",
+          "py": "xiàn zài",
+          "gloss": "now"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": ""
+        },
+        {
+          "w": "该",
+          "py": "gāi",
+          "gloss": "it's the turn of"
+        },
+        {
+          "w": "你",
+          "py": "nǐ",
+          "gloss": "you"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(change of state)"
+        },
+        {
+          "w": "。”",
+          "py": "",
+          "gloss": ""
+        }
+      ]
+    },
+    {
+      "zh": "李明笑了。",
+      "en": "Li Ming smiled.",
+      "tokens": [
+        {
+          "w": "李明",
+          "py": "Lǐ Míng",
+          "gloss": "Li Ming"
+        },
+        {
+          "w": "笑",
+          "py": "xiào",
+          "gloss": "smiled"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(completed)"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": ""
+        }
+      ]
+    },
+    {
+      "zh": "他找到一张纸条，写下同样的话，放进了别的书里。",
+      "en": "He found a piece of paper, wrote the same words on it, and slipped it into a different book.",
+      "tokens": [
+        {
+          "w": "他",
+          "py": "tā",
+          "gloss": "he"
+        },
+        {
+          "w": "找到",
+          "py": "zhǎo dào",
+          "gloss": "found"
+        },
+        {
+          "w": "一",
+          "py": "yì",
+          "gloss": "one"
+        },
+        {
+          "w": "张",
+          "py": "zhāng",
+          "gloss": "(measure word for flat things)"
+        },
+        {
+          "w": "纸条",
+          "py": "zhǐ tiáo",
+          "gloss": "note, slip of paper"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": ""
+        },
+        {
+          "w": "写",
+          "py": "xiě",
+          "gloss": "wrote"
+        },
+        {
+          "w": "下",
+          "py": "xià",
+          "gloss": "down"
+        },
+        {
+          "w": "同样",
+          "py": "tóng yàng",
+          "gloss": "the same"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(possessive)"
+        },
+        {
+          "w": "话",
+          "py": "huà",
+          "gloss": "words"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": ""
+        },
+        {
+          "w": "放",
+          "py": "fàng",
+          "gloss": "put"
+        },
+        {
+          "w": "进",
+          "py": "jìn",
+          "gloss": "into"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(completed)"
+        },
+        {
+          "w": "别的",
+          "py": "bié de",
+          "gloss": "another"
+        },
+        {
+          "w": "书",
+          "py": "shū",
+          "gloss": "book"
+        },
+        {
+          "w": "里",
+          "py": "lǐ",
+          "gloss": "inside"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": ""
+        }
+      ]
+    },
+    {
+      "zh": "一个月以后，他又去了图书馆。",
+      "en": "A month later he went back to the library.",
+      "tokens": [
+        {
+          "w": "一",
+          "py": "yí",
+          "gloss": "one"
+        },
+        {
+          "w": "个",
+          "py": "gè",
+          "gloss": "(measure word)"
+        },
+        {
+          "w": "月",
+          "py": "yuè",
+          "gloss": "month"
+        },
+        {
+          "w": "以后",
+          "py": "yǐ hòu",
+          "gloss": "later"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": ""
+        },
+        {
+          "w": "他",
+          "py": "tā",
+          "gloss": "he"
+        },
+        {
+          "w": "又",
+          "py": "yòu",
+          "gloss": "again"
+        },
+        {
+          "w": "去",
+          "py": "qù",
+          "gloss": "went to"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(completed)"
+        },
+        {
+          "w": "图书馆",
+          "py": "tú shū guǎn",
+          "gloss": "library"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": ""
+        }
+      ]
+    },
+    {
+      "zh": "图书馆里很安静。",
+      "en": "The library was very quiet.",
+      "tokens": [
+        {
+          "w": "图书馆",
+          "py": "tú shū guǎn",
+          "gloss": "library"
+        },
+        {
+          "w": "里",
+          "py": "lǐ",
+          "gloss": "inside"
+        },
+        {
+          "w": "很",
+          "py": "hěn",
+          "gloss": "very"
+        },
+        {
+          "w": "安静",
+          "py": "ān jìng",
+          "gloss": "quiet"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": ""
+        }
+      ]
+    },
+    {
+      "zh": "他看见一个女生坐在旁边看书。",
+      "en": "He saw a girl sitting nearby, reading.",
+      "tokens": [
+        {
+          "w": "他",
+          "py": "tā",
+          "gloss": "he"
+        },
+        {
+          "w": "看见",
+          "py": "kàn jiàn",
+          "gloss": "saw"
+        },
+        {
+          "w": "一",
+          "py": "yí",
+          "gloss": "a"
+        },
+        {
+          "w": "个",
+          "py": "gè",
+          "gloss": "(measure word)"
+        },
+        {
+          "w": "女生",
+          "py": "nǚ shēng",
+          "gloss": "girl"
+        },
+        {
+          "w": "坐",
+          "py": "zuò",
+          "gloss": "sitting"
+        },
+        {
+          "w": "在",
+          "py": "zài",
+          "gloss": "at"
+        },
+        {
+          "w": "旁边",
+          "py": "páng biān",
+          "gloss": "nearby"
+        },
+        {
+          "w": "看书",
+          "py": "kàn shū",
+          "gloss": "reading"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": ""
+        }
+      ]
+    },
+    {
+      "zh": "她手里拿着一本书，正在看一张纸条。",
+      "en": "She was holding a book and looking at a slip of paper.",
+      "tokens": [
+        {
+          "w": "她",
+          "py": "tā",
+          "gloss": "she"
+        },
+        {
+          "w": "手里",
+          "py": "shǒu lǐ",
+          "gloss": "in her hand"
+        },
+        {
+          "w": "拿",
+          "py": "ná",
+          "gloss": "holding"
+        },
+        {
+          "w": "着",
+          "py": "zhe",
+          "gloss": "(state marker)"
+        },
+        {
+          "w": "一",
+          "py": "yì",
+          "gloss": "one"
+        },
+        {
+          "w": "本",
+          "py": "běn",
+          "gloss": "(measure word for books)"
+        },
+        {
+          "w": "书",
+          "py": "shū",
+          "gloss": "book"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": ""
+        },
+        {
+          "w": "正在",
+          "py": "zhèng zài",
+          "gloss": "(in progress)"
+        },
+        {
+          "w": "看",
+          "py": "kàn",
+          "gloss": "looking at"
+        },
+        {
+          "w": "一",
+          "py": "yì",
+          "gloss": "one"
+        },
+        {
+          "w": "张",
+          "py": "zhāng",
+          "gloss": "(measure word for flat things)"
+        },
+        {
+          "w": "纸条",
+          "py": "zhǐ tiáo",
+          "gloss": "note, slip of paper"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": ""
+        }
+      ]
+    },
+    {
+      "zh": "她笑了，笑得和李明那天晚上一样。",
+      "en": "She smiled — the same way Li Ming had smiled that night.",
+      "tokens": [
+        {
+          "w": "她",
+          "py": "tā",
+          "gloss": "she"
+        },
+        {
+          "w": "笑",
+          "py": "xiào",
+          "gloss": "smiled"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(completed)"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": ""
+        },
+        {
+          "w": "笑",
+          "py": "xiào",
+          "gloss": "smiled"
+        },
+        {
+          "w": "得",
+          "py": "de",
+          "gloss": "(manner marker)"
+        },
+        {
+          "w": "和",
+          "py": "hé",
+          "gloss": "as"
+        },
+        {
+          "w": "李明",
+          "py": "Lǐ Míng",
+          "gloss": "Li Ming"
+        },
+        {
+          "w": "那天",
+          "py": "nà tiān",
+          "gloss": "that day"
+        },
+        {
+          "w": "晚上",
+          "py": "wǎn shang",
+          "gloss": "evening"
+        },
+        {
+          "w": "一样",
+          "py": "yí yàng",
+          "gloss": "the same"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": ""
+        }
+      ]
+    },
+    {
+      "zh": "李明没有告诉她那张纸条是他写的。",
+      "en": "Li Ming did not tell her that he had written it.",
+      "tokens": [
+        {
+          "w": "李明",
+          "py": "Lǐ Míng",
+          "gloss": "Li Ming"
+        },
+        {
+          "w": "没有",
+          "py": "méi yǒu",
+          "gloss": "did not"
+        },
+        {
+          "w": "告诉",
+          "py": "gào su",
+          "gloss": "tell"
+        },
+        {
+          "w": "她",
+          "py": "tā",
+          "gloss": "her"
+        },
+        {
+          "w": "那",
+          "py": "nà",
+          "gloss": "that"
+        },
+        {
+          "w": "张",
+          "py": "zhāng",
+          "gloss": "(measure word for flat things)"
+        },
+        {
+          "w": "纸条",
+          "py": "zhǐ tiáo",
+          "gloss": "note, slip of paper"
+        },
+        {
+          "w": "是",
+          "py": "shì",
+          "gloss": "was"
+        },
+        {
+          "w": "他",
+          "py": "tā",
+          "gloss": "he"
+        },
+        {
+          "w": "写",
+          "py": "xiě",
+          "gloss": "wrote"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(nominaliser)"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": ""
+        }
+      ]
+    },
+    {
+      "zh": "他只是拿起一本新的小说，坐下来，开始读。",
+      "en": "He simply picked up a new novel, sat down, and started reading.",
+      "tokens": [
+        {
+          "w": "他",
+          "py": "tā",
+          "gloss": "he"
+        },
+        {
+          "w": "只是",
+          "py": "zhǐ shì",
+          "gloss": "simply"
+        },
+        {
+          "w": "拿",
+          "py": "ná",
+          "gloss": "picked"
+        },
+        {
+          "w": "起",
+          "py": "qǐ",
+          "gloss": "up"
+        },
+        {
+          "w": "一",
+          "py": "yì",
+          "gloss": "one"
+        },
+        {
+          "w": "本",
+          "py": "běn",
+          "gloss": "(measure word for books)"
+        },
+        {
+          "w": "新",
+          "py": "xīn",
+          "gloss": "new"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(nominaliser)"
+        },
+        {
+          "w": "小说",
+          "py": "xiǎo shuō",
+          "gloss": "novel"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": ""
+        },
+        {
+          "w": "坐下",
+          "py": "zuò xià",
+          "gloss": "sat down"
+        },
+        {
+          "w": "来",
+          "py": "lái",
+          "gloss": "(toward)"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": ""
+        },
+        {
+          "w": "开始",
+          "py": "kāi shǐ",
+          "gloss": "started"
+        },
+        {
+          "w": "读",
+          "py": "dú",
+          "gloss": "reading"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": ""
+        }
+      ]
+    }
+  ],
+  "new_words": [
+    {
+      "w": "李明",
+      "py": "Lǐ Míng",
+      "gloss": "Li Ming (a common male given name)"
+    },
+    {
+      "w": "纸条",
+      "py": "zhǐ tiáo",
+      "gloss": "a note, a slip of paper"
+    },
+    {
+      "w": "手里",
+      "py": "shǒu lǐ",
+      "gloss": "in (one’s) hand"
+    }
+  ],
+  "grammar_points": [
+    {
+      "pattern": "把 + object + verb + result",
+      "explanation_en": "The 把 construction moves the object in front of the verb to say what was *done to* it. The verb must have a result attached — 把书介绍给别人 (\"recommend the book to someone\"), never a bare 把书介绍.",
+      "example_zh": "请把门关上。",
+      "example_en": "Please close the door."
+    },
+    {
+      "pattern": "verb + 着",
+      "explanation_en": "着 after a verb describes an ongoing state rather than an action: 写着 is \"has writing on it\", 拿着 is \"is holding\". Compare 正在看 (\"is in the middle of reading\"), which is an action in progress.",
+      "example_zh": "门开着，灯也开着。",
+      "example_en": "The door is open and the light is on."
+    },
+    {
+      "pattern": "本来…可是…",
+      "explanation_en": "本来 sets up what someone originally intended or assumed, and the clause after 可是 says what actually happened instead.",
+      "example_zh": "我本来想走路去，可是外面下雨了。",
+      "example_en": "I had meant to walk, but it started raining."
+    }
+  ],
+  "questions": [
+    {
+      "q_zh": "李明为什么借那本小说？",
+      "q_en": "Why does Li Ming borrow that novel?",
+      "answer_en": "A teacher required the class to read one, and it was the shortest book he could find."
+    },
+    {
+      "q_zh": "纸上写的是什么？",
+      "q_en": "What is written on the note?",
+      "answer_en": "A request to pass the book on to someone else once you have finished it."
+    },
+    {
+      "q_zh": "一个月以后，李明在图书馆看见了什么？",
+      "q_en": "What does Li Ming see at the library a month later?",
+      "answer_en": "A girl holding a book and reading a note, smiling the way he had smiled that night — his own note had reached someone."
+    }
+  ]
+}

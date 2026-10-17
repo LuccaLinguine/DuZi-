@@ -1,0 +1,604 @@
+{
+  "id": "20261017-newbie-where-is-my-phone",
+  "series_id": null,
+  "chapter": null,
+  "topic": "Daily life",
+  "format": "story",
+  "created_at": "2026-10-17",
+  "title_zh": "手机在哪儿",
+  "title_en": "Where Is My Phone",
+  "summary_en": "A student tears the house apart looking for her phone before school. Her mother finds it in one call — and in the last place she would have looked.",
+  "level": "newbie",
+  "sentences": [
+    {
+      "zh": "今天早上，我要去学校。",
+      "en": "This morning I had to go to school.",
+      "tokens": [
+        {
+          "w": "今天",
+          "py": "jīn tiān",
+          "gloss": "today"
+        },
+        {
+          "w": "早上",
+          "py": "zǎo shang",
+          "gloss": "morning"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": ""
+        },
+        {
+          "w": "我",
+          "py": "wǒ",
+          "gloss": "I"
+        },
+        {
+          "w": "要",
+          "py": "yào",
+          "gloss": "have to"
+        },
+        {
+          "w": "去",
+          "py": "qù",
+          "gloss": "go to"
+        },
+        {
+          "w": "学校",
+          "py": "xué xiào",
+          "gloss": "school"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": ""
+        }
+      ]
+    },
+    {
+      "zh": "我没有手机。",
+      "en": "I didn't have my phone.",
+      "tokens": [
+        {
+          "w": "我",
+          "py": "wǒ",
+          "gloss": "I"
+        },
+        {
+          "w": "没有",
+          "py": "méi yǒu",
+          "gloss": "don't have"
+        },
+        {
+          "w": "手机",
+          "py": "shǒu jī",
+          "gloss": "phone"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": ""
+        }
+      ]
+    },
+    {
+      "zh": "我在家里找。",
+      "en": "I looked all over the house.",
+      "tokens": [
+        {
+          "w": "我",
+          "py": "wǒ",
+          "gloss": "I"
+        },
+        {
+          "w": "在",
+          "py": "zài",
+          "gloss": "in"
+        },
+        {
+          "w": "家里",
+          "py": "jiā lǐ",
+          "gloss": "the house"
+        },
+        {
+          "w": "找",
+          "py": "zhǎo",
+          "gloss": "looked for it"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": ""
+        }
+      ]
+    },
+    {
+      "zh": "桌子上没有，床上也没有。",
+      "en": "Not on the table, and not on the bed either.",
+      "tokens": [
+        {
+          "w": "桌子",
+          "py": "zhuō zi",
+          "gloss": "table"
+        },
+        {
+          "w": "上",
+          "py": "shàng",
+          "gloss": "on"
+        },
+        {
+          "w": "没有",
+          "py": "méi yǒu",
+          "gloss": "not there"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": ""
+        },
+        {
+          "w": "床",
+          "py": "chuáng",
+          "gloss": "bed"
+        },
+        {
+          "w": "上",
+          "py": "shàng",
+          "gloss": "on"
+        },
+        {
+          "w": "也",
+          "py": "yě",
+          "gloss": "also"
+        },
+        {
+          "w": "没有",
+          "py": "méi yǒu",
+          "gloss": "not there"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": ""
+        }
+      ]
+    },
+    {
+      "zh": "我问妈妈：“你看见我的手机了吗？”",
+      "en": "I asked my mother, \"Have you seen my phone?\"",
+      "tokens": [
+        {
+          "w": "我",
+          "py": "wǒ",
+          "gloss": "I"
+        },
+        {
+          "w": "问",
+          "py": "wèn",
+          "gloss": "asked"
+        },
+        {
+          "w": "妈妈",
+          "py": "mā ma",
+          "gloss": "mum"
+        },
+        {
+          "w": "：“",
+          "py": "",
+          "gloss": ""
+        },
+        {
+          "w": "你",
+          "py": "nǐ",
+          "gloss": "you"
+        },
+        {
+          "w": "看见",
+          "py": "kàn jiàn",
+          "gloss": "have seen"
+        },
+        {
+          "w": "我",
+          "py": "wǒ",
+          "gloss": "my"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "of"
+        },
+        {
+          "w": "手机",
+          "py": "shǒu jī",
+          "gloss": "phone"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(completed)"
+        },
+        {
+          "w": "吗",
+          "py": "ma",
+          "gloss": "(question)"
+        },
+        {
+          "w": "？”",
+          "py": "",
+          "gloss": ""
+        }
+      ]
+    },
+    {
+      "zh": "妈妈说：“没有。你的手机在书包里吗？”",
+      "en": "Mum said, \"No. Is it in your school bag?\"",
+      "tokens": [
+        {
+          "w": "妈妈",
+          "py": "mā ma",
+          "gloss": "mum"
+        },
+        {
+          "w": "说",
+          "py": "shuō",
+          "gloss": "said"
+        },
+        {
+          "w": "：“",
+          "py": "",
+          "gloss": ""
+        },
+        {
+          "w": "没有",
+          "py": "méi yǒu",
+          "gloss": "no"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": ""
+        },
+        {
+          "w": "你",
+          "py": "nǐ",
+          "gloss": "your"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "of"
+        },
+        {
+          "w": "手机",
+          "py": "shǒu jī",
+          "gloss": "phone"
+        },
+        {
+          "w": "在",
+          "py": "zài",
+          "gloss": "in"
+        },
+        {
+          "w": "书包",
+          "py": "shū bāo",
+          "gloss": "school bag"
+        },
+        {
+          "w": "里",
+          "py": "lǐ",
+          "gloss": "inside"
+        },
+        {
+          "w": "吗",
+          "py": "ma",
+          "gloss": "(question)"
+        },
+        {
+          "w": "？”",
+          "py": "",
+          "gloss": ""
+        }
+      ]
+    },
+    {
+      "zh": "书包里也没有。",
+      "en": "It wasn't in the school bag either.",
+      "tokens": [
+        {
+          "w": "书包",
+          "py": "shū bāo",
+          "gloss": "school bag"
+        },
+        {
+          "w": "里",
+          "py": "lǐ",
+          "gloss": "inside"
+        },
+        {
+          "w": "也",
+          "py": "yě",
+          "gloss": "also"
+        },
+        {
+          "w": "没有",
+          "py": "méi yǒu",
+          "gloss": "not there"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": ""
+        }
+      ]
+    },
+    {
+      "zh": "现在是八点，我要上课。",
+      "en": "It was already eight, and I had class.",
+      "tokens": [
+        {
+          "w": "现在",
+          "py": "xiàn zài",
+          "gloss": "now"
+        },
+        {
+          "w": "是",
+          "py": "shì",
+          "gloss": "is"
+        },
+        {
+          "w": "八",
+          "py": "bā",
+          "gloss": "eight"
+        },
+        {
+          "w": "点",
+          "py": "diǎn",
+          "gloss": "o'clock"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": ""
+        },
+        {
+          "w": "我",
+          "py": "wǒ",
+          "gloss": "I"
+        },
+        {
+          "w": "要",
+          "py": "yào",
+          "gloss": "have to"
+        },
+        {
+          "w": "上课",
+          "py": "shàng kè",
+          "gloss": "go to class"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": ""
+        }
+      ]
+    },
+    {
+      "zh": "我不高兴。",
+      "en": "I was not happy.",
+      "tokens": [
+        {
+          "w": "我",
+          "py": "wǒ",
+          "gloss": "I"
+        },
+        {
+          "w": "不",
+          "py": "bù",
+          "gloss": "not"
+        },
+        {
+          "w": "高兴",
+          "py": "gāo xìng",
+          "gloss": "happy"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": ""
+        }
+      ]
+    },
+    {
+      "zh": "妈妈给我的手机打电话。",
+      "en": "Mum called my phone.",
+      "tokens": [
+        {
+          "w": "妈妈",
+          "py": "mā ma",
+          "gloss": "mum"
+        },
+        {
+          "w": "给",
+          "py": "gěi",
+          "gloss": "to"
+        },
+        {
+          "w": "我",
+          "py": "wǒ",
+          "gloss": "my"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "of"
+        },
+        {
+          "w": "手机",
+          "py": "shǒu jī",
+          "gloss": "phone"
+        },
+        {
+          "w": "打电话",
+          "py": "dǎ diàn huà",
+          "gloss": "made a call"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": ""
+        }
+      ]
+    },
+    {
+      "zh": "我听见了！",
+      "en": "I heard it!",
+      "tokens": [
+        {
+          "w": "我",
+          "py": "wǒ",
+          "gloss": "I"
+        },
+        {
+          "w": "听见",
+          "py": "tīng jiàn",
+          "gloss": "heard"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(completed)"
+        },
+        {
+          "w": "！",
+          "py": "",
+          "gloss": ""
+        }
+      ]
+    },
+    {
+      "zh": "手机在我的衣服里。",
+      "en": "The phone was in my clothes.",
+      "tokens": [
+        {
+          "w": "手机",
+          "py": "shǒu jī",
+          "gloss": "phone"
+        },
+        {
+          "w": "在",
+          "py": "zài",
+          "gloss": "in"
+        },
+        {
+          "w": "我",
+          "py": "wǒ",
+          "gloss": "my"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "of"
+        },
+        {
+          "w": "衣服",
+          "py": "yī fu",
+          "gloss": "clothes"
+        },
+        {
+          "w": "里",
+          "py": "lǐ",
+          "gloss": "inside"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": ""
+        }
+      ]
+    },
+    {
+      "zh": "我笑了，妈妈也笑了。",
+      "en": "I laughed. Mum laughed too.",
+      "tokens": [
+        {
+          "w": "我",
+          "py": "wǒ",
+          "gloss": "I"
+        },
+        {
+          "w": "笑",
+          "py": "xiào",
+          "gloss": "laughed"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(completed)"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": ""
+        },
+        {
+          "w": "妈妈",
+          "py": "mā ma",
+          "gloss": "mum"
+        },
+        {
+          "w": "也",
+          "py": "yě",
+          "gloss": "also"
+        },
+        {
+          "w": "笑",
+          "py": "xiào",
+          "gloss": "laughed"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(completed)"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": ""
+        }
+      ]
+    }
+  ],
+  "new_words": [],
+  "grammar_points": [
+    {
+      "pattern": "在 + place + 里 / 上",
+      "explanation_en": "To say where something is, put 在 before the place and 里 (\"inside\") or 上 (\"on top of\") after it. Chinese needs that second word — 在书包 on its own sounds unfinished.",
+      "example_zh": "我的钱在桌子上。",
+      "example_en": "My money is on the table."
+    },
+    {
+      "pattern": "A 也 + verb",
+      "explanation_en": "也 means \"also\" and always goes before the verb, never at the end of the sentence the way English \"too\" does.",
+      "example_zh": "他是学生，我也是学生。",
+      "example_en": "He is a student, and I am a student too."
+    }
+  ],
+  "questions": [
+    {
+      "q_zh": "今天早上她要去哪儿？",
+      "q_en": "Where does she have to go this morning?",
+      "answer_en": "To school — she has class at eight."
+    },
+    {
+      "q_zh": "谁给她的手机打电话？",
+      "q_en": "Who calls her phone?",
+      "answer_en": "Her mother."
+    },
+    {
+      "q_zh": "手机在哪里？",
+      "q_en": "Where is the phone?",
+      "answer_en": "In her clothes — she was carrying it the whole time."
+    }
+  ]
+}
