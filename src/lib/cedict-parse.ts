@@ -120,3 +120,21 @@ export function unpackEntry(p: PackedEntry): DictEntry {
 export function primaryEntry(word: string, entries: readonly DictEntry[]): DictEntry | undefined {
   return entries.find((e) => e.trad === word) ?? entries[0];
 }
+
+/**
+ * Best-effort pinyin for a word: its own primary CC-CEDICT entry if it has
+ * one, or — for a transparent compound CC-CEDICT doesn't carry as a headword
+ * in its own right (我家, 星期六) — each character's primary reading joined
+ * together. `dict` must already cover both the word and its characters.
+ * Used where a rough reading is good enough (profile export); anywhere
+ * context matters, the story's own token pinyin is used instead.
+ */
+export function bestEffortPinyin(word: string, dict: ReadonlyMap<string, DictEntry[]>): string {
+  const whole = primaryEntry(word, dict.get(word) ?? []);
+  if (whole) return whole.py;
+
+  const chars = [...word];
+  if (chars.length < 2) return '';
+  const readings = chars.map((c) => primaryEntry(c, dict.get(c) ?? [])?.py);
+  return readings.every((p): p is string => Boolean(p)) ? readings.join(' ') : '';
+}

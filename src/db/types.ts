@@ -28,9 +28,16 @@ export interface StoryRow {
   source: 'bundled' | 'imported' | 'pasted';
   /**
    * Set when a bundled story disappears from the manifest. The row (and all
-   * progress against it) is kept; the library just hides it.
+   * progress against it) is kept; the library just hides it. Driven entirely
+   * by content sync — never set this by hand, see `userRemoved` for that.
    */
   hidden?: boolean;
+  /**
+   * Set by swiping a card away in the Library (spec §7). Independent of
+   * `hidden`: a bundled story stays in every future manifest, so if removal
+   * also flipped `hidden`, the next sync would "restore" it right back.
+   */
+  userRemoved?: boolean;
 }
 
 /** Per-story reading progress; never deleted by a content sync. */

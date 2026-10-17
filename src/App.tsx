@@ -7,6 +7,7 @@ import { Library } from './screens/Library.tsx';
 import { Reader } from './screens/Reader.tsx';
 import { Onboarding } from './screens/Onboarding.tsx';
 import { Placeholder } from './screens/Placeholder.tsx';
+import { Requests } from './screens/Requests.tsx';
 import { Settings } from './screens/Settings.tsx';
 import { useSettings } from './hooks/useSettings.ts';
 import { useContentSync, syncMessage } from './hooks/useContentSync.ts';
@@ -85,14 +86,7 @@ export function App() {
     <div className="flex h-full flex-col">
       <main className="flex min-h-0 flex-1 flex-col">
         {tab === 'library' && <Library onGoTo={setTab} onOpenStory={setOpenStoryId} />}
-        {tab === 'requests' && (
-          <Placeholder
-            title="Requests"
-            icon="请"
-            phase="Phase 4"
-            body="Queue the stories you want, then export your profile to the Mac. Until then, the sample stories ship with the app."
-          />
-        )}
+        {tab === 'requests' && <Requests defaultLevel={settings.defaultLevel} />}
         {tab === 'review' && (
           <Placeholder
             title="Review"

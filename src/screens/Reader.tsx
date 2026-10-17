@@ -23,6 +23,7 @@ import { useSentencePlayer } from '../hooks/useSentencePlayer.ts';
 import { WordSheet, type WordSelection } from '../components/WordSheet.tsx';
 import { ConfirmDialog } from '../components/ConfirmDialog.tsx';
 import { PlayerBar, SPEEDS } from '../components/PlayerBar.tsx';
+import { addRequest } from '../db/requests.ts';
 
 interface Props {
   storyId: string;
@@ -618,8 +619,53 @@ function EndOfStory({
           Read{untappedCount === 0 ? '' : ` · ${untappedCount} word${untappedCount === 1 ? '' : 's'} not tapped this time`}
         </p>
       )}
+
+      <RequestMoreSection story={story} />
+
       <div className="h-10" />
     </div>
+  );
+}
+
+/** "Request next chapter" / "Request more like this" (spec §5, end of story). */
+function RequestMoreSection({ story }: { story: Story }) {
+  const [requested, setRequested] = useState<'chapter' | 'more' | null>(null);
+
+  const request = (kind: 'chapter' | 'more') => {
+    void addRequest({
+      level: story.level,
+      topic: story.topic,
+      format: story.format,
+      count: 1,
+      seriesId: kind === 'chapter' ? story.series_id : null,
+    }).then(() => setRequested(kind));
+  };
+
+  return (
+    <div className="mt-6 flex flex-wrap gap-2 border-t pt-6" style={{ borderColor: 'var(--border)' }}>
+      {story.series_id && (
+        <RequestButton
+          label="Request next chapter"
+          done={requested === 'chapter'}
+          onClick={() => request('chapter')}
+        />
+      )}
+      <RequestButton label="Request more like this" done={requested === 'more'} onClick={() => request('more')} />
+    </div>
+  );
+}
+
+function RequestButton({ label, done, onClick }: { label: string; done: boolean; onClick: () => void }) {
+  return (
+    <button
+      type="button"
+      onClick={onClick}
+      disabled={done}
+      className="tap rounded-lg border px-3 text-[13px] font-medium disabled:opacity-60"
+      style={{ borderColor: 'var(--border)', color: done ? 'var(--ok)' : 'var(--ink-2)' }}
+    >
+      {done ? '✓ Added to queue' : label}
+    </button>
   );
 }
 

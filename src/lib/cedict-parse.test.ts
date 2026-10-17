@@ -6,6 +6,7 @@ import {
   packEntry,
   unpackEntry,
   primaryEntry,
+  bestEffortPinyin,
   CEDICT_SHARDS,
 } from './cedict-parse.ts';
 
@@ -110,5 +111,29 @@ describe('primaryEntry', () => {
 
   it('returns undefined for no entries', () => {
     expect(primaryEntry('家', [])).toBeUndefined();
+  });
+});
+
+describe('bestEffortPinyin', () => {
+  it('uses the whole word\'s own entry when it has one', () => {
+    const dict = new Map([['你好', [{ trad: '你好', py: 'nǐ hǎo', defs: ['hello'] }]]]);
+    expect(bestEffortPinyin('你好', dict)).toBe('nǐ hǎo');
+  });
+
+  it('falls back to joining per-character readings for a transparent compound', () => {
+    const dict = new Map([
+      ['我', [{ trad: '我', py: 'wǒ', defs: ['I'] }]],
+      ['家', [{ trad: '家', py: 'jiā', defs: ['home'] }]],
+    ]);
+    expect(bestEffortPinyin('我家', dict)).toBe('wǒ jiā');
+  });
+
+  it('gives up if any character has no reading', () => {
+    const dict = new Map([['我', [{ trad: '我', py: 'wǒ', defs: ['I'] }]]]);
+    expect(bestEffortPinyin('我龘', dict)).toBe('');
+  });
+
+  it('returns empty for an unresolvable single character', () => {
+    expect(bestEffortPinyin('龘', new Map())).toBe('');
   });
 });

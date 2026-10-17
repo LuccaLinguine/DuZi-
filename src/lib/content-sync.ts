@@ -13,6 +13,7 @@ import type { Story, StoryManifest, StoryManifestEntry } from './story-schema.ts
 import { validateStoryShape, asStory } from './story-schema.ts';
 import { tokensJoinTo } from './segment.ts';
 import { countChineseChars, isWordToken } from './text.ts';
+import { applyRequestFulfillment } from './request-match.ts';
 import type { DuziDB } from '../db/index.ts';
 import type { StoryRow, WordRow } from '../db/types.ts';
 
@@ -189,7 +190,13 @@ export async function applySync(
       if (story.id !== entry.id) {
         throw new StoryRejected(story.id, [`id does not match the manifest entry ${entry.id}`]);
       }
-      rows.push(toStoryRow(story, entry));
+      const row = toStoryRow(story, entry);
+      // A content correction (hash changed) must not silently bring back a
+      // story the learner explicitly swiped away — `toStoryRow` builds a
+      // fresh row with no memory of that, so carry it forward by hand.
+      const existingRow = await db.stories.get(entry.id);
+      if (existingRow?.userRemoved) row.userRemoved = true;
+      rows.push(row);
       for (const w of storyWords(story)) words.add(w);
     } catch (err) {
       const issues =
@@ -199,7 +206,7 @@ export async function applySync(
     }
   }
 
-  await db.transaction('rw', db.stories, db.words, async () => {
+  await db.transaction('rw', db.stories, db.words, db.requests, async () => {
     if (rows.length > 0) {
       // `put` keeps the row's id, so progress (keyed on storyId) is untouched.
       await db.stories.bulkPut(rows);
@@ -219,6 +226,17 @@ export async function applySync(
       if (missing.length > 0) {
         await db.words.bulkAdd(newWordRows(missing));
         result.newWords = missing.length;
+      }
+    }
+
+    // A fresh or corrected story can satisfy a queued request (spec §4:
+    // "Requests are marked done automatically once matching stories arrive").
+    if (rows.length > 0) {
+      const queued = await db.requests.where('status').equals('queued').toArray();
+      if (queued.length > 0) {
+        const matched = applyRequestFulfillment(queued, rows, Date.now());
+        const changed = matched.filter((r, i) => r !== queued[i]);
+        if (changed.length > 0) await db.requests.bulkPut(changed);
       }
     }
   });
