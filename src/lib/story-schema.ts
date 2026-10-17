@@ -11,6 +11,19 @@ import { isLevelId } from './levels.ts';
 
 export type StoryFormat = 'story' | 'dialogue' | 'article';
 
+/**
+ * Grammatical function, for the reader's optional colour-by-part-of-speech
+ * mode (Settings). Deliberately coarse — eight categories chosen to match a
+ * validated 8-slot CVD-safe palette (see lib/pos-colors.ts), not a full
+ * linguistic tagset. `conn` covers both prepositions and conjunctions, and
+ * `quant` covers both numerals and measure words, since splitting either
+ * pair further would need a 9th-10th colour slot without much pedagogical
+ * payoff for a learner just starting to parse sentence structure.
+ */
+export type Pos = 'noun' | 'verb' | 'adj' | 'adv' | 'pron' | 'quant' | 'part' | 'conn';
+
+export const POS_TAGS: Pos[] = ['noun', 'verb', 'adj', 'adv', 'pron', 'quant', 'part', 'conn'];
+
 export interface Token {
   /** The word, or a run of punctuation. */
   w: string;
@@ -18,6 +31,8 @@ export interface Token {
   py: string;
   /** Short English meaning in this context; "" for punctuation. */
   gloss: string;
+  /** Grammatical function in this sentence; "" for punctuation. */
+  pos: Pos | '';
 }
 
 export interface Sentence {
@@ -249,10 +264,16 @@ function validateSentence(s: unknown, path: string, issues: SchemaIssue[]): void
       return;
     }
     checkString(t.w, `${p}.w`, issues);
-    // py/gloss are legitimately "" for punctuation; the content checks in
+    // py/gloss/pos are legitimately "" for punctuation; the content checks in
     // validate-stories.ts enforce non-empty for real words.
     checkString(t.py, `${p}.py`, issues, { allowEmpty: true });
     checkString(t.gloss, `${p}.gloss`, issues, { allowEmpty: true });
+    if (t.pos !== '' && !POS_TAGS.includes(t.pos as Pos)) {
+      issues.push({
+        path: `${p}.pos`,
+        message: `expected "" or one of ${POS_TAGS.join(' | ')}, got ${JSON.stringify(t.pos)}`,
+      });
+    }
   });
 }
 

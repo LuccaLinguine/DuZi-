@@ -17,42 +17,50 @@
         {
           "w": "今天",
           "py": "jīn tiān",
-          "gloss": "today"
+          "gloss": "today",
+          "pos": "noun"
         },
         {
           "w": "早上",
           "py": "zǎo shang",
-          "gloss": "morning"
+          "gloss": "morning",
+          "pos": "noun"
         },
         {
           "w": "，",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         },
         {
           "w": "我",
           "py": "wǒ",
-          "gloss": "I"
+          "gloss": "I",
+          "pos": "pron"
         },
         {
           "w": "要",
           "py": "yào",
-          "gloss": "have to"
+          "gloss": "have to",
+          "pos": "verb"
         },
         {
           "w": "去",
           "py": "qù",
-          "gloss": "go to"
+          "gloss": "go to",
+          "pos": "verb"
         },
         {
           "w": "学校",
           "py": "xué xiào",
-          "gloss": "school"
+          "gloss": "school",
+          "pos": "noun"
         },
         {
           "w": "。",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         }
       ]
     },
@@ -63,22 +71,26 @@
         {
           "w": "我",
           "py": "wǒ",
-          "gloss": "I"
+          "gloss": "I",
+          "pos": "pron"
         },
         {
           "w": "没有",
           "py": "méi yǒu",
-          "gloss": "don't have"
+          "gloss": "don't have",
+          "pos": "verb"
         },
         {
           "w": "手机",
           "py": "shǒu jī",
-          "gloss": "phone"
+          "gloss": "phone",
+          "pos": "noun"
         },
         {
           "w": "。",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         }
       ]
     },
@@ -89,27 +101,32 @@
         {
           "w": "我",
           "py": "wǒ",
-          "gloss": "I"
+          "gloss": "I",
+          "pos": "pron"
         },
         {
           "w": "在",
           "py": "zài",
-          "gloss": "in"
+          "gloss": "in",
+          "pos": "conn"
         },
         {
           "w": "家里",
           "py": "jiā lǐ",
-          "gloss": "the house"
+          "gloss": "the house",
+          "pos": "noun"
         },
         {
           "w": "找",
           "py": "zhǎo",
-          "gloss": "looked for it"
+          "gloss": "looked for it",
+          "pos": "verb"
         },
         {
           "w": "。",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         }
       ]
     },
@@ -120,47 +137,56 @@
         {
           "w": "桌子",
           "py": "zhuō zi",
-          "gloss": "table"
+          "gloss": "table",
+          "pos": "noun"
         },
         {
           "w": "上",
           "py": "shàng",
-          "gloss": "on"
+          "gloss": "on",
+          "pos": "conn"
         },
         {
           "w": "没有",
           "py": "méi yǒu",
-          "gloss": "not there"
+          "gloss": "not there",
+          "pos": "verb"
         },
         {
           "w": "，",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         },
         {
           "w": "床",
           "py": "chuáng",
-          "gloss": "bed"
+          "gloss": "bed",
+          "pos": "noun"
         },
         {
           "w": "上",
           "py": "shàng",
-          "gloss": "on"
+          "gloss": "on",
+          "pos": "conn"
         },
         {
           "w": "也",
           "py": "yě",
-          "gloss": "also"
+          "gloss": "also",
+          "pos": "adv"
         },
         {
           "w": "没有",
           "py": "méi yǒu",
-          "gloss": "not there"
+          "gloss": "not there",
+          "pos": "verb"
         },
         {
           "w": "。",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         }
       ]
     },
@@ -171,62 +197,74 @@
         {
           "w": "我",
           "py": "wǒ",
-          "gloss": "I"
+          "gloss": "I",
+          "pos": "pron"
         },
         {
           "w": "问",
           "py": "wèn",
-          "gloss": "asked"
+          "gloss": "asked",
+          "pos": "verb"
         },
         {
           "w": "妈妈",
           "py": "mā ma",
-          "gloss": "mum"
+          "gloss": "mum",
+          "pos": "noun"
         },
         {
           "w": "：“",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         },
         {
           "w": "你",
           "py": "nǐ",
-          "gloss": "you"
+          "gloss": "you",
+          "pos": "pron"
         },
         {
           "w": "看见",
           "py": "kàn jiàn",
-          "gloss": "have seen"
+          "gloss": "have seen",
+          "pos": "verb"
         },
         {
           "w": "我",
           "py": "wǒ",
-          "gloss": "my"
+          "gloss": "my",
+          "pos": "pron"
         },
         {
           "w": "的",
           "py": "de",
-          "gloss": "of"
+          "gloss": "of",
+          "pos": "part"
         },
         {
           "w": "手机",
           "py": "shǒu jī",
-          "gloss": "phone"
+          "gloss": "phone",
+          "pos": "noun"
         },
         {
           "w": "了",
           "py": "le",
-          "gloss": "(completed)"
+          "gloss": "(completed)",
+          "pos": "part"
         },
         {
           "w": "吗",
           "py": "ma",
-          "gloss": "(question)"
+          "gloss": "(question)",
+          "pos": "part"
         },
         {
           "w": "？”",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         }
       ]
     },
@@ -237,67 +275,80 @@
         {
           "w": "妈妈",
           "py": "mā ma",
-          "gloss": "mum"
+          "gloss": "mum",
+          "pos": "noun"
         },
         {
           "w": "说",
           "py": "shuō",
-          "gloss": "said"
+          "gloss": "said",
+          "pos": "verb"
         },
         {
           "w": "：“",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         },
         {
           "w": "没有",
           "py": "méi yǒu",
-          "gloss": "no"
+          "gloss": "no",
+          "pos": "verb"
         },
         {
           "w": "。",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         },
         {
           "w": "你",
           "py": "nǐ",
-          "gloss": "your"
+          "gloss": "your",
+          "pos": "pron"
         },
         {
           "w": "的",
           "py": "de",
-          "gloss": "of"
+          "gloss": "of",
+          "pos": "part"
         },
         {
           "w": "手机",
           "py": "shǒu jī",
-          "gloss": "phone"
+          "gloss": "phone",
+          "pos": "noun"
         },
         {
           "w": "在",
           "py": "zài",
-          "gloss": "in"
+          "gloss": "in",
+          "pos": "conn"
         },
         {
           "w": "书包",
           "py": "shū bāo",
-          "gloss": "school bag"
+          "gloss": "school bag",
+          "pos": "noun"
         },
         {
           "w": "里",
           "py": "lǐ",
-          "gloss": "inside"
+          "gloss": "inside",
+          "pos": "conn"
         },
         {
           "w": "吗",
           "py": "ma",
-          "gloss": "(question)"
+          "gloss": "(question)",
+          "pos": "part"
         },
         {
           "w": "？”",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         }
       ]
     },
@@ -308,27 +359,32 @@
         {
           "w": "书包",
           "py": "shū bāo",
-          "gloss": "school bag"
+          "gloss": "school bag",
+          "pos": "noun"
         },
         {
           "w": "里",
           "py": "lǐ",
-          "gloss": "inside"
+          "gloss": "inside",
+          "pos": "conn"
         },
         {
           "w": "也",
           "py": "yě",
-          "gloss": "also"
+          "gloss": "also",
+          "pos": "adv"
         },
         {
           "w": "没有",
           "py": "méi yǒu",
-          "gloss": "not there"
+          "gloss": "not there",
+          "pos": "verb"
         },
         {
           "w": "。",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         }
       ]
     },
@@ -339,47 +395,56 @@
         {
           "w": "现在",
           "py": "xiàn zài",
-          "gloss": "now"
+          "gloss": "now",
+          "pos": "noun"
         },
         {
           "w": "是",
           "py": "shì",
-          "gloss": "is"
+          "gloss": "is",
+          "pos": "verb"
         },
         {
           "w": "八",
           "py": "bā",
-          "gloss": "eight"
+          "gloss": "eight",
+          "pos": "quant"
         },
         {
           "w": "点",
           "py": "diǎn",
-          "gloss": "o'clock"
+          "gloss": "o'clock",
+          "pos": "quant"
         },
         {
           "w": "，",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         },
         {
           "w": "我",
           "py": "wǒ",
-          "gloss": "I"
+          "gloss": "I",
+          "pos": "pron"
         },
         {
           "w": "要",
           "py": "yào",
-          "gloss": "have to"
+          "gloss": "have to",
+          "pos": "verb"
         },
         {
           "w": "上课",
           "py": "shàng kè",
-          "gloss": "go to class"
+          "gloss": "go to class",
+          "pos": "verb"
         },
         {
           "w": "。",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         }
       ]
     },
@@ -390,22 +455,26 @@
         {
           "w": "我",
           "py": "wǒ",
-          "gloss": "I"
+          "gloss": "I",
+          "pos": "pron"
         },
         {
           "w": "不",
           "py": "bù",
-          "gloss": "not"
+          "gloss": "not",
+          "pos": "adv"
         },
         {
           "w": "高兴",
           "py": "gāo xìng",
-          "gloss": "happy"
+          "gloss": "happy",
+          "pos": "adj"
         },
         {
           "w": "。",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         }
       ]
     },
@@ -416,37 +485,44 @@
         {
           "w": "妈妈",
           "py": "mā ma",
-          "gloss": "mum"
+          "gloss": "mum",
+          "pos": "noun"
         },
         {
           "w": "给",
           "py": "gěi",
-          "gloss": "to"
+          "gloss": "to",
+          "pos": "verb"
         },
         {
           "w": "我",
           "py": "wǒ",
-          "gloss": "my"
+          "gloss": "my",
+          "pos": "pron"
         },
         {
           "w": "的",
           "py": "de",
-          "gloss": "of"
+          "gloss": "of",
+          "pos": "part"
         },
         {
           "w": "手机",
           "py": "shǒu jī",
-          "gloss": "phone"
+          "gloss": "phone",
+          "pos": "noun"
         },
         {
           "w": "打电话",
           "py": "dǎ diàn huà",
-          "gloss": "made a call"
+          "gloss": "made a call",
+          "pos": "verb"
         },
         {
           "w": "。",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         }
       ]
     },
@@ -457,22 +533,26 @@
         {
           "w": "我",
           "py": "wǒ",
-          "gloss": "I"
+          "gloss": "I",
+          "pos": "pron"
         },
         {
           "w": "听见",
           "py": "tīng jiàn",
-          "gloss": "heard"
+          "gloss": "heard",
+          "pos": "verb"
         },
         {
           "w": "了",
           "py": "le",
-          "gloss": "(completed)"
+          "gloss": "(completed)",
+          "pos": "part"
         },
         {
           "w": "！",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         }
       ]
     },
@@ -483,37 +563,44 @@
         {
           "w": "手机",
           "py": "shǒu jī",
-          "gloss": "phone"
+          "gloss": "phone",
+          "pos": "noun"
         },
         {
           "w": "在",
           "py": "zài",
-          "gloss": "in"
+          "gloss": "in",
+          "pos": "conn"
         },
         {
           "w": "我",
           "py": "wǒ",
-          "gloss": "my"
+          "gloss": "my",
+          "pos": "pron"
         },
         {
           "w": "的",
           "py": "de",
-          "gloss": "of"
+          "gloss": "of",
+          "pos": "part"
         },
         {
           "w": "衣服",
           "py": "yī fu",
-          "gloss": "clothes"
+          "gloss": "clothes",
+          "pos": "noun"
         },
         {
           "w": "里",
           "py": "lǐ",
-          "gloss": "inside"
+          "gloss": "inside",
+          "pos": "conn"
         },
         {
           "w": "。",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         }
       ]
     },
@@ -524,47 +611,56 @@
         {
           "w": "我",
           "py": "wǒ",
-          "gloss": "I"
+          "gloss": "I",
+          "pos": "pron"
         },
         {
           "w": "笑",
           "py": "xiào",
-          "gloss": "laughed"
+          "gloss": "laughed",
+          "pos": "verb"
         },
         {
           "w": "了",
           "py": "le",
-          "gloss": "(completed)"
+          "gloss": "(completed)",
+          "pos": "part"
         },
         {
           "w": "，",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         },
         {
           "w": "妈妈",
           "py": "mā ma",
-          "gloss": "mum"
+          "gloss": "mum",
+          "pos": "noun"
         },
         {
           "w": "也",
           "py": "yě",
-          "gloss": "also"
+          "gloss": "also",
+          "pos": "adv"
         },
         {
           "w": "笑",
           "py": "xiào",
-          "gloss": "laughed"
+          "gloss": "laughed",
+          "pos": "verb"
         },
         {
           "w": "了",
           "py": "le",
-          "gloss": "(completed)"
+          "gloss": "(completed)",
+          "pos": "part"
         },
         {
           "w": "。",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         }
       ]
     }

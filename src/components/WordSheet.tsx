@@ -6,18 +6,22 @@
  */
 import { useMemo } from 'react';
 import type { WordStatus } from '../db/types.ts';
+import type { Pos } from '../lib/story-schema.ts';
 import { useDictEntries } from '../hooks/useDictionary.ts';
 import { useHsk } from '../hooks/useHsk.ts';
+import { useResolvedTheme } from '../hooks/useResolvedTheme.ts';
 import { hskLevelOf } from '../lib/hsk.ts';
 import { primaryEntry } from '../lib/cedict-parse.ts';
+import { posColor, POS_LABELS } from '../lib/pos-colors.ts';
 import { splitChars } from '../lib/text.ts';
 import { speak } from '../lib/tts.ts';
 
 export interface WordSelection {
   word: string;
-  /** In-context reading and gloss from the token tapped, when known. */
+  /** In-context reading, gloss and grammatical function from the token tapped, when known. */
   contextPy?: string;
   contextGloss?: string;
+  contextPos?: Pos;
 }
 
 const STATUSES: { id: WordStatus; label: string }[] = [
@@ -46,6 +50,7 @@ export function WordSheet({ selection, status, voice, speechRate, onClose, onNav
   );
   const dict = useDictEntries(lookupTargets);
   const hsk = useHsk();
+  const resolvedTheme = useResolvedTheme();
 
   if (!selection) return null;
 
@@ -112,6 +117,19 @@ export function WordSheet({ selection, status, voice, speechRate, onClose, onNav
               <span className="ml-1.5 text-[12px]" style={{ color: 'var(--ink-3)' }}>
                 in this story
               </span>
+              {selection.contextPos && (
+                <span
+                  className="ml-1.5 inline-flex items-center gap-1 rounded px-1.5 py-0.5 text-[11px] font-medium"
+                  style={{ background: 'var(--surface-2)', color: posColor(selection.contextPos, resolvedTheme) }}
+                >
+                  <span
+                    className="h-1.5 w-1.5 rounded-full"
+                    style={{ background: posColor(selection.contextPos, resolvedTheme) }}
+                    aria-hidden="true"
+                  />
+                  {POS_LABELS[selection.contextPos]}
+                </span>
+              )}
             </p>
           )}
 

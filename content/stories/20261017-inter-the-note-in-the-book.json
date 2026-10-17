@@ -17,42 +17,50 @@
         {
           "w": "李明",
           "py": "Lǐ Míng",
-          "gloss": "Li Ming (name)"
+          "gloss": "Li Ming (name)",
+          "pos": "noun"
         },
         {
           "w": "是",
           "py": "shì",
-          "gloss": "is"
+          "gloss": "is",
+          "pos": "verb"
         },
         {
           "w": "大学",
           "py": "dà xué",
-          "gloss": "university"
+          "gloss": "university",
+          "pos": "noun"
         },
         {
           "w": "二",
           "py": "èr",
-          "gloss": "second"
+          "gloss": "second",
+          "pos": "quant"
         },
         {
           "w": "年级",
           "py": "nián jí",
-          "gloss": "year"
+          "gloss": "year",
+          "pos": "noun"
         },
         {
           "w": "的",
           "py": "de",
-          "gloss": "(possessive)"
+          "gloss": "(possessive)",
+          "pos": "part"
         },
         {
           "w": "学生",
           "py": "xué sheng",
-          "gloss": "student"
+          "gloss": "student",
+          "pos": "noun"
         },
         {
           "w": "。",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         }
       ]
     },
@@ -63,32 +71,38 @@
         {
           "w": "他",
           "py": "tā",
-          "gloss": "he"
+          "gloss": "he",
+          "pos": "pron"
         },
         {
           "w": "从来",
           "py": "cóng lái",
-          "gloss": "ever"
+          "gloss": "ever",
+          "pos": "adv"
         },
         {
           "w": "不",
           "py": "bú",
-          "gloss": "not"
+          "gloss": "not",
+          "pos": "adv"
         },
         {
           "w": "看",
           "py": "kàn",
-          "gloss": "read"
+          "gloss": "read",
+          "pos": "verb"
         },
         {
           "w": "小说",
           "py": "xiǎo shuō",
-          "gloss": "novels"
+          "gloss": "novels",
+          "pos": "noun"
         },
         {
           "w": "。",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         }
       ]
     },
@@ -99,37 +113,44 @@
         {
           "w": "他",
           "py": "tā",
-          "gloss": "he"
+          "gloss": "he",
+          "pos": "pron"
         },
         {
           "w": "觉得",
           "py": "jué de",
-          "gloss": "felt"
+          "gloss": "felt",
+          "pos": "verb"
         },
         {
           "w": "读书",
           "py": "dú shū",
-          "gloss": "reading"
+          "gloss": "reading",
+          "pos": "verb"
         },
         {
           "w": "是",
           "py": "shì",
-          "gloss": "was"
+          "gloss": "was",
+          "pos": "verb"
         },
         {
           "w": "为了",
           "py": "wèi le",
-          "gloss": "for the sake of"
+          "gloss": "for the sake of",
+          "pos": "conn"
         },
         {
           "w": "考试",
           "py": "kǎo shì",
-          "gloss": "exams"
+          "gloss": "exams",
+          "pos": "noun"
         },
         {
           "w": "。",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         }
       ]
     },
@@ -140,62 +161,74 @@
         {
           "w": "上",
           "py": "shàng",
-          "gloss": "last"
+          "gloss": "last",
+          "pos": "adj"
         },
         {
           "w": "个",
           "py": "gè",
-          "gloss": "(measure word)"
+          "gloss": "(measure word)",
+          "pos": "quant"
         },
         {
           "w": "月",
           "py": "yuè",
-          "gloss": "month"
+          "gloss": "month",
+          "pos": "noun"
         },
         {
           "w": "，",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         },
         {
           "w": "老师",
           "py": "lǎo shī",
-          "gloss": "teacher"
+          "gloss": "teacher",
+          "pos": "noun"
         },
         {
           "w": "要求",
           "py": "yāo qiú",
-          "gloss": "required"
+          "gloss": "required",
+          "pos": "verb"
         },
         {
           "w": "大家",
           "py": "dà jiā",
-          "gloss": "everyone"
+          "gloss": "everyone",
+          "pos": "pron"
         },
         {
           "w": "读",
           "py": "dú",
-          "gloss": "read"
+          "gloss": "read",
+          "pos": "verb"
         },
         {
           "w": "一",
           "py": "yì",
-          "gloss": "one"
+          "gloss": "one",
+          "pos": "quant"
         },
         {
           "w": "本",
           "py": "běn",
-          "gloss": "(measure word for books)"
+          "gloss": "(measure word for books)",
+          "pos": "quant"
         },
         {
           "w": "小说",
           "py": "xiǎo shuō",
-          "gloss": "novel"
+          "gloss": "novel",
+          "pos": "noun"
         },
         {
           "w": "。",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         }
       ]
     },
@@ -206,57 +239,68 @@
         {
           "w": "李明",
           "py": "Lǐ Míng",
-          "gloss": "Li Ming"
+          "gloss": "Li Ming",
+          "pos": "noun"
         },
         {
           "w": "去",
           "py": "qù",
-          "gloss": "went to"
+          "gloss": "went to",
+          "pos": "verb"
         },
         {
           "w": "图书馆",
           "py": "tú shū guǎn",
-          "gloss": "library"
+          "gloss": "library",
+          "pos": "noun"
         },
         {
           "w": "借",
           "py": "jiè",
-          "gloss": "borrowed"
+          "gloss": "borrowed",
+          "pos": "verb"
         },
         {
           "w": "了",
           "py": "le",
-          "gloss": "(completed)"
+          "gloss": "(completed)",
+          "pos": "part"
         },
         {
           "w": "一",
           "py": "yì",
-          "gloss": "one"
+          "gloss": "one",
+          "pos": "quant"
         },
         {
           "w": "本",
           "py": "běn",
-          "gloss": "(measure word for books)"
+          "gloss": "(measure word for books)",
+          "pos": "quant"
         },
         {
           "w": "最",
           "py": "zuì",
-          "gloss": "most"
+          "gloss": "most",
+          "pos": "adv"
         },
         {
           "w": "短",
           "py": "duǎn",
-          "gloss": "short"
+          "gloss": "short",
+          "pos": "adj"
         },
         {
           "w": "的",
           "py": "de",
-          "gloss": "(nominaliser)"
+          "gloss": "(nominaliser)",
+          "pos": "part"
         },
         {
           "w": "。",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         }
       ]
     },
@@ -267,72 +311,86 @@
         {
           "w": "那天",
           "py": "nà tiān",
-          "gloss": "that day"
+          "gloss": "that day",
+          "pos": "noun"
         },
         {
           "w": "晚上",
           "py": "wǎn shang",
-          "gloss": "evening"
+          "gloss": "evening",
+          "pos": "noun"
         },
         {
           "w": "，",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         },
         {
           "w": "他",
           "py": "tā",
-          "gloss": "he"
+          "gloss": "he",
+          "pos": "pron"
         },
         {
           "w": "打开",
           "py": "dǎ kāi",
-          "gloss": "opened"
+          "gloss": "opened",
+          "pos": "verb"
         },
         {
           "w": "书",
           "py": "shū",
-          "gloss": "the book"
+          "gloss": "the book",
+          "pos": "noun"
         },
         {
           "w": "，",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         },
         {
           "w": "发现",
           "py": "fā xiàn",
-          "gloss": "found"
+          "gloss": "found",
+          "pos": "verb"
         },
         {
           "w": "里面",
           "py": "lǐ miàn",
-          "gloss": "inside"
+          "gloss": "inside",
+          "pos": "noun"
         },
         {
           "w": "有",
           "py": "yǒu",
-          "gloss": "there was"
+          "gloss": "there was",
+          "pos": "verb"
         },
         {
           "w": "一",
           "py": "yì",
-          "gloss": "one"
+          "gloss": "one",
+          "pos": "quant"
         },
         {
           "w": "张",
           "py": "zhāng",
-          "gloss": "(measure word for flat things)"
+          "gloss": "(measure word for flat things)",
+          "pos": "quant"
         },
         {
           "w": "纸条",
           "py": "zhǐ tiáo",
-          "gloss": "note, slip of paper"
+          "gloss": "note, slip of paper",
+          "pos": "noun"
         },
         {
           "w": "。",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         }
       ]
     },
@@ -343,107 +401,128 @@
         {
           "w": "纸条",
           "py": "zhǐ tiáo",
-          "gloss": "note, slip of paper"
+          "gloss": "note, slip of paper",
+          "pos": "noun"
         },
         {
           "w": "上",
           "py": "shàng",
-          "gloss": "on"
+          "gloss": "on",
+          "pos": "conn"
         },
         {
           "w": "写",
           "py": "xiě",
-          "gloss": "written"
+          "gloss": "written",
+          "pos": "verb"
         },
         {
           "w": "着",
           "py": "zhe",
-          "gloss": "(state marker)"
+          "gloss": "(state marker)",
+          "pos": "part"
         },
         {
           "w": "几",
           "py": "jǐ",
-          "gloss": "a few"
+          "gloss": "a few",
+          "pos": "quant"
         },
         {
           "w": "个",
           "py": "gè",
-          "gloss": "(measure word)"
+          "gloss": "(measure word)",
+          "pos": "quant"
         },
         {
           "w": "字",
           "py": "zì",
-          "gloss": "words"
+          "gloss": "words",
+          "pos": "noun"
         },
         {
           "w": "：“",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         },
         {
           "w": "读",
           "py": "dú",
-          "gloss": "read"
+          "gloss": "read",
+          "pos": "verb"
         },
         {
           "w": "完",
           "py": "wán",
-          "gloss": "finish"
+          "gloss": "finish",
+          "pos": "adj"
         },
         {
           "w": "以后",
           "py": "yǐ hòu",
-          "gloss": "after"
+          "gloss": "after",
+          "pos": "noun"
         },
         {
           "w": "，",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         },
         {
           "w": "请",
           "py": "qǐng",
-          "gloss": "please"
+          "gloss": "please",
+          "pos": "verb"
         },
         {
           "w": "把",
           "py": "bǎ",
-          "gloss": "(object marker)"
+          "gloss": "(object marker)",
+          "pos": "conn"
         },
         {
           "w": "这",
           "py": "zhè",
-          "gloss": "this"
+          "gloss": "this",
+          "pos": "pron"
         },
         {
           "w": "本",
           "py": "běn",
-          "gloss": "(measure word for books)"
+          "gloss": "(measure word for books)",
+          "pos": "quant"
         },
         {
           "w": "书",
           "py": "shū",
-          "gloss": "book"
+          "gloss": "book",
+          "pos": "noun"
         },
         {
           "w": "介绍",
           "py": "jiè shào",
-          "gloss": "recommend"
+          "gloss": "recommend",
+          "pos": "verb"
         },
         {
           "w": "给",
           "py": "gěi",
-          "gloss": "to"
+          "gloss": "to",
+          "pos": "verb"
         },
         {
           "w": "别人",
           "py": "bié rén",
-          "gloss": "someone else"
+          "gloss": "someone else",
+          "pos": "pron"
         },
         {
           "w": "。”",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         }
       ]
     },
@@ -454,27 +533,32 @@
         {
           "w": "李明",
           "py": "Lǐ Míng",
-          "gloss": "Li Ming"
+          "gloss": "Li Ming",
+          "pos": "noun"
         },
         {
           "w": "觉得",
           "py": "jué de",
-          "gloss": "thought"
+          "gloss": "thought",
+          "pos": "verb"
         },
         {
           "w": "很",
           "py": "hěn",
-          "gloss": "very"
+          "gloss": "very",
+          "pos": "adv"
         },
         {
           "w": "奇怪",
           "py": "qí guài",
-          "gloss": "strange"
+          "gloss": "strange",
+          "pos": "adj"
         },
         {
           "w": "。",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         }
       ]
     },
@@ -485,67 +569,80 @@
         {
           "w": "谁",
           "py": "shéi",
-          "gloss": "who"
+          "gloss": "who",
+          "pos": "pron"
         },
         {
           "w": "会",
           "py": "huì",
-          "gloss": "would"
+          "gloss": "would",
+          "pos": "verb"
         },
         {
           "w": "在",
           "py": "zài",
-          "gloss": "in"
+          "gloss": "in",
+          "pos": "conn"
         },
         {
           "w": "图书馆",
           "py": "tú shū guǎn",
-          "gloss": "library"
+          "gloss": "library",
+          "pos": "noun"
         },
         {
           "w": "的",
           "py": "de",
-          "gloss": "(possessive)"
+          "gloss": "(possessive)",
+          "pos": "part"
         },
         {
           "w": "书",
           "py": "shū",
-          "gloss": "books"
+          "gloss": "books",
+          "pos": "noun"
         },
         {
           "w": "里",
           "py": "lǐ",
-          "gloss": "inside"
+          "gloss": "inside",
+          "pos": "conn"
         },
         {
           "w": "放",
           "py": "fàng",
-          "gloss": "put"
+          "gloss": "put",
+          "pos": "verb"
         },
         {
           "w": "一",
           "py": "yì",
-          "gloss": "one"
+          "gloss": "one",
+          "pos": "quant"
         },
         {
           "w": "张",
           "py": "zhāng",
-          "gloss": "(measure word for flat things)"
+          "gloss": "(measure word for flat things)",
+          "pos": "quant"
         },
         {
           "w": "纸条",
           "py": "zhǐ tiáo",
-          "gloss": "note, slip of paper"
+          "gloss": "note, slip of paper",
+          "pos": "noun"
         },
         {
           "w": "呢",
           "py": "ne",
-          "gloss": "(question particle)"
+          "gloss": "(question particle)",
+          "pos": "part"
         },
         {
           "w": "？",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         }
       ]
     },
@@ -556,77 +653,92 @@
         {
           "w": "他",
           "py": "tā",
-          "gloss": "he"
+          "gloss": "he",
+          "pos": "pron"
         },
         {
           "w": "本来",
           "py": "běn lái",
-          "gloss": "originally"
+          "gloss": "originally",
+          "pos": "adv"
         },
         {
           "w": "只",
           "py": "zhǐ",
-          "gloss": "only"
+          "gloss": "only",
+          "pos": "adv"
         },
         {
           "w": "想",
           "py": "xiǎng",
-          "gloss": "wanted to"
+          "gloss": "wanted to",
+          "pos": "verb"
         },
         {
           "w": "快点儿",
           "py": "kuài diǎnr",
-          "gloss": "quickly"
+          "gloss": "quickly",
+          "pos": "adv"
         },
         {
           "w": "读",
           "py": "dú",
-          "gloss": "read"
+          "gloss": "read",
+          "pos": "verb"
         },
         {
           "w": "完",
           "py": "wán",
-          "gloss": "finish"
+          "gloss": "finish",
+          "pos": "adj"
         },
         {
           "w": "，",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         },
         {
           "w": "交",
           "py": "jiāo",
-          "gloss": "hand in"
+          "gloss": "hand in",
+          "pos": "verb"
         },
         {
           "w": "了",
           "py": "le",
-          "gloss": "(completed)"
+          "gloss": "(completed)",
+          "pos": "part"
         },
         {
           "w": "作业",
           "py": "zuò yè",
-          "gloss": "homework"
+          "gloss": "homework",
+          "pos": "noun"
         },
         {
           "w": "就",
           "py": "jiù",
-          "gloss": "then"
+          "gloss": "then",
+          "pos": "adv"
         },
         {
           "w": "算",
           "py": "suàn",
-          "gloss": "call it"
+          "gloss": "call it",
+          "pos": "verb"
         },
         {
           "w": "了",
           "py": "le",
-          "gloss": "(done)"
+          "gloss": "(done)",
+          "pos": "part"
         },
         {
           "w": "。",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         }
       ]
     },
@@ -637,37 +749,44 @@
         {
           "w": "可是",
           "py": "kě shì",
-          "gloss": "but"
+          "gloss": "but",
+          "pos": "conn"
         },
         {
           "w": "那",
           "py": "nà",
-          "gloss": "that"
+          "gloss": "that",
+          "pos": "pron"
         },
         {
           "w": "本",
           "py": "běn",
-          "gloss": "(measure word for books)"
+          "gloss": "(measure word for books)",
+          "pos": "quant"
         },
         {
           "w": "小说",
           "py": "xiǎo shuō",
-          "gloss": "novel"
+          "gloss": "novel",
+          "pos": "noun"
         },
         {
           "w": "很",
           "py": "hěn",
-          "gloss": "very"
+          "gloss": "very",
+          "pos": "adv"
         },
         {
           "w": "有意思",
           "py": "yǒu yì si",
-          "gloss": "interesting"
+          "gloss": "interesting",
+          "pos": "adj"
         },
         {
           "w": "。",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         }
       ]
     },
@@ -678,52 +797,62 @@
         {
           "w": "故事",
           "py": "gù shi",
-          "gloss": "story"
+          "gloss": "story",
+          "pos": "noun"
         },
         {
           "w": "里",
           "py": "lǐ",
-          "gloss": "in"
+          "gloss": "in",
+          "pos": "conn"
         },
         {
           "w": "的",
           "py": "de",
-          "gloss": "(possessive)"
+          "gloss": "(possessive)",
+          "pos": "part"
         },
         {
           "w": "人",
           "py": "rén",
-          "gloss": "people"
+          "gloss": "people",
+          "pos": "noun"
         },
         {
           "w": "让",
           "py": "ràng",
-          "gloss": "made"
+          "gloss": "made",
+          "pos": "verb"
         },
         {
           "w": "他",
           "py": "tā",
-          "gloss": "him"
+          "gloss": "him",
+          "pos": "pron"
         },
         {
           "w": "想起",
           "py": "xiǎng qǐ",
-          "gloss": "think of"
+          "gloss": "think of",
+          "pos": "verb"
         },
         {
           "w": "了",
           "py": "le",
-          "gloss": "(completed)"
+          "gloss": "(completed)",
+          "pos": "part"
         },
         {
           "w": "自己",
           "py": "zì jǐ",
-          "gloss": "himself"
+          "gloss": "himself",
+          "pos": "pron"
         },
         {
           "w": "。",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         }
       ]
     },
@@ -734,32 +863,38 @@
         {
           "w": "他",
           "py": "tā",
-          "gloss": "he"
+          "gloss": "he",
+          "pos": "pron"
         },
         {
           "w": "一直",
           "py": "yì zhí",
-          "gloss": "continuously"
+          "gloss": "continuously",
+          "pos": "adv"
         },
         {
           "w": "读",
           "py": "dú",
-          "gloss": "read"
+          "gloss": "read",
+          "pos": "verb"
         },
         {
           "w": "到",
           "py": "dào",
-          "gloss": "until"
+          "gloss": "until",
+          "pos": "verb"
         },
         {
           "w": "半夜",
           "py": "bàn yè",
-          "gloss": "midnight"
+          "gloss": "midnight",
+          "pos": "noun"
         },
         {
           "w": "。",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         }
       ]
     },
@@ -770,62 +905,74 @@
         {
           "w": "这",
           "py": "zhè",
-          "gloss": "this"
+          "gloss": "this",
+          "pos": "pron"
         },
         {
           "w": "是",
           "py": "shì",
-          "gloss": "was"
+          "gloss": "was",
+          "pos": "verb"
         },
         {
           "w": "他",
           "py": "tā",
-          "gloss": "his"
+          "gloss": "his",
+          "pos": "pron"
         },
         {
           "w": "第",
           "py": "dì",
-          "gloss": "(ordinal)"
+          "gloss": "(ordinal)",
+          "pos": "quant"
         },
         {
           "w": "一",
           "py": "yī",
-          "gloss": "one"
+          "gloss": "one",
+          "pos": "quant"
         },
         {
           "w": "次",
           "py": "cì",
-          "gloss": "time"
+          "gloss": "time",
+          "pos": "quant"
         },
         {
           "w": "看",
           "py": "kàn",
-          "gloss": "read"
+          "gloss": "read",
+          "pos": "verb"
         },
         {
           "w": "完",
           "py": "wán",
-          "gloss": "finish"
+          "gloss": "finish",
+          "pos": "adj"
         },
         {
           "w": "一",
           "py": "yì",
-          "gloss": "one"
+          "gloss": "one",
+          "pos": "quant"
         },
         {
           "w": "本",
           "py": "běn",
-          "gloss": "(measure word for books)"
+          "gloss": "(measure word for books)",
+          "pos": "quant"
         },
         {
           "w": "小说",
           "py": "xiǎo shuō",
-          "gloss": "novel"
+          "gloss": "novel",
+          "pos": "noun"
         },
         {
           "w": "。",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         }
       ]
     },
@@ -836,107 +983,128 @@
         {
           "w": "第",
           "py": "dì",
-          "gloss": "(ordinal)"
+          "gloss": "(ordinal)",
+          "pos": "quant"
         },
         {
           "w": "二",
           "py": "èr",
-          "gloss": "two"
+          "gloss": "two",
+          "pos": "quant"
         },
         {
           "w": "天",
           "py": "tiān",
-          "gloss": "day"
+          "gloss": "day",
+          "pos": "noun"
         },
         {
           "w": "上课",
           "py": "shàng kè",
-          "gloss": "in class"
+          "gloss": "in class",
+          "pos": "verb"
         },
         {
           "w": "的",
           "py": "de",
-          "gloss": "(possessive)"
+          "gloss": "(possessive)",
+          "pos": "part"
         },
         {
           "w": "时候",
           "py": "shí hou",
-          "gloss": "time"
+          "gloss": "time",
+          "pos": "noun"
         },
         {
           "w": "，",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         },
         {
           "w": "老师",
           "py": "lǎo shī",
-          "gloss": "teacher"
+          "gloss": "teacher",
+          "pos": "noun"
         },
         {
           "w": "问",
           "py": "wèn",
-          "gloss": "asked"
+          "gloss": "asked",
+          "pos": "verb"
         },
         {
           "w": "谁",
           "py": "shéi",
-          "gloss": "who"
+          "gloss": "who",
+          "pos": "pron"
         },
         {
           "w": "读",
           "py": "dú",
-          "gloss": "read"
+          "gloss": "read",
+          "pos": "verb"
         },
         {
           "w": "完",
           "py": "wán",
-          "gloss": "finished"
+          "gloss": "finished",
+          "pos": "adj"
         },
         {
           "w": "了",
           "py": "le",
-          "gloss": "(completed)"
+          "gloss": "(completed)",
+          "pos": "part"
         },
         {
           "w": "，",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         },
         {
           "w": "只有",
           "py": "zhǐ yǒu",
-          "gloss": "only"
+          "gloss": "only",
+          "pos": "adv"
         },
         {
           "w": "他",
           "py": "tā",
-          "gloss": "he"
+          "gloss": "he",
+          "pos": "pron"
         },
         {
           "w": "举",
           "py": "jǔ",
-          "gloss": "raised"
+          "gloss": "raised",
+          "pos": "verb"
         },
         {
           "w": "起",
           "py": "qǐ",
-          "gloss": "up"
+          "gloss": "up",
+          "pos": "verb"
         },
         {
           "w": "了",
           "py": "le",
-          "gloss": "(completed)"
+          "gloss": "(completed)",
+          "pos": "part"
         },
         {
           "w": "手",
           "py": "shǒu",
-          "gloss": "hand"
+          "gloss": "hand",
+          "pos": "noun"
         },
         {
           "w": "。",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         }
       ]
     },
@@ -947,52 +1115,62 @@
         {
           "w": "在",
           "py": "zài",
-          "gloss": "on"
+          "gloss": "on",
+          "pos": "conn"
         },
         {
           "w": "最后",
           "py": "zuì hòu",
-          "gloss": "last"
+          "gloss": "last",
+          "pos": "adj"
         },
         {
           "w": "一",
           "py": "yí",
-          "gloss": "one"
+          "gloss": "one",
+          "pos": "quant"
         },
         {
           "w": "页",
           "py": "yè",
-          "gloss": "page"
+          "gloss": "page",
+          "pos": "noun"
         },
         {
           "w": "，",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         },
         {
           "w": "还有",
           "py": "hái yǒu",
-          "gloss": "there was also"
+          "gloss": "there was also",
+          "pos": "adv"
         },
         {
           "w": "一",
           "py": "yì",
-          "gloss": "one"
+          "gloss": "one",
+          "pos": "quant"
         },
         {
           "w": "张",
           "py": "zhāng",
-          "gloss": "(measure word for flat things)"
+          "gloss": "(measure word for flat things)",
+          "pos": "quant"
         },
         {
           "w": "纸条",
           "py": "zhǐ tiáo",
-          "gloss": "note, slip of paper"
+          "gloss": "note, slip of paper",
+          "pos": "noun"
         },
         {
           "w": "。",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         }
       ]
     },
@@ -1003,82 +1181,98 @@
         {
           "w": "上面",
           "py": "shàng mian",
-          "gloss": "on it"
+          "gloss": "on it",
+          "pos": "noun"
         },
         {
           "w": "写",
           "py": "xiě",
-          "gloss": "written"
+          "gloss": "written",
+          "pos": "verb"
         },
         {
           "w": "着",
           "py": "zhe",
-          "gloss": "(state marker)"
+          "gloss": "(state marker)",
+          "pos": "part"
         },
         {
           "w": "：“",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         },
         {
           "w": "谢谢",
           "py": "xiè xie",
-          "gloss": "thank you"
+          "gloss": "thank you",
+          "pos": "verb"
         },
         {
           "w": "你",
           "py": "nǐ",
-          "gloss": "you"
+          "gloss": "you",
+          "pos": "pron"
         },
         {
           "w": "读",
           "py": "dú",
-          "gloss": "read"
+          "gloss": "read",
+          "pos": "verb"
         },
         {
           "w": "完",
           "py": "wán",
-          "gloss": "finished"
+          "gloss": "finished",
+          "pos": "adj"
         },
         {
           "w": "了",
           "py": "le",
-          "gloss": "(completed)"
+          "gloss": "(completed)",
+          "pos": "part"
         },
         {
           "w": "。",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         },
         {
           "w": "现在",
           "py": "xiàn zài",
-          "gloss": "now"
+          "gloss": "now",
+          "pos": "noun"
         },
         {
           "w": "，",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         },
         {
           "w": "该",
           "py": "gāi",
-          "gloss": "it's the turn of"
+          "gloss": "it's the turn of",
+          "pos": "verb"
         },
         {
           "w": "你",
           "py": "nǐ",
-          "gloss": "you"
+          "gloss": "you",
+          "pos": "pron"
         },
         {
           "w": "了",
           "py": "le",
-          "gloss": "(change of state)"
+          "gloss": "(change of state)",
+          "pos": "part"
         },
         {
           "w": "。”",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         }
       ]
     },
@@ -1089,22 +1283,26 @@
         {
           "w": "李明",
           "py": "Lǐ Míng",
-          "gloss": "Li Ming"
+          "gloss": "Li Ming",
+          "pos": "noun"
         },
         {
           "w": "笑",
           "py": "xiào",
-          "gloss": "smiled"
+          "gloss": "smiled",
+          "pos": "verb"
         },
         {
           "w": "了",
           "py": "le",
-          "gloss": "(completed)"
+          "gloss": "(completed)",
+          "pos": "part"
         },
         {
           "w": "。",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         }
       ]
     },
@@ -1115,97 +1313,116 @@
         {
           "w": "他",
           "py": "tā",
-          "gloss": "he"
+          "gloss": "he",
+          "pos": "pron"
         },
         {
           "w": "找到",
           "py": "zhǎo dào",
-          "gloss": "found"
+          "gloss": "found",
+          "pos": "verb"
         },
         {
           "w": "一",
           "py": "yì",
-          "gloss": "one"
+          "gloss": "one",
+          "pos": "quant"
         },
         {
           "w": "张",
           "py": "zhāng",
-          "gloss": "(measure word for flat things)"
+          "gloss": "(measure word for flat things)",
+          "pos": "quant"
         },
         {
           "w": "纸条",
           "py": "zhǐ tiáo",
-          "gloss": "note, slip of paper"
+          "gloss": "note, slip of paper",
+          "pos": "noun"
         },
         {
           "w": "，",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         },
         {
           "w": "写",
           "py": "xiě",
-          "gloss": "wrote"
+          "gloss": "wrote",
+          "pos": "verb"
         },
         {
           "w": "下",
           "py": "xià",
-          "gloss": "down"
+          "gloss": "down",
+          "pos": "noun"
         },
         {
           "w": "同样",
           "py": "tóng yàng",
-          "gloss": "the same"
+          "gloss": "the same",
+          "pos": "adj"
         },
         {
           "w": "的",
           "py": "de",
-          "gloss": "(possessive)"
+          "gloss": "(possessive)",
+          "pos": "part"
         },
         {
           "w": "话",
           "py": "huà",
-          "gloss": "words"
+          "gloss": "words",
+          "pos": "noun"
         },
         {
           "w": "，",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         },
         {
           "w": "放",
           "py": "fàng",
-          "gloss": "put"
+          "gloss": "put",
+          "pos": "verb"
         },
         {
           "w": "进",
           "py": "jìn",
-          "gloss": "into"
+          "gloss": "into",
+          "pos": "verb"
         },
         {
           "w": "了",
           "py": "le",
-          "gloss": "(completed)"
+          "gloss": "(completed)",
+          "pos": "part"
         },
         {
           "w": "别的",
           "py": "bié de",
-          "gloss": "another"
+          "gloss": "another",
+          "pos": "pron"
         },
         {
           "w": "书",
           "py": "shū",
-          "gloss": "book"
+          "gloss": "book",
+          "pos": "noun"
         },
         {
           "w": "里",
           "py": "lǐ",
-          "gloss": "inside"
+          "gloss": "inside",
+          "pos": "conn"
         },
         {
           "w": "。",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         }
       ]
     },
@@ -1216,57 +1433,68 @@
         {
           "w": "一",
           "py": "yí",
-          "gloss": "one"
+          "gloss": "one",
+          "pos": "quant"
         },
         {
           "w": "个",
           "py": "gè",
-          "gloss": "(measure word)"
+          "gloss": "(measure word)",
+          "pos": "quant"
         },
         {
           "w": "月",
           "py": "yuè",
-          "gloss": "month"
+          "gloss": "month",
+          "pos": "noun"
         },
         {
           "w": "以后",
           "py": "yǐ hòu",
-          "gloss": "later"
+          "gloss": "later",
+          "pos": "noun"
         },
         {
           "w": "，",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         },
         {
           "w": "他",
           "py": "tā",
-          "gloss": "he"
+          "gloss": "he",
+          "pos": "pron"
         },
         {
           "w": "又",
           "py": "yòu",
-          "gloss": "again"
+          "gloss": "again",
+          "pos": "adv"
         },
         {
           "w": "去",
           "py": "qù",
-          "gloss": "went to"
+          "gloss": "went to",
+          "pos": "verb"
         },
         {
           "w": "了",
           "py": "le",
-          "gloss": "(completed)"
+          "gloss": "(completed)",
+          "pos": "part"
         },
         {
           "w": "图书馆",
           "py": "tú shū guǎn",
-          "gloss": "library"
+          "gloss": "library",
+          "pos": "noun"
         },
         {
           "w": "。",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         }
       ]
     },
@@ -1277,27 +1505,32 @@
         {
           "w": "图书馆",
           "py": "tú shū guǎn",
-          "gloss": "library"
+          "gloss": "library",
+          "pos": "noun"
         },
         {
           "w": "里",
           "py": "lǐ",
-          "gloss": "inside"
+          "gloss": "inside",
+          "pos": "conn"
         },
         {
           "w": "很",
           "py": "hěn",
-          "gloss": "very"
+          "gloss": "very",
+          "pos": "adv"
         },
         {
           "w": "安静",
           "py": "ān jìng",
-          "gloss": "quiet"
+          "gloss": "quiet",
+          "pos": "adj"
         },
         {
           "w": "。",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         }
       ]
     },
@@ -1308,52 +1541,62 @@
         {
           "w": "他",
           "py": "tā",
-          "gloss": "he"
+          "gloss": "he",
+          "pos": "pron"
         },
         {
           "w": "看见",
           "py": "kàn jiàn",
-          "gloss": "saw"
+          "gloss": "saw",
+          "pos": "verb"
         },
         {
           "w": "一",
           "py": "yí",
-          "gloss": "a"
+          "gloss": "a",
+          "pos": "quant"
         },
         {
           "w": "个",
           "py": "gè",
-          "gloss": "(measure word)"
+          "gloss": "(measure word)",
+          "pos": "quant"
         },
         {
           "w": "女生",
           "py": "nǚ shēng",
-          "gloss": "girl"
+          "gloss": "girl",
+          "pos": "noun"
         },
         {
           "w": "坐",
           "py": "zuò",
-          "gloss": "sitting"
+          "gloss": "sitting",
+          "pos": "verb"
         },
         {
           "w": "在",
           "py": "zài",
-          "gloss": "at"
+          "gloss": "at",
+          "pos": "conn"
         },
         {
           "w": "旁边",
           "py": "páng biān",
-          "gloss": "nearby"
+          "gloss": "nearby",
+          "pos": "noun"
         },
         {
           "w": "看书",
           "py": "kàn shū",
-          "gloss": "reading"
+          "gloss": "reading",
+          "pos": "verb"
         },
         {
           "w": "。",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         }
       ]
     },
@@ -1364,72 +1607,86 @@
         {
           "w": "她",
           "py": "tā",
-          "gloss": "she"
+          "gloss": "she",
+          "pos": "pron"
         },
         {
           "w": "手里",
           "py": "shǒu lǐ",
-          "gloss": "in her hand"
+          "gloss": "in her hand",
+          "pos": "noun"
         },
         {
           "w": "拿",
           "py": "ná",
-          "gloss": "holding"
+          "gloss": "holding",
+          "pos": "verb"
         },
         {
           "w": "着",
           "py": "zhe",
-          "gloss": "(state marker)"
+          "gloss": "(state marker)",
+          "pos": "part"
         },
         {
           "w": "一",
           "py": "yì",
-          "gloss": "one"
+          "gloss": "one",
+          "pos": "quant"
         },
         {
           "w": "本",
           "py": "běn",
-          "gloss": "(measure word for books)"
+          "gloss": "(measure word for books)",
+          "pos": "quant"
         },
         {
           "w": "书",
           "py": "shū",
-          "gloss": "book"
+          "gloss": "book",
+          "pos": "noun"
         },
         {
           "w": "，",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         },
         {
           "w": "正在",
           "py": "zhèng zài",
-          "gloss": "(in progress)"
+          "gloss": "(in progress)",
+          "pos": "adv"
         },
         {
           "w": "看",
           "py": "kàn",
-          "gloss": "looking at"
+          "gloss": "looking at",
+          "pos": "verb"
         },
         {
           "w": "一",
           "py": "yì",
-          "gloss": "one"
+          "gloss": "one",
+          "pos": "quant"
         },
         {
           "w": "张",
           "py": "zhāng",
-          "gloss": "(measure word for flat things)"
+          "gloss": "(measure word for flat things)",
+          "pos": "quant"
         },
         {
           "w": "纸条",
           "py": "zhǐ tiáo",
-          "gloss": "note, slip of paper"
+          "gloss": "note, slip of paper",
+          "pos": "noun"
         },
         {
           "w": "。",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         }
       ]
     },
@@ -1440,62 +1697,74 @@
         {
           "w": "她",
           "py": "tā",
-          "gloss": "she"
+          "gloss": "she",
+          "pos": "pron"
         },
         {
           "w": "笑",
           "py": "xiào",
-          "gloss": "smiled"
+          "gloss": "smiled",
+          "pos": "verb"
         },
         {
           "w": "了",
           "py": "le",
-          "gloss": "(completed)"
+          "gloss": "(completed)",
+          "pos": "part"
         },
         {
           "w": "，",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         },
         {
           "w": "笑",
           "py": "xiào",
-          "gloss": "smiled"
+          "gloss": "smiled",
+          "pos": "verb"
         },
         {
           "w": "得",
           "py": "de",
-          "gloss": "(manner marker)"
+          "gloss": "(manner marker)",
+          "pos": "part"
         },
         {
           "w": "和",
           "py": "hé",
-          "gloss": "as"
+          "gloss": "as",
+          "pos": "conn"
         },
         {
           "w": "李明",
           "py": "Lǐ Míng",
-          "gloss": "Li Ming"
+          "gloss": "Li Ming",
+          "pos": "noun"
         },
         {
           "w": "那天",
           "py": "nà tiān",
-          "gloss": "that day"
+          "gloss": "that day",
+          "pos": "noun"
         },
         {
           "w": "晚上",
           "py": "wǎn shang",
-          "gloss": "evening"
+          "gloss": "evening",
+          "pos": "noun"
         },
         {
           "w": "一样",
           "py": "yí yàng",
-          "gloss": "the same"
+          "gloss": "the same",
+          "pos": "adj"
         },
         {
           "w": "。",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         }
       ]
     },
@@ -1506,62 +1775,74 @@
         {
           "w": "李明",
           "py": "Lǐ Míng",
-          "gloss": "Li Ming"
+          "gloss": "Li Ming",
+          "pos": "noun"
         },
         {
           "w": "没有",
           "py": "méi yǒu",
-          "gloss": "did not"
+          "gloss": "did not",
+          "pos": "verb"
         },
         {
           "w": "告诉",
           "py": "gào su",
-          "gloss": "tell"
+          "gloss": "tell",
+          "pos": "verb"
         },
         {
           "w": "她",
           "py": "tā",
-          "gloss": "her"
+          "gloss": "her",
+          "pos": "pron"
         },
         {
           "w": "那",
           "py": "nà",
-          "gloss": "that"
+          "gloss": "that",
+          "pos": "pron"
         },
         {
           "w": "张",
           "py": "zhāng",
-          "gloss": "(measure word for flat things)"
+          "gloss": "(measure word for flat things)",
+          "pos": "quant"
         },
         {
           "w": "纸条",
           "py": "zhǐ tiáo",
-          "gloss": "note, slip of paper"
+          "gloss": "note, slip of paper",
+          "pos": "noun"
         },
         {
           "w": "是",
           "py": "shì",
-          "gloss": "was"
+          "gloss": "was",
+          "pos": "verb"
         },
         {
           "w": "他",
           "py": "tā",
-          "gloss": "he"
+          "gloss": "he",
+          "pos": "pron"
         },
         {
           "w": "写",
           "py": "xiě",
-          "gloss": "wrote"
+          "gloss": "wrote",
+          "pos": "verb"
         },
         {
           "w": "的",
           "py": "de",
-          "gloss": "(nominaliser)"
+          "gloss": "(nominaliser)",
+          "pos": "part"
         },
         {
           "w": "。",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         }
       ]
     },
@@ -1572,82 +1853,98 @@
         {
           "w": "他",
           "py": "tā",
-          "gloss": "he"
+          "gloss": "he",
+          "pos": "pron"
         },
         {
           "w": "只是",
           "py": "zhǐ shì",
-          "gloss": "simply"
+          "gloss": "simply",
+          "pos": "adv"
         },
         {
           "w": "拿",
           "py": "ná",
-          "gloss": "picked"
+          "gloss": "picked",
+          "pos": "verb"
         },
         {
           "w": "起",
           "py": "qǐ",
-          "gloss": "up"
+          "gloss": "up",
+          "pos": "verb"
         },
         {
           "w": "一",
           "py": "yì",
-          "gloss": "one"
+          "gloss": "one",
+          "pos": "quant"
         },
         {
           "w": "本",
           "py": "běn",
-          "gloss": "(measure word for books)"
+          "gloss": "(measure word for books)",
+          "pos": "quant"
         },
         {
           "w": "新",
           "py": "xīn",
-          "gloss": "new"
+          "gloss": "new",
+          "pos": "adj"
         },
         {
           "w": "的",
           "py": "de",
-          "gloss": "(nominaliser)"
+          "gloss": "(nominaliser)",
+          "pos": "part"
         },
         {
           "w": "小说",
           "py": "xiǎo shuō",
-          "gloss": "novel"
+          "gloss": "novel",
+          "pos": "noun"
         },
         {
           "w": "，",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         },
         {
           "w": "坐下",
           "py": "zuò xià",
-          "gloss": "sat down"
+          "gloss": "sat down",
+          "pos": "verb"
         },
         {
           "w": "来",
           "py": "lái",
-          "gloss": "(toward)"
+          "gloss": "(toward)",
+          "pos": "verb"
         },
         {
           "w": "，",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         },
         {
           "w": "开始",
           "py": "kāi shǐ",
-          "gloss": "started"
+          "gloss": "started",
+          "pos": "verb"
         },
         {
           "w": "读",
           "py": "dú",
-          "gloss": "reading"
+          "gloss": "reading",
+          "pos": "verb"
         },
         {
           "w": "。",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         }
       ]
     }

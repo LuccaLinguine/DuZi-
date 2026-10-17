@@ -17,52 +17,62 @@
         {
           "w": "我家",
           "py": "wǒ jiā",
-          "gloss": "my home"
+          "gloss": "my home",
+          "pos": "noun"
         },
         {
           "w": "旁边",
           "py": "páng biān",
-          "gloss": "next to"
+          "gloss": "next to",
+          "pos": "noun"
         },
         {
           "w": "有",
           "py": "yǒu",
-          "gloss": "there is"
+          "gloss": "there is",
+          "pos": "verb"
         },
         {
           "w": "一",
           "py": "yí",
-          "gloss": "a"
+          "gloss": "a",
+          "pos": "quant"
         },
         {
           "w": "个",
           "py": "gè",
-          "gloss": "(measure word)"
+          "gloss": "(measure word)",
+          "pos": "quant"
         },
         {
           "w": "很",
           "py": "hěn",
-          "gloss": "very"
+          "gloss": "very",
+          "pos": "adv"
         },
         {
           "w": "有名",
           "py": "yǒu míng",
-          "gloss": "famous"
+          "gloss": "famous",
+          "pos": "adj"
         },
         {
           "w": "的",
           "py": "de",
-          "gloss": "(possessive)"
+          "gloss": "(possessive)",
+          "pos": "part"
         },
         {
           "w": "饭馆",
           "py": "fàn guǎn",
-          "gloss": "restaurant"
+          "gloss": "restaurant",
+          "pos": "noun"
         },
         {
           "w": "。",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         }
       ]
     },
@@ -73,52 +83,62 @@
         {
           "w": "很多",
           "py": "hěn duō",
-          "gloss": "many"
+          "gloss": "many",
+          "pos": "quant"
         },
         {
           "w": "人",
           "py": "rén",
-          "gloss": "people"
+          "gloss": "people",
+          "pos": "noun"
         },
         {
           "w": "说",
           "py": "shuō",
-          "gloss": "say"
+          "gloss": "say",
+          "pos": "verb"
         },
         {
           "w": "，",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         },
         {
           "w": "那里",
           "py": "nà lǐ",
-          "gloss": "there"
+          "gloss": "there",
+          "pos": "noun"
         },
         {
           "w": "的",
           "py": "de",
-          "gloss": "(possessive)"
+          "gloss": "(possessive)",
+          "pos": "part"
         },
         {
           "w": "饺子",
           "py": "jiǎo zi",
-          "gloss": "dumplings"
+          "gloss": "dumplings",
+          "pos": "noun"
         },
         {
           "w": "最",
           "py": "zuì",
-          "gloss": "most"
+          "gloss": "most",
+          "pos": "adv"
         },
         {
           "w": "好吃",
           "py": "hǎo chī",
-          "gloss": "tasty"
+          "gloss": "tasty",
+          "pos": "adj"
         },
         {
           "w": "。",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         }
       ]
     },
@@ -129,67 +149,80 @@
         {
           "w": "上",
           "py": "shàng",
-          "gloss": "last"
+          "gloss": "last",
+          "pos": "adj"
         },
         {
           "w": "个",
           "py": "gè",
-          "gloss": "(measure word)"
+          "gloss": "(measure word)",
+          "pos": "quant"
         },
         {
           "w": "星期六",
           "py": "xīng qī liù",
-          "gloss": "Saturday"
+          "gloss": "Saturday",
+          "pos": "noun"
         },
         {
           "w": "，",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         },
         {
           "w": "我",
           "py": "wǒ",
-          "gloss": "I"
+          "gloss": "I",
+          "pos": "pron"
         },
         {
           "w": "和",
           "py": "hé",
-          "gloss": "and"
+          "gloss": "and",
+          "pos": "conn"
         },
         {
           "w": "朋友",
           "py": "péng you",
-          "gloss": "friend"
+          "gloss": "friend",
+          "pos": "noun"
         },
         {
           "w": "去",
           "py": "qù",
-          "gloss": "went"
+          "gloss": "went",
+          "pos": "verb"
         },
         {
           "w": "了",
           "py": "le",
-          "gloss": "(completed)"
+          "gloss": "(completed)",
+          "pos": "part"
         },
         {
           "w": "那",
           "py": "nà",
-          "gloss": "that"
+          "gloss": "that",
+          "pos": "pron"
         },
         {
           "w": "家",
           "py": "jiā",
-          "gloss": "(measure word for shops)"
+          "gloss": "(measure word for shops)",
+          "pos": "quant"
         },
         {
           "w": "饭馆",
           "py": "fàn guǎn",
-          "gloss": "restaurant"
+          "gloss": "restaurant",
+          "pos": "noun"
         },
         {
           "w": "。",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         }
       ]
     },
@@ -200,47 +233,56 @@
         {
           "w": "我们",
           "py": "wǒ men",
-          "gloss": "we"
+          "gloss": "we",
+          "pos": "pron"
         },
         {
           "w": "排",
           "py": "pái",
-          "gloss": "stood in"
+          "gloss": "stood in",
+          "pos": "verb"
         },
         {
           "w": "了",
           "py": "le",
-          "gloss": "(completed)"
+          "gloss": "(completed)",
+          "pos": "part"
         },
         {
           "w": "半",
           "py": "bàn",
-          "gloss": "half"
+          "gloss": "half",
+          "pos": "quant"
         },
         {
           "w": "个",
           "py": "gè",
-          "gloss": "(measure word)"
+          "gloss": "(measure word)",
+          "pos": "quant"
         },
         {
           "w": "小时",
           "py": "xiǎo shí",
-          "gloss": "hour"
+          "gloss": "hour",
+          "pos": "noun"
         },
         {
           "w": "的",
           "py": "de",
-          "gloss": "(possessive)"
+          "gloss": "(possessive)",
+          "pos": "part"
         },
         {
           "w": "队",
           "py": "duì",
-          "gloss": "queue"
+          "gloss": "queue",
+          "pos": "noun"
         },
         {
           "w": "。",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         }
       ]
     },
@@ -251,57 +293,68 @@
         {
           "w": "饺子",
           "py": "jiǎo zi",
-          "gloss": "dumplings"
+          "gloss": "dumplings",
+          "pos": "noun"
         },
         {
           "w": "很",
           "py": "hěn",
-          "gloss": "very"
+          "gloss": "very",
+          "pos": "adv"
         },
         {
           "w": "贵",
           "py": "guì",
-          "gloss": "expensive"
+          "gloss": "expensive",
+          "pos": "adj"
         },
         {
           "w": "，",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         },
         {
           "w": "一",
           "py": "yí",
-          "gloss": "one"
+          "gloss": "one",
+          "pos": "quant"
         },
         {
           "w": "份",
           "py": "fèn",
-          "gloss": "portion"
+          "gloss": "portion",
+          "pos": "quant"
         },
         {
           "w": "要",
           "py": "yào",
-          "gloss": "costs"
+          "gloss": "costs",
+          "pos": "verb"
         },
         {
           "w": "六十",
           "py": "liù shí",
-          "gloss": "sixty"
+          "gloss": "sixty",
+          "pos": "quant"
         },
         {
           "w": "块",
           "py": "kuài",
-          "gloss": "yuan"
+          "gloss": "yuan",
+          "pos": "quant"
         },
         {
           "w": "钱",
           "py": "qián",
-          "gloss": "money"
+          "gloss": "money",
+          "pos": "noun"
         },
         {
           "w": "。",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         }
       ]
     },
@@ -312,62 +365,74 @@
         {
           "w": "我",
           "py": "wǒ",
-          "gloss": "I"
+          "gloss": "I",
+          "pos": "pron"
         },
         {
           "w": "吃",
           "py": "chī",
-          "gloss": "ate"
+          "gloss": "ate",
+          "pos": "verb"
         },
         {
           "w": "了",
           "py": "le",
-          "gloss": "(completed)"
+          "gloss": "(completed)",
+          "pos": "part"
         },
         {
           "w": "一",
           "py": "yí",
-          "gloss": "one"
+          "gloss": "one",
+          "pos": "quant"
         },
         {
           "w": "个",
           "py": "gè",
-          "gloss": "(measure word)"
+          "gloss": "(measure word)",
+          "pos": "quant"
         },
         {
           "w": "，",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         },
         {
           "w": "又",
           "py": "yòu",
-          "gloss": "then again"
+          "gloss": "then again",
+          "pos": "adv"
         },
         {
           "w": "吃",
           "py": "chī",
-          "gloss": "ate"
+          "gloss": "ate",
+          "pos": "verb"
         },
         {
           "w": "了",
           "py": "le",
-          "gloss": "(completed)"
+          "gloss": "(completed)",
+          "pos": "part"
         },
         {
           "w": "一",
           "py": "yí",
-          "gloss": "one"
+          "gloss": "one",
+          "pos": "quant"
         },
         {
           "w": "个",
           "py": "gè",
-          "gloss": "(measure word)"
+          "gloss": "(measure word)",
+          "pos": "quant"
         },
         {
           "w": "。",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         }
       ]
     },
@@ -378,42 +443,50 @@
         {
           "w": "它们",
           "py": "tā men",
-          "gloss": "they"
+          "gloss": "they",
+          "pos": "pron"
         },
         {
           "w": "很",
           "py": "hěn",
-          "gloss": "very"
+          "gloss": "very",
+          "pos": "adv"
         },
         {
           "w": "好看",
           "py": "hǎo kàn",
-          "gloss": "good-looking"
+          "gloss": "good-looking",
+          "pos": "adj"
         },
         {
           "w": "，",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         },
         {
           "w": "可是",
           "py": "kě shì",
-          "gloss": "but"
+          "gloss": "but",
+          "pos": "conn"
         },
         {
           "w": "没有",
           "py": "méi yǒu",
-          "gloss": "have no"
+          "gloss": "have no",
+          "pos": "verb"
         },
         {
           "w": "味道",
           "py": "wèi dào",
-          "gloss": "flavour"
+          "gloss": "flavour",
+          "pos": "noun"
         },
         {
           "w": "。",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         }
       ]
     },
@@ -424,22 +497,26 @@
         {
           "w": "我",
           "py": "wǒ",
-          "gloss": "I"
+          "gloss": "I",
+          "pos": "pron"
         },
         {
           "w": "有点儿",
           "py": "yǒu diǎnr",
-          "gloss": "a little"
+          "gloss": "a little",
+          "pos": "adv"
         },
         {
           "w": "难过",
           "py": "nán guò",
-          "gloss": "sad"
+          "gloss": "sad",
+          "pos": "adj"
         },
         {
           "w": "。",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         }
       ]
     },
@@ -450,77 +527,92 @@
         {
           "w": "回家",
           "py": "huí jiā",
-          "gloss": "got home"
+          "gloss": "got home",
+          "pos": "verb"
         },
         {
           "w": "以后",
           "py": "yǐ hòu",
-          "gloss": "after"
+          "gloss": "after",
+          "pos": "noun"
         },
         {
           "w": "，",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         },
         {
           "w": "我",
           "py": "wǒ",
-          "gloss": "I"
+          "gloss": "I",
+          "pos": "pron"
         },
         {
           "w": "告诉",
           "py": "gào su",
-          "gloss": "told"
+          "gloss": "told",
+          "pos": "verb"
         },
         {
           "w": "奶奶",
           "py": "nǎi nai",
-          "gloss": "grandma"
+          "gloss": "grandma",
+          "pos": "noun"
         },
         {
           "w": "：“",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         },
         {
           "w": "那",
           "py": "nà",
-          "gloss": "that"
+          "gloss": "that",
+          "pos": "pron"
         },
         {
           "w": "家",
           "py": "jiā",
-          "gloss": "(measure word for shops)"
+          "gloss": "(measure word for shops)",
+          "pos": "quant"
         },
         {
           "w": "饭馆",
           "py": "fàn guǎn",
-          "gloss": "restaurant"
+          "gloss": "restaurant",
+          "pos": "noun"
         },
         {
           "w": "的",
           "py": "de",
-          "gloss": "(possessive)"
+          "gloss": "(possessive)",
+          "pos": "part"
         },
         {
           "w": "饺子",
           "py": "jiǎo zi",
-          "gloss": "dumplings"
+          "gloss": "dumplings",
+          "pos": "noun"
         },
         {
           "w": "不",
           "py": "bù",
-          "gloss": "not"
+          "gloss": "not",
+          "pos": "adv"
         },
         {
           "w": "好吃",
           "py": "hǎo chī",
-          "gloss": "tasty"
+          "gloss": "tasty",
+          "pos": "adj"
         },
         {
           "w": "。”",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         }
       ]
     },
@@ -531,67 +623,80 @@
         {
           "w": "奶奶",
           "py": "nǎi nai",
-          "gloss": "grandma"
+          "gloss": "grandma",
+          "pos": "noun"
         },
         {
           "w": "笑",
           "py": "xiào",
-          "gloss": "laughed"
+          "gloss": "laughed",
+          "pos": "verb"
         },
         {
           "w": "了",
           "py": "le",
-          "gloss": "(completed)"
+          "gloss": "(completed)",
+          "pos": "part"
         },
         {
           "w": "，",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         },
         {
           "w": "她",
           "py": "tā",
-          "gloss": "she"
+          "gloss": "she",
+          "pos": "pron"
         },
         {
           "w": "说",
           "py": "shuō",
-          "gloss": "said"
+          "gloss": "said",
+          "pos": "verb"
         },
         {
           "w": "：“",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         },
         {
           "w": "那",
           "py": "nà",
-          "gloss": "then"
+          "gloss": "then",
+          "pos": "conn"
         },
         {
           "w": "我们",
           "py": "wǒ men",
-          "gloss": "we"
+          "gloss": "we",
+          "pos": "pron"
         },
         {
           "w": "自己",
           "py": "zì jǐ",
-          "gloss": "ourselves"
+          "gloss": "ourselves",
+          "pos": "pron"
         },
         {
           "w": "做",
           "py": "zuò",
-          "gloss": "make"
+          "gloss": "make",
+          "pos": "verb"
         },
         {
           "w": "吧",
           "py": "ba",
-          "gloss": "let's"
+          "gloss": "let's",
+          "pos": "part"
         },
         {
           "w": "。”",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         }
       ]
     },
@@ -602,52 +707,62 @@
         {
           "w": "那天",
           "py": "nà tiān",
-          "gloss": "that day"
+          "gloss": "that day",
+          "pos": "noun"
         },
         {
           "w": "下午",
           "py": "xià wǔ",
-          "gloss": "afternoon"
+          "gloss": "afternoon",
+          "pos": "noun"
         },
         {
           "w": "，",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         },
         {
           "w": "我",
           "py": "wǒ",
-          "gloss": "I"
+          "gloss": "I",
+          "pos": "pron"
         },
         {
           "w": "和",
           "py": "hé",
-          "gloss": "and"
+          "gloss": "and",
+          "pos": "conn"
         },
         {
           "w": "奶奶",
           "py": "nǎi nai",
-          "gloss": "grandma"
+          "gloss": "grandma",
+          "pos": "noun"
         },
         {
           "w": "一起",
           "py": "yì qǐ",
-          "gloss": "together"
+          "gloss": "together",
+          "pos": "adv"
         },
         {
           "w": "包",
           "py": "bāo",
-          "gloss": "wrapped"
+          "gloss": "wrapped",
+          "pos": "verb"
         },
         {
           "w": "饺子",
           "py": "jiǎo zi",
-          "gloss": "dumplings"
+          "gloss": "dumplings",
+          "pos": "noun"
         },
         {
           "w": "。",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         }
       ]
     },
@@ -658,77 +773,92 @@
         {
           "w": "我",
           "py": "wǒ",
-          "gloss": "my"
+          "gloss": "my",
+          "pos": "pron"
         },
         {
           "w": "的",
           "py": "de",
-          "gloss": "(possessive)"
+          "gloss": "(possessive)",
+          "pos": "part"
         },
         {
           "w": "饺子",
           "py": "jiǎo zi",
-          "gloss": "dumplings"
+          "gloss": "dumplings",
+          "pos": "noun"
         },
         {
           "w": "包",
           "py": "bāo",
-          "gloss": "wrapped"
+          "gloss": "wrapped",
+          "pos": "verb"
         },
         {
           "w": "得",
           "py": "de",
-          "gloss": "(manner marker)"
+          "gloss": "(manner marker)",
+          "pos": "part"
         },
         {
           "w": "很",
           "py": "hěn",
-          "gloss": "very"
+          "gloss": "very",
+          "pos": "adv"
         },
         {
           "w": "难看",
           "py": "nán kàn",
-          "gloss": "ugly"
+          "gloss": "ugly",
+          "pos": "adj"
         },
         {
           "w": "，",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         },
         {
           "w": "奶奶",
           "py": "nǎi nai",
-          "gloss": "grandma"
+          "gloss": "grandma",
+          "pos": "noun"
         },
         {
           "w": "的",
           "py": "de",
-          "gloss": "(possessive)"
+          "gloss": "(possessive)",
+          "pos": "part"
         },
         {
           "w": "又",
           "py": "yòu",
-          "gloss": "both"
+          "gloss": "both",
+          "pos": "adv"
         },
         {
           "w": "大",
           "py": "dà",
-          "gloss": "big"
+          "gloss": "big",
+          "pos": "adj"
         },
         {
           "w": "又",
           "py": "yòu",
-          "gloss": "and"
+          "gloss": "and",
+          "pos": "adv"
         },
         {
           "w": "漂亮",
           "py": "piào liang",
-          "gloss": "beautiful"
+          "gloss": "beautiful",
+          "pos": "adj"
         },
         {
           "w": "。",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         }
       ]
     },
@@ -739,57 +869,68 @@
         {
           "w": "我们",
           "py": "wǒ men",
-          "gloss": "we"
+          "gloss": "we",
+          "pos": "pron"
         },
         {
           "w": "说",
           "py": "shuō",
-          "gloss": "spoke"
+          "gloss": "spoke",
+          "pos": "verb"
         },
         {
           "w": "了",
           "py": "le",
-          "gloss": "(completed)"
+          "gloss": "(completed)",
+          "pos": "part"
         },
         {
           "w": "很多",
           "py": "hěn duō",
-          "gloss": "a lot of"
+          "gloss": "a lot of",
+          "pos": "quant"
         },
         {
           "w": "话",
           "py": "huà",
-          "gloss": "words"
+          "gloss": "words",
+          "pos": "noun"
         },
         {
           "w": "，",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         },
         {
           "w": "也",
           "py": "yě",
-          "gloss": "also"
+          "gloss": "also",
+          "pos": "adv"
         },
         {
           "w": "笑",
           "py": "xiào",
-          "gloss": "laughed"
+          "gloss": "laughed",
+          "pos": "verb"
         },
         {
           "w": "了",
           "py": "le",
-          "gloss": "(completed)"
+          "gloss": "(completed)",
+          "pos": "part"
         },
         {
           "w": "很多",
           "py": "hěn duō",
-          "gloss": "a lot"
+          "gloss": "a lot",
+          "pos": "quant"
         },
         {
           "w": "。",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         }
       ]
     },
@@ -800,37 +941,44 @@
         {
           "w": "晚上",
           "py": "wǎn shang",
-          "gloss": "evening"
+          "gloss": "evening",
+          "pos": "noun"
         },
         {
           "w": "，",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         },
         {
           "w": "饺子",
           "py": "jiǎo zi",
-          "gloss": "dumplings"
+          "gloss": "dumplings",
+          "pos": "noun"
         },
         {
           "w": "做",
           "py": "zuò",
-          "gloss": "made"
+          "gloss": "made",
+          "pos": "verb"
         },
         {
           "w": "好",
           "py": "hǎo",
-          "gloss": "(finished)"
+          "gloss": "(finished)",
+          "pos": "adj"
         },
         {
           "w": "了",
           "py": "le",
-          "gloss": "(completed)"
+          "gloss": "(completed)",
+          "pos": "part"
         },
         {
           "w": "。",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         }
       ]
     },
@@ -841,32 +989,38 @@
         {
           "w": "我",
           "py": "wǒ",
-          "gloss": "I"
+          "gloss": "I",
+          "pos": "pron"
         },
         {
           "w": "吃",
           "py": "chī",
-          "gloss": "ate"
+          "gloss": "ate",
+          "pos": "verb"
         },
         {
           "w": "了",
           "py": "le",
-          "gloss": "(completed)"
+          "gloss": "(completed)",
+          "pos": "part"
         },
         {
           "w": "二十",
           "py": "èr shí",
-          "gloss": "twenty"
+          "gloss": "twenty",
+          "pos": "quant"
         },
         {
           "w": "个",
           "py": "gè",
-          "gloss": "(measure word)"
+          "gloss": "(measure word)",
+          "pos": "quant"
         },
         {
           "w": "。",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         }
       ]
     },
@@ -877,37 +1031,44 @@
         {
           "w": "奶奶",
           "py": "nǎi nai",
-          "gloss": "grandma"
+          "gloss": "grandma",
+          "pos": "noun"
         },
         {
           "w": "问",
           "py": "wèn",
-          "gloss": "asked"
+          "gloss": "asked",
+          "pos": "verb"
         },
         {
           "w": "我",
           "py": "wǒ",
-          "gloss": "me"
+          "gloss": "me",
+          "pos": "pron"
         },
         {
           "w": "：“",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         },
         {
           "w": "好吃",
           "py": "hǎo chī",
-          "gloss": "tasty"
+          "gloss": "tasty",
+          "pos": "adj"
         },
         {
           "w": "吗",
           "py": "ma",
-          "gloss": "(question)"
+          "gloss": "(question)",
+          "pos": "part"
         },
         {
           "w": "？”",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         }
       ]
     },
@@ -918,72 +1079,86 @@
         {
           "w": "我",
           "py": "wǒ",
-          "gloss": "I"
+          "gloss": "I",
+          "pos": "pron"
         },
         {
           "w": "说",
           "py": "shuō",
-          "gloss": "said"
+          "gloss": "said",
+          "pos": "verb"
         },
         {
           "w": "：“",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         },
         {
           "w": "这",
           "py": "zhè",
-          "gloss": "these"
+          "gloss": "these",
+          "pos": "pron"
         },
         {
           "w": "是",
           "py": "shì",
-          "gloss": "are"
+          "gloss": "are",
+          "pos": "verb"
         },
         {
           "w": "我",
           "py": "wǒ",
-          "gloss": "I"
+          "gloss": "I",
+          "pos": "pron"
         },
         {
           "w": "吃",
           "py": "chī",
-          "gloss": "eaten"
+          "gloss": "eaten",
+          "pos": "verb"
         },
         {
           "w": "过",
           "py": "guo",
-          "gloss": "(experience)"
+          "gloss": "(experience)",
+          "pos": "part"
         },
         {
           "w": "的",
           "py": "de",
-          "gloss": "(possessive)"
+          "gloss": "(possessive)",
+          "pos": "part"
         },
         {
           "w": "最",
           "py": "zuì",
-          "gloss": "most"
+          "gloss": "most",
+          "pos": "adv"
         },
         {
           "w": "好吃",
           "py": "hǎo chī",
-          "gloss": "tasty"
+          "gloss": "tasty",
+          "pos": "adj"
         },
         {
           "w": "的",
           "py": "de",
-          "gloss": "(possessive)"
+          "gloss": "(possessive)",
+          "pos": "part"
         },
         {
           "w": "饺子",
           "py": "jiǎo zi",
-          "gloss": "dumplings"
+          "gloss": "dumplings",
+          "pos": "noun"
         },
         {
           "w": "。”",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         }
       ]
     },
@@ -994,97 +1169,116 @@
         {
           "w": "奶奶",
           "py": "nǎi nai",
-          "gloss": "grandma"
+          "gloss": "grandma",
+          "pos": "noun"
         },
         {
           "w": "说",
           "py": "shuō",
-          "gloss": "said"
+          "gloss": "said",
+          "pos": "verb"
         },
         {
           "w": "：“",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         },
         {
           "w": "饺子",
           "py": "jiǎo zi",
-          "gloss": "dumplings"
+          "gloss": "dumplings",
+          "pos": "noun"
         },
         {
           "w": "都",
           "py": "dōu",
-          "gloss": "all"
+          "gloss": "all",
+          "pos": "adv"
         },
         {
           "w": "一样",
           "py": "yí yàng",
-          "gloss": "the same"
+          "gloss": "the same",
+          "pos": "adj"
         },
         {
           "w": "，",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         },
         {
           "w": "不",
           "py": "bù",
-          "gloss": "not"
+          "gloss": "not",
+          "pos": "adv"
         },
         {
           "w": "一样",
           "py": "yí yàng",
-          "gloss": "the same"
+          "gloss": "the same",
+          "pos": "adj"
         },
         {
           "w": "的",
           "py": "de",
-          "gloss": "(nominaliser)"
+          "gloss": "(nominaliser)",
+          "pos": "part"
         },
         {
           "w": "是",
           "py": "shì",
-          "gloss": "is"
+          "gloss": "is",
+          "pos": "verb"
         },
         {
           "w": "和",
           "py": "hé",
-          "gloss": "with"
+          "gloss": "with",
+          "pos": "conn"
         },
         {
           "w": "谁",
           "py": "shéi",
-          "gloss": "whom"
+          "gloss": "whom",
+          "pos": "pron"
         },
         {
           "w": "一起",
           "py": "yì qǐ",
-          "gloss": "together"
+          "gloss": "together",
+          "pos": "adv"
         },
         {
           "w": "做",
           "py": "zuò",
-          "gloss": "make"
+          "gloss": "make",
+          "pos": "verb"
         },
         {
           "w": "、",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         },
         {
           "w": "一起",
           "py": "yì qǐ",
-          "gloss": "together"
+          "gloss": "together",
+          "pos": "adv"
         },
         {
           "w": "吃",
           "py": "chī",
-          "gloss": "eat"
+          "gloss": "eat",
+          "pos": "verb"
         },
         {
           "w": "。”",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         }
       ]
     }

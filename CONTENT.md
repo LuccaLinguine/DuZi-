@@ -121,7 +121,8 @@ keep the id; the app replaces the content and keeps all progress.
                                    // concatenating EXACTLY to zh
         { "w": string,             // the word, or a run of punctuation
           "py": string,            // tone-marked pinyin IN CONTEXT; "" for punctuation
-          "gloss": string }        // short English meaning IN THIS CONTEXT; "" for punctuation
+          "gloss": string,         // short English meaning IN THIS CONTEXT; "" for punctuation
+          "pos": string }          // grammatical function, see "Part of speech" below; "" for punctuation
       ]
     }
   ],
@@ -164,6 +165,32 @@ This is where most mistakes happen, so be exact:
 - The validator cross-checks every reading against pinyin-pro and **warns** when
   they disagree. A warning is not automatically wrong — third-tone sandhi and
   context readings legitimately differ — but read each one and confirm.
+
+### Part of speech
+
+Every real word's `pos` is one of exactly these eight values, picked for the
+grammatical role it plays **in this sentence** (the same word can take a
+different tag in a different sentence — 爱 is `verb` in 我爱你 but `noun` in
+一生的爱):
+
+| `pos` | Covers | Examples |
+|---|---|---|
+| `noun` | things, people, places, proper nouns | 猫, 老师, 北京, 麦当劳 |
+| `verb` | actions, including 是/有 | 吃, 去, 是, 有, 觉得 |
+| `adj` | qualities / stative verbs | 好, 大, 高兴, 累 |
+| `adv` | modifies a verb or adjective | 很, 也, 都, 不, 没, 已经 |
+| `pron` | pronouns | 我, 你, 他, 这, 那, 谁 |
+| `quant` | numerals and measure words | 一, 二, 个, 本, 次 |
+| `part` | grammatical particles | 了, 的, 吗, 呢, 着, 过, 得 |
+| `conn` | prepositions and conjunctions | 在, 给, 从, 和, 但是, 因为 |
+
+Interjections (啊, 哈哈) and anything that genuinely doesn't fit — tag with
+whichever of the eight reads closest; don't invent a ninth value, the reader's
+colour palette and validator only know these eight. This drives the reader's
+optional "colour by grammatical function" mode (Settings, off by default) —
+get it right and a learner can see sentence structure at a glance, so when
+in doubt, tag for the word's actual job in this sentence, not its dictionary
+headword category.
 
 ### Glosses
 
@@ -229,7 +256,8 @@ npm run validate-stories
 - invalid JSON, or a field missing or of the wrong type
 - an `id` that is duplicated or does not match its filename
 - tokens that do not join exactly to `zh`
-- a real word with an empty `py` or `gloss`
+- a real word with an empty `py`, `gloss` or `pos`, or a `pos` that isn't one
+  of the eight values above
 - below 90% of words within the level's HSK ceiling
 
 **Warnings are worth reading but do not block:**

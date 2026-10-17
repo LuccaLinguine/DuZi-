@@ -17,37 +17,44 @@
         {
           "w": "今天",
           "py": "jīn tiān",
-          "gloss": "today"
+          "gloss": "today",
+          "pos": "noun"
         },
         {
           "w": "是",
           "py": "shì",
-          "gloss": "is"
+          "gloss": "is",
+          "pos": "verb"
         },
         {
           "w": "我",
           "py": "wǒ",
-          "gloss": "my"
+          "gloss": "my",
+          "pos": "pron"
         },
         {
           "w": "第一",
           "py": "dì yī",
-          "gloss": "first"
+          "gloss": "first",
+          "pos": "quant"
         },
         {
           "w": "天",
           "py": "tiān",
-          "gloss": "day"
+          "gloss": "day",
+          "pos": "noun"
         },
         {
           "w": "上班",
           "py": "shàng bān",
-          "gloss": "go to work"
+          "gloss": "go to work",
+          "pos": "verb"
         },
         {
           "w": "。",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         }
       ]
     },
@@ -58,27 +65,32 @@
         {
           "w": "我",
           "py": "wǒ",
-          "gloss": "I"
+          "gloss": "I",
+          "pos": "pron"
         },
         {
           "w": "在",
           "py": "zài",
-          "gloss": "at"
+          "gloss": "at",
+          "pos": "conn"
         },
         {
           "w": "麦当劳",
           "py": "Mài dāng láo",
-          "gloss": "McDonald's"
+          "gloss": "McDonald's",
+          "pos": "noun"
         },
         {
           "w": "工作",
           "py": "gōng zuò",
-          "gloss": "work"
+          "gloss": "work",
+          "pos": "noun"
         },
         {
           "w": "。",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         }
       ]
     },
@@ -89,42 +101,50 @@
         {
           "w": "我",
           "py": "wǒ",
-          "gloss": "I"
+          "gloss": "I",
+          "pos": "pron"
         },
         {
           "w": "很",
           "py": "hěn",
-          "gloss": "very"
+          "gloss": "very",
+          "pos": "adv"
         },
         {
           "w": "高兴",
           "py": "gāo xìng",
-          "gloss": "happy"
+          "gloss": "happy",
+          "pos": "adj"
         },
         {
           "w": "，",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         },
         {
           "w": "也",
           "py": "yě",
-          "gloss": "also"
+          "gloss": "also",
+          "pos": "adv"
         },
         {
           "w": "很",
           "py": "hěn",
-          "gloss": "very"
+          "gloss": "very",
+          "pos": "adv"
         },
         {
           "w": "忙",
           "py": "máng",
-          "gloss": "busy"
+          "gloss": "busy",
+          "pos": "adj"
         },
         {
           "w": "。",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         }
       ]
     },
@@ -135,32 +155,38 @@
         {
           "w": "一",
           "py": "yí",
-          "gloss": "a"
+          "gloss": "a",
+          "pos": "quant"
         },
         {
           "w": "个",
           "py": "gè",
-          "gloss": "(measure word)"
+          "gloss": "(measure word)",
+          "pos": "quant"
         },
         {
           "w": "男人",
           "py": "nán rén",
-          "gloss": "man"
+          "gloss": "man",
+          "pos": "noun"
         },
         {
           "w": "进来",
           "py": "jìn lái",
-          "gloss": "came in"
+          "gloss": "came in",
+          "pos": "verb"
         },
         {
           "w": "了",
           "py": "le",
-          "gloss": "(completed)"
+          "gloss": "(completed)",
+          "pos": "part"
         },
         {
           "w": "。",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         }
       ]
     },
@@ -171,47 +197,56 @@
         {
           "w": "他",
           "py": "tā",
-          "gloss": "he"
+          "gloss": "he",
+          "pos": "pron"
         },
         {
           "w": "说",
           "py": "shuō",
-          "gloss": "said"
+          "gloss": "said",
+          "pos": "verb"
         },
         {
           "w": "：“",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         },
         {
           "w": "我",
           "py": "wǒ",
-          "gloss": "I"
+          "gloss": "I",
+          "pos": "pron"
         },
         {
           "w": "要",
           "py": "yào",
-          "gloss": "want"
+          "gloss": "want",
+          "pos": "verb"
         },
         {
           "w": "一",
           "py": "yí",
-          "gloss": "a"
+          "gloss": "a",
+          "pos": "quant"
         },
         {
           "w": "个",
           "py": "gè",
-          "gloss": "(measure word)"
+          "gloss": "(measure word)",
+          "pos": "quant"
         },
         {
           "w": "汉堡",
           "py": "hàn bǎo",
-          "gloss": "hamburger"
+          "gloss": "hamburger",
+          "pos": "noun"
         },
         {
           "w": "。”",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         }
       ]
     },
@@ -222,72 +257,86 @@
         {
           "w": "我",
           "py": "wǒ",
-          "gloss": "I"
+          "gloss": "I",
+          "pos": "pron"
         },
         {
           "w": "很",
           "py": "hěn",
-          "gloss": "very"
+          "gloss": "very",
+          "pos": "adv"
         },
         {
           "w": "忙",
           "py": "máng",
-          "gloss": "busy"
+          "gloss": "busy",
+          "pos": "adj"
         },
         {
           "w": "，",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         },
         {
           "w": "拿",
           "py": "ná",
-          "gloss": "took"
+          "gloss": "took",
+          "pos": "verb"
         },
         {
           "w": "错",
           "py": "cuò",
-          "gloss": "wrong"
+          "gloss": "wrong",
+          "pos": "adj"
         },
         {
           "w": "了",
           "py": "le",
-          "gloss": "(completed)"
+          "gloss": "(completed)",
+          "pos": "part"
         },
         {
           "w": "，",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         },
         {
           "w": "给",
           "py": "gěi",
-          "gloss": "gave"
+          "gloss": "gave",
+          "pos": "verb"
         },
         {
           "w": "了",
           "py": "le",
-          "gloss": "(completed)"
+          "gloss": "(completed)",
+          "pos": "part"
         },
         {
           "w": "他",
           "py": "tā",
-          "gloss": "him"
+          "gloss": "him",
+          "pos": "pron"
         },
         {
           "w": "小",
           "py": "xiǎo",
-          "gloss": "small"
+          "gloss": "small",
+          "pos": "adj"
         },
         {
           "w": "的",
           "py": "de",
-          "gloss": "one"
+          "gloss": "one",
+          "pos": "part"
         },
         {
           "w": "。",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         }
       ]
     },
@@ -298,42 +347,50 @@
         {
           "w": "他",
           "py": "tā",
-          "gloss": "he"
+          "gloss": "he",
+          "pos": "pron"
         },
         {
           "w": "笑",
           "py": "xiào",
-          "gloss": "laughed"
+          "gloss": "laughed",
+          "pos": "verb"
         },
         {
           "w": "了",
           "py": "le",
-          "gloss": "(completed)"
+          "gloss": "(completed)",
+          "pos": "part"
         },
         {
           "w": "，",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         },
         {
           "w": "说",
           "py": "shuō",
-          "gloss": "said"
+          "gloss": "said",
+          "pos": "verb"
         },
         {
           "w": "：“",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         },
         {
           "w": "没关系",
           "py": "méi guān xi",
-          "gloss": "it's okay"
+          "gloss": "it's okay",
+          "pos": "adj"
         },
         {
           "w": "。”",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         }
       ]
     },
@@ -344,27 +401,32 @@
         {
           "w": "我",
           "py": "wǒ",
-          "gloss": "I"
+          "gloss": "I",
+          "pos": "pron"
         },
         {
           "w": "说",
           "py": "shuō",
-          "gloss": "said"
+          "gloss": "said",
+          "pos": "verb"
         },
         {
           "w": "：“",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         },
         {
           "w": "对不起",
           "py": "duì bu qǐ",
-          "gloss": "sorry"
+          "gloss": "sorry",
+          "pos": "verb"
         },
         {
           "w": "！”",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         }
       ]
     },
@@ -375,52 +437,62 @@
         {
           "w": "他",
           "py": "tā",
-          "gloss": "he"
+          "gloss": "he",
+          "pos": "pron"
         },
         {
           "w": "说",
           "py": "shuō",
-          "gloss": "said"
+          "gloss": "said",
+          "pos": "verb"
         },
         {
           "w": "：“",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         },
         {
           "w": "你",
           "py": "nǐ",
-          "gloss": "you"
+          "gloss": "you",
+          "pos": "pron"
         },
         {
           "w": "很",
           "py": "hěn",
-          "gloss": "very"
+          "gloss": "very",
+          "pos": "adv"
         },
         {
           "w": "认真",
           "py": "rèn zhēn",
-          "gloss": "conscientious"
+          "gloss": "conscientious",
+          "pos": "adj"
         },
         {
           "w": "，",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         },
         {
           "w": "谢谢",
           "py": "xiè xie",
-          "gloss": "thank"
+          "gloss": "thank",
+          "pos": "verb"
         },
         {
           "w": "你",
           "py": "nǐ",
-          "gloss": "you"
+          "gloss": "you",
+          "pos": "pron"
         },
         {
           "w": "。”",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         }
       ]
     },
@@ -431,42 +503,50 @@
         {
           "w": "我",
           "py": "wǒ",
-          "gloss": "I"
+          "gloss": "I",
+          "pos": "pron"
         },
         {
           "w": "也",
           "py": "yě",
-          "gloss": "also"
+          "gloss": "also",
+          "pos": "adv"
         },
         {
           "w": "笑",
           "py": "xiào",
-          "gloss": "laughed"
+          "gloss": "laughed",
+          "pos": "verb"
         },
         {
           "w": "了",
           "py": "le",
-          "gloss": "(completed)"
+          "gloss": "(completed)",
+          "pos": "part"
         },
         {
           "w": "，",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         },
         {
           "w": "很",
           "py": "hěn",
-          "gloss": "very"
+          "gloss": "very",
+          "pos": "adv"
         },
         {
           "w": "高兴",
           "py": "gāo xìng",
-          "gloss": "happy"
+          "gloss": "happy",
+          "pos": "adj"
         },
         {
           "w": "。",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         }
       ]
     },
@@ -477,57 +557,68 @@
         {
           "w": "今天",
           "py": "jīn tiān",
-          "gloss": "today"
+          "gloss": "today",
+          "pos": "noun"
         },
         {
           "w": "我",
           "py": "wǒ",
-          "gloss": "I"
+          "gloss": "I",
+          "pos": "pron"
         },
         {
           "w": "知道",
           "py": "zhī dào",
-          "gloss": "learned"
+          "gloss": "learned",
+          "pos": "verb"
         },
         {
           "w": "了",
           "py": "le",
-          "gloss": "(completed)"
+          "gloss": "(completed)",
+          "pos": "part"
         },
         {
           "w": "：",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         },
         {
           "w": "工作",
           "py": "gōng zuò",
-          "gloss": "work"
+          "gloss": "work",
+          "pos": "noun"
         },
         {
           "w": "也",
           "py": "yě",
-          "gloss": "also"
+          "gloss": "also",
+          "pos": "adv"
         },
         {
           "w": "可以",
           "py": "kě yǐ",
-          "gloss": "can"
+          "gloss": "can",
+          "pos": "verb"
         },
         {
           "w": "很",
           "py": "hěn",
-          "gloss": "very"
+          "gloss": "very",
+          "pos": "adv"
         },
         {
           "w": "高兴",
           "py": "gāo xìng",
-          "gloss": "happy"
+          "gloss": "happy",
+          "pos": "adj"
         },
         {
           "w": "。",
           "py": "",
-          "gloss": ""
+          "gloss": "",
+          "pos": ""
         }
       ]
     }

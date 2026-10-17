@@ -8,7 +8,7 @@ import { useLiveQuery } from 'dexie-react-hooks';
 import { db } from '../db/index.ts';
 import type { ProgressRow, Settings, WordStatus } from '../db/types.ts';
 import type { SettingsPatch } from '../hooks/useSettings.ts';
-import type { Sentence, Story, Token } from '../lib/story-schema.ts';
+import type { Pos, Sentence, Story, Token } from '../lib/story-schema.ts';
 import { storyWords } from '../lib/content-sync.ts';
 import { LEVELS, levelBadge } from '../lib/levels.ts';
 import { isInLevelAt } from '../lib/hsk.ts';
@@ -20,6 +20,8 @@ import { pickZhVoice } from '../lib/tts.ts';
 import { useWordRows } from '../hooks/useWordRows.ts';
 import { useHsk } from '../hooks/useHsk.ts';
 import { useSentencePlayer } from '../hooks/useSentencePlayer.ts';
+import { useResolvedTheme } from '../hooks/useResolvedTheme.ts';
+import { posColor } from '../lib/pos-colors.ts';
 import { WordSheet, type WordSelection } from '../components/WordSheet.tsx';
 import { ConfirmDialog } from '../components/ConfirmDialog.tsx';
 import { PlayerBar, SPEEDS } from '../components/PlayerBar.tsx';
@@ -64,6 +66,7 @@ export function Reader({ storyId, settings, onUpdateSettings, onBack }: Props) {
   const hsk = useHsk();
   const ceiling = story ? LEVELS[story.level].hskCeiling : 0;
   const convert = useScriptConverter(settings.script);
+  const resolvedTheme = useResolvedTheme();
   // Speak the authored (simplified) text regardless of display script — the
   // Traditional toggle is cosmetic and TTS engines pronounce both identically,
   // but keeping to one canonical source avoids depending on a given voice's
@@ -137,8 +140,8 @@ export function Reader({ storyId, settings, onUpdateSettings, onBack }: Props) {
   }, []);
 
   const openWord = useCallback(
-    (word: string, context?: { py: string; gloss: string }) => {
-      setSelection({ word, contextPy: context?.py, contextGloss: context?.gloss });
+    (word: string, context?: { py: string; gloss: string; pos?: Pos }) => {
+      setSelection({ word, contextPy: context?.py, contextGloss: context?.gloss, contextPos: context?.pos });
       const now = Date.now();
       void db.words.get(word).then((existing) => {
         const row = existing ?? newWordRow(word, now);
@@ -304,6 +307,8 @@ export function Reader({ storyId, settings, onUpdateSettings, onBack }: Props) {
               pinyinMode={settings.pinyinMode}
               highlightAboveLevel={settings.highlightAboveLevel}
               showStatusColors={settings.showStatusColors}
+              showPosColors={settings.showPosColors}
+              resolvedTheme={resolvedTheme}
               ceiling={ceiling}
               hsk={hsk}
               wordRows={wordRows}
@@ -383,11 +388,13 @@ const SentenceView = forwardRef<
     pinyinMode: Settings['pinyinMode'];
     highlightAboveLevel: boolean;
     showStatusColors: boolean;
+    showPosColors: boolean;
+    resolvedTheme: ReturnType<typeof useResolvedTheme>;
     ceiling: number;
     hsk: ReturnType<typeof useHsk>;
     wordRows: ReturnType<typeof useWordRows>;
     translationVisible: boolean;
-    onTapWord: (word: string, context: { py: string; gloss: string }) => void;
+    onTapWord: (word: string, context: { py: string; gloss: string; pos?: Pos }) => void;
     onToggleTranslation: () => void;
     /** True while this is the sentence the player is speaking — karaoke-style highlight. */
     isSpeaking: boolean;
@@ -402,6 +409,8 @@ const SentenceView = forwardRef<
     pinyinMode,
     highlightAboveLevel,
     showStatusColors,
+    showPosColors,
+    resolvedTheme,
     ceiling,
     hsk,
     wordRows,
@@ -429,6 +438,8 @@ const SentenceView = forwardRef<
             pinyinMode={pinyinMode}
             highlightAboveLevel={highlightAboveLevel}
             showStatusColors={showStatusColors}
+            showPosColors={showPosColors}
+            resolvedTheme={resolvedTheme}
             ceiling={ceiling}
             hsk={hsk}
             wordRows={wordRows}
@@ -463,6 +474,8 @@ function TokenView({
   pinyinMode,
   highlightAboveLevel,
   showStatusColors,
+  showPosColors,
+  resolvedTheme,
   ceiling,
   hsk,
   wordRows,
@@ -473,10 +486,12 @@ function TokenView({
   pinyinMode: Settings['pinyinMode'];
   highlightAboveLevel: boolean;
   showStatusColors: boolean;
+  showPosColors: boolean;
+  resolvedTheme: ReturnType<typeof useResolvedTheme>;
   ceiling: number;
   hsk: ReturnType<typeof useHsk>;
   wordRows: ReturnType<typeof useWordRows>;
-  onTap: (word: string, context: { py: string; gloss: string }) => void;
+  onTap: (word: string, context: { py: string; gloss: string; pos?: Pos }) => void;
 }) {
   const displayText = convert(token.w);
 
@@ -497,14 +512,18 @@ function TokenView({
     decoration = { textDecoration: 'underline dotted', textDecorationColor: 'var(--ink-3)', textUnderlineOffset: '4px' };
   }
 
+  // Independent of the decoration above — one is text colour, the other an
+  // underline style, so both can be on at once without fighting each other.
+  const color = showPosColors && token.pos ? posColor(token.pos, resolvedTheme) : undefined;
+
   return (
     <ruby
       onClick={(e) => {
         e.stopPropagation();
-        onTap(token.w, { py: token.py, gloss: token.gloss });
+        onTap(token.w, { py: token.py, gloss: token.gloss, pos: token.pos || undefined });
       }}
       className="tap mx-0.5 inline-flex cursor-pointer flex-col items-center px-0.5 text-center active:opacity-60"
-      style={decoration}
+      style={{ ...decoration, color }}
     >
       {displayText}
       <rt className="select-none text-[0.45em] font-normal" style={{ color: 'var(--ink-2)', visibility: showPy ? 'visible' : 'hidden' }}>

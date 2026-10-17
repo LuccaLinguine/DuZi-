@@ -8,6 +8,8 @@ import type { Settings as SettingsShape, ThemeMode, Script, PinyinMode } from '.
 import type { SettingsPatch } from '../hooks/useSettings.ts';
 import { LEVEL_LIST } from '../lib/levels.ts';
 import { listZhVoices } from '../lib/tts.ts';
+import { posColor, POS_LABELS, POS_ORDER } from '../lib/pos-colors.ts';
+import { useResolvedTheme } from '../hooks/useResolvedTheme.ts';
 import { Screen, Section, Row } from '../components/Screen.tsx';
 import { About } from './About.tsx';
 import { MarkKnown } from './MarkKnown.tsx';
@@ -141,6 +143,15 @@ export function Settings({ settings, onChange, storageInfo }: Props) {
             />
           </div>
         </Row>
+        <Row label="Colour by grammatical function">
+          <div className="px-4 pb-3">
+            <Toggle
+              checked={settings.showPosColors}
+              onToggle={() => onChange((prev) => ({ showPosColors: !prev.showPosColors }))}
+            />
+          </div>
+          {settings.showPosColors && <PosLegend />}
+        </Row>
       </Section>
 
       <Section title="Audio">
@@ -239,5 +250,23 @@ function Toggle({ checked, onToggle }: { checked: boolean; onToggle: () => void 
         style={{ transform: checked ? 'translateX(22px)' : 'translateX(2px)' }}
       />
     </button>
+  );
+}
+
+function PosLegend() {
+  const resolvedTheme = useResolvedTheme();
+  return (
+    <div className="flex flex-wrap gap-x-3 gap-y-1.5 px-4 pb-3">
+      {POS_ORDER.map((pos) => (
+        <span key={pos} className="flex items-center gap-1.5 text-[12px]" style={{ color: 'var(--ink-2)' }}>
+          <span
+            className="h-2.5 w-2.5 shrink-0 rounded-full"
+            style={{ background: posColor(pos, resolvedTheme) }}
+            aria-hidden="true"
+          />
+          {POS_LABELS[pos]}
+        </span>
+      ))}
+    </div>
   );
 }

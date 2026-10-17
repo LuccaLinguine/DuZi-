@@ -99,17 +99,18 @@ function checkFile(file: string): Report {
     }
   }
 
-  // --- every real word has pinyin and a gloss ----------------------
+  // --- every real word has pinyin, a gloss, and a part of speech ----
   for (const [i, s] of story.sentences.entries()) {
     for (const [j, t] of s.tokens.entries()) {
       if (!isWordToken(t.w)) {
-        if (t.py !== '' || t.gloss !== '') {
-          report.warnings.push(`sentences[${i}].tokens[${j}] ("${t.w}"): punctuation should have empty py and gloss`);
+        if (t.py !== '' || t.gloss !== '' || t.pos !== '') {
+          report.warnings.push(`sentences[${i}].tokens[${j}] ("${t.w}"): punctuation should have empty py, gloss and pos`);
         }
         continue;
       }
       if (t.py.trim() === '') report.errors.push(`sentences[${i}].tokens[${j}] ("${t.w}"): missing pinyin`);
       if (t.gloss.trim() === '') report.errors.push(`sentences[${i}].tokens[${j}] ("${t.w}"): missing gloss`);
+      if (t.pos === '') report.errors.push(`sentences[${i}].tokens[${j}] ("${t.w}"): missing pos`);
     }
   }
 

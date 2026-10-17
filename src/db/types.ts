@@ -183,6 +183,8 @@ export interface Settings {
   highlightAboveLevel: boolean;
   /** Faint per-status colour cue in the reader (§5a, off by default). */
   showStatusColors: boolean;
+  /** Colour words by grammatical function in the reader, off by default. */
+  showPosColors: boolean;
   /** Global "Show translation" toggle — every sentence's English inline. */
   showTranslations: boolean;
 
