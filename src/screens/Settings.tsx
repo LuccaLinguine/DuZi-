@@ -5,6 +5,7 @@
  */
 import { useEffect, useState } from 'react';
 import type { Settings as SettingsShape, ThemeMode, Script, PinyinMode } from '../db/types.ts';
+import type { SettingsPatch } from '../hooks/useSettings.ts';
 import { LEVEL_LIST } from '../lib/levels.ts';
 import { listZhVoices } from '../lib/tts.ts';
 import { Screen, Section, Row } from '../components/Screen.tsx';
@@ -13,7 +14,7 @@ import { MarkKnown } from './MarkKnown.tsx';
 
 interface Props {
   settings: SettingsShape;
-  onChange: (patch: Partial<SettingsShape>) => void;
+  onChange: (patch: SettingsPatch) => void;
   storageInfo: string;
 }
 
@@ -126,12 +127,18 @@ export function Settings({ settings, onChange, storageInfo }: Props) {
         </Row>
         <Row label="Highlight above-level words">
           <div className="px-4 pb-3">
-            <Toggle checked={settings.highlightAboveLevel} onChange={(v) => onChange({ highlightAboveLevel: v })} />
+            <Toggle
+              checked={settings.highlightAboveLevel}
+              onToggle={() => onChange((prev) => ({ highlightAboveLevel: !prev.highlightAboveLevel }))}
+            />
           </div>
         </Row>
         <Row label="Colour cue for learning words">
           <div className="px-4 pb-3">
-            <Toggle checked={settings.showStatusColors} onChange={(v) => onChange({ showStatusColors: v })} />
+            <Toggle
+              checked={settings.showStatusColors}
+              onToggle={() => onChange((prev) => ({ showStatusColors: !prev.showStatusColors }))}
+            />
           </div>
         </Row>
       </Section>
@@ -217,13 +224,13 @@ function Choice({
   );
 }
 
-function Toggle({ checked, onChange }: { checked: boolean; onChange: (v: boolean) => void }) {
+function Toggle({ checked, onToggle }: { checked: boolean; onToggle: () => void }) {
   return (
     <button
       type="button"
       role="switch"
       aria-checked={checked}
-      onClick={() => onChange(!checked)}
+      onClick={onToggle}
       className="tap relative h-7 w-12 rounded-full transition-colors"
       style={{ background: checked ? 'var(--accent)' : 'var(--border)' }}
     >

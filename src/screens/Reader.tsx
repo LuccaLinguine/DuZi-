@@ -7,6 +7,7 @@ import { forwardRef, useCallback, useEffect, useMemo, useRef, useState } from 'r
 import { useLiveQuery } from 'dexie-react-hooks';
 import { db } from '../db/index.ts';
 import type { ProgressRow, Settings, WordStatus } from '../db/types.ts';
+import type { SettingsPatch } from '../hooks/useSettings.ts';
 import type { Sentence, Story, Token } from '../lib/story-schema.ts';
 import { storyWords } from '../lib/content-sync.ts';
 import { LEVELS, levelBadge } from '../lib/levels.ts';
@@ -21,12 +22,12 @@ import { useHsk } from '../hooks/useHsk.ts';
 import { useSentencePlayer } from '../hooks/useSentencePlayer.ts';
 import { WordSheet, type WordSelection } from '../components/WordSheet.tsx';
 import { ConfirmDialog } from '../components/ConfirmDialog.tsx';
-import { PlayerBar } from '../components/PlayerBar.tsx';
+import { PlayerBar, SPEEDS } from '../components/PlayerBar.tsx';
 
 interface Props {
   storyId: string;
   settings: Settings;
-  onUpdateSettings: (patch: Partial<Settings>) => void;
+  onUpdateSettings: (patch: SettingsPatch) => void;
   onBack: () => void;
 }
 
@@ -217,9 +218,11 @@ export function Reader({ storyId, settings, onUpdateSettings, onBack }: Props) {
   );
 
   const cyclePinyinMode = useCallback(() => {
-    const i = PINYIN_CYCLE.indexOf(settings.pinyinMode);
-    onUpdateSettings({ pinyinMode: PINYIN_CYCLE[(i + 1) % PINYIN_CYCLE.length] });
-  }, [settings.pinyinMode, onUpdateSettings]);
+    onUpdateSettings((prev) => {
+      const i = PINYIN_CYCLE.indexOf(prev.pinyinMode);
+      return { pinyinMode: PINYIN_CYCLE[(i + 1) % PINYIN_CYCLE.length] };
+    });
+  }, [onUpdateSettings]);
 
   if (storyRow === undefined) {
     return (
@@ -272,7 +275,7 @@ export function Reader({ storyId, settings, onUpdateSettings, onBack }: Props) {
           </button>
           <button
             type="button"
-            onClick={() => onUpdateSettings({ showTranslations: !settings.showTranslations })}
+            onClick={() => onUpdateSettings((prev) => ({ showTranslations: !prev.showTranslations }))}
             aria-pressed={settings.showTranslations}
             className="tap rounded-lg border px-2 text-[12px] font-medium"
             style={{
@@ -331,7 +334,12 @@ export function Reader({ storyId, settings, onUpdateSettings, onBack }: Props) {
         onPlayPause={() => (player.playing ? player.pause() : player.play())}
         onPrev={player.prev}
         onNext={player.next}
-        onRateChange={(rate) => onUpdateSettings({ speechRate: rate })}
+        onCycleRate={() =>
+          onUpdateSettings((prev) => {
+            const i = SPEEDS.indexOf(prev.speechRate as (typeof SPEEDS)[number]);
+            return { speechRate: SPEEDS[(i === -1 ? 0 : i + 1) % SPEEDS.length]! };
+          })
+        }
       />
 
       <WordSheet

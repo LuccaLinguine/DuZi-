@@ -10,16 +10,17 @@ interface Props {
   onPlayPause: () => void;
   onPrev: () => void;
   onNext: () => void;
-  onRateChange: (rate: number) => void;
+  /**
+   * Advance to the next speed. Takes no argument on purpose: the caller
+   * resolves "current → next" against the live settings value at the moment
+   * it runs (see useSettings's functional patch form), not against a `rate`
+   * prop that may already be stale if this fires again before React
+   * re-renders — which is exactly what happens on a quick double-tap.
+   */
+  onCycleRate: () => void;
 }
 
-export function PlayerBar({ playing, rate, canPrev, canNext, onPlayPause, onPrev, onNext, onRateChange }: Props) {
-  const cycleRate = () => {
-    const i = SPEEDS.indexOf(rate as (typeof SPEEDS)[number]);
-    const next = SPEEDS[(i === -1 ? 0 : i + 1) % SPEEDS.length]!;
-    onRateChange(next);
-  };
-
+export function PlayerBar({ playing, rate, canPrev, canNext, onPlayPause, onPrev, onNext, onCycleRate }: Props) {
   return (
     <div
       className="pb-safe shrink-0 border-t px-3"
@@ -58,7 +59,7 @@ export function PlayerBar({ playing, rate, canPrev, canNext, onPlayPause, onPrev
 
         <button
           type="button"
-          onClick={cycleRate}
+          onClick={onCycleRate}
           aria-label="Playback speed"
           className="tap ml-2 min-w-[52px] rounded-lg border text-[13px] font-medium"
           style={{ borderColor: 'var(--border)' }}

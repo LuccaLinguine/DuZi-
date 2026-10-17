@@ -64,9 +64,16 @@ export class DuziDB extends Dexie {
   }
 
   async putSettings(patch: Partial<Settings>): Promise<Settings> {
-    const next = { ...(await this.getSettings()), ...patch };
-    await this.settings.put({ key: SETTINGS_KEY, value: next });
-    return next;
+    // Read-modify-write, wrapped in a transaction so two concurrent callers
+    // (e.g. a user's settings change racing the content sync's background
+    // `lastSyncAt` write) serialize instead of one silently clobbering the
+    // other's change — IndexedDB queues readwrite transactions on the same
+    // store rather than interleaving them.
+    return this.transaction('rw', this.settings, async () => {
+      const next = { ...(await this.getSettings()), ...patch };
+      await this.settings.put({ key: SETTINGS_KEY, value: next });
+      return next;
+    });
   }
 }
 
