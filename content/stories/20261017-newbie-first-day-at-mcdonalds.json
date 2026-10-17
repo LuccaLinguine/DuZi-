@@ -1,0 +1,589 @@
+{
+  "id": "20261017-newbie-first-day-at-mcdonalds",
+  "series_id": null,
+  "chapter": null,
+  "topic": "Work",
+  "format": "story",
+  "created_at": "2026-10-17",
+  "title_zh": "第一天上班",
+  "title_en": "First Day at Work",
+  "summary_en": "It's the narrator's first day working at McDonald's, and a small mistake with a customer's order turns into a kind moment instead of a disaster.",
+  "level": "newbie",
+  "sentences": [
+    {
+      "zh": "今天是我第一天上班。",
+      "en": "Today is my first day at work.",
+      "tokens": [
+        {
+          "w": "今天",
+          "py": "jīn tiān",
+          "gloss": "today"
+        },
+        {
+          "w": "是",
+          "py": "shì",
+          "gloss": "is"
+        },
+        {
+          "w": "我",
+          "py": "wǒ",
+          "gloss": "my"
+        },
+        {
+          "w": "第一",
+          "py": "dì yī",
+          "gloss": "first"
+        },
+        {
+          "w": "天",
+          "py": "tiān",
+          "gloss": "day"
+        },
+        {
+          "w": "上班",
+          "py": "shàng bān",
+          "gloss": "go to work"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": ""
+        }
+      ]
+    },
+    {
+      "zh": "我在麦当劳工作。",
+      "en": "I work at McDonald's.",
+      "tokens": [
+        {
+          "w": "我",
+          "py": "wǒ",
+          "gloss": "I"
+        },
+        {
+          "w": "在",
+          "py": "zài",
+          "gloss": "at"
+        },
+        {
+          "w": "麦当劳",
+          "py": "Mài dāng láo",
+          "gloss": "McDonald's"
+        },
+        {
+          "w": "工作",
+          "py": "gōng zuò",
+          "gloss": "work"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": ""
+        }
+      ]
+    },
+    {
+      "zh": "我很高兴，也很忙。",
+      "en": "I'm very happy, and also very busy.",
+      "tokens": [
+        {
+          "w": "我",
+          "py": "wǒ",
+          "gloss": "I"
+        },
+        {
+          "w": "很",
+          "py": "hěn",
+          "gloss": "very"
+        },
+        {
+          "w": "高兴",
+          "py": "gāo xìng",
+          "gloss": "happy"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": ""
+        },
+        {
+          "w": "也",
+          "py": "yě",
+          "gloss": "also"
+        },
+        {
+          "w": "很",
+          "py": "hěn",
+          "gloss": "very"
+        },
+        {
+          "w": "忙",
+          "py": "máng",
+          "gloss": "busy"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": ""
+        }
+      ]
+    },
+    {
+      "zh": "一个男人进来了。",
+      "en": "A man came in.",
+      "tokens": [
+        {
+          "w": "一",
+          "py": "yí",
+          "gloss": "a"
+        },
+        {
+          "w": "个",
+          "py": "gè",
+          "gloss": "(measure word)"
+        },
+        {
+          "w": "男人",
+          "py": "nán rén",
+          "gloss": "man"
+        },
+        {
+          "w": "进来",
+          "py": "jìn lái",
+          "gloss": "came in"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(completed)"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": ""
+        }
+      ]
+    },
+    {
+      "zh": "他说：“我要一个汉堡。”",
+      "en": "He said: \"I want a hamburger.\"",
+      "tokens": [
+        {
+          "w": "他",
+          "py": "tā",
+          "gloss": "he"
+        },
+        {
+          "w": "说",
+          "py": "shuō",
+          "gloss": "said"
+        },
+        {
+          "w": "：“",
+          "py": "",
+          "gloss": ""
+        },
+        {
+          "w": "我",
+          "py": "wǒ",
+          "gloss": "I"
+        },
+        {
+          "w": "要",
+          "py": "yào",
+          "gloss": "want"
+        },
+        {
+          "w": "一",
+          "py": "yí",
+          "gloss": "a"
+        },
+        {
+          "w": "个",
+          "py": "gè",
+          "gloss": "(measure word)"
+        },
+        {
+          "w": "汉堡",
+          "py": "hàn bǎo",
+          "gloss": "hamburger"
+        },
+        {
+          "w": "。”",
+          "py": "",
+          "gloss": ""
+        }
+      ]
+    },
+    {
+      "zh": "我很忙，拿错了，给了他小的。",
+      "en": "I was very busy, took it wrong, and gave him the small one.",
+      "tokens": [
+        {
+          "w": "我",
+          "py": "wǒ",
+          "gloss": "I"
+        },
+        {
+          "w": "很",
+          "py": "hěn",
+          "gloss": "very"
+        },
+        {
+          "w": "忙",
+          "py": "máng",
+          "gloss": "busy"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": ""
+        },
+        {
+          "w": "拿",
+          "py": "ná",
+          "gloss": "took"
+        },
+        {
+          "w": "错",
+          "py": "cuò",
+          "gloss": "wrong"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(completed)"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": ""
+        },
+        {
+          "w": "给",
+          "py": "gěi",
+          "gloss": "gave"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(completed)"
+        },
+        {
+          "w": "他",
+          "py": "tā",
+          "gloss": "him"
+        },
+        {
+          "w": "小",
+          "py": "xiǎo",
+          "gloss": "small"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "one"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": ""
+        }
+      ]
+    },
+    {
+      "zh": "他笑了，说：“没关系。”",
+      "en": "He laughed and said: \"It's okay.\"",
+      "tokens": [
+        {
+          "w": "他",
+          "py": "tā",
+          "gloss": "he"
+        },
+        {
+          "w": "笑",
+          "py": "xiào",
+          "gloss": "laughed"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(completed)"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": ""
+        },
+        {
+          "w": "说",
+          "py": "shuō",
+          "gloss": "said"
+        },
+        {
+          "w": "：“",
+          "py": "",
+          "gloss": ""
+        },
+        {
+          "w": "没关系",
+          "py": "méi guān xi",
+          "gloss": "it's okay"
+        },
+        {
+          "w": "。”",
+          "py": "",
+          "gloss": ""
+        }
+      ]
+    },
+    {
+      "zh": "我说：“对不起！”",
+      "en": "I said: \"Sorry!\"",
+      "tokens": [
+        {
+          "w": "我",
+          "py": "wǒ",
+          "gloss": "I"
+        },
+        {
+          "w": "说",
+          "py": "shuō",
+          "gloss": "said"
+        },
+        {
+          "w": "：“",
+          "py": "",
+          "gloss": ""
+        },
+        {
+          "w": "对不起",
+          "py": "duì bu qǐ",
+          "gloss": "sorry"
+        },
+        {
+          "w": "！”",
+          "py": "",
+          "gloss": ""
+        }
+      ]
+    },
+    {
+      "zh": "他说：“你很认真，谢谢你。”",
+      "en": "He said: \"You're very conscientious, thank you.\"",
+      "tokens": [
+        {
+          "w": "他",
+          "py": "tā",
+          "gloss": "he"
+        },
+        {
+          "w": "说",
+          "py": "shuō",
+          "gloss": "said"
+        },
+        {
+          "w": "：“",
+          "py": "",
+          "gloss": ""
+        },
+        {
+          "w": "你",
+          "py": "nǐ",
+          "gloss": "you"
+        },
+        {
+          "w": "很",
+          "py": "hěn",
+          "gloss": "very"
+        },
+        {
+          "w": "认真",
+          "py": "rèn zhēn",
+          "gloss": "conscientious"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": ""
+        },
+        {
+          "w": "谢谢",
+          "py": "xiè xie",
+          "gloss": "thank"
+        },
+        {
+          "w": "你",
+          "py": "nǐ",
+          "gloss": "you"
+        },
+        {
+          "w": "。”",
+          "py": "",
+          "gloss": ""
+        }
+      ]
+    },
+    {
+      "zh": "我也笑了，很高兴。",
+      "en": "I laughed too, very happy.",
+      "tokens": [
+        {
+          "w": "我",
+          "py": "wǒ",
+          "gloss": "I"
+        },
+        {
+          "w": "也",
+          "py": "yě",
+          "gloss": "also"
+        },
+        {
+          "w": "笑",
+          "py": "xiào",
+          "gloss": "laughed"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(completed)"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": ""
+        },
+        {
+          "w": "很",
+          "py": "hěn",
+          "gloss": "very"
+        },
+        {
+          "w": "高兴",
+          "py": "gāo xìng",
+          "gloss": "happy"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": ""
+        }
+      ]
+    },
+    {
+      "zh": "今天我知道了：工作也可以很高兴。",
+      "en": "Today I learned: work can also be very happy.",
+      "tokens": [
+        {
+          "w": "今天",
+          "py": "jīn tiān",
+          "gloss": "today"
+        },
+        {
+          "w": "我",
+          "py": "wǒ",
+          "gloss": "I"
+        },
+        {
+          "w": "知道",
+          "py": "zhī dào",
+          "gloss": "learned"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(completed)"
+        },
+        {
+          "w": "：",
+          "py": "",
+          "gloss": ""
+        },
+        {
+          "w": "工作",
+          "py": "gōng zuò",
+          "gloss": "work"
+        },
+        {
+          "w": "也",
+          "py": "yě",
+          "gloss": "also"
+        },
+        {
+          "w": "可以",
+          "py": "kě yǐ",
+          "gloss": "can"
+        },
+        {
+          "w": "很",
+          "py": "hěn",
+          "gloss": "very"
+        },
+        {
+          "w": "高兴",
+          "py": "gāo xìng",
+          "gloss": "happy"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": ""
+        }
+      ]
+    }
+  ],
+  "new_words": [
+    {
+      "w": "可以",
+      "py": "kě yǐ",
+      "gloss": "can, to be able to"
+    },
+    {
+      "w": "麦当劳",
+      "py": "Mài dāng láo",
+      "gloss": "McDonald's (restaurant chain)"
+    },
+    {
+      "w": "汉堡",
+      "py": "hàn bǎo",
+      "gloss": "hamburger"
+    }
+  ],
+  "grammar_points": [
+    {
+      "pattern": "在 + place + verb",
+      "explanation_en": "在 before a place names where an action happens, and goes right before the verb — not after it the way \"at\" often lands in English.",
+      "example_zh": "她在学校学习。",
+      "example_en": "She studies at school."
+    },
+    {
+      "pattern": "给 + person + thing",
+      "explanation_en": "给 (\"to give\") takes the receiver right after it, then the thing given — 给了他小的 is \"gave him the small one.\"",
+      "example_zh": "我给了他一本书。",
+      "example_en": "I gave him a book."
+    },
+    {
+      "pattern": "verb + 了",
+      "explanation_en": "了 right after a verb marks that the action is complete: 进来了 is \"came in (and is now here)\", 笑了 is \"laughed (just now)\".",
+      "example_zh": "他来了。",
+      "example_en": "He has arrived."
+    }
+  ],
+  "questions": [
+    {
+      "q_zh": "今天是什么日子？",
+      "q_en": "What day is it today?",
+      "answer_en": "The narrator's first day at work."
+    },
+    {
+      "q_zh": "男人要什么？",
+      "q_en": "What did the man want?",
+      "answer_en": "A hamburger."
+    },
+    {
+      "q_zh": "男人生气了吗？",
+      "q_en": "Was the man angry about the mistake?",
+      "answer_en": "No — he laughed, said it was okay, and thanked her for being conscientious."
+    }
+  ]
+}
