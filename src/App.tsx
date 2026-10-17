@@ -1,4 +1,4 @@
-import { useCallback, useEffect, useState } from 'react';
+import { useCallback, useEffect, useState, type ReactNode } from 'react';
 import { useLiveQuery } from 'dexie-react-hooks';
 import { db, requestPersistence } from './db/index.ts';
 import { TabBar, type Tab } from './components/TabBar.tsx';
@@ -11,6 +11,7 @@ import { Requests } from './screens/Requests.tsx';
 import { Settings } from './screens/Settings.tsx';
 import { useSettings } from './hooks/useSettings.ts';
 import { useContentSync, syncMessage } from './hooks/useContentSync.ts';
+import { useServiceWorkerUpdate } from './hooks/useServiceWorkerUpdate.ts';
 
 export function App() {
   const { settings, update, ready } = useSettings();
@@ -18,6 +19,7 @@ export function App() {
   const [openStoryId, setOpenStoryId] = useState<string | null>(null);
   const [toast, setToast] = useState<string | null>(null);
   const [storageInfo, setStorageInfo] = useState('—');
+  const { needsRefresh, applyUpdate } = useServiceWorkerUpdate();
 
   // Only sync once settings have loaded, so the sync can record lastSyncAt
   // against the real stored row rather than the defaults.
@@ -58,31 +60,51 @@ export function App() {
 
   const clearToast = useCallback(() => setToast(null), []);
 
+  // A new deploy means this tab is running stale code against a stale
+  // cached manifest — new stories, fixes, everything — until the user acts
+  // on this. It has to reach them no matter which screen is up, so it's
+  // layered on top of every branch below rather than living inside one.
+  const updatePrompt = needsRefresh ? (
+    <Toast
+      message="A new version is ready."
+      action={{ label: 'Reload', onClick: applyUpdate }}
+      onDone={() => {}}
+      position="high"
+    />
+  ) : null;
+
+  const wrap = (node: ReactNode) => (
+    <>
+      {node}
+      {updatePrompt}
+    </>
+  );
+
   if (!ready) {
-    return <div className="flex h-full items-center justify-center" style={{ background: 'var(--bg)' }} />;
+    return wrap(<div className="flex h-full items-center justify-center" style={{ background: 'var(--bg)' }} />);
   }
 
   if (!settings.onboarded) {
-    return (
+    return wrap(
       <Onboarding
         initialLevel={settings.defaultLevel}
         onFinish={(level) => update({ defaultLevel: level, onboarded: true })}
-      />
+      />,
     );
   }
 
   if (openStoryId) {
-    return (
+    return wrap(
       <Reader
         storyId={openStoryId}
         settings={settings}
         onUpdateSettings={update}
         onBack={() => setOpenStoryId(null)}
-      />
+      />,
     );
   }
 
-  return (
+  return wrap(
     <div className="flex h-full flex-col">
       <main className="flex min-h-0 flex-1 flex-col">
         {tab === 'library' && <Library onGoTo={setTab} onOpenStory={setOpenStoryId} />}
@@ -109,6 +131,6 @@ export function App() {
       </main>
       <TabBar active={tab} onChange={setTab} dueCount={dueCount} />
       {toast && <Toast message={toast} onDone={clearToast} />}
-    </div>
+    </div>,
   );
 }
