@@ -18,8 +18,10 @@ import { computeWordCounts, formatWordCounts } from '../lib/word-counts.ts';
 import { pickZhVoice } from '../lib/tts.ts';
 import { useWordRows } from '../hooks/useWordRows.ts';
 import { useHsk } from '../hooks/useHsk.ts';
+import { useSentencePlayer } from '../hooks/useSentencePlayer.ts';
 import { WordSheet, type WordSelection } from '../components/WordSheet.tsx';
 import { ConfirmDialog } from '../components/ConfirmDialog.tsx';
+import { PlayerBar } from '../components/PlayerBar.tsx';
 
 interface Props {
   storyId: string;
@@ -60,6 +62,11 @@ export function Reader({ storyId, settings, onUpdateSettings, onBack }: Props) {
   const hsk = useHsk();
   const ceiling = story ? LEVELS[story.level].hskCeiling : 0;
   const convert = useScriptConverter(settings.script);
+  // Speak the authored (simplified) text regardless of display script — the
+  // Traditional toggle is cosmetic and TTS engines pronounce both identically,
+  // but keeping to one canonical source avoids depending on a given voice's
+  // Traditional-character support.
+  const sentenceTexts = useMemo(() => story?.sentences.map((s) => s.zh) ?? [], [story]);
 
   const [progress, setProgress] = useState<ProgressRow | null>(null);
   const [selection, setSelection] = useState<WordSelection | null>(null);
@@ -67,6 +74,7 @@ export function Reader({ storyId, settings, onUpdateSettings, onBack }: Props) {
   const [confirmMarkRead, setConfirmMarkRead] = useState(false);
   const [revealedAnswers, setRevealedAnswers] = useState<Set<number>>(new Set());
   const [voice, setVoice] = useState<SpeechSynthesisVoice | null>(null);
+  const player = useSentencePlayer(sentenceTexts, voice, settings.speechRate);
 
   const scrollRef = useRef<HTMLDivElement>(null);
   const sentenceRefs = useRef<(HTMLDivElement | null)[]>([]);
@@ -95,6 +103,12 @@ export function Reader({ storyId, settings, onUpdateSettings, onBack }: Props) {
     }
     restoredScroll.current = true;
   }, [progress, story]);
+
+  // Keep the speaking sentence in view as playback advances.
+  useEffect(() => {
+    if (player.currentIndex === null) return;
+    sentenceRefs.current[player.currentIndex]?.scrollIntoView({ behavior: 'smooth', block: 'center' });
+  }, [player.currentIndex]);
 
   const persistProgress = useCallback((next: ProgressRow) => {
     setProgress(next);
@@ -292,6 +306,8 @@ export function Reader({ storyId, settings, onUpdateSettings, onBack }: Props) {
               translationVisible={settings.showTranslations || revealedSentences.has(i)}
               onTapWord={openWord}
               onToggleTranslation={() => toggleTranslation(i)}
+              isSpeaking={player.currentIndex === i}
+              onTapSentence={player.playing ? () => player.jumpTo(i) : undefined}
             />
           ))}
 
@@ -306,6 +322,17 @@ export function Reader({ storyId, settings, onUpdateSettings, onBack }: Props) {
           />
         </div>
       </div>
+
+      <PlayerBar
+        playing={player.playing}
+        rate={settings.speechRate}
+        canPrev={(player.currentIndex ?? 0) > 0}
+        canNext={player.currentIndex === null || player.currentIndex < sentenceTexts.length - 1}
+        onPlayPause={() => (player.playing ? player.pause() : player.play())}
+        onPrev={player.prev}
+        onNext={player.next}
+        onRateChange={(rate) => onUpdateSettings({ speechRate: rate })}
+      />
 
       <WordSheet
         selection={selection}
@@ -353,6 +380,10 @@ const SentenceView = forwardRef<
     translationVisible: boolean;
     onTapWord: (word: string, context: { py: string; gloss: string }) => void;
     onToggleTranslation: () => void;
+    /** True while this is the sentence the player is speaking — karaoke-style highlight. */
+    isSpeaking: boolean;
+    /** Set only while playing; tapping the sentence then jumps playback here. */
+    onTapSentence: (() => void) | undefined;
   }
 >(function SentenceView(
   {
@@ -368,11 +399,18 @@ const SentenceView = forwardRef<
     translationVisible,
     onTapWord,
     onToggleTranslation,
+    isSpeaking,
+    onTapSentence,
   },
   ref,
 ) {
   return (
-    <div ref={ref} className="mb-5">
+    <div
+      ref={ref}
+      onClick={onTapSentence}
+      className="mb-5 rounded-lg px-1 py-0.5 -mx-1 transition-colors"
+      style={{ background: isSpeaking ? 'var(--accent-soft)' : 'transparent' }}
+    >
       <p className="han flex flex-wrap items-end" style={{ fontSize, lineHeight: 2.1 }}>
         {sentence.tokens.map((t, j) => (
           <TokenView
@@ -390,7 +428,10 @@ const SentenceView = forwardRef<
         ))}
         <button
           type="button"
-          onClick={onToggleTranslation}
+          onClick={(e) => {
+            e.stopPropagation();
+            onToggleTranslation();
+          }}
           aria-label="Toggle translation"
           className="tap ml-1 inline-flex items-center justify-center self-center text-[13px]"
           style={{ color: 'var(--ink-3)' }}
@@ -449,7 +490,10 @@ function TokenView({
 
   return (
     <ruby
-      onClick={() => onTap(token.w, { py: token.py, gloss: token.gloss })}
+      onClick={(e) => {
+        e.stopPropagation();
+        onTap(token.w, { py: token.py, gloss: token.gloss });
+      }}
       className="tap mx-0.5 inline-flex cursor-pointer flex-col items-center px-0.5 text-center active:opacity-60"
       style={decoration}
     >

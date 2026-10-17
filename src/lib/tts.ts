@@ -1,7 +1,7 @@
 /**
- * A single-word "speak this" for the word sheet. The sentence-by-sentence
- * player with highlighting and speed control is phase 3 — this is just
- * enough Web Speech API to let the word sheet's speaker button work.
+ * Web Speech API wrapper shared by the word sheet's single-word speaker
+ * button and the reader's sentence-by-sentence player (spec section 5,
+ * "Audio").
  *
  * iOS quirks handled here: voices load asynchronously (sometimes after
  * `getVoices()` first returns empty), and `speak()` must be called
@@ -48,16 +48,39 @@ export async function listZhVoices(): Promise<SpeechSynthesisVoice[]> {
   return voices.filter((v) => v.lang.toLowerCase().startsWith('zh'));
 }
 
+export interface SpeakHandlers {
+  /** Fires when the utterance finishes normally — the cue to advance. */
+  onEnd?: () => void;
+  /** Fires on failure, and also when `speak()` cancels a prior utterance. */
+  onError?: () => void;
+}
+
 /**
- * Speak one short string. Must be invoked directly from a click/tap handler
- * (not after an intervening `await`) the first time in a session, or iOS
- * Safari will refuse to produce audio.
+ * Speak one string. Must be invoked directly from a click/tap handler (not
+ * after an intervening `await`) the first time in a session, or iOS Safari
+ * will refuse to produce audio.
+ *
+ * Always cancels whatever was speaking first, so callers never need to do
+ * their own bookkeeping to avoid overlapping utterances — the sentence
+ * player relies on this to jump mid-playback.
  */
-export function speak(text: string, voice: SpeechSynthesisVoice | null, rate = 1): void {
+export function speak(
+  text: string,
+  voice: SpeechSynthesisVoice | null,
+  rate = 1,
+  handlers?: SpeakHandlers,
+): void {
   speechSynthesis.cancel();
   const utter = new SpeechSynthesisUtterance(text);
   if (voice) utter.voice = voice;
   utter.lang = voice?.lang ?? 'zh-CN';
   utter.rate = rate;
+  if (handlers?.onEnd) utter.onend = handlers.onEnd;
+  if (handlers?.onError) utter.onerror = handlers.onError;
   speechSynthesis.speak(utter);
+}
+
+/** Stop whatever is currently speaking, firing its `onerror`, not `onend`. */
+export function stopSpeaking(): void {
+  speechSynthesis.cancel();
 }
