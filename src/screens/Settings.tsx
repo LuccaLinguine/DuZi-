@@ -1,12 +1,15 @@
 /**
- * Phase 1 carries the parts of spec §10 that already have something to show:
- * theme, script, font size, and the About screen with data attribution.
- * Thresholds, voices, card modes and backup land with their features.
+ * Spec section 10. Flashcard modes, backup and export/import land with their
+ * features in later phases; everything else that has something to show now
+ * lives here.
  */
-import { useState } from 'react';
-import type { Settings as SettingsShape, ThemeMode, Script } from '../db/types.ts';
+import { useEffect, useState } from 'react';
+import type { Settings as SettingsShape, ThemeMode, Script, PinyinMode } from '../db/types.ts';
+import { LEVEL_LIST } from '../lib/levels.ts';
+import { listZhVoices } from '../lib/tts.ts';
 import { Screen, Section, Row } from '../components/Screen.tsx';
 import { About } from './About.tsx';
+import { MarkKnown } from './MarkKnown.tsx';
 
 interface Props {
   settings: SettingsShape;
@@ -26,14 +29,59 @@ const SCRIPTS: { id: Script; label: string }[] = [
   { id: 'traditional', label: '繁體' },
 ];
 
-export function Settings({ settings, onChange, storageInfo }: Props) {
-  const [showAbout, setShowAbout] = useState(false);
+const PINYIN_MODES: { id: PinyinMode; label: string }[] = [
+  { id: 'smart', label: 'Smart' },
+  { id: 'all', label: 'All' },
+  { id: 'above', label: 'Above level' },
+  { id: 'off', label: 'Off' },
+];
 
-  if (showAbout) return <About onBack={() => setShowAbout(false)} />;
+type SubScreen = 'about' | 'mark-known' | null;
+
+export function Settings({ settings, onChange, storageInfo }: Props) {
+  const [sub, setSub] = useState<SubScreen>(null);
+  const [voices, setVoices] = useState<SpeechSynthesisVoice[]>([]);
+
+  useEffect(() => {
+    void listZhVoices().then(setVoices);
+  }, []);
+
+  if (sub === 'about') return <About onBack={() => setSub(null)} />;
+  if (sub === 'mark-known') {
+    return <MarkKnown defaultLevel={settings.defaultLevel} onBack={() => setSub(null)} />;
+  }
 
   return (
     <Screen title="Settings">
+      <Section title="Level">
+        <Row label="Default level">
+          <div className="flex flex-wrap gap-2 px-4 pb-3">
+            {LEVEL_LIST.map((l) => (
+              <Choice
+                key={l.id}
+                label={l.name}
+                selected={settings.defaultLevel === l.id}
+                onSelect={() => onChange({ defaultLevel: l.id })}
+              />
+            ))}
+          </div>
+        </Row>
+        <Row label="Mark words as known" value="›" onClick={() => setSub('mark-known')} />
+      </Section>
+
       <Section title="Reading">
+        <Row label="Pinyin">
+          <div className="flex flex-wrap gap-2 px-4 pb-3">
+            {PINYIN_MODES.map((m) => (
+              <Choice
+                key={m.id}
+                label={m.label}
+                selected={settings.pinyinMode === m.id}
+                onSelect={() => onChange({ pinyinMode: m.id })}
+              />
+            ))}
+          </div>
+        </Row>
         <Row label="Theme">
           <div className="flex gap-2 px-4 pb-3">
             {THEMES.map((t) => (
@@ -76,6 +124,56 @@ export function Settings({ settings, onChange, storageInfo }: Props) {
             </p>
           </div>
         </Row>
+        <Row label="Highlight above-level words">
+          <div className="px-4 pb-3">
+            <Toggle checked={settings.highlightAboveLevel} onChange={(v) => onChange({ highlightAboveLevel: v })} />
+          </div>
+        </Row>
+        <Row label="Colour cue for learning words">
+          <div className="px-4 pb-3">
+            <Toggle checked={settings.showStatusColors} onChange={(v) => onChange({ showStatusColors: v })} />
+          </div>
+        </Row>
+      </Section>
+
+      <Section title="Audio">
+        <Row label="Voice" value={voices.length === 0 ? 'none found' : undefined}>
+          {voices.length > 0 && (
+            <div className="px-4 pb-3">
+              <select
+                value={settings.voiceURI ?? ''}
+                onChange={(e) => onChange({ voiceURI: e.target.value || null })}
+                className="w-full rounded-lg border px-3 py-2 text-[14px]"
+                style={{ borderColor: 'var(--border)', background: 'var(--surface)' }}
+              >
+                <option value="">Best available</option>
+                {voices.map((v) => (
+                  <option key={v.voiceURI} value={v.voiceURI}>
+                    {v.name} ({v.lang})
+                  </option>
+                ))}
+              </select>
+            </div>
+          )}
+        </Row>
+      </Section>
+
+      <Section title="Word memory">
+        <Row label="Graduate to known after" value={`${settings.graduateAfterStories} stories`}>
+          <div className="flex items-center gap-3 px-4 pb-3">
+            <input
+              type="range"
+              min={1}
+              max={10}
+              step={1}
+              value={settings.graduateAfterStories}
+              onChange={(e) => onChange({ graduateAfterStories: Number(e.target.value) })}
+              className="w-full"
+              style={{ accentColor: 'var(--accent)' }}
+              aria-label="Stories seen without a lookup before a word graduates to known"
+            />
+          </div>
+        </Row>
       </Section>
 
       <Section title="Storage">
@@ -83,12 +181,11 @@ export function Settings({ settings, onChange, storageInfo }: Props) {
       </Section>
 
       <Section title="About">
-        <Row label="Data sources and licences" value="›" onClick={() => setShowAbout(true)} />
+        <Row label="Data sources and licences" value="›" onClick={() => setSub('about')} />
       </Section>
 
       <p className="px-5 py-6 text-[12px]" style={{ color: 'var(--ink-3)' }}>
-        读字 Dúzì · phase 1. Flashcards, stats, backup and the word-memory thresholds arrive with
-        their features.
+        读字 Dúzì · phase 2. Flashcards, stats, backup and series arrive with their features.
       </p>
     </Screen>
   );
@@ -116,6 +213,24 @@ function Choice({
       }}
     >
       {label}
+    </button>
+  );
+}
+
+function Toggle({ checked, onChange }: { checked: boolean; onChange: (v: boolean) => void }) {
+  return (
+    <button
+      type="button"
+      role="switch"
+      aria-checked={checked}
+      onClick={() => onChange(!checked)}
+      className="tap relative h-7 w-12 rounded-full transition-colors"
+      style={{ background: checked ? 'var(--accent)' : 'var(--border)' }}
+    >
+      <span
+        className="absolute top-0.5 h-6 w-6 rounded-full bg-white shadow transition-transform"
+        style={{ transform: checked ? 'translateX(22px)' : 'translateX(2px)' }}
+      />
     </button>
   );
 }

@@ -5,6 +5,7 @@ import {
   shardFor,
   packEntry,
   unpackEntry,
+  primaryEntry,
   CEDICT_SHARDS,
 } from './cedict-parse.ts';
 
@@ -87,5 +88,27 @@ describe('pack/unpack', () => {
       py: 'shū',
       defs: ['book', 'letter', 'to write'],
     });
+  });
+});
+
+describe('primaryEntry', () => {
+  it('prefers the entry whose traditional form matches the simplified query', () => {
+    const entries = [
+      { trad: '傢', py: 'jiā', defs: ['used in 傢伙'] },
+      { trad: '家', py: 'jiā', defs: ['home/family'] },
+    ];
+    expect(primaryEntry('家', entries)?.defs).toEqual(['home/family']);
+  });
+
+  it('falls back to the first entry when none match exactly', () => {
+    const entries = [
+      { trad: '乾', py: 'gān', defs: ['dry'] },
+      { trad: '幹', py: 'gàn', defs: ['to do'] },
+    ];
+    expect(primaryEntry('干', entries)).toBe(entries[0]);
+  });
+
+  it('returns undefined for no entries', () => {
+    expect(primaryEntry('家', [])).toBeUndefined();
   });
 });

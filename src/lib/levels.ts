@@ -54,3 +54,12 @@ export function levelBadge(id: LevelId): string {
   const { hskCeiling } = LEVELS[id];
   return hskCeiling >= 9 ? 'HSK 6+' : `HSK ${hskCeiling}`;
 }
+
+/**
+ * "HSK 1–N" for the bulk "mark as known" pickers, collapsing to "HSK 1" when
+ * the range is a single band rather than printing "HSK 1–1".
+ */
+export function hskRangeLabel(ceiling: number): string {
+  const top = ceiling >= 9 ? '6+' : String(ceiling);
+  return ceiling <= 1 ? `HSK ${top}` : `HSK 1–${top}`;
+}

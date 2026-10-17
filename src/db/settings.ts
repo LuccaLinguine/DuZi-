@@ -11,6 +11,7 @@ export const DEFAULT_SETTINGS: Settings = {
   theme: 'system',
   highlightAboveLevel: true,
   showStatusColors: false,
+  showTranslations: false,
 
   graduateAfterStories: 3,
   graduateAtStabilityDays: 21,

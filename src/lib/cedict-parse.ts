@@ -105,3 +105,18 @@ export interface DictEntry {
 export function unpackEntry(p: PackedEntry): DictEntry {
   return { trad: p[0], py: p[1], defs: p[2].split('/').filter(Boolean) };
 }
+
+/**
+ * The entry to show when only one fits (the character-breakdown chip's short
+ * gloss, a headword's headline pinyin). Several simplified headwords collapse
+ * two distinct traditional characters into one CC-CEDICT key — 家 (home,
+ * common) and 傢 (a bound form used only in 傢伙/傢俱, rare) both simplify to
+ * 家 — and the rare one isn't reliably last, so entries[0] is not safe to
+ * assume is the common reading. An entry whose traditional form is unchanged
+ * from the simplified query is the modern, undifferentiated character, which
+ * is the one a learner means; entries that only exist because of a
+ * simplification are the secondary ones.
+ */
+export function primaryEntry(word: string, entries: readonly DictEntry[]): DictEntry | undefined {
+  return entries.find((e) => e.trad === word) ?? entries[0];
+}

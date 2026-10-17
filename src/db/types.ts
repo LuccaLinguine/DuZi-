@@ -64,8 +64,6 @@ export interface WordRow {
   lastLookedUp: number | null;
   /** Flashcard id, when this word has been saved for review. */
   cardId: string | null;
-  /** True when the status was set by hand and should not be auto-changed. */
-  pinned?: boolean;
 }
 
 /* ---------------- flashcards ---------------- */
@@ -178,6 +176,8 @@ export interface Settings {
   highlightAboveLevel: boolean;
   /** Faint per-status colour cue in the reader (§5a, off by default). */
   showStatusColors: boolean;
+  /** Global "Show translation" toggle — every sentence's English inline. */
+  showTranslations: boolean;
 
   /* word memory thresholds (§5a) */
   /** Stories seen without a lookup before a word graduates to `known`. */
