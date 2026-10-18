@@ -1,0 +1,2302 @@
+{
+  "id": "20261018-advanced-shared-bikes",
+  "series_id": null,
+  "chapter": null,
+  "topic": "News-style",
+  "format": "article",
+  "created_at": "2026-10-18",
+  "ai_generated": true,
+  "title_zh": "共享单车改变了城市出行",
+  "title_en": "Shared Bikes Have Changed Urban Transportation",
+  "summary_en": "Shared bikes have solved commuters’ \"last mile\" problem and cut pollution citywide — but careless parking and slow repairs are problems companies are now trying to solve with real-time tracking.",
+  "level": "advanced",
+  "sentences": [
+    {
+      "zh": "最近几年，共享单车在很多城市变得越来越常见。",
+      "en": "In recent years, shared bikes have become more and more common in many cities.",
+      "tokens": [
+        {
+          "w": "最近",
+          "py": "zuì jìn",
+          "gloss": "recently",
+          "pos": "noun"
+        },
+        {
+          "w": "几",
+          "py": "jǐ",
+          "gloss": "several",
+          "pos": "quant"
+        },
+        {
+          "w": "年",
+          "py": "nián",
+          "gloss": "years",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "共享",
+          "py": "gòng xiǎng",
+          "gloss": "shared",
+          "pos": "adj"
+        },
+        {
+          "w": "单车",
+          "py": "dān chē",
+          "gloss": "bikes",
+          "pos": "noun"
+        },
+        {
+          "w": "在",
+          "py": "zài",
+          "gloss": "in",
+          "pos": "conn"
+        },
+        {
+          "w": "很多",
+          "py": "hěn duō",
+          "gloss": "many",
+          "pos": "adj"
+        },
+        {
+          "w": "城市",
+          "py": "chéng shì",
+          "gloss": "cities",
+          "pos": "noun"
+        },
+        {
+          "w": "变得",
+          "py": "biàn de",
+          "gloss": "have become",
+          "pos": "verb"
+        },
+        {
+          "w": "越来越",
+          "py": "yuè lái yuè",
+          "gloss": "more and more",
+          "pos": "adv"
+        },
+        {
+          "w": "常见",
+          "py": "cháng jiàn",
+          "gloss": "common",
+          "pos": "adj"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "只要用手机扫码，就能马上解锁，骑到想去的地方。",
+      "en": "You only need to scan the code on the bike with your phone, and you can unlock it immediately and ride to wherever you want to go.",
+      "tokens": [
+        {
+          "w": "只要",
+          "py": "zhǐ yào",
+          "gloss": "only need",
+          "pos": "conn"
+        },
+        {
+          "w": "用",
+          "py": "yòng",
+          "gloss": "use",
+          "pos": "verb"
+        },
+        {
+          "w": "手机",
+          "py": "shǒu jī",
+          "gloss": "phone",
+          "pos": "noun"
+        },
+        {
+          "w": "扫码",
+          "py": "sǎo mǎ",
+          "gloss": "scan the code",
+          "pos": "verb"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "就",
+          "py": "jiù",
+          "gloss": "then",
+          "pos": "adv"
+        },
+        {
+          "w": "能",
+          "py": "néng",
+          "gloss": "can",
+          "pos": "verb"
+        },
+        {
+          "w": "马上",
+          "py": "mǎ shàng",
+          "gloss": "immediately",
+          "pos": "adv"
+        },
+        {
+          "w": "解锁",
+          "py": "jiě suǒ",
+          "gloss": "unlock it",
+          "pos": "verb"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "骑",
+          "py": "qí",
+          "gloss": "ride",
+          "pos": "verb"
+        },
+        {
+          "w": "到",
+          "py": "dào",
+          "gloss": "to",
+          "pos": "conn"
+        },
+        {
+          "w": "想",
+          "py": "xiǎng",
+          "gloss": "want",
+          "pos": "verb"
+        },
+        {
+          "w": "去",
+          "py": "qù",
+          "gloss": "to go",
+          "pos": "verb"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(nominaliser)",
+          "pos": "part"
+        },
+        {
+          "w": "地方",
+          "py": "dì fāng",
+          "gloss": "place",
+          "pos": "noun"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "用完以后，把车停在合适的地方，再用手机结束行程就可以了。",
+      "en": "After using it, park the bike in a suitable spot, then end the trip on your phone and that's it.",
+      "tokens": [
+        {
+          "w": "用",
+          "py": "yòng",
+          "gloss": "using",
+          "pos": "verb"
+        },
+        {
+          "w": "完",
+          "py": "wán",
+          "gloss": "finished",
+          "pos": "verb"
+        },
+        {
+          "w": "以后",
+          "py": "yǐ hòu",
+          "gloss": "after",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "把",
+          "py": "bǎ",
+          "gloss": "(object marker)",
+          "pos": "conn"
+        },
+        {
+          "w": "车",
+          "py": "chē",
+          "gloss": "the bike",
+          "pos": "noun"
+        },
+        {
+          "w": "停",
+          "py": "tíng",
+          "gloss": "park",
+          "pos": "verb"
+        },
+        {
+          "w": "在",
+          "py": "zài",
+          "gloss": "at",
+          "pos": "conn"
+        },
+        {
+          "w": "合适",
+          "py": "hé shì",
+          "gloss": "suitable",
+          "pos": "adj"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(nominaliser)",
+          "pos": "part"
+        },
+        {
+          "w": "地方",
+          "py": "dì fāng",
+          "gloss": "spot",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "再",
+          "py": "zài",
+          "gloss": "then",
+          "pos": "adv"
+        },
+        {
+          "w": "用",
+          "py": "yòng",
+          "gloss": "use",
+          "pos": "verb"
+        },
+        {
+          "w": "手机",
+          "py": "shǒu jī",
+          "gloss": "your phone",
+          "pos": "noun"
+        },
+        {
+          "w": "结束",
+          "py": "jié shù",
+          "gloss": "end",
+          "pos": "verb"
+        },
+        {
+          "w": "行程",
+          "py": "xíng chéng",
+          "gloss": "the trip",
+          "pos": "noun"
+        },
+        {
+          "w": "就",
+          "py": "jiù",
+          "gloss": "then",
+          "pos": "adv"
+        },
+        {
+          "w": "可以",
+          "py": "kě yǐ",
+          "gloss": "can",
+          "pos": "verb"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(change of state)",
+          "pos": "part"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "不用办手续，也不用交押金，比以前方便多了。",
+      "en": "No need for paperwork, no need to pay a deposit — much more convenient than before.",
+      "tokens": [
+        {
+          "w": "不用",
+          "py": "bú yòng",
+          "gloss": "no need to",
+          "pos": "verb"
+        },
+        {
+          "w": "办",
+          "py": "bàn",
+          "gloss": "go through",
+          "pos": "verb"
+        },
+        {
+          "w": "手续",
+          "py": "shǒu xù",
+          "gloss": "procedures",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "也",
+          "py": "yě",
+          "gloss": "also",
+          "pos": "adv"
+        },
+        {
+          "w": "不用",
+          "py": "bú yòng",
+          "gloss": "no need to",
+          "pos": "verb"
+        },
+        {
+          "w": "交",
+          "py": "jiāo",
+          "gloss": "pay",
+          "pos": "verb"
+        },
+        {
+          "w": "押金",
+          "py": "yā jīn",
+          "gloss": "a deposit",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "比",
+          "py": "bǐ",
+          "gloss": "compared to",
+          "pos": "conn"
+        },
+        {
+          "w": "以前",
+          "py": "yǐ qián",
+          "gloss": "before",
+          "pos": "noun"
+        },
+        {
+          "w": "方便",
+          "py": "fāng biàn",
+          "gloss": "convenient",
+          "pos": "adj"
+        },
+        {
+          "w": "多",
+          "py": "duō",
+          "gloss": "much",
+          "pos": "adv"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(change of state)",
+          "pos": "part"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "对很多上班族来说，共享单车解决了“最后一公里”的问题。",
+      "en": "For many office workers, shared bikes solve the \"last mile\" problem.",
+      "tokens": [
+        {
+          "w": "对",
+          "py": "duì",
+          "gloss": "for",
+          "pos": "conn"
+        },
+        {
+          "w": "很多",
+          "py": "hěn duō",
+          "gloss": "many",
+          "pos": "adj"
+        },
+        {
+          "w": "上班族",
+          "py": "shàng bān zú",
+          "gloss": "office workers",
+          "pos": "noun"
+        },
+        {
+          "w": "来说",
+          "py": "lái shuō",
+          "gloss": "speaking",
+          "pos": "conn"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "共享",
+          "py": "gòng xiǎng",
+          "gloss": "shared",
+          "pos": "adj"
+        },
+        {
+          "w": "单车",
+          "py": "dān chē",
+          "gloss": "bikes",
+          "pos": "noun"
+        },
+        {
+          "w": "解决",
+          "py": "jiě jué",
+          "gloss": "solve",
+          "pos": "verb"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(completed)",
+          "pos": "part"
+        },
+        {
+          "w": "“",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "最后",
+          "py": "zuì hòu",
+          "gloss": "the last",
+          "pos": "adj"
+        },
+        {
+          "w": "一",
+          "py": "yì",
+          "gloss": "one",
+          "pos": "quant"
+        },
+        {
+          "w": "公里",
+          "py": "gōng lǐ",
+          "gloss": "kilometer",
+          "pos": "noun"
+        },
+        {
+          "w": "”",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(possessive)",
+          "pos": "part"
+        },
+        {
+          "w": "问题",
+          "py": "wèn tí",
+          "gloss": "problem",
+          "pos": "noun"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "从地铁站到公司，走路要二十分钟，骑共享单车只要五分钟。",
+      "en": "Walking from the subway station to the office takes twenty minutes, but riding a shared bike only takes five.",
+      "tokens": [
+        {
+          "w": "从",
+          "py": "cóng",
+          "gloss": "from",
+          "pos": "conn"
+        },
+        {
+          "w": "地铁站",
+          "py": "dì tiě zhàn",
+          "gloss": "the subway station",
+          "pos": "noun"
+        },
+        {
+          "w": "到",
+          "py": "dào",
+          "gloss": "to",
+          "pos": "conn"
+        },
+        {
+          "w": "公司",
+          "py": "gōng sī",
+          "gloss": "the office",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "走路",
+          "py": "zǒu lù",
+          "gloss": "walking",
+          "pos": "verb"
+        },
+        {
+          "w": "要",
+          "py": "yào",
+          "gloss": "takes",
+          "pos": "verb"
+        },
+        {
+          "w": "二十",
+          "py": "èr shí",
+          "gloss": "twenty",
+          "pos": "quant"
+        },
+        {
+          "w": "分钟",
+          "py": "fēn zhōng",
+          "gloss": "minutes",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "骑",
+          "py": "qí",
+          "gloss": "riding",
+          "pos": "verb"
+        },
+        {
+          "w": "共享",
+          "py": "gòng xiǎng",
+          "gloss": "shared",
+          "pos": "adj"
+        },
+        {
+          "w": "单车",
+          "py": "dān chē",
+          "gloss": "a bike",
+          "pos": "noun"
+        },
+        {
+          "w": "只",
+          "py": "zhǐ",
+          "gloss": "only",
+          "pos": "adv"
+        },
+        {
+          "w": "要",
+          "py": "yào",
+          "gloss": "takes",
+          "pos": "verb"
+        },
+        {
+          "w": "五",
+          "py": "wǔ",
+          "gloss": "five",
+          "pos": "quant"
+        },
+        {
+          "w": "分钟",
+          "py": "fēn zhōng",
+          "gloss": "minutes",
+          "pos": "noun"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "一项调查显示，超过百分之七十的城市居民使用过共享单车。",
+      "en": "A survey shows that more than seventy percent of city residents have used shared bikes.",
+      "tokens": [
+        {
+          "w": "一",
+          "py": "yí",
+          "gloss": "a",
+          "pos": "quant"
+        },
+        {
+          "w": "项",
+          "py": "xiàng",
+          "gloss": "(measure word for surveys)",
+          "pos": "quant"
+        },
+        {
+          "w": "调查",
+          "py": "diào chá",
+          "gloss": "survey",
+          "pos": "noun"
+        },
+        {
+          "w": "显示",
+          "py": "xiǎn shì",
+          "gloss": "shows",
+          "pos": "verb"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "超过",
+          "py": "chāo guò",
+          "gloss": "more than",
+          "pos": "verb"
+        },
+        {
+          "w": "百分之",
+          "py": "bǎi fēn zhī",
+          "gloss": "percent",
+          "pos": "noun"
+        },
+        {
+          "w": "七十",
+          "py": "qī shí",
+          "gloss": "seventy",
+          "pos": "quant"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(possessive)",
+          "pos": "part"
+        },
+        {
+          "w": "城市",
+          "py": "chéng shì",
+          "gloss": "city",
+          "pos": "noun"
+        },
+        {
+          "w": "居民",
+          "py": "jū mín",
+          "gloss": "residents",
+          "pos": "noun"
+        },
+        {
+          "w": "使用",
+          "py": "shǐ yòng",
+          "gloss": "used",
+          "pos": "verb"
+        },
+        {
+          "w": "过",
+          "py": "guo",
+          "gloss": "(experience)",
+          "pos": "part"
+        },
+        {
+          "w": "共享",
+          "py": "gòng xiǎng",
+          "gloss": "shared",
+          "pos": "adj"
+        },
+        {
+          "w": "单车",
+          "py": "dān chē",
+          "gloss": "bikes",
+          "pos": "noun"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "大部分人觉得，这种出行方式又方便又环保，能减少汽车带来的污染。",
+      "en": "Most people feel this way of getting around is both convenient and environmentally friendly, able to reduce the pollution caused by cars.",
+      "tokens": [
+        {
+          "w": "大部分",
+          "py": "dà bù fen",
+          "gloss": "most",
+          "pos": "pron"
+        },
+        {
+          "w": "人",
+          "py": "rén",
+          "gloss": "people",
+          "pos": "noun"
+        },
+        {
+          "w": "觉得",
+          "py": "jué de",
+          "gloss": "feel",
+          "pos": "verb"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "这种",
+          "py": "zhè zhǒng",
+          "gloss": "this kind of",
+          "pos": "pron"
+        },
+        {
+          "w": "出行",
+          "py": "chū xíng",
+          "gloss": "getting around",
+          "pos": "noun"
+        },
+        {
+          "w": "方式",
+          "py": "fāng shì",
+          "gloss": "way",
+          "pos": "noun"
+        },
+        {
+          "w": "又",
+          "py": "yòu",
+          "gloss": "both",
+          "pos": "adv"
+        },
+        {
+          "w": "方便",
+          "py": "fāng biàn",
+          "gloss": "convenient",
+          "pos": "adj"
+        },
+        {
+          "w": "又",
+          "py": "yòu",
+          "gloss": "and",
+          "pos": "adv"
+        },
+        {
+          "w": "环保",
+          "py": "huán bǎo",
+          "gloss": "environmentally friendly",
+          "pos": "adj"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "能",
+          "py": "néng",
+          "gloss": "able to",
+          "pos": "verb"
+        },
+        {
+          "w": "减少",
+          "py": "jiǎn shǎo",
+          "gloss": "reduce",
+          "pos": "verb"
+        },
+        {
+          "w": "汽车",
+          "py": "qì chē",
+          "gloss": "cars",
+          "pos": "noun"
+        },
+        {
+          "w": "带来",
+          "py": "dài lái",
+          "gloss": "bring about",
+          "pos": "verb"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(nominaliser)",
+          "pos": "part"
+        },
+        {
+          "w": "污染",
+          "py": "wū rǎn",
+          "gloss": "pollution",
+          "pos": "noun"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "一位年轻上班族小王说，她每天都骑共享单车上班，这让她的通勤时间几乎减少了一半。",
+      "en": "A young office worker named Xiao Wang said she rides a shared bike to work every day, and it has cut her commute time almost in half.",
+      "tokens": [
+        {
+          "w": "一",
+          "py": "yí",
+          "gloss": "a",
+          "pos": "quant"
+        },
+        {
+          "w": "位",
+          "py": "wèi",
+          "gloss": "(measure word, polite)",
+          "pos": "quant"
+        },
+        {
+          "w": "年轻",
+          "py": "nián qīng",
+          "gloss": "young",
+          "pos": "adj"
+        },
+        {
+          "w": "上班族",
+          "py": "shàng bān zú",
+          "gloss": "office worker",
+          "pos": "noun"
+        },
+        {
+          "w": "小",
+          "py": "xiǎo",
+          "gloss": "Xiao",
+          "pos": "noun"
+        },
+        {
+          "w": "王",
+          "py": "Wáng",
+          "gloss": "Wang",
+          "pos": "noun"
+        },
+        {
+          "w": "说",
+          "py": "shuō",
+          "gloss": "said",
+          "pos": "verb"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "她",
+          "py": "tā",
+          "gloss": "she",
+          "pos": "pron"
+        },
+        {
+          "w": "每天",
+          "py": "měi tiān",
+          "gloss": "every day",
+          "pos": "noun"
+        },
+        {
+          "w": "都",
+          "py": "dōu",
+          "gloss": "all",
+          "pos": "adv"
+        },
+        {
+          "w": "骑",
+          "py": "qí",
+          "gloss": "rides",
+          "pos": "verb"
+        },
+        {
+          "w": "共享",
+          "py": "gòng xiǎng",
+          "gloss": "a shared",
+          "pos": "adj"
+        },
+        {
+          "w": "单车",
+          "py": "dān chē",
+          "gloss": "bike",
+          "pos": "noun"
+        },
+        {
+          "w": "上班",
+          "py": "shàng bān",
+          "gloss": "to work",
+          "pos": "verb"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "这",
+          "py": "zhè",
+          "gloss": "this",
+          "pos": "pron"
+        },
+        {
+          "w": "让",
+          "py": "ràng",
+          "gloss": "has made",
+          "pos": "verb"
+        },
+        {
+          "w": "她",
+          "py": "tā",
+          "gloss": "her",
+          "pos": "pron"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(possessive)",
+          "pos": "part"
+        },
+        {
+          "w": "通勤",
+          "py": "tōng qín",
+          "gloss": "commute",
+          "pos": "noun"
+        },
+        {
+          "w": "时间",
+          "py": "shí jiān",
+          "gloss": "time",
+          "pos": "noun"
+        },
+        {
+          "w": "几乎",
+          "py": "jī hū",
+          "gloss": "almost",
+          "pos": "adv"
+        },
+        {
+          "w": "减少",
+          "py": "jiǎn shǎo",
+          "gloss": "reduced",
+          "pos": "verb"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(completed)",
+          "pos": "part"
+        },
+        {
+          "w": "一",
+          "py": "yí",
+          "gloss": "a",
+          "pos": "quant"
+        },
+        {
+          "w": "半",
+          "py": "bàn",
+          "gloss": "half",
+          "pos": "noun"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "但她也承认，下雨天的时候，要在地铁出口附近找到一辆没有损坏的车，有时真不容易。",
+      "en": "But she also admits that on rainy days, finding an undamaged bike near the subway exit can be surprisingly difficult.",
+      "tokens": [
+        {
+          "w": "但",
+          "py": "dàn",
+          "gloss": "but",
+          "pos": "conn"
+        },
+        {
+          "w": "她",
+          "py": "tā",
+          "gloss": "she",
+          "pos": "pron"
+        },
+        {
+          "w": "也",
+          "py": "yě",
+          "gloss": "also",
+          "pos": "adv"
+        },
+        {
+          "w": "承认",
+          "py": "chéng rèn",
+          "gloss": "admits",
+          "pos": "verb"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "下雨",
+          "py": "xià yǔ",
+          "gloss": "rainy",
+          "pos": "verb"
+        },
+        {
+          "w": "天",
+          "py": "tiān",
+          "gloss": "days",
+          "pos": "noun"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(nominaliser)",
+          "pos": "part"
+        },
+        {
+          "w": "时候",
+          "py": "shí hou",
+          "gloss": "when",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "要",
+          "py": "yào",
+          "gloss": "to",
+          "pos": "verb"
+        },
+        {
+          "w": "在",
+          "py": "zài",
+          "gloss": "at",
+          "pos": "conn"
+        },
+        {
+          "w": "地铁",
+          "py": "dì tiě",
+          "gloss": "the subway",
+          "pos": "noun"
+        },
+        {
+          "w": "出口",
+          "py": "chū kǒu",
+          "gloss": "exit",
+          "pos": "noun"
+        },
+        {
+          "w": "附近",
+          "py": "fù jìn",
+          "gloss": "nearby",
+          "pos": "noun"
+        },
+        {
+          "w": "找",
+          "py": "zhǎo",
+          "gloss": "find",
+          "pos": "verb"
+        },
+        {
+          "w": "到",
+          "py": "dào",
+          "gloss": "(result)",
+          "pos": "conn"
+        },
+        {
+          "w": "一",
+          "py": "yí",
+          "gloss": "an",
+          "pos": "quant"
+        },
+        {
+          "w": "辆",
+          "py": "liàng",
+          "gloss": "(measure word for vehicles)",
+          "pos": "quant"
+        },
+        {
+          "w": "没有",
+          "py": "méi yǒu",
+          "gloss": "without",
+          "pos": "adv"
+        },
+        {
+          "w": "损坏",
+          "py": "sǔn huài",
+          "gloss": "damage",
+          "pos": "verb"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(nominaliser)",
+          "pos": "part"
+        },
+        {
+          "w": "车",
+          "py": "chē",
+          "gloss": "bike",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "有时",
+          "py": "yǒu shí",
+          "gloss": "sometimes",
+          "pos": "adv"
+        },
+        {
+          "w": "真",
+          "py": "zhēn",
+          "gloss": "really",
+          "pos": "adv"
+        },
+        {
+          "w": "不",
+          "py": "bù",
+          "gloss": "not",
+          "pos": "adv"
+        },
+        {
+          "w": "容易",
+          "py": "róng yì",
+          "gloss": "easy",
+          "pos": "adj"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "可是，共享单车的发展也带来了一些新问题。",
+      "en": "However, the development of shared bikes has also brought some new problems.",
+      "tokens": [
+        {
+          "w": "可是",
+          "py": "kě shì",
+          "gloss": "however",
+          "pos": "conn"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "共享",
+          "py": "gòng xiǎng",
+          "gloss": "shared",
+          "pos": "adj"
+        },
+        {
+          "w": "单车",
+          "py": "dān chē",
+          "gloss": "bikes’",
+          "pos": "noun"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(possessive)",
+          "pos": "part"
+        },
+        {
+          "w": "发展",
+          "py": "fā zhǎn",
+          "gloss": "development",
+          "pos": "noun"
+        },
+        {
+          "w": "也",
+          "py": "yě",
+          "gloss": "also",
+          "pos": "adv"
+        },
+        {
+          "w": "带来",
+          "py": "dài lái",
+          "gloss": "has brought",
+          "pos": "verb"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(completed)",
+          "pos": "part"
+        },
+        {
+          "w": "一些",
+          "py": "yì xiē",
+          "gloss": "some",
+          "pos": "quant"
+        },
+        {
+          "w": "新",
+          "py": "xīn",
+          "gloss": "new",
+          "pos": "adj"
+        },
+        {
+          "w": "问题",
+          "py": "wèn tí",
+          "gloss": "problems",
+          "pos": "noun"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "有些人骑完以后随意停放，把单车乱放在路边，甚至挡住了行人的路。",
+      "en": "Some people park carelessly after riding, leaving bikes randomly by the roadside, even blocking pedestrians' paths.",
+      "tokens": [
+        {
+          "w": "有些",
+          "py": "yǒu xiē",
+          "gloss": "some",
+          "pos": "pron"
+        },
+        {
+          "w": "人",
+          "py": "rén",
+          "gloss": "people",
+          "pos": "noun"
+        },
+        {
+          "w": "骑",
+          "py": "qí",
+          "gloss": "ride",
+          "pos": "verb"
+        },
+        {
+          "w": "完",
+          "py": "wán",
+          "gloss": "finish",
+          "pos": "verb"
+        },
+        {
+          "w": "以后",
+          "py": "yǐ hòu",
+          "gloss": "after",
+          "pos": "noun"
+        },
+        {
+          "w": "随意",
+          "py": "suí yì",
+          "gloss": "carelessly",
+          "pos": "adv"
+        },
+        {
+          "w": "停放",
+          "py": "tíng fàng",
+          "gloss": "park",
+          "pos": "verb"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "把",
+          "py": "bǎ",
+          "gloss": "(object marker)",
+          "pos": "conn"
+        },
+        {
+          "w": "单车",
+          "py": "dān chē",
+          "gloss": "bikes",
+          "pos": "noun"
+        },
+        {
+          "w": "乱",
+          "py": "luàn",
+          "gloss": "randomly",
+          "pos": "adv"
+        },
+        {
+          "w": "放",
+          "py": "fàng",
+          "gloss": "left",
+          "pos": "verb"
+        },
+        {
+          "w": "在",
+          "py": "zài",
+          "gloss": "at",
+          "pos": "conn"
+        },
+        {
+          "w": "路边",
+          "py": "lù biān",
+          "gloss": "the roadside",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "甚至",
+          "py": "shèn zhì",
+          "gloss": "even",
+          "pos": "adv"
+        },
+        {
+          "w": "挡住",
+          "py": "dǎng zhù",
+          "gloss": "block",
+          "pos": "verb"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(completed)",
+          "pos": "part"
+        },
+        {
+          "w": "行人",
+          "py": "xíng rén",
+          "gloss": "pedestrians’",
+          "pos": "noun"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(possessive)",
+          "pos": "part"
+        },
+        {
+          "w": "路",
+          "py": "lù",
+          "gloss": "path",
+          "pos": "noun"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "城市管理部门因此规定了停车区域，违反规定的人可能会被罚款。",
+      "en": "City management departments have therefore designated parking zones — people who violate the rules may be fined.",
+      "tokens": [
+        {
+          "w": "城市",
+          "py": "chéng shì",
+          "gloss": "city",
+          "pos": "noun"
+        },
+        {
+          "w": "管理",
+          "py": "guǎn lǐ",
+          "gloss": "management",
+          "pos": "noun"
+        },
+        {
+          "w": "部门",
+          "py": "bù mén",
+          "gloss": "departments",
+          "pos": "noun"
+        },
+        {
+          "w": "因此",
+          "py": "yīn cǐ",
+          "gloss": "therefore",
+          "pos": "conn"
+        },
+        {
+          "w": "规定",
+          "py": "guī dìng",
+          "gloss": "designated",
+          "pos": "verb"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(completed)",
+          "pos": "part"
+        },
+        {
+          "w": "停车",
+          "py": "tíng chē",
+          "gloss": "parking",
+          "pos": "noun"
+        },
+        {
+          "w": "区域",
+          "py": "qū yù",
+          "gloss": "zones",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "违反",
+          "py": "wéi fǎn",
+          "gloss": "violate",
+          "pos": "verb"
+        },
+        {
+          "w": "规定",
+          "py": "guī dìng",
+          "gloss": "the rules",
+          "pos": "noun"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(nominaliser)",
+          "pos": "part"
+        },
+        {
+          "w": "人",
+          "py": "rén",
+          "gloss": "people",
+          "pos": "noun"
+        },
+        {
+          "w": "可能",
+          "py": "kě néng",
+          "gloss": "may",
+          "pos": "verb"
+        },
+        {
+          "w": "会",
+          "py": "huì",
+          "gloss": "would",
+          "pos": "verb"
+        },
+        {
+          "w": "被",
+          "py": "bèi",
+          "gloss": "(passive marker)",
+          "pos": "part"
+        },
+        {
+          "w": "罚款",
+          "py": "fá kuǎn",
+          "gloss": "be fined",
+          "pos": "verb"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "也有居民抱怨，有些单车损坏了却没有及时得到维修，影响了城市的形象。",
+      "en": "Some residents also complain that damaged bikes aren't repaired in time, hurting the city's image.",
+      "tokens": [
+        {
+          "w": "也",
+          "py": "yě",
+          "gloss": "also",
+          "pos": "adv"
+        },
+        {
+          "w": "有",
+          "py": "yǒu",
+          "gloss": "there are",
+          "pos": "verb"
+        },
+        {
+          "w": "居民",
+          "py": "jū mín",
+          "gloss": "residents",
+          "pos": "noun"
+        },
+        {
+          "w": "抱怨",
+          "py": "bào yuàn",
+          "gloss": "complain",
+          "pos": "verb"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "有些",
+          "py": "yǒu xiē",
+          "gloss": "some",
+          "pos": "pron"
+        },
+        {
+          "w": "单车",
+          "py": "dān chē",
+          "gloss": "bikes",
+          "pos": "noun"
+        },
+        {
+          "w": "损坏",
+          "py": "sǔn huài",
+          "gloss": "damaged",
+          "pos": "verb"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(completed)",
+          "pos": "part"
+        },
+        {
+          "w": "却",
+          "py": "què",
+          "gloss": "yet",
+          "pos": "adv"
+        },
+        {
+          "w": "没有",
+          "py": "méi yǒu",
+          "gloss": "are not",
+          "pos": "verb"
+        },
+        {
+          "w": "及时",
+          "py": "jí shí",
+          "gloss": "promptly",
+          "pos": "adv"
+        },
+        {
+          "w": "得到",
+          "py": "dé dào",
+          "gloss": "getting",
+          "pos": "verb"
+        },
+        {
+          "w": "维修",
+          "py": "wéi xiū",
+          "gloss": "repair",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "影响",
+          "py": "yǐng xiǎng",
+          "gloss": "affecting",
+          "pos": "verb"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(completed)",
+          "pos": "part"
+        },
+        {
+          "w": "城市",
+          "py": "chéng shì",
+          "gloss": "the city’s",
+          "pos": "noun"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(possessive)",
+          "pos": "part"
+        },
+        {
+          "w": "形象",
+          "py": "xíng xiàng",
+          "gloss": "image",
+          "pos": "noun"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "共享单车公司表示，他们正在用更新的技术来解决这些问题。",
+      "en": "Shared bike companies state they are using newer technology to solve these problems.",
+      "tokens": [
+        {
+          "w": "共享",
+          "py": "gòng xiǎng",
+          "gloss": "shared",
+          "pos": "adj"
+        },
+        {
+          "w": "单车",
+          "py": "dān chē",
+          "gloss": "bike",
+          "pos": "noun"
+        },
+        {
+          "w": "公司",
+          "py": "gōng sī",
+          "gloss": "companies",
+          "pos": "noun"
+        },
+        {
+          "w": "表示",
+          "py": "biǎo shì",
+          "gloss": "state",
+          "pos": "verb"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "他们",
+          "py": "tā men",
+          "gloss": "they",
+          "pos": "pron"
+        },
+        {
+          "w": "正在",
+          "py": "zhèng zài",
+          "gloss": "are currently",
+          "pos": "adv"
+        },
+        {
+          "w": "用",
+          "py": "yòng",
+          "gloss": "using",
+          "pos": "verb"
+        },
+        {
+          "w": "更",
+          "py": "gèng",
+          "gloss": "newer",
+          "pos": "adv"
+        },
+        {
+          "w": "新",
+          "py": "xīn",
+          "gloss": "new",
+          "pos": "adj"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(nominaliser)",
+          "pos": "part"
+        },
+        {
+          "w": "技术",
+          "py": "jì shù",
+          "gloss": "technology",
+          "pos": "noun"
+        },
+        {
+          "w": "来",
+          "py": "lái",
+          "gloss": "to",
+          "pos": "conn"
+        },
+        {
+          "w": "解决",
+          "py": "jiě jué",
+          "gloss": "solve",
+          "pos": "verb"
+        },
+        {
+          "w": "这些",
+          "py": "zhè xiē",
+          "gloss": "these",
+          "pos": "pron"
+        },
+        {
+          "w": "问题",
+          "py": "wèn tí",
+          "gloss": "problems",
+          "pos": "noun"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "比如，用智能管理系统实时查看每辆车的位置和状态。",
+      "en": "For example, using a smart management system to check each bike's location and condition in real time.",
+      "tokens": [
+        {
+          "w": "比如",
+          "py": "bǐ rú",
+          "gloss": "for example",
+          "pos": "conn"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "用",
+          "py": "yòng",
+          "gloss": "using",
+          "pos": "verb"
+        },
+        {
+          "w": "智能管理系统",
+          "py": "zhì néng guǎn lǐ xì tǒng",
+          "gloss": "a smart management system",
+          "pos": "noun"
+        },
+        {
+          "w": "实时",
+          "py": "shí shí",
+          "gloss": "in real time",
+          "pos": "adv"
+        },
+        {
+          "w": "查看",
+          "py": "chá kàn",
+          "gloss": "check",
+          "pos": "verb"
+        },
+        {
+          "w": "每",
+          "py": "měi",
+          "gloss": "each",
+          "pos": "pron"
+        },
+        {
+          "w": "辆",
+          "py": "liàng",
+          "gloss": "(measure word for vehicles)",
+          "pos": "quant"
+        },
+        {
+          "w": "车",
+          "py": "chē",
+          "gloss": "bike’s",
+          "pos": "noun"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(possessive)",
+          "pos": "part"
+        },
+        {
+          "w": "位置",
+          "py": "wèi zhì",
+          "gloss": "location",
+          "pos": "noun"
+        },
+        {
+          "w": "和",
+          "py": "hé",
+          "gloss": "and",
+          "pos": "conn"
+        },
+        {
+          "w": "状态",
+          "py": "zhuàng tài",
+          "gloss": "condition",
+          "pos": "noun"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "一旦发现损坏的单车，公司可以马上安排人去维修或者回收。",
+      "en": "Once a damaged bike is detected, the company can immediately arrange for someone to repair or recall it.",
+      "tokens": [
+        {
+          "w": "一旦",
+          "py": "yí dàn",
+          "gloss": "once",
+          "pos": "conn"
+        },
+        {
+          "w": "发现",
+          "py": "fā xiàn",
+          "gloss": "detected",
+          "pos": "verb"
+        },
+        {
+          "w": "损坏",
+          "py": "sǔn huài",
+          "gloss": "damaged",
+          "pos": "adj"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(nominaliser)",
+          "pos": "part"
+        },
+        {
+          "w": "单车",
+          "py": "dān chē",
+          "gloss": "a bike",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "公司",
+          "py": "gōng sī",
+          "gloss": "the company",
+          "pos": "noun"
+        },
+        {
+          "w": "可以",
+          "py": "kě yǐ",
+          "gloss": "can",
+          "pos": "verb"
+        },
+        {
+          "w": "马上",
+          "py": "mǎ shàng",
+          "gloss": "immediately",
+          "pos": "adv"
+        },
+        {
+          "w": "安排",
+          "py": "ān pái",
+          "gloss": "arrange",
+          "pos": "verb"
+        },
+        {
+          "w": "人",
+          "py": "rén",
+          "gloss": "someone",
+          "pos": "noun"
+        },
+        {
+          "w": "去",
+          "py": "qù",
+          "gloss": "to go",
+          "pos": "verb"
+        },
+        {
+          "w": "维修",
+          "py": "wéi xiū",
+          "gloss": "repair",
+          "pos": "verb"
+        },
+        {
+          "w": "或者",
+          "py": "huò zhě",
+          "gloss": "or",
+          "pos": "conn"
+        },
+        {
+          "w": "回收",
+          "py": "huí shōu",
+          "gloss": "recall",
+          "pos": "verb"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "不管怎么样，共享单车已经改变了很多人的出行习惯。",
+      "en": "Regardless, shared bikes have already changed many people's travel habits.",
+      "tokens": [
+        {
+          "w": "不管",
+          "py": "bù guǎn",
+          "gloss": "regardless",
+          "pos": "conn"
+        },
+        {
+          "w": "怎么样",
+          "py": "zěn me yàng",
+          "gloss": "how",
+          "pos": "pron"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "共享",
+          "py": "gòng xiǎng",
+          "gloss": "shared",
+          "pos": "adj"
+        },
+        {
+          "w": "单车",
+          "py": "dān chē",
+          "gloss": "bikes",
+          "pos": "noun"
+        },
+        {
+          "w": "已经",
+          "py": "yǐ jīng",
+          "gloss": "already",
+          "pos": "adv"
+        },
+        {
+          "w": "改变",
+          "py": "gǎi biàn",
+          "gloss": "changed",
+          "pos": "verb"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(completed)",
+          "pos": "part"
+        },
+        {
+          "w": "很多",
+          "py": "hěn duō",
+          "gloss": "many",
+          "pos": "adj"
+        },
+        {
+          "w": "人",
+          "py": "rén",
+          "gloss": "people’s",
+          "pos": "noun"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(possessive)",
+          "pos": "part"
+        },
+        {
+          "w": "出行",
+          "py": "chū xíng",
+          "gloss": "travel",
+          "pos": "noun"
+        },
+        {
+          "w": "习惯",
+          "py": "xí guàn",
+          "gloss": "habits",
+          "pos": "noun"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "未来，这种出行方式会怎么继续发展，还需要时间来回答。",
+      "en": "How this way of getting around will continue to develop in the future still needs time to answer.",
+      "tokens": [
+        {
+          "w": "未来",
+          "py": "wèi lái",
+          "gloss": "in the future",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "这种",
+          "py": "zhè zhǒng",
+          "gloss": "this kind of",
+          "pos": "pron"
+        },
+        {
+          "w": "出行",
+          "py": "chū xíng",
+          "gloss": "getting around",
+          "pos": "noun"
+        },
+        {
+          "w": "方式",
+          "py": "fāng shì",
+          "gloss": "way",
+          "pos": "noun"
+        },
+        {
+          "w": "会",
+          "py": "huì",
+          "gloss": "will",
+          "pos": "verb"
+        },
+        {
+          "w": "怎么",
+          "py": "zěn me",
+          "gloss": "how",
+          "pos": "pron"
+        },
+        {
+          "w": "继续",
+          "py": "jì xù",
+          "gloss": "continue to",
+          "pos": "verb"
+        },
+        {
+          "w": "发展",
+          "py": "fā zhǎn",
+          "gloss": "develop",
+          "pos": "verb"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "还",
+          "py": "hái",
+          "gloss": "still",
+          "pos": "adv"
+        },
+        {
+          "w": "需要",
+          "py": "xū yào",
+          "gloss": "needs",
+          "pos": "verb"
+        },
+        {
+          "w": "时间",
+          "py": "shí jiān",
+          "gloss": "time",
+          "pos": "noun"
+        },
+        {
+          "w": "来",
+          "py": "lái",
+          "gloss": "to",
+          "pos": "conn"
+        },
+        {
+          "w": "回答",
+          "py": "huí dá",
+          "gloss": "answer",
+          "pos": "verb"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    }
+  ],
+  "new_words": [
+    {
+      "w": "扫码",
+      "py": "sǎo mǎ",
+      "gloss": "to scan a code"
+    },
+    {
+      "w": "解锁",
+      "py": "jiě suǒ",
+      "gloss": "to unlock"
+    },
+    {
+      "w": "押金",
+      "py": "yā jīn",
+      "gloss": "deposit"
+    },
+    {
+      "w": "挡住",
+      "py": "dǎng zhù",
+      "gloss": "to block"
+    },
+    {
+      "w": "智能管理系统",
+      "py": "zhì néng guǎn lǐ xì tǒng",
+      "gloss": "smart management system"
+    },
+    {
+      "w": "表示",
+      "py": "biǎo shì",
+      "gloss": "to state, indicate"
+    },
+    {
+      "w": "出行",
+      "py": "chū xíng",
+      "gloss": "to travel, get around"
+    },
+    {
+      "w": "损坏",
+      "py": "sǔn huài",
+      "gloss": "damaged"
+    },
+    {
+      "w": "上班族",
+      "py": "shàng bān zú",
+      "gloss": "office workers"
+    },
+    {
+      "w": "停放",
+      "py": "tíng fàng",
+      "gloss": "to park"
+    },
+    {
+      "w": "实时",
+      "py": "shí shí",
+      "gloss": "in real time"
+    },
+    {
+      "w": "查看",
+      "py": "chá kàn",
+      "gloss": "to check, look over"
+    },
+    {
+      "w": "行程",
+      "py": "xíng chéng",
+      "gloss": "a trip, journey"
+    },
+    {
+      "w": "通勤",
+      "py": "tōng qín",
+      "gloss": "commute"
+    }
+  ],
+  "grammar_points": [
+    {
+      "pattern": "只要 A，就 B",
+      "explanation_en": "\"As long as A, then B\" — states the one condition that’s enough to guarantee the result.",
+      "example_zh": "只要你努力，就一定能成功。",
+      "example_en": "As long as you work hard, you will surely succeed."
+    },
+    {
+      "pattern": "不管怎么样",
+      "explanation_en": "\"No matter what\" — sets up a conclusion that holds true regardless of other factors already discussed.",
+      "example_zh": "不管怎么样，他都会支持你的决定。",
+      "example_en": "No matter what, he will support your decision."
+    },
+    {
+      "pattern": "一旦 A，B",
+      "explanation_en": "\"Once A happens, B\" — A is a trigger event, and B is the response that follows automatically.",
+      "example_zh": "一旦发现问题，他们就会马上处理。",
+      "example_en": "Once they find a problem, they deal with it right away."
+    }
+  ],
+  "questions": [
+    {
+      "q_zh": "共享单车怎么解决了\"最后一公里\"的问题？",
+      "q_en": "How do shared bikes solve the \"last mile\" problem?",
+      "answer_en": "They cut a twenty-minute walk from the subway to the office down to a five-minute ride."
+    },
+    {
+      "q_zh": "共享单车给城市带来了什么新问题？",
+      "q_en": "What new problems have shared bikes brought to cities?",
+      "answer_en": "Bikes parked randomly block pedestrians, and some damaged bikes aren’t repaired in time."
+    },
+    {
+      "q_zh": "共享单车公司打算怎么解决这些问题？",
+      "q_en": "How do shared bike companies plan to solve these problems?",
+      "answer_en": "By using a smart management system to track each bike’s location and condition in real time."
+    }
+  ]
+}

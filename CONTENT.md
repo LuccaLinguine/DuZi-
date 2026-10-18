@@ -109,6 +109,7 @@ keep the id; the app replaces the content and keeps all progress.
   "topic": string,
   "format": "story" | "dialogue" | "article",
   "created_at": string,            // ISO date
+  "ai_generated": boolean,         // always true for a /stories batch — see below
   "title_zh": string,
   "title_en": string,
   "summary_en": string,            // 1–2 sentences
@@ -136,6 +137,11 @@ keep the id; the app replaces the content and keeps all progress.
   ]
 }
 ```
+
+`ai_generated` is always `true` — every story in this pipeline is written by Claude
+Code, and the field exists so the app can show that plainly (a small badge on the
+library card and in the reader) rather than leave it implicit. Set it `true` on
+every story you write; the validator rejects a missing or non-boolean value.
 
 ### Tokenising
 

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T09:30:43.172Z",
+  "generated_at": "2026-10-18T13:25:29.253Z",
   "stories": [
     {
       "id": "20261017-elem-the-best-dumplings",
@@ -14,7 +14,7 @@
       "created_at": "2026-10-17",
       "chars": 217,
       "in_level_pct": 100,
-      "hash": "c1916cf96f962bcd"
+      "hash": "aeca15398c2be70d"
     },
     {
       "id": "20261017-inter-the-note-in-the-book",
@@ -29,7 +29,7 @@
       "created_at": "2026-10-17",
       "chars": 339,
       "in_level_pct": 97.2,
-      "hash": "02a04c7a5df7d887"
+      "hash": "d4f0d4bbb526f694"
     },
     {
       "id": "20261017-newbie-first-day-at-mcdonalds",
@@ -44,7 +44,7 @@
       "created_at": "2026-10-17",
       "chars": 91,
       "in_level_pct": 95.7,
-      "hash": "f5300a056b025c56"
+      "hash": "a8903547403e4877"
     },
     {
       "id": "20261017-newbie-where-is-my-phone",
@@ -59,7 +59,82 @@
       "created_at": "2026-10-17",
       "chars": 105,
       "in_level_pct": 100,
-      "hash": "236718a0bc149c2d"
+      "hash": "253568d9741a97ca"
+    },
+    {
+      "id": "20261018-advanced-shared-bikes",
+      "file": "stories/20261018-advanced-shared-bikes.json",
+      "title_zh": "共享单车改变了城市出行",
+      "title_en": "Shared Bikes Have Changed Urban Transportation",
+      "level": "advanced",
+      "topic": "News-style",
+      "format": "article",
+      "series_id": null,
+      "chapter": null,
+      "created_at": "2026-10-18",
+      "chars": 474,
+      "in_level_pct": 94.5,
+      "hash": "cdcf0d1641812a7b"
+    },
+    {
+      "id": "20261018-advanced-the-old-bridge",
+      "file": "stories/20261018-advanced-the-old-bridge.json",
+      "title_zh": "老桥的故事",
+      "title_en": "The Story of the Old Bridge",
+      "level": "advanced",
+      "topic": "History",
+      "format": "story",
+      "series_id": null,
+      "chapter": null,
+      "created_at": "2026-10-18",
+      "chars": 607,
+      "in_level_pct": 96.5,
+      "hash": "ff9b210f54246675"
+    },
+    {
+      "id": "20261018-master-the-missing-painting",
+      "file": "stories/20261018-master-the-missing-painting.json",
+      "title_zh": "一幅画不见了",
+      "title_en": "A Painting Has Disappeared",
+      "level": "master",
+      "topic": "Mystery",
+      "format": "story",
+      "series_id": null,
+      "chapter": null,
+      "created_at": "2026-10-18",
+      "chars": 621,
+      "in_level_pct": 93.5,
+      "hash": "f0fb2c4d486fa254"
+    },
+    {
+      "id": "20261018-upper-the-fruit-shop",
+      "file": "stories/20261018-upper-the-fruit-shop.json",
+      "title_zh": "水果店的生意",
+      "title_en": "The Fruit Shop's Business",
+      "level": "upper",
+      "topic": "Folk tale",
+      "format": "story",
+      "series_id": null,
+      "chapter": null,
+      "created_at": "2026-10-18",
+      "chars": 509,
+      "in_level_pct": 98,
+      "hash": "7fc9bd7cd728dea3"
+    },
+    {
+      "id": "20261018-upper-work-life-balance",
+      "file": "stories/20261018-upper-work-life-balance.json",
+      "title_zh": "工作和生活怎么平衡",
+      "title_en": "How to Balance Work and Life",
+      "level": "upper",
+      "topic": "Work",
+      "format": "article",
+      "series_id": null,
+      "chapter": null,
+      "created_at": "2026-10-18",
+      "chars": 506,
+      "in_level_pct": 97.4,
+      "hash": "6d56556cd1f05bbb"
     }
   ]
 }

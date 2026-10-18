@@ -70,6 +70,13 @@ export interface Story {
   format: StoryFormat;
   /** ISO date. */
   created_at: string;
+  /**
+   * True for every story written by the /stories pipeline (which is all of
+   * them, by design — see CONTENT.md). Kept explicit rather than assumed so
+   * provenance is machine-checkable and shows as a small badge in the app,
+   * not just implied by which folder the file lives in.
+   */
+  ai_generated: boolean;
   title_zh: string;
   title_en: string;
   summary_en: string;
@@ -173,6 +180,10 @@ export function validateStoryShape(data: unknown): SchemaIssue[] {
 
   if (typeof data.created_at === 'string' && Number.isNaN(Date.parse(data.created_at))) {
     issues.push({ path: 'created_at', message: `not a parseable date: ${data.created_at}` });
+  }
+
+  if (typeof data.ai_generated !== 'boolean') {
+    issues.push({ path: 'ai_generated', message: `expected a boolean, got ${JSON.stringify(data.ai_generated)}` });
   }
 
   if (!isLevelId(data.level)) {

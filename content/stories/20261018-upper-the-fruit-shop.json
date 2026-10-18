@@ -1,0 +1,2752 @@
+{
+  "id": "20261018-upper-the-fruit-shop",
+  "series_id": null,
+  "chapter": null,
+  "topic": "Folk tale",
+  "format": "story",
+  "created_at": "2026-10-18",
+  "ai_generated": true,
+  "title_zh": "水果店的生意",
+  "title_en": "The Fruit Shop's Business",
+  "summary_en": "A young shopkeeper works hard and his fruit shop thrives — until he decides success means he can finally relax, with predictable results.",
+  "level": "upper",
+  "sentences": [
+    {
+      "zh": "小张开了一家水果店。",
+      "en": "Xiao Zhang opened a fruit shop.",
+      "tokens": [
+        {
+          "w": "小张",
+          "py": "Xiǎo Zhāng",
+          "gloss": "Xiao Zhang (name)",
+          "pos": "noun"
+        },
+        {
+          "w": "开",
+          "py": "kāi",
+          "gloss": "opened",
+          "pos": "verb"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(completed)",
+          "pos": "part"
+        },
+        {
+          "w": "一",
+          "py": "yì",
+          "gloss": "a",
+          "pos": "quant"
+        },
+        {
+          "w": "家",
+          "py": "jiā",
+          "gloss": "(measure word for shops)",
+          "pos": "quant"
+        },
+        {
+          "w": "水果店",
+          "py": "shuǐ guǒ diàn",
+          "gloss": "fruit shop",
+          "pos": "noun"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "水果店在市场旁边，不大，但是很干净。",
+      "en": "The shop is next to the market — not big, but very clean.",
+      "tokens": [
+        {
+          "w": "水果店",
+          "py": "shuǐ guǒ diàn",
+          "gloss": "the fruit shop",
+          "pos": "noun"
+        },
+        {
+          "w": "在",
+          "py": "zài",
+          "gloss": "at",
+          "pos": "conn"
+        },
+        {
+          "w": "市场",
+          "py": "shì chǎng",
+          "gloss": "market",
+          "pos": "noun"
+        },
+        {
+          "w": "旁边",
+          "py": "páng biān",
+          "gloss": "next to",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "不",
+          "py": "bú",
+          "gloss": "not",
+          "pos": "adv"
+        },
+        {
+          "w": "大",
+          "py": "dà",
+          "gloss": "big",
+          "pos": "adj"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "但是",
+          "py": "dàn shì",
+          "gloss": "but",
+          "pos": "conn"
+        },
+        {
+          "w": "很",
+          "py": "hěn",
+          "gloss": "very",
+          "pos": "adv"
+        },
+        {
+          "w": "干净",
+          "py": "gān jìng",
+          "gloss": "clean",
+          "pos": "adj"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "一开始，没有什么顾客，小张很着急。",
+      "en": "At first, there weren't many customers, and Xiao Zhang was anxious.",
+      "tokens": [
+        {
+          "w": "一开始",
+          "py": "yì kāi shǐ",
+          "gloss": "at first",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "没有",
+          "py": "méi yǒu",
+          "gloss": "there were not",
+          "pos": "verb"
+        },
+        {
+          "w": "什么",
+          "py": "shén me",
+          "gloss": "much/many",
+          "pos": "pron"
+        },
+        {
+          "w": "顾客",
+          "py": "gù kè",
+          "gloss": "customers",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "小张",
+          "py": "Xiǎo Zhāng",
+          "gloss": "Xiao Zhang",
+          "pos": "noun"
+        },
+        {
+          "w": "很",
+          "py": "hěn",
+          "gloss": "very",
+          "pos": "adv"
+        },
+        {
+          "w": "着急",
+          "py": "zháo jí",
+          "gloss": "anxious",
+          "pos": "adj"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "他决定每天早上去市场，自己挑选最好的水果。",
+      "en": "He decided to go to the market himself every morning to pick the best fruit.",
+      "tokens": [
+        {
+          "w": "他",
+          "py": "tā",
+          "gloss": "he",
+          "pos": "pron"
+        },
+        {
+          "w": "决定",
+          "py": "jué dìng",
+          "gloss": "decided",
+          "pos": "verb"
+        },
+        {
+          "w": "每天",
+          "py": "měi tiān",
+          "gloss": "every day",
+          "pos": "noun"
+        },
+        {
+          "w": "早上",
+          "py": "zǎo shang",
+          "gloss": "morning",
+          "pos": "noun"
+        },
+        {
+          "w": "去",
+          "py": "qù",
+          "gloss": "go to",
+          "pos": "verb"
+        },
+        {
+          "w": "市场",
+          "py": "shì chǎng",
+          "gloss": "market",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "自己",
+          "py": "zì jǐ",
+          "gloss": "himself",
+          "pos": "pron"
+        },
+        {
+          "w": "挑选",
+          "py": "tiāo xuǎn",
+          "gloss": "pick out",
+          "pos": "verb"
+        },
+        {
+          "w": "最",
+          "py": "zuì",
+          "gloss": "most",
+          "pos": "adv"
+        },
+        {
+          "w": "好",
+          "py": "hǎo",
+          "gloss": "good",
+          "pos": "adj"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(nominaliser)",
+          "pos": "part"
+        },
+        {
+          "w": "水果",
+          "py": "shuǐ guǒ",
+          "gloss": "fruit",
+          "pos": "noun"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "顾客来的时候，他总是笑着跟大家打招呼。",
+      "en": "Whenever customers came, he always smiled and greeted everyone.",
+      "tokens": [
+        {
+          "w": "顾客",
+          "py": "gù kè",
+          "gloss": "customers",
+          "pos": "noun"
+        },
+        {
+          "w": "来",
+          "py": "lái",
+          "gloss": "came",
+          "pos": "verb"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(nominaliser)",
+          "pos": "part"
+        },
+        {
+          "w": "时候",
+          "py": "shí hou",
+          "gloss": "time (when)",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "他",
+          "py": "tā",
+          "gloss": "he",
+          "pos": "pron"
+        },
+        {
+          "w": "总是",
+          "py": "zǒng shì",
+          "gloss": "always",
+          "pos": "adv"
+        },
+        {
+          "w": "笑",
+          "py": "xiào",
+          "gloss": "smiling",
+          "pos": "verb"
+        },
+        {
+          "w": "着",
+          "py": "zhe",
+          "gloss": "(ongoing state)",
+          "pos": "part"
+        },
+        {
+          "w": "跟",
+          "py": "gēn",
+          "gloss": "with",
+          "pos": "conn"
+        },
+        {
+          "w": "大家",
+          "py": "dà jiā",
+          "gloss": "everyone",
+          "pos": "pron"
+        },
+        {
+          "w": "打招呼",
+          "py": "dǎ zhāo hu",
+          "gloss": "greeted",
+          "pos": "verb"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "如果水果不新鲜，他就不卖。",
+      "en": "If the fruit wasn't fresh, he wouldn't sell it.",
+      "tokens": [
+        {
+          "w": "如果",
+          "py": "rú guǒ",
+          "gloss": "if",
+          "pos": "conn"
+        },
+        {
+          "w": "水果",
+          "py": "shuǐ guǒ",
+          "gloss": "fruit",
+          "pos": "noun"
+        },
+        {
+          "w": "不",
+          "py": "bù",
+          "gloss": "not",
+          "pos": "adv"
+        },
+        {
+          "w": "新鲜",
+          "py": "xīn xiān",
+          "gloss": "fresh",
+          "pos": "adj"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "他",
+          "py": "tā",
+          "gloss": "he",
+          "pos": "pron"
+        },
+        {
+          "w": "就",
+          "py": "jiù",
+          "gloss": "then",
+          "pos": "adv"
+        },
+        {
+          "w": "不",
+          "py": "bù",
+          "gloss": "not",
+          "pos": "adv"
+        },
+        {
+          "w": "卖",
+          "py": "mài",
+          "gloss": "sell",
+          "pos": "verb"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "慢慢地，来买水果的人越来越多。",
+      "en": "Slowly, more and more people came to buy fruit.",
+      "tokens": [
+        {
+          "w": "慢慢地",
+          "py": "màn màn de",
+          "gloss": "slowly",
+          "pos": "adv"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "来",
+          "py": "lái",
+          "gloss": "came",
+          "pos": "verb"
+        },
+        {
+          "w": "买",
+          "py": "mǎi",
+          "gloss": "to buy",
+          "pos": "verb"
+        },
+        {
+          "w": "水果",
+          "py": "shuǐ guǒ",
+          "gloss": "fruit",
+          "pos": "noun"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(nominaliser)",
+          "pos": "part"
+        },
+        {
+          "w": "人",
+          "py": "rén",
+          "gloss": "people",
+          "pos": "noun"
+        },
+        {
+          "w": "越来越",
+          "py": "yuè lái yuè",
+          "gloss": "more and more",
+          "pos": "adv"
+        },
+        {
+          "w": "多",
+          "py": "duō",
+          "gloss": "many",
+          "pos": "adj"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "大家都说，小张的水果最新鲜，价钱也公平。",
+      "en": "Everyone said Xiao Zhang's fruit was freshest, and the prices were fair too.",
+      "tokens": [
+        {
+          "w": "大家",
+          "py": "dà jiā",
+          "gloss": "everyone",
+          "pos": "pron"
+        },
+        {
+          "w": "都",
+          "py": "dōu",
+          "gloss": "all",
+          "pos": "adv"
+        },
+        {
+          "w": "说",
+          "py": "shuō",
+          "gloss": "said",
+          "pos": "verb"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "小张",
+          "py": "Xiǎo Zhāng",
+          "gloss": "Xiao Zhang's",
+          "pos": "noun"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(possessive)",
+          "pos": "part"
+        },
+        {
+          "w": "水果",
+          "py": "shuǐ guǒ",
+          "gloss": "fruit",
+          "pos": "noun"
+        },
+        {
+          "w": "最",
+          "py": "zuì",
+          "gloss": "most",
+          "pos": "adv"
+        },
+        {
+          "w": "新鲜",
+          "py": "xīn xiān",
+          "gloss": "fresh",
+          "pos": "adj"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "价钱",
+          "py": "jià qian",
+          "gloss": "price",
+          "pos": "noun"
+        },
+        {
+          "w": "也",
+          "py": "yě",
+          "gloss": "also",
+          "pos": "adv"
+        },
+        {
+          "w": "公平",
+          "py": "gōng píng",
+          "gloss": "fair",
+          "pos": "adj"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "他的生意一天比一天好，他也越来越高兴。",
+      "en": "His business got better day by day, and he got happier and happier.",
+      "tokens": [
+        {
+          "w": "他",
+          "py": "tā",
+          "gloss": "his",
+          "pos": "pron"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(possessive)",
+          "pos": "part"
+        },
+        {
+          "w": "生意",
+          "py": "shēng yi",
+          "gloss": "business",
+          "pos": "noun"
+        },
+        {
+          "w": "一",
+          "py": "yì",
+          "gloss": "one",
+          "pos": "quant"
+        },
+        {
+          "w": "天",
+          "py": "tiān",
+          "gloss": "day",
+          "pos": "noun"
+        },
+        {
+          "w": "比",
+          "py": "bǐ",
+          "gloss": "compared to",
+          "pos": "conn"
+        },
+        {
+          "w": "一",
+          "py": "yì",
+          "gloss": "one",
+          "pos": "quant"
+        },
+        {
+          "w": "天",
+          "py": "tiān",
+          "gloss": "day",
+          "pos": "noun"
+        },
+        {
+          "w": "好",
+          "py": "hǎo",
+          "gloss": "good",
+          "pos": "adj"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "他",
+          "py": "tā",
+          "gloss": "he",
+          "pos": "pron"
+        },
+        {
+          "w": "也",
+          "py": "yě",
+          "gloss": "also",
+          "pos": "adv"
+        },
+        {
+          "w": "越来越",
+          "py": "yuè lái yuè",
+          "gloss": "more and more",
+          "pos": "adv"
+        },
+        {
+          "w": "高兴",
+          "py": "gāo xìng",
+          "gloss": "happy",
+          "pos": "adj"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "可是，过了半年，小张开始觉得很辛苦。",
+      "en": "But after half a year, Xiao Zhang began to feel exhausted.",
+      "tokens": [
+        {
+          "w": "可是",
+          "py": "kě shì",
+          "gloss": "but",
+          "pos": "conn"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "过",
+          "py": "guò",
+          "gloss": "passed",
+          "pos": "verb"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(completed)",
+          "pos": "part"
+        },
+        {
+          "w": "半",
+          "py": "bàn",
+          "gloss": "half",
+          "pos": "quant"
+        },
+        {
+          "w": "年",
+          "py": "nián",
+          "gloss": "year",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "小张",
+          "py": "Xiǎo Zhāng",
+          "gloss": "Xiao Zhang",
+          "pos": "noun"
+        },
+        {
+          "w": "开始",
+          "py": "kāi shǐ",
+          "gloss": "began",
+          "pos": "verb"
+        },
+        {
+          "w": "觉得",
+          "py": "jué de",
+          "gloss": "to feel",
+          "pos": "verb"
+        },
+        {
+          "w": "很",
+          "py": "hěn",
+          "gloss": "very",
+          "pos": "adv"
+        },
+        {
+          "w": "辛苦",
+          "py": "xīn kǔ",
+          "gloss": "exhausting",
+          "pos": "adj"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "他想：“我已经这么努力了，生意已经很好了，休息几天应该没关系。”",
+      "en": "He thought: \"I've worked so hard already, business is already good — resting a few days should be fine.\"",
+      "tokens": [
+        {
+          "w": "他",
+          "py": "tā",
+          "gloss": "he",
+          "pos": "pron"
+        },
+        {
+          "w": "想",
+          "py": "xiǎng",
+          "gloss": "thought",
+          "pos": "verb"
+        },
+        {
+          "w": "：“",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "pos": "pron"
+        },
+        {
+          "w": "已经",
+          "py": "yǐ jīng",
+          "gloss": "already",
+          "pos": "adv"
+        },
+        {
+          "w": "这么",
+          "py": "zhè me",
+          "gloss": "this much",
+          "pos": "pron"
+        },
+        {
+          "w": "努力",
+          "py": "nǔ lì",
+          "gloss": "hardworking",
+          "pos": "adj"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(change of state)",
+          "pos": "part"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "生意",
+          "py": "shēng yi",
+          "gloss": "business",
+          "pos": "noun"
+        },
+        {
+          "w": "已经",
+          "py": "yǐ jīng",
+          "gloss": "already",
+          "pos": "adv"
+        },
+        {
+          "w": "很",
+          "py": "hěn",
+          "gloss": "very",
+          "pos": "adv"
+        },
+        {
+          "w": "好",
+          "py": "hǎo",
+          "gloss": "good",
+          "pos": "adj"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(change of state)",
+          "pos": "part"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "休息",
+          "py": "xiū xi",
+          "gloss": "resting",
+          "pos": "verb"
+        },
+        {
+          "w": "几",
+          "py": "jǐ",
+          "gloss": "a few",
+          "pos": "quant"
+        },
+        {
+          "w": "天",
+          "py": "tiān",
+          "gloss": "days",
+          "pos": "noun"
+        },
+        {
+          "w": "应该",
+          "py": "yīng gāi",
+          "gloss": "should",
+          "pos": "verb"
+        },
+        {
+          "w": "没关系",
+          "py": "méi guān xi",
+          "gloss": "be fine",
+          "pos": "adj"
+        },
+        {
+          "w": "。”",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "他开始晚一点儿起床，也不去市场挑水果了。",
+      "en": "He started getting up later, and stopped going to the market to pick fruit.",
+      "tokens": [
+        {
+          "w": "他",
+          "py": "tā",
+          "gloss": "he",
+          "pos": "pron"
+        },
+        {
+          "w": "开始",
+          "py": "kāi shǐ",
+          "gloss": "started",
+          "pos": "verb"
+        },
+        {
+          "w": "晚",
+          "py": "wǎn",
+          "gloss": "late",
+          "pos": "adj"
+        },
+        {
+          "w": "一点儿",
+          "py": "yì diǎnr",
+          "gloss": "a bit",
+          "pos": "adv"
+        },
+        {
+          "w": "起床",
+          "py": "qǐ chuáng",
+          "gloss": "getting up",
+          "pos": "verb"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "也",
+          "py": "yě",
+          "gloss": "also",
+          "pos": "adv"
+        },
+        {
+          "w": "不",
+          "py": "bù",
+          "gloss": "not",
+          "pos": "adv"
+        },
+        {
+          "w": "去",
+          "py": "qù",
+          "gloss": "go to",
+          "pos": "verb"
+        },
+        {
+          "w": "市场",
+          "py": "shì chǎng",
+          "gloss": "market",
+          "pos": "noun"
+        },
+        {
+          "w": "挑",
+          "py": "tiāo",
+          "gloss": "pick",
+          "pos": "verb"
+        },
+        {
+          "w": "水果",
+          "py": "shuǐ guǒ",
+          "gloss": "fruit",
+          "pos": "noun"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(change of state)",
+          "pos": "part"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "顾客来的时候，他也不像以前那样热情了。",
+      "en": "When customers came, he also wasn't as warm as before.",
+      "tokens": [
+        {
+          "w": "顾客",
+          "py": "gù kè",
+          "gloss": "customers",
+          "pos": "noun"
+        },
+        {
+          "w": "来",
+          "py": "lái",
+          "gloss": "came",
+          "pos": "verb"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(nominaliser)",
+          "pos": "part"
+        },
+        {
+          "w": "时候",
+          "py": "shí hou",
+          "gloss": "time",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "他",
+          "py": "tā",
+          "gloss": "he",
+          "pos": "pron"
+        },
+        {
+          "w": "也",
+          "py": "yě",
+          "gloss": "also",
+          "pos": "adv"
+        },
+        {
+          "w": "不",
+          "py": "bù",
+          "gloss": "not",
+          "pos": "adv"
+        },
+        {
+          "w": "像",
+          "py": "xiàng",
+          "gloss": "like",
+          "pos": "conn"
+        },
+        {
+          "w": "以前",
+          "py": "yǐ qián",
+          "gloss": "before",
+          "pos": "noun"
+        },
+        {
+          "w": "那样",
+          "py": "nà yàng",
+          "gloss": "that way",
+          "pos": "pron"
+        },
+        {
+          "w": "热情",
+          "py": "rè qíng",
+          "gloss": "warm",
+          "pos": "adj"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(change of state)",
+          "pos": "part"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "水果的质量慢慢变得差了，可是小张没有注意。",
+      "en": "The fruit's quality slowly got worse, but Xiao Zhang didn't notice.",
+      "tokens": [
+        {
+          "w": "水果",
+          "py": "shuǐ guǒ",
+          "gloss": "the fruit",
+          "pos": "noun"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(possessive)",
+          "pos": "part"
+        },
+        {
+          "w": "质量",
+          "py": "zhì liàng",
+          "gloss": "quality",
+          "pos": "noun"
+        },
+        {
+          "w": "慢慢",
+          "py": "màn màn",
+          "gloss": "slowly",
+          "pos": "adv"
+        },
+        {
+          "w": "变",
+          "py": "biàn",
+          "gloss": "became",
+          "pos": "verb"
+        },
+        {
+          "w": "得",
+          "py": "de",
+          "gloss": "(manner marker)",
+          "pos": "part"
+        },
+        {
+          "w": "差",
+          "py": "chà",
+          "gloss": "bad",
+          "pos": "adj"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(change of state)",
+          "pos": "part"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "可是",
+          "py": "kě shì",
+          "gloss": "but",
+          "pos": "conn"
+        },
+        {
+          "w": "小张",
+          "py": "Xiǎo Zhāng",
+          "gloss": "Xiao Zhang",
+          "pos": "noun"
+        },
+        {
+          "w": "没有",
+          "py": "méi yǒu",
+          "gloss": "did not",
+          "pos": "adv"
+        },
+        {
+          "w": "注意",
+          "py": "zhù yì",
+          "gloss": "notice",
+          "pos": "verb"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "过了一个月，他发现来买水果的人越来越少了。",
+      "en": "A month later, he noticed fewer and fewer people were coming to buy fruit.",
+      "tokens": [
+        {
+          "w": "过",
+          "py": "guò",
+          "gloss": "passed",
+          "pos": "verb"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(completed)",
+          "pos": "part"
+        },
+        {
+          "w": "一",
+          "py": "yí",
+          "gloss": "a",
+          "pos": "quant"
+        },
+        {
+          "w": "个",
+          "py": "gè",
+          "gloss": "(measure word)",
+          "pos": "quant"
+        },
+        {
+          "w": "月",
+          "py": "yuè",
+          "gloss": "month",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "他",
+          "py": "tā",
+          "gloss": "he",
+          "pos": "pron"
+        },
+        {
+          "w": "发现",
+          "py": "fā xiàn",
+          "gloss": "discovered",
+          "pos": "verb"
+        },
+        {
+          "w": "来",
+          "py": "lái",
+          "gloss": "came",
+          "pos": "verb"
+        },
+        {
+          "w": "买",
+          "py": "mǎi",
+          "gloss": "buy",
+          "pos": "verb"
+        },
+        {
+          "w": "水果",
+          "py": "shuǐ guǒ",
+          "gloss": "fruit",
+          "pos": "noun"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(nominaliser)",
+          "pos": "part"
+        },
+        {
+          "w": "人",
+          "py": "rén",
+          "gloss": "people",
+          "pos": "noun"
+        },
+        {
+          "w": "越来越",
+          "py": "yuè lái yuè",
+          "gloss": "more and more",
+          "pos": "adv"
+        },
+        {
+          "w": "少",
+          "py": "shǎo",
+          "gloss": "few",
+          "pos": "adj"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(change of state)",
+          "pos": "part"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "他很奇怪，去问旁边卖菜的邻居。",
+      "en": "Confused, he went to ask his neighbor who sold vegetables next door.",
+      "tokens": [
+        {
+          "w": "他",
+          "py": "tā",
+          "gloss": "he",
+          "pos": "pron"
+        },
+        {
+          "w": "很",
+          "py": "hěn",
+          "gloss": "very",
+          "pos": "adv"
+        },
+        {
+          "w": "奇怪",
+          "py": "qí guài",
+          "gloss": "confused",
+          "pos": "adj"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "去",
+          "py": "qù",
+          "gloss": "went to",
+          "pos": "verb"
+        },
+        {
+          "w": "问",
+          "py": "wèn",
+          "gloss": "ask",
+          "pos": "verb"
+        },
+        {
+          "w": "旁边",
+          "py": "páng biān",
+          "gloss": "next door",
+          "pos": "noun"
+        },
+        {
+          "w": "卖",
+          "py": "mài",
+          "gloss": "selling",
+          "pos": "verb"
+        },
+        {
+          "w": "菜",
+          "py": "cài",
+          "gloss": "vegetables",
+          "pos": "noun"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(nominaliser)",
+          "pos": "part"
+        },
+        {
+          "w": "邻居",
+          "py": "lín jū",
+          "gloss": "neighbor",
+          "pos": "noun"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "邻居告诉他：“你的水果没有以前新鲜了，服务也没有以前好了。”",
+      "en": "The neighbor told him: \"Your fruit isn't as fresh as before, and your service isn't as good as before either.\"",
+      "tokens": [
+        {
+          "w": "邻居",
+          "py": "lín jū",
+          "gloss": "the neighbor",
+          "pos": "noun"
+        },
+        {
+          "w": "告诉",
+          "py": "gào su",
+          "gloss": "told",
+          "pos": "verb"
+        },
+        {
+          "w": "他",
+          "py": "tā",
+          "gloss": "him",
+          "pos": "pron"
+        },
+        {
+          "w": "：“",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "你",
+          "py": "nǐ",
+          "gloss": "your",
+          "pos": "pron"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(possessive)",
+          "pos": "part"
+        },
+        {
+          "w": "水果",
+          "py": "shuǐ guǒ",
+          "gloss": "fruit",
+          "pos": "noun"
+        },
+        {
+          "w": "没有",
+          "py": "méi yǒu",
+          "gloss": "is not as",
+          "pos": "adv"
+        },
+        {
+          "w": "以前",
+          "py": "yǐ qián",
+          "gloss": "before",
+          "pos": "noun"
+        },
+        {
+          "w": "新鲜",
+          "py": "xīn xiān",
+          "gloss": "fresh",
+          "pos": "adj"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(change of state)",
+          "pos": "part"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "服务",
+          "py": "fú wù",
+          "gloss": "service",
+          "pos": "noun"
+        },
+        {
+          "w": "也",
+          "py": "yě",
+          "gloss": "also",
+          "pos": "adv"
+        },
+        {
+          "w": "没有",
+          "py": "méi yǒu",
+          "gloss": "is not as",
+          "pos": "adv"
+        },
+        {
+          "w": "以前",
+          "py": "yǐ qián",
+          "gloss": "before",
+          "pos": "noun"
+        },
+        {
+          "w": "好",
+          "py": "hǎo",
+          "gloss": "good",
+          "pos": "adj"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(change of state)",
+          "pos": "part"
+        },
+        {
+          "w": "。”",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "小张听了，想了很久。",
+      "en": "Xiao Zhang listened and thought for a long time.",
+      "tokens": [
+        {
+          "w": "小张",
+          "py": "Xiǎo Zhāng",
+          "gloss": "Xiao Zhang",
+          "pos": "noun"
+        },
+        {
+          "w": "听",
+          "py": "tīng",
+          "gloss": "heard",
+          "pos": "verb"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(completed)",
+          "pos": "part"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "想",
+          "py": "xiǎng",
+          "gloss": "thought",
+          "pos": "verb"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(completed)",
+          "pos": "part"
+        },
+        {
+          "w": "很",
+          "py": "hěn",
+          "gloss": "very",
+          "pos": "adv"
+        },
+        {
+          "w": "久",
+          "py": "jiǔ",
+          "gloss": "long time",
+          "pos": "adj"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "他终于懂得了一个道理：生意好的时候，更要努力，不能只靠以前的运气。",
+      "en": "He finally understood a lesson: when business is good, you must work even harder — you can't rely only on past luck.",
+      "tokens": [
+        {
+          "w": "他",
+          "py": "tā",
+          "gloss": "he",
+          "pos": "pron"
+        },
+        {
+          "w": "终于",
+          "py": "zhōng yú",
+          "gloss": "finally",
+          "pos": "adv"
+        },
+        {
+          "w": "懂得",
+          "py": "dǒng de",
+          "gloss": "understood",
+          "pos": "verb"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(completed)",
+          "pos": "part"
+        },
+        {
+          "w": "一",
+          "py": "yí",
+          "gloss": "a",
+          "pos": "quant"
+        },
+        {
+          "w": "个",
+          "py": "gè",
+          "gloss": "(measure word)",
+          "pos": "quant"
+        },
+        {
+          "w": "道理",
+          "py": "dào lǐ",
+          "gloss": "lesson",
+          "pos": "noun"
+        },
+        {
+          "w": "：",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "生意",
+          "py": "shēng yi",
+          "gloss": "business",
+          "pos": "noun"
+        },
+        {
+          "w": "好",
+          "py": "hǎo",
+          "gloss": "good",
+          "pos": "adj"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(nominaliser)",
+          "pos": "part"
+        },
+        {
+          "w": "时候",
+          "py": "shí hou",
+          "gloss": "time (when)",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "更",
+          "py": "gèng",
+          "gloss": "even more",
+          "pos": "adv"
+        },
+        {
+          "w": "要",
+          "py": "yào",
+          "gloss": "must",
+          "pos": "verb"
+        },
+        {
+          "w": "努力",
+          "py": "nǔ lì",
+          "gloss": "work hard",
+          "pos": "adj"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "不能",
+          "py": "bù néng",
+          "gloss": "cannot",
+          "pos": "verb"
+        },
+        {
+          "w": "只",
+          "py": "zhǐ",
+          "gloss": "only",
+          "pos": "adv"
+        },
+        {
+          "w": "靠",
+          "py": "kào",
+          "gloss": "rely on",
+          "pos": "verb"
+        },
+        {
+          "w": "以前",
+          "py": "yǐ qián",
+          "gloss": "past",
+          "pos": "noun"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(possessive)",
+          "pos": "part"
+        },
+        {
+          "w": "运气",
+          "py": "yùn qi",
+          "gloss": "luck",
+          "pos": "noun"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "第二天，他又像以前一样，早早起床，去市场挑选最好的水果。",
+      "en": "The next day, he once again got up early like before and went to the market to pick the best fruit.",
+      "tokens": [
+        {
+          "w": "第二",
+          "py": "dì èr",
+          "gloss": "next",
+          "pos": "quant"
+        },
+        {
+          "w": "天",
+          "py": "tiān",
+          "gloss": "day",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "他",
+          "py": "tā",
+          "gloss": "he",
+          "pos": "pron"
+        },
+        {
+          "w": "又",
+          "py": "yòu",
+          "gloss": "again",
+          "pos": "adv"
+        },
+        {
+          "w": "像",
+          "py": "xiàng",
+          "gloss": "like",
+          "pos": "conn"
+        },
+        {
+          "w": "以前",
+          "py": "yǐ qián",
+          "gloss": "before",
+          "pos": "noun"
+        },
+        {
+          "w": "一样",
+          "py": "yí yàng",
+          "gloss": "the same",
+          "pos": "adj"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "早早",
+          "py": "zǎo zǎo",
+          "gloss": "early",
+          "pos": "adv"
+        },
+        {
+          "w": "起床",
+          "py": "qǐ chuáng",
+          "gloss": "got up",
+          "pos": "verb"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "去",
+          "py": "qù",
+          "gloss": "went to",
+          "pos": "verb"
+        },
+        {
+          "w": "市场",
+          "py": "shì chǎng",
+          "gloss": "market",
+          "pos": "noun"
+        },
+        {
+          "w": "挑选",
+          "py": "tiāo xuǎn",
+          "gloss": "pick out",
+          "pos": "verb"
+        },
+        {
+          "w": "最",
+          "py": "zuì",
+          "gloss": "most",
+          "pos": "adv"
+        },
+        {
+          "w": "好",
+          "py": "hǎo",
+          "gloss": "good",
+          "pos": "adj"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(nominaliser)",
+          "pos": "part"
+        },
+        {
+          "w": "水果",
+          "py": "shuǐ guǒ",
+          "gloss": "fruit",
+          "pos": "noun"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "从这以后，他每天都认真工作，不再偷懒。",
+      "en": "From then on, he worked hard every day and was never lazy again.",
+      "tokens": [
+        {
+          "w": "从",
+          "py": "cóng",
+          "gloss": "from",
+          "pos": "conn"
+        },
+        {
+          "w": "这",
+          "py": "zhè",
+          "gloss": "this",
+          "pos": "pron"
+        },
+        {
+          "w": "以后",
+          "py": "yǐ hòu",
+          "gloss": "after",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "他",
+          "py": "tā",
+          "gloss": "he",
+          "pos": "pron"
+        },
+        {
+          "w": "每天",
+          "py": "měi tiān",
+          "gloss": "every day",
+          "pos": "noun"
+        },
+        {
+          "w": "都",
+          "py": "dōu",
+          "gloss": "all",
+          "pos": "adv"
+        },
+        {
+          "w": "认真",
+          "py": "rèn zhēn",
+          "gloss": "conscientiously",
+          "pos": "adv"
+        },
+        {
+          "w": "工作",
+          "py": "gōng zuò",
+          "gloss": "worked",
+          "pos": "verb"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "不再",
+          "py": "bú zài",
+          "gloss": "no longer",
+          "pos": "adv"
+        },
+        {
+          "w": "偷懒",
+          "py": "tōu lǎn",
+          "gloss": "be lazy",
+          "pos": "verb"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "过了几个月，顾客又越来越多了。",
+      "en": "A few months later, customers became more and more numerous again.",
+      "tokens": [
+        {
+          "w": "过",
+          "py": "guò",
+          "gloss": "passed",
+          "pos": "verb"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(completed)",
+          "pos": "part"
+        },
+        {
+          "w": "几",
+          "py": "jǐ",
+          "gloss": "several",
+          "pos": "quant"
+        },
+        {
+          "w": "个",
+          "py": "gè",
+          "gloss": "(measure word)",
+          "pos": "quant"
+        },
+        {
+          "w": "月",
+          "py": "yuè",
+          "gloss": "months",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "顾客",
+          "py": "gù kè",
+          "gloss": "customers",
+          "pos": "noun"
+        },
+        {
+          "w": "又",
+          "py": "yòu",
+          "gloss": "again",
+          "pos": "adv"
+        },
+        {
+          "w": "越来越",
+          "py": "yuè lái yuè",
+          "gloss": "more and more",
+          "pos": "adv"
+        },
+        {
+          "w": "多",
+          "py": "duō",
+          "gloss": "many",
+          "pos": "adj"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(change of state)",
+          "pos": "part"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "有一天，一个年轻人也想开一家水果店，来问小张怎么把生意做好。",
+      "en": "One day, a young person who also wanted to open a fruit shop came to ask Xiao Zhang how to run a good business.",
+      "tokens": [
+        {
+          "w": "有",
+          "py": "yǒu",
+          "gloss": "there was",
+          "pos": "verb"
+        },
+        {
+          "w": "一",
+          "py": "yì",
+          "gloss": "one",
+          "pos": "quant"
+        },
+        {
+          "w": "天",
+          "py": "tiān",
+          "gloss": "day",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "一",
+          "py": "yí",
+          "gloss": "a",
+          "pos": "quant"
+        },
+        {
+          "w": "个",
+          "py": "gè",
+          "gloss": "(measure word)",
+          "pos": "quant"
+        },
+        {
+          "w": "年轻人",
+          "py": "nián qīng rén",
+          "gloss": "young person",
+          "pos": "noun"
+        },
+        {
+          "w": "也",
+          "py": "yě",
+          "gloss": "also",
+          "pos": "adv"
+        },
+        {
+          "w": "想",
+          "py": "xiǎng",
+          "gloss": "wanted to",
+          "pos": "verb"
+        },
+        {
+          "w": "开",
+          "py": "kāi",
+          "gloss": "open",
+          "pos": "verb"
+        },
+        {
+          "w": "一",
+          "py": "yì",
+          "gloss": "a",
+          "pos": "quant"
+        },
+        {
+          "w": "家",
+          "py": "jiā",
+          "gloss": "(measure word for shops)",
+          "pos": "quant"
+        },
+        {
+          "w": "水果店",
+          "py": "shuǐ guǒ diàn",
+          "gloss": "fruit shop",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "来",
+          "py": "lái",
+          "gloss": "came",
+          "pos": "verb"
+        },
+        {
+          "w": "问",
+          "py": "wèn",
+          "gloss": "ask",
+          "pos": "verb"
+        },
+        {
+          "w": "小张",
+          "py": "Xiǎo Zhāng",
+          "gloss": "Xiao Zhang",
+          "pos": "noun"
+        },
+        {
+          "w": "怎么",
+          "py": "zěn me",
+          "gloss": "how to",
+          "pos": "pron"
+        },
+        {
+          "w": "把",
+          "py": "bǎ",
+          "gloss": "(object marker)",
+          "pos": "conn"
+        },
+        {
+          "w": "生意",
+          "py": "shēng yi",
+          "gloss": "business",
+          "pos": "noun"
+        },
+        {
+          "w": "做好",
+          "py": "zuò hǎo",
+          "gloss": "do well",
+          "pos": "verb"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "小张笑着说：“生意好的时候最容易骄傲，这时候千万不能放松。”",
+      "en": "Xiao Zhang said with a smile: \"It's easiest to become prideful when business is good — at that point you absolutely cannot relax.\"",
+      "tokens": [
+        {
+          "w": "小张",
+          "py": "Xiǎo Zhāng",
+          "gloss": "Xiao Zhang",
+          "pos": "noun"
+        },
+        {
+          "w": "笑",
+          "py": "xiào",
+          "gloss": "smiling",
+          "pos": "verb"
+        },
+        {
+          "w": "着",
+          "py": "zhe",
+          "gloss": "(ongoing state)",
+          "pos": "part"
+        },
+        {
+          "w": "说",
+          "py": "shuō",
+          "gloss": "said",
+          "pos": "verb"
+        },
+        {
+          "w": "：“",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "生意",
+          "py": "shēng yi",
+          "gloss": "business",
+          "pos": "noun"
+        },
+        {
+          "w": "好",
+          "py": "hǎo",
+          "gloss": "good",
+          "pos": "adj"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(nominaliser)",
+          "pos": "part"
+        },
+        {
+          "w": "时候",
+          "py": "shí hou",
+          "gloss": "time (when)",
+          "pos": "noun"
+        },
+        {
+          "w": "最",
+          "py": "zuì",
+          "gloss": "most",
+          "pos": "adv"
+        },
+        {
+          "w": "容易",
+          "py": "róng yì",
+          "gloss": "easy",
+          "pos": "adj"
+        },
+        {
+          "w": "骄傲",
+          "py": "jiāo ào",
+          "gloss": "become prideful",
+          "pos": "verb"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "这",
+          "py": "zhè",
+          "gloss": "this",
+          "pos": "pron"
+        },
+        {
+          "w": "时候",
+          "py": "shí hou",
+          "gloss": "moment",
+          "pos": "noun"
+        },
+        {
+          "w": "千万",
+          "py": "qiān wàn",
+          "gloss": "absolutely (must)",
+          "pos": "adv"
+        },
+        {
+          "w": "不能",
+          "py": "bù néng",
+          "gloss": "cannot",
+          "pos": "verb"
+        },
+        {
+          "w": "放松",
+          "py": "fàng sōng",
+          "gloss": "relax",
+          "pos": "verb"
+        },
+        {
+          "w": "。”",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "年轻人点点头，说他记住了。",
+      "en": "The young person nodded and said he would remember it.",
+      "tokens": [
+        {
+          "w": "年轻人",
+          "py": "nián qīng rén",
+          "gloss": "the young person",
+          "pos": "noun"
+        },
+        {
+          "w": "点点头",
+          "py": "diǎn diǎn tóu",
+          "gloss": "nodded",
+          "pos": "verb"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "说",
+          "py": "shuō",
+          "gloss": "said",
+          "pos": "verb"
+        },
+        {
+          "w": "他",
+          "py": "tā",
+          "gloss": "he",
+          "pos": "pron"
+        },
+        {
+          "w": "记住",
+          "py": "jì zhù",
+          "gloss": "would remember",
+          "pos": "verb"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(completed)",
+          "pos": "part"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "后来，小张的水果店开了很多年，一直是市场里生意最好的一家。",
+      "en": "Later, Xiao Zhang's fruit shop ran for many years, and was always the best-business shop in the market.",
+      "tokens": [
+        {
+          "w": "后来",
+          "py": "hòu lái",
+          "gloss": "later",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "小张",
+          "py": "Xiǎo Zhāng",
+          "gloss": "Xiao Zhang's",
+          "pos": "noun"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(possessive)",
+          "pos": "part"
+        },
+        {
+          "w": "水果店",
+          "py": "shuǐ guǒ diàn",
+          "gloss": "fruit shop",
+          "pos": "noun"
+        },
+        {
+          "w": "开",
+          "py": "kāi",
+          "gloss": "ran",
+          "pos": "verb"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(completed)",
+          "pos": "part"
+        },
+        {
+          "w": "很多",
+          "py": "hěn duō",
+          "gloss": "many",
+          "pos": "adj"
+        },
+        {
+          "w": "年",
+          "py": "nián",
+          "gloss": "years",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "一直",
+          "py": "yì zhí",
+          "gloss": "always",
+          "pos": "adv"
+        },
+        {
+          "w": "是",
+          "py": "shì",
+          "gloss": "was",
+          "pos": "verb"
+        },
+        {
+          "w": "市场",
+          "py": "shì chǎng",
+          "gloss": "market",
+          "pos": "noun"
+        },
+        {
+          "w": "里",
+          "py": "lǐ",
+          "gloss": "in",
+          "pos": "conn"
+        },
+        {
+          "w": "生意",
+          "py": "shēng yi",
+          "gloss": "business",
+          "pos": "noun"
+        },
+        {
+          "w": "最",
+          "py": "zuì",
+          "gloss": "most",
+          "pos": "adv"
+        },
+        {
+          "w": "好",
+          "py": "hǎo",
+          "gloss": "good",
+          "pos": "adj"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(nominaliser)",
+          "pos": "part"
+        },
+        {
+          "w": "一",
+          "py": "yì",
+          "gloss": "one",
+          "pos": "quant"
+        },
+        {
+          "w": "家",
+          "py": "jiā",
+          "gloss": "(measure word for shops)",
+          "pos": "quant"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "小张常常把这个故事讲给市场里新来的老板听。",
+      "en": "Xiao Zhang often told this story to new shopkeepers in the market.",
+      "tokens": [
+        {
+          "w": "小张",
+          "py": "Xiǎo Zhāng",
+          "gloss": "Xiao Zhang",
+          "pos": "noun"
+        },
+        {
+          "w": "常常",
+          "py": "cháng cháng",
+          "gloss": "often",
+          "pos": "adv"
+        },
+        {
+          "w": "把",
+          "py": "bǎ",
+          "gloss": "(object marker)",
+          "pos": "conn"
+        },
+        {
+          "w": "这",
+          "py": "zhè",
+          "gloss": "this",
+          "pos": "pron"
+        },
+        {
+          "w": "个",
+          "py": "gè",
+          "gloss": "(measure word)",
+          "pos": "quant"
+        },
+        {
+          "w": "故事",
+          "py": "gù shi",
+          "gloss": "story",
+          "pos": "noun"
+        },
+        {
+          "w": "讲",
+          "py": "jiǎng",
+          "gloss": "told",
+          "pos": "verb"
+        },
+        {
+          "w": "给",
+          "py": "gěi",
+          "gloss": "to",
+          "pos": "conn"
+        },
+        {
+          "w": "市场",
+          "py": "shì chǎng",
+          "gloss": "market",
+          "pos": "noun"
+        },
+        {
+          "w": "里",
+          "py": "lǐ",
+          "gloss": "in",
+          "pos": "conn"
+        },
+        {
+          "w": "新",
+          "py": "xīn",
+          "gloss": "new",
+          "pos": "adj"
+        },
+        {
+          "w": "来",
+          "py": "lái",
+          "gloss": "arrived",
+          "pos": "verb"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(nominaliser)",
+          "pos": "part"
+        },
+        {
+          "w": "老板",
+          "py": "lǎo bǎn",
+          "gloss": "shopkeepers",
+          "pos": "noun"
+        },
+        {
+          "w": "听",
+          "py": "tīng",
+          "gloss": "listen",
+          "pos": "verb"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "他的顾客说，这就是为什么他的店年年都是市场里最好的一家。",
+      "en": "His customers said that was exactly why his shop stayed the best in the market, year after year.",
+      "tokens": [
+        {
+          "w": "他",
+          "py": "tā",
+          "gloss": "his",
+          "pos": "pron"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(possessive)",
+          "pos": "part"
+        },
+        {
+          "w": "顾客",
+          "py": "gù kè",
+          "gloss": "customers",
+          "pos": "noun"
+        },
+        {
+          "w": "说",
+          "py": "shuō",
+          "gloss": "said",
+          "pos": "verb"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "这",
+          "py": "zhè",
+          "gloss": "this",
+          "pos": "pron"
+        },
+        {
+          "w": "就是",
+          "py": "jiù shì",
+          "gloss": "is exactly",
+          "pos": "verb"
+        },
+        {
+          "w": "为什么",
+          "py": "wèi shén me",
+          "gloss": "why",
+          "pos": "pron"
+        },
+        {
+          "w": "他",
+          "py": "tā",
+          "gloss": "his",
+          "pos": "pron"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(possessive)",
+          "pos": "part"
+        },
+        {
+          "w": "店",
+          "py": "diàn",
+          "gloss": "shop",
+          "pos": "noun"
+        },
+        {
+          "w": "年年",
+          "py": "nián nián",
+          "gloss": "year after year",
+          "pos": "adv"
+        },
+        {
+          "w": "都",
+          "py": "dōu",
+          "gloss": "all",
+          "pos": "adv"
+        },
+        {
+          "w": "是",
+          "py": "shì",
+          "gloss": "is",
+          "pos": "verb"
+        },
+        {
+          "w": "市场",
+          "py": "shì chǎng",
+          "gloss": "market",
+          "pos": "noun"
+        },
+        {
+          "w": "里",
+          "py": "lǐ",
+          "gloss": "in",
+          "pos": "conn"
+        },
+        {
+          "w": "最",
+          "py": "zuì",
+          "gloss": "most",
+          "pos": "adv"
+        },
+        {
+          "w": "好",
+          "py": "hǎo",
+          "gloss": "good",
+          "pos": "adj"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(nominaliser)",
+          "pos": "part"
+        },
+        {
+          "w": "一",
+          "py": "yì",
+          "gloss": "one",
+          "pos": "quant"
+        },
+        {
+          "w": "家",
+          "py": "jiā",
+          "gloss": "(measure word for shops)",
+          "pos": "quant"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    }
+  ],
+  "new_words": [
+    {
+      "w": "挑选",
+      "py": "tiāo xuǎn",
+      "gloss": "to pick out, select"
+    },
+    {
+      "w": "新鲜",
+      "py": "xīn xiān",
+      "gloss": "fresh"
+    },
+    {
+      "w": "邻居",
+      "py": "lín jū",
+      "gloss": "neighbor"
+    },
+    {
+      "w": "不再",
+      "py": "bú zài",
+      "gloss": "no longer"
+    },
+    {
+      "w": "偷懒",
+      "py": "tōu lǎn",
+      "gloss": "to be lazy, slack off"
+    },
+    {
+      "w": "打招呼",
+      "py": "dǎ zhāo hu",
+      "gloss": "to greet"
+    },
+    {
+      "w": "辛苦",
+      "py": "xīn kǔ",
+      "gloss": "exhausting, hard work"
+    },
+    {
+      "w": "骄傲",
+      "py": "jiāo ào",
+      "gloss": "to become prideful"
+    }
+  ],
+  "grammar_points": [
+    {
+      "pattern": "一天比一天 + adj",
+      "explanation_en": "\"Day by day\" — stacks a gradual change over time. 一天比一天好 is \"better with each passing day\".",
+      "example_zh": "天气一天比一天冷。",
+      "example_en": "The weather gets colder day by day."
+    },
+    {
+      "pattern": "verb + 得 + adj/adv",
+      "explanation_en": "得 links a verb to how it is done. 变得差 is \"became bad\", describing the result of 变 (to change).",
+      "example_zh": "他跑得很快。",
+      "example_en": "He runs very fast."
+    },
+    {
+      "pattern": "不能只靠 + noun",
+      "explanation_en": "\"Can't rely only on X\" — 只靠 singles out the one thing someone is (wrongly) depending on.",
+      "example_zh": "学好中文不能只靠课本。",
+      "example_en": "You can't learn Chinese well relying only on textbooks."
+    }
+  ],
+  "questions": [
+    {
+      "q_zh": "一开始，小张的生意怎么样？",
+      "q_en": "How was Xiao Zhang's business at first?",
+      "answer_en": "Slow — there were not many customers, and he was anxious."
+    },
+    {
+      "q_zh": "生意变好以后，小张做了什么改变？",
+      "q_en": "What did Xiao Zhang change once business improved?",
+      "answer_en": "He got lazy — slept in, stopped picking fruit himself, and was less warm to customers."
+    },
+    {
+      "q_zh": "小张最后懂得了什么道理？",
+      "q_en": "What lesson does Xiao Zhang finally understand?",
+      "answer_en": "That when business is good you must work even harder, not coast on past luck."
+    }
+  ]
+}

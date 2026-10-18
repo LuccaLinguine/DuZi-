@@ -1,0 +1,3086 @@
+{
+  "id": "20261018-master-the-missing-painting",
+  "series_id": null,
+  "chapter": null,
+  "topic": "Mystery",
+  "format": "story",
+  "created_at": "2026-10-18",
+  "ai_generated": true,
+  "title_zh": "一幅画不见了",
+  "title_en": "A Painting Has Disappeared",
+  "summary_en": "A museum's prized painting vanishes overnight, and the night guard becomes the prime suspect — until a young assistant curator who refuses to believe it follows a trail of overlooked clues to a far less criminal explanation.",
+  "level": "master",
+  "sentences": [
+    {
+      "zh": "林小雨在市立美术馆工作，是一名年轻的助理馆长。",
+      "en": "Lin Xiaoyu worked at the city art museum, as a young assistant curator.",
+      "tokens": [
+        {
+          "w": "林小雨",
+          "py": "Lín Xiǎoyǔ",
+          "gloss": "Lin Xiaoyu (name)",
+          "pos": "noun"
+        },
+        {
+          "w": "在",
+          "py": "zài",
+          "gloss": "at",
+          "pos": "conn"
+        },
+        {
+          "w": "市立",
+          "py": "shì lì",
+          "gloss": "city",
+          "pos": "noun"
+        },
+        {
+          "w": "美术馆",
+          "py": "měi shù guǎn",
+          "gloss": "art museum",
+          "pos": "noun"
+        },
+        {
+          "w": "工作",
+          "py": "gōng zuò",
+          "gloss": "worked",
+          "pos": "verb"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "是",
+          "py": "shì",
+          "gloss": "was",
+          "pos": "verb"
+        },
+        {
+          "w": "一",
+          "py": "yì",
+          "gloss": "a",
+          "pos": "quant"
+        },
+        {
+          "w": "名",
+          "py": "míng",
+          "gloss": "(measure word)",
+          "pos": "quant"
+        },
+        {
+          "w": "年轻",
+          "py": "nián qīng",
+          "gloss": "young",
+          "pos": "adj"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(nominaliser)",
+          "pos": "part"
+        },
+        {
+          "w": "助理",
+          "py": "zhù lǐ",
+          "gloss": "assistant",
+          "pos": "noun"
+        },
+        {
+          "w": "馆长",
+          "py": "guǎn zhǎng",
+          "gloss": "curator",
+          "pos": "noun"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "那天早上，她一到美术馆，就发现大门是开着的，可是保安却不见了。",
+      "en": "That morning, as soon as she arrived at the museum, she found the front door open, but the security guard was nowhere to be found.",
+      "tokens": [
+        {
+          "w": "那天",
+          "py": "nà tiān",
+          "gloss": "that",
+          "pos": "pron"
+        },
+        {
+          "w": "早上",
+          "py": "zǎo shang",
+          "gloss": "morning",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "她",
+          "py": "tā",
+          "gloss": "she",
+          "pos": "pron"
+        },
+        {
+          "w": "一",
+          "py": "yì",
+          "gloss": "as soon as",
+          "pos": "adv"
+        },
+        {
+          "w": "到",
+          "py": "dào",
+          "gloss": "arrived",
+          "pos": "verb"
+        },
+        {
+          "w": "美术馆",
+          "py": "měi shù guǎn",
+          "gloss": "the museum",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "就",
+          "py": "jiù",
+          "gloss": "then",
+          "pos": "adv"
+        },
+        {
+          "w": "发现",
+          "py": "fā xiàn",
+          "gloss": "found",
+          "pos": "verb"
+        },
+        {
+          "w": "大门",
+          "py": "dà mén",
+          "gloss": "the front door",
+          "pos": "noun"
+        },
+        {
+          "w": "是",
+          "py": "shì",
+          "gloss": "was",
+          "pos": "verb"
+        },
+        {
+          "w": "开",
+          "py": "kāi",
+          "gloss": "open",
+          "pos": "verb"
+        },
+        {
+          "w": "着",
+          "py": "zhe",
+          "gloss": "(state)",
+          "pos": "part"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(nominaliser)",
+          "pos": "part"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "可是",
+          "py": "kě shì",
+          "gloss": "but",
+          "pos": "conn"
+        },
+        {
+          "w": "保安",
+          "py": "bǎo ān",
+          "gloss": "the security guard",
+          "pos": "noun"
+        },
+        {
+          "w": "却",
+          "py": "què",
+          "gloss": "was instead",
+          "pos": "adv"
+        },
+        {
+          "w": "不见",
+          "py": "bú jiàn",
+          "gloss": "nowhere to be found",
+          "pos": "verb"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(change of state)",
+          "pos": "part"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "她走进展厅，心里立刻紧张起来——美术馆最有名的那幅油画，竟然不见了。",
+      "en": "She walked into the exhibition hall, and her heart immediately tensed — the museum's most famous painting had actually disappeared.",
+      "tokens": [
+        {
+          "w": "她",
+          "py": "tā",
+          "gloss": "she",
+          "pos": "pron"
+        },
+        {
+          "w": "走",
+          "py": "zǒu",
+          "gloss": "walked",
+          "pos": "verb"
+        },
+        {
+          "w": "进",
+          "py": "jìn",
+          "gloss": "into",
+          "pos": "conn"
+        },
+        {
+          "w": "展厅",
+          "py": "zhǎn tīng",
+          "gloss": "the exhibition hall",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "心里",
+          "py": "xīn lǐ",
+          "gloss": "her heart",
+          "pos": "noun"
+        },
+        {
+          "w": "立刻",
+          "py": "lì kè",
+          "gloss": "immediately",
+          "pos": "adv"
+        },
+        {
+          "w": "紧张",
+          "py": "jǐn zhāng",
+          "gloss": "tensed",
+          "pos": "verb"
+        },
+        {
+          "w": "起来",
+          "py": "qǐ lái",
+          "gloss": "(inceptive)",
+          "pos": "part"
+        },
+        {
+          "w": "——",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "美术馆",
+          "py": "měi shù guǎn",
+          "gloss": "the museum's",
+          "pos": "noun"
+        },
+        {
+          "w": "最",
+          "py": "zuì",
+          "gloss": "most",
+          "pos": "adv"
+        },
+        {
+          "w": "有名",
+          "py": "yǒu míng",
+          "gloss": "famous",
+          "pos": "adj"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(nominaliser)",
+          "pos": "part"
+        },
+        {
+          "w": "那",
+          "py": "nà",
+          "gloss": "that",
+          "pos": "pron"
+        },
+        {
+          "w": "幅",
+          "py": "fú",
+          "gloss": "(measure word for paintings)",
+          "pos": "quant"
+        },
+        {
+          "w": "油画",
+          "py": "yóu huà",
+          "gloss": "oil painting",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "竟然",
+          "py": "jìng rán",
+          "gloss": "actually",
+          "pos": "adv"
+        },
+        {
+          "w": "不见",
+          "py": "bú jiàn",
+          "gloss": "disappeared",
+          "pos": "verb"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(change of state)",
+          "pos": "part"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "警察很快赶到了现场，开始调查这起离奇的失踪案件。",
+      "en": "Police quickly arrived at the scene and began investigating this bizarre disappearance case.",
+      "tokens": [
+        {
+          "w": "警察",
+          "py": "jǐng chá",
+          "gloss": "police",
+          "pos": "noun"
+        },
+        {
+          "w": "很快",
+          "py": "hěn kuài",
+          "gloss": "quickly",
+          "pos": "adv"
+        },
+        {
+          "w": "赶到",
+          "py": "gǎn dào",
+          "gloss": "arrived at",
+          "pos": "verb"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(completed)",
+          "pos": "part"
+        },
+        {
+          "w": "现场",
+          "py": "xiàn chǎng",
+          "gloss": "the scene",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "开始",
+          "py": "kāi shǐ",
+          "gloss": "began",
+          "pos": "verb"
+        },
+        {
+          "w": "调查",
+          "py": "diào chá",
+          "gloss": "investigating",
+          "pos": "verb"
+        },
+        {
+          "w": "这",
+          "py": "zhè",
+          "gloss": "this",
+          "pos": "pron"
+        },
+        {
+          "w": "起",
+          "py": "qǐ",
+          "gloss": "(measure word for cases)",
+          "pos": "quant"
+        },
+        {
+          "w": "离奇",
+          "py": "lí qí",
+          "gloss": "bizarre",
+          "pos": "adj"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(nominaliser)",
+          "pos": "part"
+        },
+        {
+          "w": "失踪",
+          "py": "shī zōng",
+          "gloss": "disappearance",
+          "pos": "noun"
+        },
+        {
+          "w": "案件",
+          "py": "àn jiàn",
+          "gloss": "case",
+          "pos": "noun"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "大家都怀疑是昨晚值班的保安老周偷的，因为只有他有钥匙。",
+      "en": "Everyone suspected the guard on duty last night, Old Zhou, had stolen it, because only he had the key.",
+      "tokens": [
+        {
+          "w": "大家",
+          "py": "dà jiā",
+          "gloss": "everyone",
+          "pos": "pron"
+        },
+        {
+          "w": "都",
+          "py": "dōu",
+          "gloss": "all",
+          "pos": "adv"
+        },
+        {
+          "w": "怀疑",
+          "py": "huái yí",
+          "gloss": "suspected",
+          "pos": "verb"
+        },
+        {
+          "w": "是",
+          "py": "shì",
+          "gloss": "was",
+          "pos": "verb"
+        },
+        {
+          "w": "昨晚",
+          "py": "zuó wǎn",
+          "gloss": "last night",
+          "pos": "noun"
+        },
+        {
+          "w": "值班",
+          "py": "zhí bān",
+          "gloss": "on duty",
+          "pos": "verb"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(nominaliser)",
+          "pos": "part"
+        },
+        {
+          "w": "保安",
+          "py": "bǎo ān",
+          "gloss": "guard",
+          "pos": "noun"
+        },
+        {
+          "w": "老周",
+          "py": "Lǎo Zhōu",
+          "gloss": "Old Zhou (name)",
+          "pos": "noun"
+        },
+        {
+          "w": "偷",
+          "py": "tōu",
+          "gloss": "had stolen",
+          "pos": "verb"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(nominaliser)",
+          "pos": "part"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "因为",
+          "py": "yīn wèi",
+          "gloss": "because",
+          "pos": "conn"
+        },
+        {
+          "w": "只有",
+          "py": "zhǐ yǒu",
+          "gloss": "only",
+          "pos": "adv"
+        },
+        {
+          "w": "他",
+          "py": "tā",
+          "gloss": "he",
+          "pos": "pron"
+        },
+        {
+          "w": "有",
+          "py": "yǒu",
+          "gloss": "had",
+          "pos": "verb"
+        },
+        {
+          "w": "钥匙",
+          "py": "yào shi",
+          "gloss": "the key",
+          "pos": "noun"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "可是老周一直说自己是无辜的，他说自己昨晚十点就已经下班回家了。",
+      "en": "But Old Zhou kept saying he was innocent — he said he had already gotten off work and gone home by ten last night.",
+      "tokens": [
+        {
+          "w": "可是",
+          "py": "kě shì",
+          "gloss": "but",
+          "pos": "conn"
+        },
+        {
+          "w": "老周",
+          "py": "Lǎo Zhōu",
+          "gloss": "Old Zhou",
+          "pos": "noun"
+        },
+        {
+          "w": "一直",
+          "py": "yì zhí",
+          "gloss": "kept",
+          "pos": "adv"
+        },
+        {
+          "w": "说",
+          "py": "shuō",
+          "gloss": "saying",
+          "pos": "verb"
+        },
+        {
+          "w": "自己",
+          "py": "zì jǐ",
+          "gloss": "himself",
+          "pos": "pron"
+        },
+        {
+          "w": "是",
+          "py": "shì",
+          "gloss": "was",
+          "pos": "verb"
+        },
+        {
+          "w": "无辜",
+          "py": "wú gū",
+          "gloss": "innocent",
+          "pos": "adj"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(nominaliser)",
+          "pos": "part"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "他",
+          "py": "tā",
+          "gloss": "he",
+          "pos": "pron"
+        },
+        {
+          "w": "说",
+          "py": "shuō",
+          "gloss": "said",
+          "pos": "verb"
+        },
+        {
+          "w": "自己",
+          "py": "zì jǐ",
+          "gloss": "he",
+          "pos": "pron"
+        },
+        {
+          "w": "昨晚",
+          "py": "zuó wǎn",
+          "gloss": "last night",
+          "pos": "noun"
+        },
+        {
+          "w": "十",
+          "py": "shí",
+          "gloss": "ten",
+          "pos": "quant"
+        },
+        {
+          "w": "点",
+          "py": "diǎn",
+          "gloss": "o'clock",
+          "pos": "noun"
+        },
+        {
+          "w": "就",
+          "py": "jiù",
+          "gloss": "already",
+          "pos": "adv"
+        },
+        {
+          "w": "已经",
+          "py": "yǐ jīng",
+          "gloss": "already",
+          "pos": "adv"
+        },
+        {
+          "w": "下班",
+          "py": "xià bān",
+          "gloss": "got off work",
+          "pos": "verb"
+        },
+        {
+          "w": "回家",
+          "py": "huí jiā",
+          "gloss": "went home",
+          "pos": "verb"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(completed)",
+          "pos": "part"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "林小雨认识老周很多年了，不相信他会做这种事。",
+      "en": "Lin Xiaoyu had known Old Zhou for many years, and didn't believe he would do such a thing.",
+      "tokens": [
+        {
+          "w": "林小雨",
+          "py": "Lín Xiǎoyǔ",
+          "gloss": "Lin Xiaoyu",
+          "pos": "noun"
+        },
+        {
+          "w": "认识",
+          "py": "rèn shi",
+          "gloss": "had known",
+          "pos": "verb"
+        },
+        {
+          "w": "老周",
+          "py": "Lǎo Zhōu",
+          "gloss": "Old Zhou",
+          "pos": "noun"
+        },
+        {
+          "w": "很多",
+          "py": "hěn duō",
+          "gloss": "many",
+          "pos": "adj"
+        },
+        {
+          "w": "年",
+          "py": "nián",
+          "gloss": "years",
+          "pos": "noun"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(change of state)",
+          "pos": "part"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "不",
+          "py": "bù",
+          "gloss": "not",
+          "pos": "adv"
+        },
+        {
+          "w": "相信",
+          "py": "xiāng xìn",
+          "gloss": "believed",
+          "pos": "verb"
+        },
+        {
+          "w": "他",
+          "py": "tā",
+          "gloss": "he",
+          "pos": "pron"
+        },
+        {
+          "w": "会",
+          "py": "huì",
+          "gloss": "would",
+          "pos": "verb"
+        },
+        {
+          "w": "做",
+          "py": "zuò",
+          "gloss": "do",
+          "pos": "verb"
+        },
+        {
+          "w": "这种",
+          "py": "zhè zhǒng",
+          "gloss": "such",
+          "pos": "pron"
+        },
+        {
+          "w": "事",
+          "py": "shì",
+          "gloss": "a thing",
+          "pos": "noun"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "她决定自己调查这件事，找出真相。",
+      "en": "She decided to investigate the matter herself, to find out the truth.",
+      "tokens": [
+        {
+          "w": "她",
+          "py": "tā",
+          "gloss": "she",
+          "pos": "pron"
+        },
+        {
+          "w": "决定",
+          "py": "jué dìng",
+          "gloss": "decided",
+          "pos": "verb"
+        },
+        {
+          "w": "自己",
+          "py": "zì jǐ",
+          "gloss": "herself",
+          "pos": "pron"
+        },
+        {
+          "w": "调查",
+          "py": "diào chá",
+          "gloss": "investigate",
+          "pos": "verb"
+        },
+        {
+          "w": "这",
+          "py": "zhè",
+          "gloss": "this",
+          "pos": "pron"
+        },
+        {
+          "w": "件",
+          "py": "jiàn",
+          "gloss": "(measure word)",
+          "pos": "quant"
+        },
+        {
+          "w": "事",
+          "py": "shì",
+          "gloss": "matter",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "找出",
+          "py": "zhǎo chū",
+          "gloss": "find out",
+          "pos": "verb"
+        },
+        {
+          "w": "真相",
+          "py": "zhēn xiàng",
+          "gloss": "the truth",
+          "pos": "noun"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "她仔细查看了美术馆的监控录像，发现有一段时间，摄像头拍到的画面是空的。",
+      "en": "She carefully reviewed the museum's surveillance footage, and found that for one stretch of time, the camera's footage was empty.",
+      "tokens": [
+        {
+          "w": "她",
+          "py": "tā",
+          "gloss": "she",
+          "pos": "pron"
+        },
+        {
+          "w": "仔细",
+          "py": "zǐ xì",
+          "gloss": "carefully",
+          "pos": "adv"
+        },
+        {
+          "w": "查看",
+          "py": "chá kàn",
+          "gloss": "reviewed",
+          "pos": "verb"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(completed)",
+          "pos": "part"
+        },
+        {
+          "w": "美术馆",
+          "py": "měi shù guǎn",
+          "gloss": "the museum's",
+          "pos": "noun"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(possessive)",
+          "pos": "part"
+        },
+        {
+          "w": "监控",
+          "py": "jiān kòng",
+          "gloss": "surveillance",
+          "pos": "noun"
+        },
+        {
+          "w": "录像",
+          "py": "lù xiàng",
+          "gloss": "footage",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "发现",
+          "py": "fā xiàn",
+          "gloss": "found",
+          "pos": "verb"
+        },
+        {
+          "w": "有",
+          "py": "yǒu",
+          "gloss": "there was",
+          "pos": "verb"
+        },
+        {
+          "w": "一",
+          "py": "yí",
+          "gloss": "a",
+          "pos": "quant"
+        },
+        {
+          "w": "段",
+          "py": "duàn",
+          "gloss": "(measure word for periods)",
+          "pos": "quant"
+        },
+        {
+          "w": "时间",
+          "py": "shí jiān",
+          "gloss": "stretch of time",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "摄像头",
+          "py": "shè xiàng tóu",
+          "gloss": "the camera's",
+          "pos": "noun"
+        },
+        {
+          "w": "拍",
+          "py": "pāi",
+          "gloss": "captured",
+          "pos": "verb"
+        },
+        {
+          "w": "到",
+          "py": "dào",
+          "gloss": "(result)",
+          "pos": "conn"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(nominaliser)",
+          "pos": "part"
+        },
+        {
+          "w": "画面",
+          "py": "huà miàn",
+          "gloss": "footage",
+          "pos": "noun"
+        },
+        {
+          "w": "是",
+          "py": "shì",
+          "gloss": "was",
+          "pos": "verb"
+        },
+        {
+          "w": "空",
+          "py": "kōng",
+          "gloss": "empty",
+          "pos": "adj"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(nominaliser)",
+          "pos": "part"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "这说明，有人提前知道摄像头的位置，故意避开了它。",
+      "en": "This showed that someone had known the camera's position in advance, and deliberately avoided it.",
+      "tokens": [
+        {
+          "w": "这",
+          "py": "zhè",
+          "gloss": "this",
+          "pos": "pron"
+        },
+        {
+          "w": "说明",
+          "py": "shuō míng",
+          "gloss": "showed",
+          "pos": "verb"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "有",
+          "py": "yǒu",
+          "gloss": "there was",
+          "pos": "verb"
+        },
+        {
+          "w": "人",
+          "py": "rén",
+          "gloss": "someone",
+          "pos": "noun"
+        },
+        {
+          "w": "提前",
+          "py": "tí qián",
+          "gloss": "in advance",
+          "pos": "adv"
+        },
+        {
+          "w": "知道",
+          "py": "zhī dào",
+          "gloss": "knew",
+          "pos": "verb"
+        },
+        {
+          "w": "摄像头",
+          "py": "shè xiàng tóu",
+          "gloss": "the camera's",
+          "pos": "noun"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(possessive)",
+          "pos": "part"
+        },
+        {
+          "w": "位置",
+          "py": "wèi zhì",
+          "gloss": "position",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "故意",
+          "py": "gù yì",
+          "gloss": "deliberately",
+          "pos": "adv"
+        },
+        {
+          "w": "避开",
+          "py": "bì kāi",
+          "gloss": "avoided",
+          "pos": "verb"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(completed)",
+          "pos": "part"
+        },
+        {
+          "w": "它",
+          "py": "tā",
+          "gloss": "it",
+          "pos": "pron"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "她还在展厅角落里发现了一小块布料，看起来像是从衣服上撕下来的。",
+      "en": "She also found a small piece of fabric in the corner of the exhibition hall, which looked like it had been torn from clothing.",
+      "tokens": [
+        {
+          "w": "她",
+          "py": "tā",
+          "gloss": "she",
+          "pos": "pron"
+        },
+        {
+          "w": "还",
+          "py": "hái",
+          "gloss": "also",
+          "pos": "adv"
+        },
+        {
+          "w": "在",
+          "py": "zài",
+          "gloss": "in",
+          "pos": "conn"
+        },
+        {
+          "w": "展厅",
+          "py": "zhǎn tīng",
+          "gloss": "the exhibition hall",
+          "pos": "noun"
+        },
+        {
+          "w": "角落",
+          "py": "jiǎo luò",
+          "gloss": "corner",
+          "pos": "noun"
+        },
+        {
+          "w": "里",
+          "py": "lǐ",
+          "gloss": "in",
+          "pos": "conn"
+        },
+        {
+          "w": "发现",
+          "py": "fā xiàn",
+          "gloss": "found",
+          "pos": "verb"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(completed)",
+          "pos": "part"
+        },
+        {
+          "w": "一",
+          "py": "yì",
+          "gloss": "a",
+          "pos": "quant"
+        },
+        {
+          "w": "小",
+          "py": "xiǎo",
+          "gloss": "small",
+          "pos": "adj"
+        },
+        {
+          "w": "块",
+          "py": "kuài",
+          "gloss": "(measure word)",
+          "pos": "quant"
+        },
+        {
+          "w": "布料",
+          "py": "bù liào",
+          "gloss": "piece of fabric",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "看起来",
+          "py": "kàn qǐ lái",
+          "gloss": "looked",
+          "pos": "verb"
+        },
+        {
+          "w": "像",
+          "py": "xiàng",
+          "gloss": "like",
+          "pos": "conn"
+        },
+        {
+          "w": "是",
+          "py": "shì",
+          "gloss": "was",
+          "pos": "verb"
+        },
+        {
+          "w": "从",
+          "py": "cóng",
+          "gloss": "from",
+          "pos": "conn"
+        },
+        {
+          "w": "衣服",
+          "py": "yī fu",
+          "gloss": "clothing",
+          "pos": "noun"
+        },
+        {
+          "w": "上",
+          "py": "shàng",
+          "gloss": "off",
+          "pos": "conn"
+        },
+        {
+          "w": "撕",
+          "py": "sī",
+          "gloss": "torn",
+          "pos": "verb"
+        },
+        {
+          "w": "下来",
+          "py": "xià lái",
+          "gloss": "(off)",
+          "pos": "part"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(nominaliser)",
+          "pos": "part"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "那块布料的颜色和材质，不像是老周平时穿的工作服。",
+      "en": "That fabric's color and material didn't look like the work uniform Old Zhou usually wore.",
+      "tokens": [
+        {
+          "w": "那",
+          "py": "nà",
+          "gloss": "that",
+          "pos": "pron"
+        },
+        {
+          "w": "块",
+          "py": "kuài",
+          "gloss": "(measure word)",
+          "pos": "quant"
+        },
+        {
+          "w": "布料",
+          "py": "bù liào",
+          "gloss": "fabric",
+          "pos": "noun"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(possessive)",
+          "pos": "part"
+        },
+        {
+          "w": "颜色",
+          "py": "yán sè",
+          "gloss": "color",
+          "pos": "noun"
+        },
+        {
+          "w": "和",
+          "py": "hé",
+          "gloss": "and",
+          "pos": "conn"
+        },
+        {
+          "w": "材质",
+          "py": "cái zhì",
+          "gloss": "material",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "不",
+          "py": "bú",
+          "gloss": "not",
+          "pos": "adv"
+        },
+        {
+          "w": "像",
+          "py": "xiàng",
+          "gloss": "like",
+          "pos": "verb"
+        },
+        {
+          "w": "是",
+          "py": "shì",
+          "gloss": "was",
+          "pos": "verb"
+        },
+        {
+          "w": "老周",
+          "py": "Lǎo Zhōu",
+          "gloss": "Old Zhou",
+          "pos": "noun"
+        },
+        {
+          "w": "平时",
+          "py": "píng shí",
+          "gloss": "usually",
+          "pos": "adv"
+        },
+        {
+          "w": "穿",
+          "py": "chuān",
+          "gloss": "wore",
+          "pos": "verb"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(nominaliser)",
+          "pos": "part"
+        },
+        {
+          "w": "工作服",
+          "py": "gōng zuò fú",
+          "gloss": "work uniform",
+          "pos": "noun"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "林小雨把这个发现告诉了警察，但是警察说，这不能证明老周是无辜的。",
+      "en": "Lin Xiaoyu told the police about this discovery, but the police said this couldn't prove Old Zhou was innocent.",
+      "tokens": [
+        {
+          "w": "林小雨",
+          "py": "Lín Xiǎoyǔ",
+          "gloss": "Lin Xiaoyu",
+          "pos": "noun"
+        },
+        {
+          "w": "把",
+          "py": "bǎ",
+          "gloss": "(object marker)",
+          "pos": "conn"
+        },
+        {
+          "w": "这",
+          "py": "zhè",
+          "gloss": "this",
+          "pos": "pron"
+        },
+        {
+          "w": "个",
+          "py": "gè",
+          "gloss": "(measure word)",
+          "pos": "quant"
+        },
+        {
+          "w": "发现",
+          "py": "fā xiàn",
+          "gloss": "discovery",
+          "pos": "noun"
+        },
+        {
+          "w": "告诉",
+          "py": "gào su",
+          "gloss": "told",
+          "pos": "verb"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(completed)",
+          "pos": "part"
+        },
+        {
+          "w": "警察",
+          "py": "jǐng chá",
+          "gloss": "the police",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "但是",
+          "py": "dàn shì",
+          "gloss": "but",
+          "pos": "conn"
+        },
+        {
+          "w": "警察",
+          "py": "jǐng chá",
+          "gloss": "the police",
+          "pos": "noun"
+        },
+        {
+          "w": "说",
+          "py": "shuō",
+          "gloss": "said",
+          "pos": "verb"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "这",
+          "py": "zhè",
+          "gloss": "this",
+          "pos": "pron"
+        },
+        {
+          "w": "不能",
+          "py": "bù néng",
+          "gloss": "couldn't",
+          "pos": "verb"
+        },
+        {
+          "w": "证明",
+          "py": "zhèng míng",
+          "gloss": "prove",
+          "pos": "verb"
+        },
+        {
+          "w": "老周",
+          "py": "Lǎo Zhōu",
+          "gloss": "Old Zhou",
+          "pos": "noun"
+        },
+        {
+          "w": "是",
+          "py": "shì",
+          "gloss": "was",
+          "pos": "verb"
+        },
+        {
+          "w": "无辜",
+          "py": "wú gū",
+          "gloss": "innocent",
+          "pos": "adj"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(nominaliser)",
+          "pos": "part"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "她不甘心，又去问了美术馆里的其他工作人员。",
+      "en": "Unwilling to let it go, she went to ask the museum's other staff members.",
+      "tokens": [
+        {
+          "w": "她",
+          "py": "tā",
+          "gloss": "she",
+          "pos": "pron"
+        },
+        {
+          "w": "不甘心",
+          "py": "bù gān xīn",
+          "gloss": "unwilling to let it go",
+          "pos": "adj"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "又",
+          "py": "yòu",
+          "gloss": "then",
+          "pos": "adv"
+        },
+        {
+          "w": "去",
+          "py": "qù",
+          "gloss": "went to",
+          "pos": "verb"
+        },
+        {
+          "w": "问",
+          "py": "wèn",
+          "gloss": "ask",
+          "pos": "verb"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(completed)",
+          "pos": "part"
+        },
+        {
+          "w": "美术馆",
+          "py": "měi shù guǎn",
+          "gloss": "the museum's",
+          "pos": "noun"
+        },
+        {
+          "w": "里",
+          "py": "lǐ",
+          "gloss": "in",
+          "pos": "conn"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(possessive)",
+          "pos": "part"
+        },
+        {
+          "w": "其他",
+          "py": "qí tā",
+          "gloss": "other",
+          "pos": "pron"
+        },
+        {
+          "w": "工作人员",
+          "py": "gōng zuò rén yuán",
+          "gloss": "staff members",
+          "pos": "noun"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "一位清洁工告诉她，那天晚上她看见馆长很晚还在美术馆，这很不寻常。",
+      "en": "A cleaner told her that that night she had seen the curator still at the museum very late, which was very unusual.",
+      "tokens": [
+        {
+          "w": "一",
+          "py": "yí",
+          "gloss": "a",
+          "pos": "quant"
+        },
+        {
+          "w": "位",
+          "py": "wèi",
+          "gloss": "(measure word, polite)",
+          "pos": "quant"
+        },
+        {
+          "w": "清洁工",
+          "py": "qīng jié gōng",
+          "gloss": "cleaner",
+          "pos": "noun"
+        },
+        {
+          "w": "告诉",
+          "py": "gào su",
+          "gloss": "told",
+          "pos": "verb"
+        },
+        {
+          "w": "她",
+          "py": "tā",
+          "gloss": "her",
+          "pos": "pron"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "那天",
+          "py": "nà tiān",
+          "gloss": "that",
+          "pos": "pron"
+        },
+        {
+          "w": "晚上",
+          "py": "wǎn shang",
+          "gloss": "night",
+          "pos": "noun"
+        },
+        {
+          "w": "她",
+          "py": "tā",
+          "gloss": "she",
+          "pos": "pron"
+        },
+        {
+          "w": "看见",
+          "py": "kàn jiàn",
+          "gloss": "saw",
+          "pos": "verb"
+        },
+        {
+          "w": "馆长",
+          "py": "guǎn zhǎng",
+          "gloss": "the curator",
+          "pos": "noun"
+        },
+        {
+          "w": "很",
+          "py": "hěn",
+          "gloss": "very",
+          "pos": "adv"
+        },
+        {
+          "w": "晚",
+          "py": "wǎn",
+          "gloss": "late",
+          "pos": "adj"
+        },
+        {
+          "w": "还",
+          "py": "hái",
+          "gloss": "still",
+          "pos": "adv"
+        },
+        {
+          "w": "在",
+          "py": "zài",
+          "gloss": "at",
+          "pos": "conn"
+        },
+        {
+          "w": "美术馆",
+          "py": "měi shù guǎn",
+          "gloss": "the museum",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "这",
+          "py": "zhè",
+          "gloss": "this",
+          "pos": "pron"
+        },
+        {
+          "w": "很",
+          "py": "hěn",
+          "gloss": "very",
+          "pos": "adv"
+        },
+        {
+          "w": "不寻常",
+          "py": "bù xún cháng",
+          "gloss": "unusual",
+          "pos": "adj"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "馆长平时很少加班，为什么那天晚上会例外？",
+      "en": "The curator rarely worked overtime — why would that night be an exception?",
+      "tokens": [
+        {
+          "w": "馆长",
+          "py": "guǎn zhǎng",
+          "gloss": "the curator",
+          "pos": "noun"
+        },
+        {
+          "w": "平时",
+          "py": "píng shí",
+          "gloss": "usually",
+          "pos": "adv"
+        },
+        {
+          "w": "很",
+          "py": "hěn",
+          "gloss": "very",
+          "pos": "adv"
+        },
+        {
+          "w": "少",
+          "py": "shǎo",
+          "gloss": "rarely",
+          "pos": "adj"
+        },
+        {
+          "w": "加班",
+          "py": "jiā bān",
+          "gloss": "work overtime",
+          "pos": "verb"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "为什么",
+          "py": "wèi shén me",
+          "gloss": "why",
+          "pos": "pron"
+        },
+        {
+          "w": "那天",
+          "py": "nà tiān",
+          "gloss": "that",
+          "pos": "pron"
+        },
+        {
+          "w": "晚上",
+          "py": "wǎn shang",
+          "gloss": "night",
+          "pos": "noun"
+        },
+        {
+          "w": "会",
+          "py": "huì",
+          "gloss": "would",
+          "pos": "verb"
+        },
+        {
+          "w": "例外",
+          "py": "lì wài",
+          "gloss": "be an exception",
+          "pos": "verb"
+        },
+        {
+          "w": "？",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "林小雨开始怀疑，也许偷画的人根本不是外人，而是美术馆内部的人。",
+      "en": "Lin Xiaoyu began to suspect that maybe the thief wasn't an outsider at all, but someone from inside the museum.",
+      "tokens": [
+        {
+          "w": "林小雨",
+          "py": "Lín Xiǎoyǔ",
+          "gloss": "Lin Xiaoyu",
+          "pos": "noun"
+        },
+        {
+          "w": "开始",
+          "py": "kāi shǐ",
+          "gloss": "began",
+          "pos": "verb"
+        },
+        {
+          "w": "怀疑",
+          "py": "huái yí",
+          "gloss": "suspect",
+          "pos": "verb"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "也许",
+          "py": "yě xǔ",
+          "gloss": "maybe",
+          "pos": "adv"
+        },
+        {
+          "w": "偷",
+          "py": "tōu",
+          "gloss": "stole",
+          "pos": "verb"
+        },
+        {
+          "w": "画",
+          "py": "huà",
+          "gloss": "the painting",
+          "pos": "noun"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(nominaliser)",
+          "pos": "part"
+        },
+        {
+          "w": "人",
+          "py": "rén",
+          "gloss": "person",
+          "pos": "noun"
+        },
+        {
+          "w": "根本",
+          "py": "gēn běn",
+          "gloss": "at all",
+          "pos": "adv"
+        },
+        {
+          "w": "不",
+          "py": "bú",
+          "gloss": "not",
+          "pos": "adv"
+        },
+        {
+          "w": "是",
+          "py": "shì",
+          "gloss": "was",
+          "pos": "verb"
+        },
+        {
+          "w": "外人",
+          "py": "wài rén",
+          "gloss": "an outsider",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "而是",
+          "py": "ér shì",
+          "gloss": "but rather",
+          "pos": "conn"
+        },
+        {
+          "w": "美术馆",
+          "py": "měi shù guǎn",
+          "gloss": "museum",
+          "pos": "noun"
+        },
+        {
+          "w": "内部",
+          "py": "nèi bù",
+          "gloss": "inside the",
+          "pos": "noun"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(nominaliser)",
+          "pos": "part"
+        },
+        {
+          "w": "人",
+          "py": "rén",
+          "gloss": "someone",
+          "pos": "noun"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "她鼓起勇气，直接去找馆长谈话。",
+      "en": "She summoned up her courage and went directly to talk to the curator.",
+      "tokens": [
+        {
+          "w": "她",
+          "py": "tā",
+          "gloss": "she",
+          "pos": "pron"
+        },
+        {
+          "w": "鼓起",
+          "py": "gǔ qǐ",
+          "gloss": "summoned up",
+          "pos": "verb"
+        },
+        {
+          "w": "勇气",
+          "py": "yǒng qì",
+          "gloss": "courage",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "直接",
+          "py": "zhí jiē",
+          "gloss": "directly",
+          "pos": "adv"
+        },
+        {
+          "w": "去",
+          "py": "qù",
+          "gloss": "went to",
+          "pos": "verb"
+        },
+        {
+          "w": "找",
+          "py": "zhǎo",
+          "gloss": "find",
+          "pos": "verb"
+        },
+        {
+          "w": "馆长",
+          "py": "guǎn zhǎng",
+          "gloss": "the curator",
+          "pos": "noun"
+        },
+        {
+          "w": "谈话",
+          "py": "tán huà",
+          "gloss": "talk",
+          "pos": "verb"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "一开始，馆长否认一切，但是当林小雨拿出那块布料时，他的表情突然变了。",
+      "en": "At first, the curator denied everything, but when Lin Xiaoyu took out that piece of fabric, his expression suddenly changed.",
+      "tokens": [
+        {
+          "w": "一开始",
+          "py": "yì kāi shǐ",
+          "gloss": "at first",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "馆长",
+          "py": "guǎn zhǎng",
+          "gloss": "the curator",
+          "pos": "noun"
+        },
+        {
+          "w": "否认",
+          "py": "fǒu rèn",
+          "gloss": "denied",
+          "pos": "verb"
+        },
+        {
+          "w": "一切",
+          "py": "yí qiè",
+          "gloss": "everything",
+          "pos": "pron"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "但是",
+          "py": "dàn shì",
+          "gloss": "but",
+          "pos": "conn"
+        },
+        {
+          "w": "当",
+          "py": "dāng",
+          "gloss": "when",
+          "pos": "conn"
+        },
+        {
+          "w": "林小雨",
+          "py": "Lín Xiǎoyǔ",
+          "gloss": "Lin Xiaoyu",
+          "pos": "noun"
+        },
+        {
+          "w": "拿出",
+          "py": "ná chū",
+          "gloss": "took out",
+          "pos": "verb"
+        },
+        {
+          "w": "那",
+          "py": "nà",
+          "gloss": "that",
+          "pos": "pron"
+        },
+        {
+          "w": "块",
+          "py": "kuài",
+          "gloss": "(measure word)",
+          "pos": "quant"
+        },
+        {
+          "w": "布料",
+          "py": "bù liào",
+          "gloss": "fabric",
+          "pos": "noun"
+        },
+        {
+          "w": "时",
+          "py": "shí",
+          "gloss": "moment",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "他",
+          "py": "tā",
+          "gloss": "his",
+          "pos": "pron"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(possessive)",
+          "pos": "part"
+        },
+        {
+          "w": "表情",
+          "py": "biǎo qíng",
+          "gloss": "expression",
+          "pos": "noun"
+        },
+        {
+          "w": "突然",
+          "py": "tū rán",
+          "gloss": "suddenly",
+          "pos": "adv"
+        },
+        {
+          "w": "变",
+          "py": "biàn",
+          "gloss": "changed",
+          "pos": "verb"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(change of state)",
+          "pos": "part"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "最后，馆长终于承认，那幅画其实是他自己藏起来的。",
+      "en": "In the end, the curator finally admitted that he had hidden the painting himself.",
+      "tokens": [
+        {
+          "w": "最后",
+          "py": "zuì hòu",
+          "gloss": "in the end",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "馆长",
+          "py": "guǎn zhǎng",
+          "gloss": "the curator",
+          "pos": "noun"
+        },
+        {
+          "w": "终于",
+          "py": "zhōng yú",
+          "gloss": "finally",
+          "pos": "adv"
+        },
+        {
+          "w": "承认",
+          "py": "chéng rèn",
+          "gloss": "admitted",
+          "pos": "verb"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "那",
+          "py": "nà",
+          "gloss": "that",
+          "pos": "pron"
+        },
+        {
+          "w": "幅",
+          "py": "fú",
+          "gloss": "(measure word for paintings)",
+          "pos": "quant"
+        },
+        {
+          "w": "画",
+          "py": "huà",
+          "gloss": "painting",
+          "pos": "noun"
+        },
+        {
+          "w": "其实",
+          "py": "qí shí",
+          "gloss": "actually",
+          "pos": "adv"
+        },
+        {
+          "w": "是",
+          "py": "shì",
+          "gloss": "was",
+          "pos": "verb"
+        },
+        {
+          "w": "他",
+          "py": "tā",
+          "gloss": "he",
+          "pos": "pron"
+        },
+        {
+          "w": "自己",
+          "py": "zì jǐ",
+          "gloss": "himself",
+          "pos": "pron"
+        },
+        {
+          "w": "藏",
+          "py": "cáng",
+          "gloss": "hidden",
+          "pos": "verb"
+        },
+        {
+          "w": "起来",
+          "py": "qǐ lái",
+          "gloss": "(result)",
+          "pos": "part"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(nominaliser)",
+          "pos": "part"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "原来，那幅画上有一道很深的裂痕，馆长担心董事会知道后会责怪他，所以想偷偷找人修复，再放回原处。",
+      "en": "It turned out the painting had a deep crack in it, and the curator, worried the board would blame him once they found out, wanted to secretly find someone to restore it and put it back.",
+      "tokens": [
+        {
+          "w": "原来",
+          "py": "yuán lái",
+          "gloss": "it turned out",
+          "pos": "conn"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "那",
+          "py": "nà",
+          "gloss": "that",
+          "pos": "pron"
+        },
+        {
+          "w": "幅",
+          "py": "fú",
+          "gloss": "(measure word for paintings)",
+          "pos": "quant"
+        },
+        {
+          "w": "画",
+          "py": "huà",
+          "gloss": "painting",
+          "pos": "noun"
+        },
+        {
+          "w": "上",
+          "py": "shàng",
+          "gloss": "on",
+          "pos": "conn"
+        },
+        {
+          "w": "有",
+          "py": "yǒu",
+          "gloss": "had",
+          "pos": "verb"
+        },
+        {
+          "w": "一",
+          "py": "yí",
+          "gloss": "a",
+          "pos": "quant"
+        },
+        {
+          "w": "道",
+          "py": "dào",
+          "gloss": "(measure word for cracks)",
+          "pos": "quant"
+        },
+        {
+          "w": "很",
+          "py": "hěn",
+          "gloss": "very",
+          "pos": "adv"
+        },
+        {
+          "w": "深",
+          "py": "shēn",
+          "gloss": "deep",
+          "pos": "adj"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(nominaliser)",
+          "pos": "part"
+        },
+        {
+          "w": "裂痕",
+          "py": "liè hén",
+          "gloss": "crack",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "馆长",
+          "py": "guǎn zhǎng",
+          "gloss": "the curator",
+          "pos": "noun"
+        },
+        {
+          "w": "担心",
+          "py": "dān xīn",
+          "gloss": "worried",
+          "pos": "verb"
+        },
+        {
+          "w": "董事会",
+          "py": "dǒng shì huì",
+          "gloss": "the board",
+          "pos": "noun"
+        },
+        {
+          "w": "知道",
+          "py": "zhī dào",
+          "gloss": "found out",
+          "pos": "verb"
+        },
+        {
+          "w": "后",
+          "py": "hòu",
+          "gloss": "after",
+          "pos": "noun"
+        },
+        {
+          "w": "会",
+          "py": "huì",
+          "gloss": "would",
+          "pos": "verb"
+        },
+        {
+          "w": "责怪",
+          "py": "zé guài",
+          "gloss": "blame",
+          "pos": "verb"
+        },
+        {
+          "w": "他",
+          "py": "tā",
+          "gloss": "him",
+          "pos": "pron"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "所以",
+          "py": "suǒ yǐ",
+          "gloss": "so",
+          "pos": "conn"
+        },
+        {
+          "w": "想",
+          "py": "xiǎng",
+          "gloss": "wanted",
+          "pos": "verb"
+        },
+        {
+          "w": "偷偷",
+          "py": "tōu tōu",
+          "gloss": "secretly",
+          "pos": "adv"
+        },
+        {
+          "w": "找",
+          "py": "zhǎo",
+          "gloss": "find",
+          "pos": "verb"
+        },
+        {
+          "w": "人",
+          "py": "rén",
+          "gloss": "someone",
+          "pos": "noun"
+        },
+        {
+          "w": "修复",
+          "py": "xiū fù",
+          "gloss": "restore it",
+          "pos": "verb"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "再",
+          "py": "zài",
+          "gloss": "then",
+          "pos": "adv"
+        },
+        {
+          "w": "放回",
+          "py": "fàng huí",
+          "gloss": "put back",
+          "pos": "verb"
+        },
+        {
+          "w": "原处",
+          "py": "yuán chù",
+          "gloss": "its original place",
+          "pos": "noun"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "没想到修复的时间比他想象的要长，事情就这样被发现了。",
+      "en": "He hadn't expected the restoration to take longer than he had imagined, and that's how the matter was discovered.",
+      "tokens": [
+        {
+          "w": "没想到",
+          "py": "méi xiǎng dào",
+          "gloss": "hadn't expected",
+          "pos": "adv"
+        },
+        {
+          "w": "修复",
+          "py": "xiū fù",
+          "gloss": "restoration",
+          "pos": "noun"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(nominaliser)",
+          "pos": "part"
+        },
+        {
+          "w": "时间",
+          "py": "shí jiān",
+          "gloss": "time",
+          "pos": "noun"
+        },
+        {
+          "w": "比",
+          "py": "bǐ",
+          "gloss": "compared to",
+          "pos": "conn"
+        },
+        {
+          "w": "他",
+          "py": "tā",
+          "gloss": "he",
+          "pos": "pron"
+        },
+        {
+          "w": "想象",
+          "py": "xiǎng xiàng",
+          "gloss": "imagined",
+          "pos": "verb"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(nominaliser)",
+          "pos": "part"
+        },
+        {
+          "w": "要",
+          "py": "yào",
+          "gloss": "to be",
+          "pos": "verb"
+        },
+        {
+          "w": "长",
+          "py": "cháng",
+          "gloss": "longer",
+          "pos": "adj"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "事情",
+          "py": "shì qing",
+          "gloss": "the matter",
+          "pos": "noun"
+        },
+        {
+          "w": "就",
+          "py": "jiù",
+          "gloss": "then",
+          "pos": "adv"
+        },
+        {
+          "w": "这样",
+          "py": "zhè yàng",
+          "gloss": "this way",
+          "pos": "pron"
+        },
+        {
+          "w": "被",
+          "py": "bèi",
+          "gloss": "(passive marker)",
+          "pos": "part"
+        },
+        {
+          "w": "发现",
+          "py": "fā xiàn",
+          "gloss": "discovered",
+          "pos": "verb"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(completed)",
+          "pos": "part"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "虽然馆长的做法不对，但是大家知道真相以后，都松了一口气——至少，画还在，也没有被偷走。",
+      "en": "Although what the curator had done was wrong, once everyone learned the truth, they all breathed a sigh of relief — at least the painting was still there, and had never actually been stolen.",
+      "tokens": [
+        {
+          "w": "虽然",
+          "py": "suī rán",
+          "gloss": "although",
+          "pos": "conn"
+        },
+        {
+          "w": "馆长",
+          "py": "guǎn zhǎng",
+          "gloss": "the curator's",
+          "pos": "noun"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(possessive)",
+          "pos": "part"
+        },
+        {
+          "w": "做法",
+          "py": "zuò fǎ",
+          "gloss": "approach",
+          "pos": "noun"
+        },
+        {
+          "w": "不",
+          "py": "bú",
+          "gloss": "not",
+          "pos": "adv"
+        },
+        {
+          "w": "对",
+          "py": "duì",
+          "gloss": "right",
+          "pos": "adj"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "但是",
+          "py": "dàn shì",
+          "gloss": "but",
+          "pos": "conn"
+        },
+        {
+          "w": "大家",
+          "py": "dà jiā",
+          "gloss": "everyone",
+          "pos": "pron"
+        },
+        {
+          "w": "知道",
+          "py": "zhī dào",
+          "gloss": "learned",
+          "pos": "verb"
+        },
+        {
+          "w": "真相",
+          "py": "zhēn xiàng",
+          "gloss": "the truth",
+          "pos": "noun"
+        },
+        {
+          "w": "以后",
+          "py": "yǐ hòu",
+          "gloss": "after",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "都",
+          "py": "dōu",
+          "gloss": "all",
+          "pos": "adv"
+        },
+        {
+          "w": "松",
+          "py": "sōng",
+          "gloss": "breathed",
+          "pos": "verb"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(completed)",
+          "pos": "part"
+        },
+        {
+          "w": "一",
+          "py": "yì",
+          "gloss": "a",
+          "pos": "quant"
+        },
+        {
+          "w": "口",
+          "py": "kǒu",
+          "gloss": "(measure word for breaths)",
+          "pos": "quant"
+        },
+        {
+          "w": "气",
+          "py": "qì",
+          "gloss": "sigh",
+          "pos": "noun"
+        },
+        {
+          "w": "——",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "至少",
+          "py": "zhì shǎo",
+          "gloss": "at least",
+          "pos": "adv"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "画",
+          "py": "huà",
+          "gloss": "the painting",
+          "pos": "noun"
+        },
+        {
+          "w": "还",
+          "py": "hái",
+          "gloss": "still",
+          "pos": "adv"
+        },
+        {
+          "w": "在",
+          "py": "zài",
+          "gloss": "was there",
+          "pos": "verb"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "也",
+          "py": "yě",
+          "gloss": "also",
+          "pos": "adv"
+        },
+        {
+          "w": "没有",
+          "py": "méi yǒu",
+          "gloss": "had not",
+          "pos": "adv"
+        },
+        {
+          "w": "被",
+          "py": "bèi",
+          "gloss": "(passive marker)",
+          "pos": "part"
+        },
+        {
+          "w": "偷走",
+          "py": "tōu zǒu",
+          "gloss": "stolen",
+          "pos": "verb"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "老周的名字也终于被洗清了。",
+      "en": "Old Zhou's name was finally cleared too.",
+      "tokens": [
+        {
+          "w": "老周",
+          "py": "Lǎo Zhōu",
+          "gloss": "Old Zhou's",
+          "pos": "noun"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(possessive)",
+          "pos": "part"
+        },
+        {
+          "w": "名字",
+          "py": "míng zi",
+          "gloss": "name",
+          "pos": "noun"
+        },
+        {
+          "w": "也",
+          "py": "yě",
+          "gloss": "also",
+          "pos": "adv"
+        },
+        {
+          "w": "终于",
+          "py": "zhōng yú",
+          "gloss": "finally",
+          "pos": "adv"
+        },
+        {
+          "w": "被",
+          "py": "bèi",
+          "gloss": "(passive marker)",
+          "pos": "part"
+        },
+        {
+          "w": "洗清",
+          "py": "xǐ qīng",
+          "gloss": "cleared",
+          "pos": "verb"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(completed)",
+          "pos": "part"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "这件事以后，林小雨更加确定，很多时候，真相和表面看到的完全不一样。",
+      "en": "After this, Lin Xiaoyu became even more certain that, very often, the truth is completely different from what appears on the surface.",
+      "tokens": [
+        {
+          "w": "这",
+          "py": "zhè",
+          "gloss": "this",
+          "pos": "pron"
+        },
+        {
+          "w": "件",
+          "py": "jiàn",
+          "gloss": "(measure word)",
+          "pos": "quant"
+        },
+        {
+          "w": "事",
+          "py": "shì",
+          "gloss": "incident",
+          "pos": "noun"
+        },
+        {
+          "w": "以后",
+          "py": "yǐ hòu",
+          "gloss": "after",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "林小雨",
+          "py": "Lín Xiǎoyǔ",
+          "gloss": "Lin Xiaoyu",
+          "pos": "noun"
+        },
+        {
+          "w": "更加",
+          "py": "gèng jiā",
+          "gloss": "even more",
+          "pos": "adv"
+        },
+        {
+          "w": "确定",
+          "py": "què dìng",
+          "gloss": "certain",
+          "pos": "verb"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "很多",
+          "py": "hěn duō",
+          "gloss": "very often",
+          "pos": "adj"
+        },
+        {
+          "w": "时候",
+          "py": "shí hou",
+          "gloss": "(the) time(s)",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "真相",
+          "py": "zhēn xiàng",
+          "gloss": "the truth",
+          "pos": "noun"
+        },
+        {
+          "w": "和",
+          "py": "hé",
+          "gloss": "and",
+          "pos": "conn"
+        },
+        {
+          "w": "表面",
+          "py": "biǎo miàn",
+          "gloss": "the surface",
+          "pos": "noun"
+        },
+        {
+          "w": "看到",
+          "py": "kàn dào",
+          "gloss": "what is seen",
+          "pos": "verb"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(nominaliser)",
+          "pos": "part"
+        },
+        {
+          "w": "完全",
+          "py": "wán quán",
+          "gloss": "completely",
+          "pos": "adv"
+        },
+        {
+          "w": "不",
+          "py": "bù",
+          "gloss": "not",
+          "pos": "adv"
+        },
+        {
+          "w": "一样",
+          "py": "yí yàng",
+          "gloss": "the same",
+          "pos": "adj"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    }
+  ],
+  "new_words": [
+    {
+      "w": "展厅",
+      "py": "zhǎn tīng",
+      "gloss": "exhibition hall"
+    },
+    {
+      "w": "摄像头",
+      "py": "shè xiàng tóu",
+      "gloss": "security camera"
+    },
+    {
+      "w": "避开",
+      "py": "bì kāi",
+      "gloss": "to avoid, steer clear of"
+    },
+    {
+      "w": "馆长",
+      "py": "guǎn zhǎng",
+      "gloss": "museum curator/director"
+    },
+    {
+      "w": "美术馆",
+      "py": "měi shù guǎn",
+      "gloss": "art museum"
+    },
+    {
+      "w": "林小雨",
+      "py": "Lín Xiǎoyǔ",
+      "gloss": "Lin Xiaoyu (name)"
+    },
+    {
+      "w": "昨晚",
+      "py": "zuó wǎn",
+      "gloss": "last night"
+    },
+    {
+      "w": "布料",
+      "py": "bù liào",
+      "gloss": "fabric"
+    },
+    {
+      "w": "材质",
+      "py": "cái zhì",
+      "gloss": "material"
+    },
+    {
+      "w": "不甘心",
+      "py": "bù gān xīn",
+      "gloss": "unwilling to let it go"
+    },
+    {
+      "w": "工作服",
+      "py": "gōng zuò fú",
+      "gloss": "work uniform"
+    },
+    {
+      "w": "不寻常",
+      "py": "bù xún cháng",
+      "gloss": "unusual"
+    },
+    {
+      "w": "鼓起",
+      "py": "gǔ qǐ",
+      "gloss": "to summon up (courage)"
+    },
+    {
+      "w": "放回",
+      "py": "fàng huí",
+      "gloss": "to put back"
+    },
+    {
+      "w": "原处",
+      "py": "yuán chù",
+      "gloss": "its original place"
+    },
+    {
+      "w": "洗清",
+      "py": "xǐ qīng",
+      "gloss": "to clear (one's name)"
+    }
+  ],
+  "grammar_points": [
+    {
+      "pattern": "竟然",
+      "explanation_en": "\"Actually, to one's surprise\" — flags that what follows is unexpected or hard to believe, stronger than 居然 in spoken use.",
+      "example_zh": "他竟然一个人吃完了整个蛋糕。",
+      "example_en": "He actually finished the whole cake by himself."
+    },
+    {
+      "pattern": "verb + 起 + noun (emotion/courage)",
+      "explanation_en": "鼓起勇气 (\"summon up courage\") pairs 鼓起 — literally \"to puff up\" — with an inner resource you draw on before acting.",
+      "example_zh": "她鼓起勇气举起了手。",
+      "example_en": "She summoned up her courage and raised her hand."
+    },
+    {
+      "pattern": "原来",
+      "explanation_en": "\"It turns out that...\" — marks the moment a mystery resolves into its real explanation, reframing everything before it.",
+      "example_zh": "原来他一直都知道真相。",
+      "example_en": "It turns out he knew the truth all along."
+    }
+  ],
+  "questions": [
+    {
+      "q_zh": "一开始，大家都怀疑是谁偷了画？为什么？",
+      "q_en": "Who did everyone first suspect of stealing the painting, and why?",
+      "answer_en": "Old Zhou, the night guard — because he was the only one with a key."
+    },
+    {
+      "q_zh": "林小雨在监控录像和展厅里分别发现了什么线索？",
+      "q_en": "What clues did Lin Xiaoyu find in the surveillance footage and in the exhibition hall?",
+      "answer_en": "A gap in the footage where the camera had been deliberately avoided, and a scrap of fabric that didn't match Old Zhou's uniform."
+    },
+    {
+      "q_zh": "最后真相是什么？馆长为什么要这样做？",
+      "q_en": "What was the real explanation, and why did the director do it?",
+      "answer_en": "The director had hidden the painting himself to secretly have a crack in it repaired, afraid the board would blame him if they found out — and the restoration simply took longer than planned."
+    }
+  ]
+}

@@ -25,6 +25,7 @@ import { posColor } from '../lib/pos-colors.ts';
 import { WordSheet, type WordSelection } from '../components/WordSheet.tsx';
 import { ConfirmDialog } from '../components/ConfirmDialog.tsx';
 import { PlayerBar, SPEEDS } from '../components/PlayerBar.tsx';
+import { AiBadge } from '../components/AiBadge.tsx';
 import { addRequest } from '../db/requests.ts';
 import { saveCard, deleteCard } from '../db/cards.ts';
 
@@ -288,7 +289,10 @@ export function Reader({ storyId, settings, onUpdateSettings, onBack }: Props) {
             <BackIcon />
           </button>
           <div className="min-w-0 flex-1">
-            <h1 className="han truncate text-[17px] font-semibold leading-tight">{story.title_zh}</h1>
+            <div className="flex items-center gap-1.5">
+              <h1 className="han truncate text-[17px] font-semibold leading-tight">{story.title_zh}</h1>
+              {story.ai_generated && <AiBadge />}
+            </div>
             <p className="truncate text-[12px]" style={{ color: 'var(--ink-3)' }}>
               {levelBadge(story.level)} · {storyRow.chars} chars{countsLabel && ` · ${countsLabel}`}
             </p>

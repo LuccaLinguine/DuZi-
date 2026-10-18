@@ -23,6 +23,7 @@ import { removeStory, restoreStory } from '../db/stories.ts';
 import { useWordRows } from '../hooks/useWordRows.ts';
 import { Screen, EmptyState } from '../components/Screen.tsx';
 import { Cover } from '../components/Cover.tsx';
+import { AiBadge } from '../components/AiBadge.tsx';
 import { SwipeToDelete } from '../components/SwipeToDelete.tsx';
 import type { Tab } from '../components/TabBar.tsx';
 import type { StoryRow } from '../db/types.ts';
@@ -357,11 +358,14 @@ function StoryCard({
           <div className="min-w-0 flex-1">
             <div className="flex items-baseline justify-between gap-2">
               <h2 className="han truncate text-[17px] font-semibold">{card.title_zh}</h2>
-              <span
-                className="shrink-0 rounded px-1.5 py-0.5 text-[11px] font-medium"
-                style={{ background: 'var(--accent-soft)', color: 'var(--accent)' }}
-              >
-                {chapterLabel ?? levelBadge(card.level)}
+              <span className="flex shrink-0 items-center gap-1">
+                {row.story.ai_generated && <AiBadge />}
+                <span
+                  className="rounded px-1.5 py-0.5 text-[11px] font-medium"
+                  style={{ background: 'var(--accent-soft)', color: 'var(--accent)' }}
+                >
+                  {chapterLabel ?? levelBadge(card.level)}
+                </span>
               </span>
             </div>
             <p className="truncate text-[13px]" style={{ color: 'var(--ink-2)' }}>

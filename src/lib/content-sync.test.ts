@@ -107,6 +107,7 @@ const GOOD: Story = {
   topic: 'Daily life',
   format: 'story',
   created_at: '2026-10-17',
+  ai_generated: true,
   title_zh: '题',
   title_en: 'Title',
   summary_en: 'A summary.',

@@ -1,0 +1,3483 @@
+{
+  "id": "20261018-advanced-the-old-bridge",
+  "series_id": null,
+  "chapter": null,
+  "topic": "History",
+  "format": "story",
+  "created_at": "2026-10-18",
+  "ai_generated": true,
+  "title_zh": "老桥的故事",
+  "title_en": "The Story of the Old Bridge",
+  "summary_en": "A grandfather tells his grandchild how a flood swept away the village's only bridge fifty years ago — and how the whole village, pooling money, labor, and eighteen-year-old hands, built a stronger one in its place.",
+  "level": "advanced",
+  "sentences": [
+    {
+      "zh": "每年夏天，爷爷都会带着我去河边的那座老桥散步。",
+      "en": "Every summer, grandfather takes me for a walk by the old bridge near the river.",
+      "tokens": [
+        {
+          "w": "每年",
+          "py": "měi nián",
+          "gloss": "every year",
+          "pos": "noun"
+        },
+        {
+          "w": "夏天",
+          "py": "xià tiān",
+          "gloss": "summer",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "爷爷",
+          "py": "yé ye",
+          "gloss": "grandfather",
+          "pos": "noun"
+        },
+        {
+          "w": "都",
+          "py": "dōu",
+          "gloss": "always",
+          "pos": "adv"
+        },
+        {
+          "w": "会",
+          "py": "huì",
+          "gloss": "will",
+          "pos": "verb"
+        },
+        {
+          "w": "带",
+          "py": "dài",
+          "gloss": "take",
+          "pos": "verb"
+        },
+        {
+          "w": "着",
+          "py": "zhe",
+          "gloss": "(ongoing)",
+          "pos": "part"
+        },
+        {
+          "w": "我",
+          "py": "wǒ",
+          "gloss": "me",
+          "pos": "pron"
+        },
+        {
+          "w": "去",
+          "py": "qù",
+          "gloss": "go to",
+          "pos": "verb"
+        },
+        {
+          "w": "河边",
+          "py": "hé biān",
+          "gloss": "riverside",
+          "pos": "noun"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(possessive)",
+          "pos": "part"
+        },
+        {
+          "w": "那",
+          "py": "nà",
+          "gloss": "that",
+          "pos": "pron"
+        },
+        {
+          "w": "座",
+          "py": "zuò",
+          "gloss": "(measure word for bridges)",
+          "pos": "quant"
+        },
+        {
+          "w": "老",
+          "py": "lǎo",
+          "gloss": "old",
+          "pos": "adj"
+        },
+        {
+          "w": "桥",
+          "py": "qiáo",
+          "gloss": "bridge",
+          "pos": "noun"
+        },
+        {
+          "w": "散步",
+          "py": "sàn bù",
+          "gloss": "walk",
+          "pos": "verb"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "桥的一边，有一排刻在石头上的名字，太老了，有些已经很难看清楚了。",
+      "en": "On one side of the bridge, there is a row of names carved into the stone, so old that some are hard to read clearly.",
+      "tokens": [
+        {
+          "w": "桥",
+          "py": "qiáo",
+          "gloss": "the bridge",
+          "pos": "noun"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(possessive)",
+          "pos": "part"
+        },
+        {
+          "w": "一",
+          "py": "yì",
+          "gloss": "one",
+          "pos": "quant"
+        },
+        {
+          "w": "边",
+          "py": "biān",
+          "gloss": "side",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "有",
+          "py": "yǒu",
+          "gloss": "there is",
+          "pos": "verb"
+        },
+        {
+          "w": "一",
+          "py": "yì",
+          "gloss": "a",
+          "pos": "quant"
+        },
+        {
+          "w": "排",
+          "py": "pái",
+          "gloss": "row",
+          "pos": "quant"
+        },
+        {
+          "w": "刻",
+          "py": "kè",
+          "gloss": "carved",
+          "pos": "verb"
+        },
+        {
+          "w": "在",
+          "py": "zài",
+          "gloss": "into",
+          "pos": "conn"
+        },
+        {
+          "w": "石头",
+          "py": "shí tou",
+          "gloss": "the stone",
+          "pos": "noun"
+        },
+        {
+          "w": "上",
+          "py": "shàng",
+          "gloss": "onto",
+          "pos": "conn"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(nominaliser)",
+          "pos": "part"
+        },
+        {
+          "w": "名字",
+          "py": "míng zi",
+          "gloss": "names",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "太",
+          "py": "tài",
+          "gloss": "too",
+          "pos": "adv"
+        },
+        {
+          "w": "老",
+          "py": "lǎo",
+          "gloss": "old",
+          "pos": "adj"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(change of state)",
+          "pos": "part"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "有些",
+          "py": "yǒu xiē",
+          "gloss": "some",
+          "pos": "pron"
+        },
+        {
+          "w": "已经",
+          "py": "yǐ jīng",
+          "gloss": "already",
+          "pos": "adv"
+        },
+        {
+          "w": "很",
+          "py": "hěn",
+          "gloss": "very",
+          "pos": "adv"
+        },
+        {
+          "w": "难",
+          "py": "nán",
+          "gloss": "hard",
+          "pos": "adj"
+        },
+        {
+          "w": "看",
+          "py": "kàn",
+          "gloss": "to see",
+          "pos": "verb"
+        },
+        {
+          "w": "清楚",
+          "py": "qīng chu",
+          "gloss": "clearly",
+          "pos": "adj"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(change of state)",
+          "pos": "part"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "我有一次问爷爷，那些是谁的名字，他笑着说：“继续走，我给你讲完这个故事。”",
+      "en": "I once asked grandfather whose names those were — he smiled and said, \"Keep walking, and I'll tell you the whole story.\"",
+      "tokens": [
+        {
+          "w": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "pos": "pron"
+        },
+        {
+          "w": "有",
+          "py": "yǒu",
+          "gloss": "once",
+          "pos": "verb"
+        },
+        {
+          "w": "一",
+          "py": "yí",
+          "gloss": "a",
+          "pos": "quant"
+        },
+        {
+          "w": "次",
+          "py": "cì",
+          "gloss": "time",
+          "pos": "noun"
+        },
+        {
+          "w": "问",
+          "py": "wèn",
+          "gloss": "asked",
+          "pos": "verb"
+        },
+        {
+          "w": "爷爷",
+          "py": "yé ye",
+          "gloss": "grandfather",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "那",
+          "py": "nà",
+          "gloss": "those",
+          "pos": "pron"
+        },
+        {
+          "w": "些",
+          "py": "xiē",
+          "gloss": "(plural marker)",
+          "pos": "quant"
+        },
+        {
+          "w": "是",
+          "py": "shì",
+          "gloss": "were",
+          "pos": "verb"
+        },
+        {
+          "w": "谁",
+          "py": "shéi",
+          "gloss": "whose",
+          "pos": "pron"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(possessive)",
+          "pos": "part"
+        },
+        {
+          "w": "名字",
+          "py": "míng zi",
+          "gloss": "names",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "他",
+          "py": "tā",
+          "gloss": "he",
+          "pos": "pron"
+        },
+        {
+          "w": "笑",
+          "py": "xiào",
+          "gloss": "smiled",
+          "pos": "verb"
+        },
+        {
+          "w": "着",
+          "py": "zhe",
+          "gloss": "(ongoing)",
+          "pos": "part"
+        },
+        {
+          "w": "说",
+          "py": "shuō",
+          "gloss": "said",
+          "pos": "verb"
+        },
+        {
+          "w": "：“",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "继续",
+          "py": "jì xù",
+          "gloss": "keep",
+          "pos": "verb"
+        },
+        {
+          "w": "走",
+          "py": "zǒu",
+          "gloss": "walking",
+          "pos": "verb"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "pos": "pron"
+        },
+        {
+          "w": "给",
+          "py": "gěi",
+          "gloss": "to",
+          "pos": "conn"
+        },
+        {
+          "w": "你",
+          "py": "nǐ",
+          "gloss": "you",
+          "pos": "pron"
+        },
+        {
+          "w": "讲",
+          "py": "jiǎng",
+          "gloss": "tell",
+          "pos": "verb"
+        },
+        {
+          "w": "完",
+          "py": "wán",
+          "gloss": "completely",
+          "pos": "verb"
+        },
+        {
+          "w": "这",
+          "py": "zhè",
+          "gloss": "this",
+          "pos": "pron"
+        },
+        {
+          "w": "个",
+          "py": "gè",
+          "gloss": "(measure word)",
+          "pos": "quant"
+        },
+        {
+          "w": "故事",
+          "py": "gù shi",
+          "gloss": "story",
+          "pos": "noun"
+        },
+        {
+          "w": "。”",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "那座桥看起来很普通，可是爷爷说，它的故事一点也不普通。",
+      "en": "The bridge looks very ordinary, but grandfather says its story isn't ordinary at all.",
+      "tokens": [
+        {
+          "w": "那",
+          "py": "nà",
+          "gloss": "that",
+          "pos": "pron"
+        },
+        {
+          "w": "座",
+          "py": "zuò",
+          "gloss": "(measure word for bridges)",
+          "pos": "quant"
+        },
+        {
+          "w": "桥",
+          "py": "qiáo",
+          "gloss": "bridge",
+          "pos": "noun"
+        },
+        {
+          "w": "看起来",
+          "py": "kàn qǐ lái",
+          "gloss": "looks",
+          "pos": "verb"
+        },
+        {
+          "w": "很",
+          "py": "hěn",
+          "gloss": "very",
+          "pos": "adv"
+        },
+        {
+          "w": "普通",
+          "py": "pǔ tōng",
+          "gloss": "ordinary",
+          "pos": "adj"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "可是",
+          "py": "kě shì",
+          "gloss": "but",
+          "pos": "conn"
+        },
+        {
+          "w": "爷爷",
+          "py": "yé ye",
+          "gloss": "grandfather",
+          "pos": "noun"
+        },
+        {
+          "w": "说",
+          "py": "shuō",
+          "gloss": "says",
+          "pos": "verb"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "它",
+          "py": "tā",
+          "gloss": "its",
+          "pos": "pron"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(possessive)",
+          "pos": "part"
+        },
+        {
+          "w": "故事",
+          "py": "gù shi",
+          "gloss": "story",
+          "pos": "noun"
+        },
+        {
+          "w": "一点",
+          "py": "yì diǎn",
+          "gloss": "at all",
+          "pos": "adv"
+        },
+        {
+          "w": "也",
+          "py": "yě",
+          "gloss": "also",
+          "pos": "adv"
+        },
+        {
+          "w": "不",
+          "py": "bù",
+          "gloss": "not",
+          "pos": "adv"
+        },
+        {
+          "w": "普通",
+          "py": "pǔ tōng",
+          "gloss": "ordinary",
+          "pos": "adj"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "五十年前，村子里还没有这座桥，大家过河都要坐船。",
+      "en": "Fifty years ago, the village didn't have this bridge yet, and everyone had to take a boat to cross the river.",
+      "tokens": [
+        {
+          "w": "五十",
+          "py": "wǔ shí",
+          "gloss": "fifty",
+          "pos": "quant"
+        },
+        {
+          "w": "年前",
+          "py": "nián qián",
+          "gloss": "years ago",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "村子",
+          "py": "cūn zi",
+          "gloss": "the village",
+          "pos": "noun"
+        },
+        {
+          "w": "里",
+          "py": "lǐ",
+          "gloss": "in",
+          "pos": "conn"
+        },
+        {
+          "w": "还",
+          "py": "hái",
+          "gloss": "still",
+          "pos": "adv"
+        },
+        {
+          "w": "没有",
+          "py": "méi yǒu",
+          "gloss": "did not have",
+          "pos": "verb"
+        },
+        {
+          "w": "这",
+          "py": "zhè",
+          "gloss": "this",
+          "pos": "pron"
+        },
+        {
+          "w": "座",
+          "py": "zuò",
+          "gloss": "(measure word for bridges)",
+          "pos": "quant"
+        },
+        {
+          "w": "桥",
+          "py": "qiáo",
+          "gloss": "bridge",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "大家",
+          "py": "dà jiā",
+          "gloss": "everyone",
+          "pos": "pron"
+        },
+        {
+          "w": "过",
+          "py": "guò",
+          "gloss": "cross",
+          "pos": "verb"
+        },
+        {
+          "w": "河",
+          "py": "hé",
+          "gloss": "the river",
+          "pos": "noun"
+        },
+        {
+          "w": "都",
+          "py": "dōu",
+          "gloss": "all",
+          "pos": "adv"
+        },
+        {
+          "w": "要",
+          "py": "yào",
+          "gloss": "had to",
+          "pos": "verb"
+        },
+        {
+          "w": "坐",
+          "py": "zuò",
+          "gloss": "take",
+          "pos": "verb"
+        },
+        {
+          "w": "船",
+          "py": "chuán",
+          "gloss": "a boat",
+          "pos": "noun"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "后来，村里的年轻人一起出钱出力，建了第一座木桥。",
+      "en": "Later, the village's young people pooled money and effort, and built the first wooden bridge.",
+      "tokens": [
+        {
+          "w": "后来",
+          "py": "hòu lái",
+          "gloss": "later",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "村里",
+          "py": "cūn lǐ",
+          "gloss": "the village's",
+          "pos": "noun"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(possessive)",
+          "pos": "part"
+        },
+        {
+          "w": "年轻人",
+          "py": "nián qīng rén",
+          "gloss": "young people",
+          "pos": "noun"
+        },
+        {
+          "w": "一起",
+          "py": "yì qǐ",
+          "gloss": "together",
+          "pos": "adv"
+        },
+        {
+          "w": "出",
+          "py": "chū",
+          "gloss": "contributed",
+          "pos": "verb"
+        },
+        {
+          "w": "钱",
+          "py": "qián",
+          "gloss": "money",
+          "pos": "noun"
+        },
+        {
+          "w": "出",
+          "py": "chū",
+          "gloss": "contributed",
+          "pos": "verb"
+        },
+        {
+          "w": "力",
+          "py": "lì",
+          "gloss": "effort",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "建",
+          "py": "jiàn",
+          "gloss": "built",
+          "pos": "verb"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(completed)",
+          "pos": "part"
+        },
+        {
+          "w": "第一",
+          "py": "dì yī",
+          "gloss": "the first",
+          "pos": "quant"
+        },
+        {
+          "w": "座",
+          "py": "zuò",
+          "gloss": "(measure word for bridges)",
+          "pos": "quant"
+        },
+        {
+          "w": "木",
+          "py": "mù",
+          "gloss": "wooden",
+          "pos": "noun"
+        },
+        {
+          "w": "桥",
+          "py": "qiáo",
+          "gloss": "bridge",
+          "pos": "noun"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "那座桥不大，但是方便多了，大家都很高兴。",
+      "en": "That bridge wasn't big, but it was much more convenient, and everyone was very happy.",
+      "tokens": [
+        {
+          "w": "那",
+          "py": "nà",
+          "gloss": "that",
+          "pos": "pron"
+        },
+        {
+          "w": "座",
+          "py": "zuò",
+          "gloss": "(measure word for bridges)",
+          "pos": "quant"
+        },
+        {
+          "w": "桥",
+          "py": "qiáo",
+          "gloss": "bridge",
+          "pos": "noun"
+        },
+        {
+          "w": "不",
+          "py": "bú",
+          "gloss": "not",
+          "pos": "adv"
+        },
+        {
+          "w": "大",
+          "py": "dà",
+          "gloss": "big",
+          "pos": "adj"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "但是",
+          "py": "dàn shì",
+          "gloss": "but",
+          "pos": "conn"
+        },
+        {
+          "w": "方便",
+          "py": "fāng biàn",
+          "gloss": "convenient",
+          "pos": "adj"
+        },
+        {
+          "w": "多",
+          "py": "duō",
+          "gloss": "much",
+          "pos": "adv"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(change of state)",
+          "pos": "part"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "大家",
+          "py": "dà jiā",
+          "gloss": "everyone",
+          "pos": "pron"
+        },
+        {
+          "w": "都",
+          "py": "dōu",
+          "gloss": "all",
+          "pos": "adv"
+        },
+        {
+          "w": "很",
+          "py": "hěn",
+          "gloss": "very",
+          "pos": "adv"
+        },
+        {
+          "w": "高兴",
+          "py": "gāo xìng",
+          "gloss": "happy",
+          "pos": "adj"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "可是有一年夏天，连续下了好几天大雨。",
+      "en": "But one summer, it rained heavily for several days in a row.",
+      "tokens": [
+        {
+          "w": "可是",
+          "py": "kě shì",
+          "gloss": "but",
+          "pos": "conn"
+        },
+        {
+          "w": "有",
+          "py": "yǒu",
+          "gloss": "there was",
+          "pos": "verb"
+        },
+        {
+          "w": "一",
+          "py": "yì",
+          "gloss": "one",
+          "pos": "quant"
+        },
+        {
+          "w": "年",
+          "py": "nián",
+          "gloss": "year",
+          "pos": "noun"
+        },
+        {
+          "w": "夏天",
+          "py": "xià tiān",
+          "gloss": "summer",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "连续",
+          "py": "lián xù",
+          "gloss": "continuously",
+          "pos": "adv"
+        },
+        {
+          "w": "下",
+          "py": "xià",
+          "gloss": "fell",
+          "pos": "verb"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(completed)",
+          "pos": "part"
+        },
+        {
+          "w": "好",
+          "py": "hǎo",
+          "gloss": "quite",
+          "pos": "adv"
+        },
+        {
+          "w": "几",
+          "py": "jǐ",
+          "gloss": "several",
+          "pos": "quant"
+        },
+        {
+          "w": "天",
+          "py": "tiān",
+          "gloss": "days",
+          "pos": "noun"
+        },
+        {
+          "w": "大雨",
+          "py": "dà yǔ",
+          "gloss": "heavy rain",
+          "pos": "noun"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "河水越涨越高，最后把那座木桥冲走了。",
+      "en": "The river water rose higher and higher, and finally swept the wooden bridge away.",
+      "tokens": [
+        {
+          "w": "河水",
+          "py": "hé shuǐ",
+          "gloss": "the river water",
+          "pos": "noun"
+        },
+        {
+          "w": "越",
+          "py": "yuè",
+          "gloss": "the more",
+          "pos": "adv"
+        },
+        {
+          "w": "涨",
+          "py": "zhǎng",
+          "gloss": "rose",
+          "pos": "verb"
+        },
+        {
+          "w": "越",
+          "py": "yuè",
+          "gloss": "the more",
+          "pos": "adv"
+        },
+        {
+          "w": "高",
+          "py": "gāo",
+          "gloss": "high",
+          "pos": "adj"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "最后",
+          "py": "zuì hòu",
+          "gloss": "finally",
+          "pos": "noun"
+        },
+        {
+          "w": "把",
+          "py": "bǎ",
+          "gloss": "(object marker)",
+          "pos": "conn"
+        },
+        {
+          "w": "那",
+          "py": "nà",
+          "gloss": "that",
+          "pos": "pron"
+        },
+        {
+          "w": "座",
+          "py": "zuò",
+          "gloss": "(measure word for bridges)",
+          "pos": "quant"
+        },
+        {
+          "w": "木",
+          "py": "mù",
+          "gloss": "wooden",
+          "pos": "noun"
+        },
+        {
+          "w": "桥",
+          "py": "qiáo",
+          "gloss": "bridge",
+          "pos": "noun"
+        },
+        {
+          "w": "冲走",
+          "py": "chōng zǒu",
+          "gloss": "swept away",
+          "pos": "verb"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(completed)",
+          "pos": "part"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "爷爷至今还记得木桥断的时候发出的声音，那一声巨响传遍了整个山谷。",
+      "en": "Grandfather still remembers the sound the wooden bridge made as it broke — a crack that echoed across the whole valley.",
+      "tokens": [
+        {
+          "w": "爷爷",
+          "py": "yé ye",
+          "gloss": "grandfather",
+          "pos": "noun"
+        },
+        {
+          "w": "至今",
+          "py": "zhì jīn",
+          "gloss": "to this day",
+          "pos": "adv"
+        },
+        {
+          "w": "还",
+          "py": "hái",
+          "gloss": "still",
+          "pos": "adv"
+        },
+        {
+          "w": "记得",
+          "py": "jì de",
+          "gloss": "remembers",
+          "pos": "verb"
+        },
+        {
+          "w": "木",
+          "py": "mù",
+          "gloss": "wooden",
+          "pos": "noun"
+        },
+        {
+          "w": "桥",
+          "py": "qiáo",
+          "gloss": "bridge",
+          "pos": "noun"
+        },
+        {
+          "w": "断",
+          "py": "duàn",
+          "gloss": "broke",
+          "pos": "verb"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(nominaliser)",
+          "pos": "part"
+        },
+        {
+          "w": "时候",
+          "py": "shí hou",
+          "gloss": "moment",
+          "pos": "noun"
+        },
+        {
+          "w": "发出",
+          "py": "fā chū",
+          "gloss": "gave off",
+          "pos": "verb"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(nominaliser)",
+          "pos": "part"
+        },
+        {
+          "w": "声音",
+          "py": "shēng yīn",
+          "gloss": "sound",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "那",
+          "py": "nà",
+          "gloss": "that",
+          "pos": "pron"
+        },
+        {
+          "w": "一",
+          "py": "yì",
+          "gloss": "one",
+          "pos": "quant"
+        },
+        {
+          "w": "声",
+          "py": "shēng",
+          "gloss": "(measure word for sounds)",
+          "pos": "quant"
+        },
+        {
+          "w": "巨响",
+          "py": "jù xiǎng",
+          "gloss": "loud crack",
+          "pos": "noun"
+        },
+        {
+          "w": "传",
+          "py": "chuán",
+          "gloss": "echoed",
+          "pos": "verb"
+        },
+        {
+          "w": "遍",
+          "py": "biàn",
+          "gloss": "across",
+          "pos": "verb"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(completed)",
+          "pos": "part"
+        },
+        {
+          "w": "整",
+          "py": "zhěng",
+          "gloss": "the whole",
+          "pos": "adj"
+        },
+        {
+          "w": "个",
+          "py": "gè",
+          "gloss": "(measure word)",
+          "pos": "quant"
+        },
+        {
+          "w": "山谷",
+          "py": "shān gǔ",
+          "gloss": "valley",
+          "pos": "noun"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "没有了桥，孩子们没办法去河对岸上学，很多人也没办法去市场卖东西。",
+      "en": "Without the bridge, children had no way to cross to school, and many people had no way to get to market to sell things.",
+      "tokens": [
+        {
+          "w": "没有",
+          "py": "méi yǒu",
+          "gloss": "without",
+          "pos": "verb"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(change of state)",
+          "pos": "part"
+        },
+        {
+          "w": "桥",
+          "py": "qiáo",
+          "gloss": "the bridge",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "孩子",
+          "py": "hái zi",
+          "gloss": "children",
+          "pos": "noun"
+        },
+        {
+          "w": "们",
+          "py": "men",
+          "gloss": "(plural)",
+          "pos": "part"
+        },
+        {
+          "w": "没",
+          "py": "méi",
+          "gloss": "no",
+          "pos": "adv"
+        },
+        {
+          "w": "办法",
+          "py": "bàn fǎ",
+          "gloss": "way",
+          "pos": "noun"
+        },
+        {
+          "w": "去",
+          "py": "qù",
+          "gloss": "go to",
+          "pos": "verb"
+        },
+        {
+          "w": "河",
+          "py": "hé",
+          "gloss": "the river",
+          "pos": "noun"
+        },
+        {
+          "w": "对岸",
+          "py": "duì àn",
+          "gloss": "opposite bank",
+          "pos": "noun"
+        },
+        {
+          "w": "上学",
+          "py": "shàng xué",
+          "gloss": "go to school",
+          "pos": "verb"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "很多",
+          "py": "hěn duō",
+          "gloss": "many",
+          "pos": "adj"
+        },
+        {
+          "w": "人",
+          "py": "rén",
+          "gloss": "people",
+          "pos": "noun"
+        },
+        {
+          "w": "也",
+          "py": "yě",
+          "gloss": "also",
+          "pos": "adv"
+        },
+        {
+          "w": "没",
+          "py": "méi",
+          "gloss": "no",
+          "pos": "adv"
+        },
+        {
+          "w": "办法",
+          "py": "bàn fǎ",
+          "gloss": "way",
+          "pos": "noun"
+        },
+        {
+          "w": "去",
+          "py": "qù",
+          "gloss": "go to",
+          "pos": "verb"
+        },
+        {
+          "w": "市场",
+          "py": "shì chǎng",
+          "gloss": "market",
+          "pos": "noun"
+        },
+        {
+          "w": "卖",
+          "py": "mài",
+          "gloss": "sell",
+          "pos": "verb"
+        },
+        {
+          "w": "东西",
+          "py": "dōng xi",
+          "gloss": "things",
+          "pos": "noun"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "爷爷说，那段时间，全村人都很着急。",
+      "en": "Grandfather said that during that time, the whole village was very anxious.",
+      "tokens": [
+        {
+          "w": "爷爷",
+          "py": "yé ye",
+          "gloss": "grandfather",
+          "pos": "noun"
+        },
+        {
+          "w": "说",
+          "py": "shuō",
+          "gloss": "said",
+          "pos": "verb"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "那",
+          "py": "nà",
+          "gloss": "that",
+          "pos": "pron"
+        },
+        {
+          "w": "段",
+          "py": "duàn",
+          "gloss": "(measure word for periods)",
+          "pos": "quant"
+        },
+        {
+          "w": "时间",
+          "py": "shí jiān",
+          "gloss": "time",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "全村",
+          "py": "quán cūn",
+          "gloss": "the whole village",
+          "pos": "noun"
+        },
+        {
+          "w": "人",
+          "py": "rén",
+          "gloss": "people",
+          "pos": "noun"
+        },
+        {
+          "w": "都",
+          "py": "dōu",
+          "gloss": "all",
+          "pos": "adv"
+        },
+        {
+          "w": "很",
+          "py": "hěn",
+          "gloss": "very",
+          "pos": "adv"
+        },
+        {
+          "w": "着急",
+          "py": "zháo jí",
+          "gloss": "anxious",
+          "pos": "adj"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "村长决定，这一次要建一座更坚固的石桥，不能再被大水冲走。",
+      "en": "The village head decided that this time they would build a sturdier stone bridge, one that couldn't be swept away by floodwater again.",
+      "tokens": [
+        {
+          "w": "村长",
+          "py": "cūn zhǎng",
+          "gloss": "the village head",
+          "pos": "noun"
+        },
+        {
+          "w": "决定",
+          "py": "jué dìng",
+          "gloss": "decided",
+          "pos": "verb"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "这",
+          "py": "zhè",
+          "gloss": "this",
+          "pos": "pron"
+        },
+        {
+          "w": "一",
+          "py": "yí",
+          "gloss": "one",
+          "pos": "quant"
+        },
+        {
+          "w": "次",
+          "py": "cì",
+          "gloss": "time",
+          "pos": "noun"
+        },
+        {
+          "w": "要",
+          "py": "yào",
+          "gloss": "would",
+          "pos": "verb"
+        },
+        {
+          "w": "建",
+          "py": "jiàn",
+          "gloss": "build",
+          "pos": "verb"
+        },
+        {
+          "w": "一",
+          "py": "yí",
+          "gloss": "a",
+          "pos": "quant"
+        },
+        {
+          "w": "座",
+          "py": "zuò",
+          "gloss": "(measure word for bridges)",
+          "pos": "quant"
+        },
+        {
+          "w": "更",
+          "py": "gèng",
+          "gloss": "more",
+          "pos": "adv"
+        },
+        {
+          "w": "坚固",
+          "py": "jiān gù",
+          "gloss": "sturdy",
+          "pos": "adj"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(nominaliser)",
+          "pos": "part"
+        },
+        {
+          "w": "石",
+          "py": "shí",
+          "gloss": "stone",
+          "pos": "noun"
+        },
+        {
+          "w": "桥",
+          "py": "qiáo",
+          "gloss": "bridge",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "不能",
+          "py": "bù néng",
+          "gloss": "could not",
+          "pos": "verb"
+        },
+        {
+          "w": "再",
+          "py": "zài",
+          "gloss": "again",
+          "pos": "adv"
+        },
+        {
+          "w": "被",
+          "py": "bèi",
+          "gloss": "(passive marker)",
+          "pos": "part"
+        },
+        {
+          "w": "大水",
+          "py": "dà shuǐ",
+          "gloss": "floodwater",
+          "pos": "noun"
+        },
+        {
+          "w": "冲走",
+          "py": "chōng zǒu",
+          "gloss": "sweep away",
+          "pos": "verb"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "可是建石桥需要很多钱，村里哪有那么多钱？",
+      "en": "But building a stone bridge needed a lot of money — where would the village get that much?",
+      "tokens": [
+        {
+          "w": "可是",
+          "py": "kě shì",
+          "gloss": "but",
+          "pos": "conn"
+        },
+        {
+          "w": "建",
+          "py": "jiàn",
+          "gloss": "building",
+          "pos": "verb"
+        },
+        {
+          "w": "石",
+          "py": "shí",
+          "gloss": "stone",
+          "pos": "noun"
+        },
+        {
+          "w": "桥",
+          "py": "qiáo",
+          "gloss": "bridge",
+          "pos": "noun"
+        },
+        {
+          "w": "需要",
+          "py": "xū yào",
+          "gloss": "needed",
+          "pos": "verb"
+        },
+        {
+          "w": "很多",
+          "py": "hěn duō",
+          "gloss": "a lot of",
+          "pos": "adj"
+        },
+        {
+          "w": "钱",
+          "py": "qián",
+          "gloss": "money",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "村",
+          "py": "cūn",
+          "gloss": "the village",
+          "pos": "noun"
+        },
+        {
+          "w": "里",
+          "py": "lǐ",
+          "gloss": "in",
+          "pos": "conn"
+        },
+        {
+          "w": "哪",
+          "py": "nǎ",
+          "gloss": "where",
+          "pos": "pron"
+        },
+        {
+          "w": "有",
+          "py": "yǒu",
+          "gloss": "had",
+          "pos": "verb"
+        },
+        {
+          "w": "那么",
+          "py": "nà me",
+          "gloss": "that much",
+          "pos": "pron"
+        },
+        {
+          "w": "多",
+          "py": "duō",
+          "gloss": "much",
+          "pos": "adj"
+        },
+        {
+          "w": "钱",
+          "py": "qián",
+          "gloss": "money",
+          "pos": "noun"
+        },
+        {
+          "w": "？",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "没想到，村里几乎每一家都拿出了自己的一点积蓄。",
+      "en": "Unexpectedly, almost every family in the village contributed a bit of their own savings.",
+      "tokens": [
+        {
+          "w": "没想到",
+          "py": "méi xiǎng dào",
+          "gloss": "unexpectedly",
+          "pos": "adv"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "村",
+          "py": "cūn",
+          "gloss": "the village",
+          "pos": "noun"
+        },
+        {
+          "w": "里",
+          "py": "lǐ",
+          "gloss": "in",
+          "pos": "conn"
+        },
+        {
+          "w": "几乎",
+          "py": "jī hū",
+          "gloss": "almost",
+          "pos": "adv"
+        },
+        {
+          "w": "每",
+          "py": "měi",
+          "gloss": "every",
+          "pos": "pron"
+        },
+        {
+          "w": "一",
+          "py": "yì",
+          "gloss": "one",
+          "pos": "quant"
+        },
+        {
+          "w": "家",
+          "py": "jiā",
+          "gloss": "(measure word for families)",
+          "pos": "quant"
+        },
+        {
+          "w": "都",
+          "py": "dōu",
+          "gloss": "all",
+          "pos": "adv"
+        },
+        {
+          "w": "拿出",
+          "py": "ná chū",
+          "gloss": "took out",
+          "pos": "verb"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(completed)",
+          "pos": "part"
+        },
+        {
+          "w": "自己",
+          "py": "zì jǐ",
+          "gloss": "their own",
+          "pos": "pron"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(possessive)",
+          "pos": "part"
+        },
+        {
+          "w": "一点",
+          "py": "yì diǎn",
+          "gloss": "a bit of",
+          "pos": "quant"
+        },
+        {
+          "w": "积蓄",
+          "py": "jī xù",
+          "gloss": "savings",
+          "pos": "noun"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "年轻人去山上搬石头，老人在家做饭，照顾孩子。",
+      "en": "Young people went up the mountain to carry stones, while elders stayed home cooking and watching the children.",
+      "tokens": [
+        {
+          "w": "年轻人",
+          "py": "nián qīng rén",
+          "gloss": "young people",
+          "pos": "noun"
+        },
+        {
+          "w": "去",
+          "py": "qù",
+          "gloss": "went",
+          "pos": "verb"
+        },
+        {
+          "w": "山上",
+          "py": "shān shàng",
+          "gloss": "up the mountain",
+          "pos": "noun"
+        },
+        {
+          "w": "搬",
+          "py": "bān",
+          "gloss": "carry",
+          "pos": "verb"
+        },
+        {
+          "w": "石头",
+          "py": "shí tou",
+          "gloss": "stones",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "老人",
+          "py": "lǎo rén",
+          "gloss": "elders",
+          "pos": "noun"
+        },
+        {
+          "w": "在",
+          "py": "zài",
+          "gloss": "at",
+          "pos": "conn"
+        },
+        {
+          "w": "家",
+          "py": "jiā",
+          "gloss": "home",
+          "pos": "noun"
+        },
+        {
+          "w": "做饭",
+          "py": "zuò fàn",
+          "gloss": "cooking",
+          "pos": "verb"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "照顾",
+          "py": "zhào gù",
+          "gloss": "watching",
+          "pos": "verb"
+        },
+        {
+          "w": "孩子",
+          "py": "hái zi",
+          "gloss": "the children",
+          "pos": "noun"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "大家分工合作，整整忙了三个月。",
+      "en": "Everyone divided the work and cooperated, and stayed busy for a full three months.",
+      "tokens": [
+        {
+          "w": "大家",
+          "py": "dà jiā",
+          "gloss": "everyone",
+          "pos": "pron"
+        },
+        {
+          "w": "分工",
+          "py": "fēn gōng",
+          "gloss": "divided the work",
+          "pos": "verb"
+        },
+        {
+          "w": "合作",
+          "py": "hé zuò",
+          "gloss": "cooperated",
+          "pos": "verb"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "整整",
+          "py": "zhěng zhěng",
+          "gloss": "a full",
+          "pos": "adv"
+        },
+        {
+          "w": "忙",
+          "py": "máng",
+          "gloss": "stayed busy",
+          "pos": "verb"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(completed)",
+          "pos": "part"
+        },
+        {
+          "w": "三",
+          "py": "sān",
+          "gloss": "three",
+          "pos": "quant"
+        },
+        {
+          "w": "个",
+          "py": "gè",
+          "gloss": "(measure word)",
+          "pos": "quant"
+        },
+        {
+          "w": "月",
+          "py": "yuè",
+          "gloss": "months",
+          "pos": "noun"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "他说，有一个下午，他搬着一块石头走过河上的一块窄木板的时候，脚一滑，有一秒钟，他以为自己要直接掉进水里了。",
+      "en": "He said that one afternoon, carrying a stone across a narrow wooden plank laid over the river, he slipped — and for one terrifying second, thought he would fall straight into the water.",
+      "tokens": [
+        {
+          "w": "他",
+          "py": "tā",
+          "gloss": "he",
+          "pos": "pron"
+        },
+        {
+          "w": "说",
+          "py": "shuō",
+          "gloss": "said",
+          "pos": "verb"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "有",
+          "py": "yǒu",
+          "gloss": "there was",
+          "pos": "verb"
+        },
+        {
+          "w": "一",
+          "py": "yí",
+          "gloss": "an",
+          "pos": "quant"
+        },
+        {
+          "w": "个",
+          "py": "gè",
+          "gloss": "(measure word)",
+          "pos": "quant"
+        },
+        {
+          "w": "下午",
+          "py": "xià wǔ",
+          "gloss": "afternoon",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "他",
+          "py": "tā",
+          "gloss": "he",
+          "pos": "pron"
+        },
+        {
+          "w": "搬",
+          "py": "bān",
+          "gloss": "was carrying",
+          "pos": "verb"
+        },
+        {
+          "w": "着",
+          "py": "zhe",
+          "gloss": "(ongoing)",
+          "pos": "part"
+        },
+        {
+          "w": "一",
+          "py": "yí",
+          "gloss": "a",
+          "pos": "quant"
+        },
+        {
+          "w": "块",
+          "py": "kuài",
+          "gloss": "(measure word for stones)",
+          "pos": "quant"
+        },
+        {
+          "w": "石头",
+          "py": "shí tou",
+          "gloss": "stone",
+          "pos": "noun"
+        },
+        {
+          "w": "走",
+          "py": "zǒu",
+          "gloss": "walking",
+          "pos": "verb"
+        },
+        {
+          "w": "过",
+          "py": "guò",
+          "gloss": "across",
+          "pos": "verb"
+        },
+        {
+          "w": "河",
+          "py": "hé",
+          "gloss": "the river",
+          "pos": "noun"
+        },
+        {
+          "w": "上",
+          "py": "shàng",
+          "gloss": "over",
+          "pos": "conn"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(possessive)",
+          "pos": "part"
+        },
+        {
+          "w": "一",
+          "py": "yí",
+          "gloss": "a",
+          "pos": "quant"
+        },
+        {
+          "w": "块",
+          "py": "kuài",
+          "gloss": "(measure word)",
+          "pos": "quant"
+        },
+        {
+          "w": "窄",
+          "py": "zhǎi",
+          "gloss": "narrow",
+          "pos": "adj"
+        },
+        {
+          "w": "木板",
+          "py": "mù bǎn",
+          "gloss": "wooden plank",
+          "pos": "noun"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(nominaliser)",
+          "pos": "part"
+        },
+        {
+          "w": "时候",
+          "py": "shí hou",
+          "gloss": "while",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "脚",
+          "py": "jiǎo",
+          "gloss": "his foot",
+          "pos": "noun"
+        },
+        {
+          "w": "一",
+          "py": "yī",
+          "gloss": "in an instant",
+          "pos": "quant"
+        },
+        {
+          "w": "滑",
+          "py": "huá",
+          "gloss": "slipped",
+          "pos": "verb"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "有",
+          "py": "yǒu",
+          "gloss": "there was",
+          "pos": "verb"
+        },
+        {
+          "w": "一",
+          "py": "yí",
+          "gloss": "a",
+          "pos": "quant"
+        },
+        {
+          "w": "秒",
+          "py": "miǎo",
+          "gloss": "second",
+          "pos": "noun"
+        },
+        {
+          "w": "钟",
+          "py": "zhōng",
+          "gloss": "(of time)",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "他",
+          "py": "tā",
+          "gloss": "he",
+          "pos": "pron"
+        },
+        {
+          "w": "以为",
+          "py": "yǐ wéi",
+          "gloss": "thought",
+          "pos": "verb"
+        },
+        {
+          "w": "自己",
+          "py": "zì jǐ",
+          "gloss": "himself",
+          "pos": "pron"
+        },
+        {
+          "w": "要",
+          "py": "yào",
+          "gloss": "was about to",
+          "pos": "verb"
+        },
+        {
+          "w": "直接",
+          "py": "zhí jiē",
+          "gloss": "directly",
+          "pos": "adv"
+        },
+        {
+          "w": "掉",
+          "py": "diào",
+          "gloss": "fall",
+          "pos": "verb"
+        },
+        {
+          "w": "进",
+          "py": "jìn",
+          "gloss": "into",
+          "pos": "conn"
+        },
+        {
+          "w": "水",
+          "py": "shuǐ",
+          "gloss": "the water",
+          "pos": "noun"
+        },
+        {
+          "w": "里",
+          "py": "lǐ",
+          "gloss": "inside",
+          "pos": "conn"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(change of state)",
+          "pos": "part"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "幸好，后面的两个村民及时拉住了他的手臂，石头自己掉进了河里，发出很大的水声，但是他没事。",
+      "en": "Luckily, two fellow villagers behind him caught his arm in time, and the stone fell into the river alone, with a loud splash — but he was fine.",
+      "tokens": [
+        {
+          "w": "幸好",
+          "py": "xìng hǎo",
+          "gloss": "luckily",
+          "pos": "adv"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "后面",
+          "py": "hòu miàn",
+          "gloss": "behind him",
+          "pos": "noun"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(possessive)",
+          "pos": "part"
+        },
+        {
+          "w": "两",
+          "py": "liǎng",
+          "gloss": "two",
+          "pos": "quant"
+        },
+        {
+          "w": "个",
+          "py": "gè",
+          "gloss": "(measure word)",
+          "pos": "quant"
+        },
+        {
+          "w": "村民",
+          "py": "cūn mín",
+          "gloss": "villagers",
+          "pos": "noun"
+        },
+        {
+          "w": "及时",
+          "py": "jí shí",
+          "gloss": "in time",
+          "pos": "adv"
+        },
+        {
+          "w": "拉",
+          "py": "lā",
+          "gloss": "caught",
+          "pos": "verb"
+        },
+        {
+          "w": "住",
+          "py": "zhù",
+          "gloss": "(result: holding firm)",
+          "pos": "verb"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(completed)",
+          "pos": "part"
+        },
+        {
+          "w": "他",
+          "py": "tā",
+          "gloss": "his",
+          "pos": "pron"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(possessive)",
+          "pos": "part"
+        },
+        {
+          "w": "手臂",
+          "py": "shǒu bì",
+          "gloss": "arm",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "石头",
+          "py": "shí tou",
+          "gloss": "the stone",
+          "pos": "noun"
+        },
+        {
+          "w": "自己",
+          "py": "zì jǐ",
+          "gloss": "alone",
+          "pos": "pron"
+        },
+        {
+          "w": "掉",
+          "py": "diào",
+          "gloss": "fell",
+          "pos": "verb"
+        },
+        {
+          "w": "进",
+          "py": "jìn",
+          "gloss": "into",
+          "pos": "conn"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(completed)",
+          "pos": "part"
+        },
+        {
+          "w": "河",
+          "py": "hé",
+          "gloss": "the river",
+          "pos": "noun"
+        },
+        {
+          "w": "里",
+          "py": "lǐ",
+          "gloss": "inside",
+          "pos": "conn"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "发出",
+          "py": "fā chū",
+          "gloss": "gave off",
+          "pos": "verb"
+        },
+        {
+          "w": "很",
+          "py": "hěn",
+          "gloss": "very",
+          "pos": "adv"
+        },
+        {
+          "w": "大",
+          "py": "dà",
+          "gloss": "loud",
+          "pos": "adj"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(nominaliser)",
+          "pos": "part"
+        },
+        {
+          "w": "水声",
+          "py": "shuǐ shēng",
+          "gloss": "splash",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "但是",
+          "py": "dàn shì",
+          "gloss": "but",
+          "pos": "conn"
+        },
+        {
+          "w": "他",
+          "py": "tā",
+          "gloss": "he",
+          "pos": "pron"
+        },
+        {
+          "w": "没事",
+          "py": "méi shì",
+          "gloss": "was fine",
+          "pos": "adj"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "爷爷说，他当年才十八岁，也每天去河边搬石头。",
+      "en": "Grandfather said he was only eighteen that year, and he too went to the riverside every day to carry stones.",
+      "tokens": [
+        {
+          "w": "爷爷",
+          "py": "yé ye",
+          "gloss": "grandfather",
+          "pos": "noun"
+        },
+        {
+          "w": "说",
+          "py": "shuō",
+          "gloss": "said",
+          "pos": "verb"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "他",
+          "py": "tā",
+          "gloss": "he",
+          "pos": "pron"
+        },
+        {
+          "w": "当年",
+          "py": "dāng nián",
+          "gloss": "that year",
+          "pos": "noun"
+        },
+        {
+          "w": "才",
+          "py": "cái",
+          "gloss": "only",
+          "pos": "adv"
+        },
+        {
+          "w": "十八",
+          "py": "shí bā",
+          "gloss": "eighteen",
+          "pos": "quant"
+        },
+        {
+          "w": "岁",
+          "py": "suì",
+          "gloss": "years old",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "也",
+          "py": "yě",
+          "gloss": "also",
+          "pos": "adv"
+        },
+        {
+          "w": "每天",
+          "py": "měi tiān",
+          "gloss": "every day",
+          "pos": "noun"
+        },
+        {
+          "w": "去",
+          "py": "qù",
+          "gloss": "went to",
+          "pos": "verb"
+        },
+        {
+          "w": "河边",
+          "py": "hé biān",
+          "gloss": "the riverside",
+          "pos": "noun"
+        },
+        {
+          "w": "搬",
+          "py": "bān",
+          "gloss": "carry",
+          "pos": "verb"
+        },
+        {
+          "w": "石头",
+          "py": "shí tou",
+          "gloss": "stones",
+          "pos": "noun"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "石桥建好那天，全村人都来了，大家放鞭炮庆祝。",
+      "en": "The day the stone bridge was finished, the whole village came, and everyone set off firecrackers to celebrate.",
+      "tokens": [
+        {
+          "w": "石",
+          "py": "shí",
+          "gloss": "stone",
+          "pos": "noun"
+        },
+        {
+          "w": "桥",
+          "py": "qiáo",
+          "gloss": "bridge",
+          "pos": "noun"
+        },
+        {
+          "w": "建",
+          "py": "jiàn",
+          "gloss": "built",
+          "pos": "verb"
+        },
+        {
+          "w": "好",
+          "py": "hǎo",
+          "gloss": "(completive)",
+          "pos": "adj"
+        },
+        {
+          "w": "那",
+          "py": "nà",
+          "gloss": "that",
+          "pos": "pron"
+        },
+        {
+          "w": "天",
+          "py": "tiān",
+          "gloss": "day",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "全村",
+          "py": "quán cūn",
+          "gloss": "the whole village",
+          "pos": "noun"
+        },
+        {
+          "w": "人",
+          "py": "rén",
+          "gloss": "people",
+          "pos": "noun"
+        },
+        {
+          "w": "都",
+          "py": "dōu",
+          "gloss": "all",
+          "pos": "adv"
+        },
+        {
+          "w": "来",
+          "py": "lái",
+          "gloss": "came",
+          "pos": "verb"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(completed)",
+          "pos": "part"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "大家",
+          "py": "dà jiā",
+          "gloss": "everyone",
+          "pos": "pron"
+        },
+        {
+          "w": "放",
+          "py": "fàng",
+          "gloss": "set off",
+          "pos": "verb"
+        },
+        {
+          "w": "鞭炮",
+          "py": "biān pào",
+          "gloss": "firecrackers",
+          "pos": "noun"
+        },
+        {
+          "w": "庆祝",
+          "py": "qìng zhù",
+          "gloss": "celebrate",
+          "pos": "verb"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "从那以后，五十年过去了，这座桥一直都很坚固，从来没有被大水冲走过。",
+      "en": "Since then, fifty years have passed, and the bridge has always stayed sturdy, never once swept away by floodwater.",
+      "tokens": [
+        {
+          "w": "从",
+          "py": "cóng",
+          "gloss": "from",
+          "pos": "conn"
+        },
+        {
+          "w": "那",
+          "py": "nà",
+          "gloss": "that",
+          "pos": "pron"
+        },
+        {
+          "w": "以后",
+          "py": "yǐ hòu",
+          "gloss": "after",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "五十",
+          "py": "wǔ shí",
+          "gloss": "fifty",
+          "pos": "quant"
+        },
+        {
+          "w": "年",
+          "py": "nián",
+          "gloss": "years",
+          "pos": "noun"
+        },
+        {
+          "w": "过去",
+          "py": "guò qù",
+          "gloss": "have passed",
+          "pos": "verb"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(change of state)",
+          "pos": "part"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "这",
+          "py": "zhè",
+          "gloss": "this",
+          "pos": "pron"
+        },
+        {
+          "w": "座",
+          "py": "zuò",
+          "gloss": "(measure word for bridges)",
+          "pos": "quant"
+        },
+        {
+          "w": "桥",
+          "py": "qiáo",
+          "gloss": "bridge",
+          "pos": "noun"
+        },
+        {
+          "w": "一直",
+          "py": "yì zhí",
+          "gloss": "has always",
+          "pos": "adv"
+        },
+        {
+          "w": "都",
+          "py": "dōu",
+          "gloss": "all",
+          "pos": "adv"
+        },
+        {
+          "w": "很",
+          "py": "hěn",
+          "gloss": "very",
+          "pos": "adv"
+        },
+        {
+          "w": "坚固",
+          "py": "jiān gù",
+          "gloss": "sturdy",
+          "pos": "adj"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "从来",
+          "py": "cóng lái",
+          "gloss": "never",
+          "pos": "adv"
+        },
+        {
+          "w": "没有",
+          "py": "méi yǒu",
+          "gloss": "has not",
+          "pos": "adv"
+        },
+        {
+          "w": "被",
+          "py": "bèi",
+          "gloss": "(passive marker)",
+          "pos": "part"
+        },
+        {
+          "w": "大水",
+          "py": "dà shuǐ",
+          "gloss": "floodwater",
+          "pos": "noun"
+        },
+        {
+          "w": "冲走",
+          "py": "chōng zǒu",
+          "gloss": "swept away",
+          "pos": "verb"
+        },
+        {
+          "w": "过",
+          "py": "guo",
+          "gloss": "(experience)",
+          "pos": "part"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "爷爷常说，这座桥不只是一座桥，也是全村人团结的证明。",
+      "en": "Grandfather often says this bridge isn't just a bridge — it's also proof of the whole village's unity.",
+      "tokens": [
+        {
+          "w": "爷爷",
+          "py": "yé ye",
+          "gloss": "grandfather",
+          "pos": "noun"
+        },
+        {
+          "w": "常",
+          "py": "cháng",
+          "gloss": "often",
+          "pos": "adv"
+        },
+        {
+          "w": "说",
+          "py": "shuō",
+          "gloss": "says",
+          "pos": "verb"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "这",
+          "py": "zhè",
+          "gloss": "this",
+          "pos": "pron"
+        },
+        {
+          "w": "座",
+          "py": "zuò",
+          "gloss": "(measure word for bridges)",
+          "pos": "quant"
+        },
+        {
+          "w": "桥",
+          "py": "qiáo",
+          "gloss": "bridge",
+          "pos": "noun"
+        },
+        {
+          "w": "不",
+          "py": "bù",
+          "gloss": "not",
+          "pos": "adv"
+        },
+        {
+          "w": "只是",
+          "py": "zhǐ shì",
+          "gloss": "only",
+          "pos": "adv"
+        },
+        {
+          "w": "一",
+          "py": "yí",
+          "gloss": "a",
+          "pos": "quant"
+        },
+        {
+          "w": "座",
+          "py": "zuò",
+          "gloss": "(measure word for bridges)",
+          "pos": "quant"
+        },
+        {
+          "w": "桥",
+          "py": "qiáo",
+          "gloss": "bridge",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "也",
+          "py": "yě",
+          "gloss": "also",
+          "pos": "adv"
+        },
+        {
+          "w": "是",
+          "py": "shì",
+          "gloss": "is",
+          "pos": "verb"
+        },
+        {
+          "w": "全村",
+          "py": "quán cūn",
+          "gloss": "the whole village",
+          "pos": "noun"
+        },
+        {
+          "w": "人",
+          "py": "rén",
+          "gloss": "people's",
+          "pos": "noun"
+        },
+        {
+          "w": "团结",
+          "py": "tuán jié",
+          "gloss": "unity",
+          "pos": "noun"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(possessive)",
+          "pos": "part"
+        },
+        {
+          "w": "证明",
+          "py": "zhèng míng",
+          "gloss": "proof",
+          "pos": "noun"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "我终于问他，石头上刻的到底是谁的名字，他说，那是当年每一家出钱的人，这样就没有人会忘记大家一起建成的东西。",
+      "en": "I finally asked him whose names were carved into the stone — he said they were every family that gave money that year, so no one would ever forget what they had built together.",
+      "tokens": [
+        {
+          "w": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "pos": "pron"
+        },
+        {
+          "w": "终于",
+          "py": "zhōng yú",
+          "gloss": "finally",
+          "pos": "adv"
+        },
+        {
+          "w": "问",
+          "py": "wèn",
+          "gloss": "asked",
+          "pos": "verb"
+        },
+        {
+          "w": "他",
+          "py": "tā",
+          "gloss": "him",
+          "pos": "pron"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "石头",
+          "py": "shí tou",
+          "gloss": "the stone",
+          "pos": "noun"
+        },
+        {
+          "w": "上",
+          "py": "shàng",
+          "gloss": "on",
+          "pos": "conn"
+        },
+        {
+          "w": "刻",
+          "py": "kè",
+          "gloss": "carved",
+          "pos": "verb"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(nominaliser)",
+          "pos": "part"
+        },
+        {
+          "w": "到底",
+          "py": "dào dǐ",
+          "gloss": "actually",
+          "pos": "adv"
+        },
+        {
+          "w": "是",
+          "py": "shì",
+          "gloss": "were",
+          "pos": "verb"
+        },
+        {
+          "w": "谁",
+          "py": "shéi",
+          "gloss": "whose",
+          "pos": "pron"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(possessive)",
+          "pos": "part"
+        },
+        {
+          "w": "名字",
+          "py": "míng zi",
+          "gloss": "names",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "他",
+          "py": "tā",
+          "gloss": "he",
+          "pos": "pron"
+        },
+        {
+          "w": "说",
+          "py": "shuō",
+          "gloss": "said",
+          "pos": "verb"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "那",
+          "py": "nà",
+          "gloss": "that",
+          "pos": "pron"
+        },
+        {
+          "w": "是",
+          "py": "shì",
+          "gloss": "was",
+          "pos": "verb"
+        },
+        {
+          "w": "当年",
+          "py": "dāng nián",
+          "gloss": "that year",
+          "pos": "noun"
+        },
+        {
+          "w": "每",
+          "py": "měi",
+          "gloss": "every",
+          "pos": "pron"
+        },
+        {
+          "w": "一",
+          "py": "yì",
+          "gloss": "one",
+          "pos": "quant"
+        },
+        {
+          "w": "家",
+          "py": "jiā",
+          "gloss": "(measure word for families)",
+          "pos": "quant"
+        },
+        {
+          "w": "出",
+          "py": "chū",
+          "gloss": "contributed",
+          "pos": "verb"
+        },
+        {
+          "w": "钱",
+          "py": "qián",
+          "gloss": "money",
+          "pos": "noun"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(nominaliser)",
+          "pos": "part"
+        },
+        {
+          "w": "人",
+          "py": "rén",
+          "gloss": "people",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "这样",
+          "py": "zhè yàng",
+          "gloss": "this way",
+          "pos": "pron"
+        },
+        {
+          "w": "就",
+          "py": "jiù",
+          "gloss": "then",
+          "pos": "adv"
+        },
+        {
+          "w": "没有",
+          "py": "méi yǒu",
+          "gloss": "no one would",
+          "pos": "verb"
+        },
+        {
+          "w": "人",
+          "py": "rén",
+          "gloss": "anyone",
+          "pos": "noun"
+        },
+        {
+          "w": "会",
+          "py": "huì",
+          "gloss": "would",
+          "pos": "verb"
+        },
+        {
+          "w": "忘记",
+          "py": "wàng jì",
+          "gloss": "forget",
+          "pos": "verb"
+        },
+        {
+          "w": "大家",
+          "py": "dà jiā",
+          "gloss": "everyone",
+          "pos": "pron"
+        },
+        {
+          "w": "一起",
+          "py": "yì qǐ",
+          "gloss": "together",
+          "pos": "adv"
+        },
+        {
+          "w": "建",
+          "py": "jiàn",
+          "gloss": "built",
+          "pos": "verb"
+        },
+        {
+          "w": "成",
+          "py": "chéng",
+          "gloss": "completed",
+          "pos": "verb"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(nominaliser)",
+          "pos": "part"
+        },
+        {
+          "w": "东西",
+          "py": "dōng xi",
+          "gloss": "thing",
+          "pos": "noun"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "我每次走过这座桥，都会想起爷爷讲的这个故事。",
+      "en": "Every time I walk across this bridge, I think of this story grandfather told.",
+      "tokens": [
+        {
+          "w": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "pos": "pron"
+        },
+        {
+          "w": "每次",
+          "py": "měi cì",
+          "gloss": "every time",
+          "pos": "noun"
+        },
+        {
+          "w": "走",
+          "py": "zǒu",
+          "gloss": "walk",
+          "pos": "verb"
+        },
+        {
+          "w": "过",
+          "py": "guò",
+          "gloss": "across",
+          "pos": "verb"
+        },
+        {
+          "w": "这",
+          "py": "zhè",
+          "gloss": "this",
+          "pos": "pron"
+        },
+        {
+          "w": "座",
+          "py": "zuò",
+          "gloss": "(measure word for bridges)",
+          "pos": "quant"
+        },
+        {
+          "w": "桥",
+          "py": "qiáo",
+          "gloss": "bridge",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "都",
+          "py": "dōu",
+          "gloss": "always",
+          "pos": "adv"
+        },
+        {
+          "w": "会",
+          "py": "huì",
+          "gloss": "will",
+          "pos": "verb"
+        },
+        {
+          "w": "想起",
+          "py": "xiǎng qǐ",
+          "gloss": "think of",
+          "pos": "verb"
+        },
+        {
+          "w": "爷爷",
+          "py": "yé ye",
+          "gloss": "grandfather",
+          "pos": "noun"
+        },
+        {
+          "w": "讲",
+          "py": "jiǎng",
+          "gloss": "told",
+          "pos": "verb"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(nominaliser)",
+          "pos": "part"
+        },
+        {
+          "w": "这",
+          "py": "zhè",
+          "gloss": "this",
+          "pos": "pron"
+        },
+        {
+          "w": "个",
+          "py": "gè",
+          "gloss": "(measure word)",
+          "pos": "quant"
+        },
+        {
+          "w": "故事",
+          "py": "gù shi",
+          "gloss": "story",
+          "pos": "noun"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    }
+  ],
+  "new_words": [
+    {
+      "w": "涨",
+      "py": "zhǎng",
+      "gloss": "(of water) to rise"
+    },
+    {
+      "w": "对岸",
+      "py": "duì àn",
+      "gloss": "the opposite bank"
+    },
+    {
+      "w": "村长",
+      "py": "cūn zhǎng",
+      "gloss": "village head"
+    },
+    {
+      "w": "积蓄",
+      "py": "jī xù",
+      "gloss": "savings"
+    },
+    {
+      "w": "分工",
+      "py": "fēn gōng",
+      "gloss": "division of labor"
+    },
+    {
+      "w": "鞭炮",
+      "py": "biān pào",
+      "gloss": "firecrackers"
+    },
+    {
+      "w": "山谷",
+      "py": "shān gǔ",
+      "gloss": "valley"
+    },
+    {
+      "w": "巨响",
+      "py": "jù xiǎng",
+      "gloss": "a loud crack/bang"
+    },
+    {
+      "w": "幸好",
+      "py": "xìng hǎo",
+      "gloss": "luckily"
+    },
+    {
+      "w": "手臂",
+      "py": "shǒu bì",
+      "gloss": "arm"
+    },
+    {
+      "w": "木板",
+      "py": "mù bǎn",
+      "gloss": "wooden plank"
+    },
+    {
+      "w": "村民",
+      "py": "cūn mín",
+      "gloss": "villager"
+    },
+    {
+      "w": "窄",
+      "py": "zhǎi",
+      "gloss": "narrow"
+    },
+    {
+      "w": "木",
+      "py": "mù",
+      "gloss": "wood, wooden"
+    },
+    {
+      "w": "石",
+      "py": "shí",
+      "gloss": "stone"
+    }
+  ],
+  "grammar_points": [
+    {
+      "pattern": "越 A 越 B",
+      "explanation_en": "\"The more A, the more B\" — both clauses track a quantity rising together. 越涨越高 is \"rose and rose, getting higher and higher\".",
+      "example_zh": "雨越下越大。",
+      "example_en": "The rain fell harder and harder."
+    },
+    {
+      "pattern": "把 + object + 冲走",
+      "explanation_en": "冲走 (\"swept away\") takes 把 to front its object, since it describes something being done TO the bridge, not the water doing something general.",
+      "example_zh": "大风把树吹倒了。",
+      "example_en": "The strong wind blew the tree down."
+    },
+    {
+      "pattern": "不只是 A，也是 B",
+      "explanation_en": "\"Not only A, but also B\" — reframes something as carrying a second, often deeper, meaning beyond its obvious one.",
+      "example_zh": "这不只是一个故事，也是一段历史。",
+      "example_en": "This isn't just a story — it's also a piece of history."
+    }
+  ],
+  "questions": [
+    {
+      "q_zh": "第一座桥是什么时候建的？后来发生了什么？",
+      "q_en": "When was the first bridge built, and what happened to it later?",
+      "answer_en": "Young villagers built a wooden bridge; years later, a flood swept it away."
+    },
+    {
+      "q_zh": "村里人是怎么一起建成石桥的？",
+      "q_en": "How did the villagers build the stone bridge together?",
+      "answer_en": "Almost every family contributed savings; young people carried stone from the mountain while elders cooked and watched the children, and it took three months."
+    },
+    {
+      "q_zh": "爷爷说这座桥代表什么？",
+      "q_en": "What does grandfather say the bridge represents?",
+      "answer_en": "Not just a bridge, but proof of the whole village's unity."
+    }
+  ]
+}

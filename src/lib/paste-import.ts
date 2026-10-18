@@ -48,6 +48,10 @@ export function buildPastedStory(input: BuildPastedStoryInput): Story {
     topic: 'Imported text',
     format: 'article',
     created_at: new Date().toISOString().slice(0, 10),
+    // Not AI-authored — this is the learner's own pasted text, machine-
+    // segmented. "Enrich on next batch" is what turns it into a /stories
+    // story, which does set this true at that point.
+    ai_generated: false,
     title_zh: input.title || input.sentences[0]?.zh.slice(0, 12) || input.id,
     title_en: input.title,
     summary_en: '',

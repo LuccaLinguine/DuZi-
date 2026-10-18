@@ -1,0 +1,2386 @@
+{
+  "id": "20261018-upper-work-life-balance",
+  "series_id": null,
+  "chapter": null,
+  "topic": "Work",
+  "format": "article",
+  "created_at": "2026-10-18",
+  "ai_generated": true,
+  "title_zh": "工作和生活怎么平衡",
+  "title_en": "How to Balance Work and Life",
+  "summary_en": "A survey finds young employees and their bosses disagree sharply about overtime and flexible hours — and some companies are starting to notice that rested workers are also more productive ones.",
+  "level": "upper",
+  "sentences": [
+    {
+      "zh": "最近，越来越多的年轻人开始重视工作和生活的平衡。",
+      "en": "Recently, more and more young people have started valuing the balance between work and life.",
+      "tokens": [
+        {
+          "w": "最近",
+          "py": "zuì jìn",
+          "gloss": "recently",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "越来越",
+          "py": "yuè lái yuè",
+          "gloss": "more and more",
+          "pos": "adv"
+        },
+        {
+          "w": "多",
+          "py": "duō",
+          "gloss": "many",
+          "pos": "adj"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(nominaliser)",
+          "pos": "part"
+        },
+        {
+          "w": "年轻人",
+          "py": "nián qīng rén",
+          "gloss": "young people",
+          "pos": "noun"
+        },
+        {
+          "w": "开始",
+          "py": "kāi shǐ",
+          "gloss": "started",
+          "pos": "verb"
+        },
+        {
+          "w": "重视",
+          "py": "zhòng shì",
+          "gloss": "to value",
+          "pos": "verb"
+        },
+        {
+          "w": "工作",
+          "py": "gōng zuò",
+          "gloss": "work",
+          "pos": "noun"
+        },
+        {
+          "w": "和",
+          "py": "hé",
+          "gloss": "and",
+          "pos": "conn"
+        },
+        {
+          "w": "生活",
+          "py": "shēng huó",
+          "gloss": "life",
+          "pos": "noun"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(possessive)",
+          "pos": "part"
+        },
+        {
+          "w": "平衡",
+          "py": "píng héng",
+          "gloss": "balance",
+          "pos": "noun"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "一家公司做了一个调查，发现大多数员工对加班不满意。",
+      "en": "A company did a survey and found that most employees are unsatisfied with overtime.",
+      "tokens": [
+        {
+          "w": "一",
+          "py": "yì",
+          "gloss": "a",
+          "pos": "quant"
+        },
+        {
+          "w": "家",
+          "py": "jiā",
+          "gloss": "(measure word for companies)",
+          "pos": "quant"
+        },
+        {
+          "w": "公司",
+          "py": "gōng sī",
+          "gloss": "company",
+          "pos": "noun"
+        },
+        {
+          "w": "做",
+          "py": "zuò",
+          "gloss": "did",
+          "pos": "verb"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(completed)",
+          "pos": "part"
+        },
+        {
+          "w": "一",
+          "py": "yí",
+          "gloss": "a",
+          "pos": "quant"
+        },
+        {
+          "w": "个",
+          "py": "gè",
+          "gloss": "(measure word)",
+          "pos": "quant"
+        },
+        {
+          "w": "调查",
+          "py": "diào chá",
+          "gloss": "survey",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "发现",
+          "py": "fā xiàn",
+          "gloss": "found",
+          "pos": "verb"
+        },
+        {
+          "w": "大多数",
+          "py": "dà duō shù",
+          "gloss": "most",
+          "pos": "pron"
+        },
+        {
+          "w": "员工",
+          "py": "yuán gōng",
+          "gloss": "employees",
+          "pos": "noun"
+        },
+        {
+          "w": "对",
+          "py": "duì",
+          "gloss": "towards",
+          "pos": "conn"
+        },
+        {
+          "w": "加班",
+          "py": "jiā bān",
+          "gloss": "overtime",
+          "pos": "noun"
+        },
+        {
+          "w": "不",
+          "py": "bù",
+          "gloss": "not",
+          "pos": "adv"
+        },
+        {
+          "w": "满意",
+          "py": "mǎn yì",
+          "gloss": "satisfied",
+          "pos": "adj"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "很多人说，长时间工作让他们没有时间运动、休息，也没有时间陪家人。",
+      "en": "Many said long work hours leave them no time to exercise, rest, or spend time with family.",
+      "tokens": [
+        {
+          "w": "很多",
+          "py": "hěn duō",
+          "gloss": "many",
+          "pos": "adj"
+        },
+        {
+          "w": "人",
+          "py": "rén",
+          "gloss": "people",
+          "pos": "noun"
+        },
+        {
+          "w": "说",
+          "py": "shuō",
+          "gloss": "said",
+          "pos": "verb"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "长时间",
+          "py": "cháng shí jiān",
+          "gloss": "long hours",
+          "pos": "noun"
+        },
+        {
+          "w": "工作",
+          "py": "gōng zuò",
+          "gloss": "working",
+          "pos": "verb"
+        },
+        {
+          "w": "让",
+          "py": "ràng",
+          "gloss": "makes",
+          "pos": "verb"
+        },
+        {
+          "w": "他们",
+          "py": "tā men",
+          "gloss": "them",
+          "pos": "pron"
+        },
+        {
+          "w": "没有",
+          "py": "méi yǒu",
+          "gloss": "have no",
+          "pos": "verb"
+        },
+        {
+          "w": "时间",
+          "py": "shí jiān",
+          "gloss": "time",
+          "pos": "noun"
+        },
+        {
+          "w": "运动",
+          "py": "yùn dòng",
+          "gloss": "exercise",
+          "pos": "verb"
+        },
+        {
+          "w": "、",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "休息",
+          "py": "xiū xi",
+          "gloss": "rest",
+          "pos": "verb"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "也",
+          "py": "yě",
+          "gloss": "also",
+          "pos": "adv"
+        },
+        {
+          "w": "没有",
+          "py": "méi yǒu",
+          "gloss": "have no",
+          "pos": "verb"
+        },
+        {
+          "w": "时间",
+          "py": "shí jiān",
+          "gloss": "time",
+          "pos": "noun"
+        },
+        {
+          "w": "陪",
+          "py": "péi",
+          "gloss": "accompany",
+          "pos": "verb"
+        },
+        {
+          "w": "家人",
+          "py": "jiā rén",
+          "gloss": "family",
+          "pos": "noun"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "他们希望公司能给员工更多的自由，比如弹性上下班时间。",
+      "en": "They hope companies can give employees more freedom, such as flexible start and end times.",
+      "tokens": [
+        {
+          "w": "他们",
+          "py": "tā men",
+          "gloss": "they",
+          "pos": "pron"
+        },
+        {
+          "w": "希望",
+          "py": "xī wàng",
+          "gloss": "hope",
+          "pos": "verb"
+        },
+        {
+          "w": "公司",
+          "py": "gōng sī",
+          "gloss": "companies",
+          "pos": "noun"
+        },
+        {
+          "w": "能",
+          "py": "néng",
+          "gloss": "can",
+          "pos": "verb"
+        },
+        {
+          "w": "给",
+          "py": "gěi",
+          "gloss": "give",
+          "pos": "verb"
+        },
+        {
+          "w": "员工",
+          "py": "yuán gōng",
+          "gloss": "employees",
+          "pos": "noun"
+        },
+        {
+          "w": "更",
+          "py": "gèng",
+          "gloss": "more",
+          "pos": "adv"
+        },
+        {
+          "w": "多",
+          "py": "duō",
+          "gloss": "much",
+          "pos": "adj"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(nominaliser)",
+          "pos": "part"
+        },
+        {
+          "w": "自由",
+          "py": "zì yóu",
+          "gloss": "freedom",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "比如",
+          "py": "bǐ rú",
+          "gloss": "such as",
+          "pos": "conn"
+        },
+        {
+          "w": "弹性",
+          "py": "tán xìng",
+          "gloss": "flexible",
+          "pos": "adj"
+        },
+        {
+          "w": "上下班",
+          "py": "shàng xià bān",
+          "gloss": "start/end of work",
+          "pos": "noun"
+        },
+        {
+          "w": "时间",
+          "py": "shí jiān",
+          "gloss": "times",
+          "pos": "noun"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "一些公司已经开始改变态度，支持员工自己安排时间。",
+      "en": "Some companies have already started changing their attitude, letting employees arrange their own time.",
+      "tokens": [
+        {
+          "w": "一些",
+          "py": "yì xiē",
+          "gloss": "some",
+          "pos": "quant"
+        },
+        {
+          "w": "公司",
+          "py": "gōng sī",
+          "gloss": "companies",
+          "pos": "noun"
+        },
+        {
+          "w": "已经",
+          "py": "yǐ jīng",
+          "gloss": "already",
+          "pos": "adv"
+        },
+        {
+          "w": "开始",
+          "py": "kāi shǐ",
+          "gloss": "started",
+          "pos": "verb"
+        },
+        {
+          "w": "改变",
+          "py": "gǎi biàn",
+          "gloss": "change",
+          "pos": "verb"
+        },
+        {
+          "w": "态度",
+          "py": "tài du",
+          "gloss": "attitude",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "支持",
+          "py": "zhī chí",
+          "gloss": "support",
+          "pos": "verb"
+        },
+        {
+          "w": "员工",
+          "py": "yuán gōng",
+          "gloss": "employees",
+          "pos": "noun"
+        },
+        {
+          "w": "自己",
+          "py": "zì jǐ",
+          "gloss": "themselves",
+          "pos": "pron"
+        },
+        {
+          "w": "安排",
+          "py": "ān pái",
+          "gloss": "arrange",
+          "pos": "verb"
+        },
+        {
+          "w": "时间",
+          "py": "shí jiān",
+          "gloss": "time",
+          "pos": "noun"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "这些公司发现，员工休息得好，工作效率反而提高了。",
+      "en": "These companies found that when employees rest well, work efficiency actually improves.",
+      "tokens": [
+        {
+          "w": "这些",
+          "py": "zhè xiē",
+          "gloss": "these",
+          "pos": "pron"
+        },
+        {
+          "w": "公司",
+          "py": "gōng sī",
+          "gloss": "companies",
+          "pos": "noun"
+        },
+        {
+          "w": "发现",
+          "py": "fā xiàn",
+          "gloss": "found",
+          "pos": "verb"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "员工",
+          "py": "yuán gōng",
+          "gloss": "employees",
+          "pos": "noun"
+        },
+        {
+          "w": "休息",
+          "py": "xiū xi",
+          "gloss": "rest",
+          "pos": "verb"
+        },
+        {
+          "w": "得",
+          "py": "de",
+          "gloss": "(manner marker)",
+          "pos": "part"
+        },
+        {
+          "w": "好",
+          "py": "hǎo",
+          "gloss": "well",
+          "pos": "adj"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "工作",
+          "py": "gōng zuò",
+          "gloss": "work",
+          "pos": "noun"
+        },
+        {
+          "w": "效率",
+          "py": "xiào lǜ",
+          "gloss": "efficiency",
+          "pos": "noun"
+        },
+        {
+          "w": "反而",
+          "py": "fǎn ér",
+          "gloss": "instead",
+          "pos": "adv"
+        },
+        {
+          "w": "提高",
+          "py": "tí gāo",
+          "gloss": "rose",
+          "pos": "verb"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(change of state)",
+          "pos": "part"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "老板们开始明白，健康和快乐的员工对公司更重要。",
+      "en": "Bosses are beginning to understand that healthy and happy employees matter more to a company.",
+      "tokens": [
+        {
+          "w": "老板",
+          "py": "lǎo bǎn",
+          "gloss": "bosses",
+          "pos": "noun"
+        },
+        {
+          "w": "们",
+          "py": "men",
+          "gloss": "(plural)",
+          "pos": "part"
+        },
+        {
+          "w": "开始",
+          "py": "kāi shǐ",
+          "gloss": "begin",
+          "pos": "verb"
+        },
+        {
+          "w": "明白",
+          "py": "míng bai",
+          "gloss": "understand",
+          "pos": "verb"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "健康",
+          "py": "jiàn kāng",
+          "gloss": "healthy",
+          "pos": "adj"
+        },
+        {
+          "w": "和",
+          "py": "hé",
+          "gloss": "and",
+          "pos": "conn"
+        },
+        {
+          "w": "快乐",
+          "py": "kuài lè",
+          "gloss": "happy",
+          "pos": "adj"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(nominaliser)",
+          "pos": "part"
+        },
+        {
+          "w": "员工",
+          "py": "yuán gōng",
+          "gloss": "employees",
+          "pos": "noun"
+        },
+        {
+          "w": "对",
+          "py": "duì",
+          "gloss": "to",
+          "pos": "conn"
+        },
+        {
+          "w": "公司",
+          "py": "gōng sī",
+          "gloss": "the company",
+          "pos": "noun"
+        },
+        {
+          "w": "更",
+          "py": "gèng",
+          "gloss": "more",
+          "pos": "adv"
+        },
+        {
+          "w": "重要",
+          "py": "zhòng yào",
+          "gloss": "important",
+          "pos": "adj"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "当然，也有一些公司不同意这种想法，觉得员工应该把更多时间给工作。",
+      "en": "Of course, some companies disagree with this idea, thinking employees should give more time to work.",
+      "tokens": [
+        {
+          "w": "当然",
+          "py": "dāng rán",
+          "gloss": "of course",
+          "pos": "adv"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "也",
+          "py": "yě",
+          "gloss": "also",
+          "pos": "adv"
+        },
+        {
+          "w": "有",
+          "py": "yǒu",
+          "gloss": "there are",
+          "pos": "verb"
+        },
+        {
+          "w": "一些",
+          "py": "yì xiē",
+          "gloss": "some",
+          "pos": "quant"
+        },
+        {
+          "w": "公司",
+          "py": "gōng sī",
+          "gloss": "companies",
+          "pos": "noun"
+        },
+        {
+          "w": "不",
+          "py": "bù",
+          "gloss": "not",
+          "pos": "adv"
+        },
+        {
+          "w": "同意",
+          "py": "tóng yì",
+          "gloss": "agree",
+          "pos": "verb"
+        },
+        {
+          "w": "这种",
+          "py": "zhè zhǒng",
+          "gloss": "this kind of",
+          "pos": "pron"
+        },
+        {
+          "w": "想法",
+          "py": "xiǎng fǎ",
+          "gloss": "idea",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "觉得",
+          "py": "jué de",
+          "gloss": "think",
+          "pos": "verb"
+        },
+        {
+          "w": "员工",
+          "py": "yuán gōng",
+          "gloss": "employees",
+          "pos": "noun"
+        },
+        {
+          "w": "应该",
+          "py": "yīng gāi",
+          "gloss": "should",
+          "pos": "verb"
+        },
+        {
+          "w": "把",
+          "py": "bǎ",
+          "gloss": "(object marker)",
+          "pos": "conn"
+        },
+        {
+          "w": "更",
+          "py": "gèng",
+          "gloss": "more",
+          "pos": "adv"
+        },
+        {
+          "w": "多",
+          "py": "duō",
+          "gloss": "much",
+          "pos": "adj"
+        },
+        {
+          "w": "时间",
+          "py": "shí jiān",
+          "gloss": "time",
+          "pos": "noun"
+        },
+        {
+          "w": "给",
+          "py": "gěi",
+          "gloss": "give to",
+          "pos": "verb"
+        },
+        {
+          "w": "工作",
+          "py": "gōng zuò",
+          "gloss": "work",
+          "pos": "noun"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "调查还发现，年轻员工对这个问题的意见跟老板很不一样。",
+      "en": "The survey also found that young employees' opinions on this issue are very different from their bosses'.",
+      "tokens": [
+        {
+          "w": "调查",
+          "py": "diào chá",
+          "gloss": "the survey",
+          "pos": "noun"
+        },
+        {
+          "w": "还",
+          "py": "hái",
+          "gloss": "also",
+          "pos": "adv"
+        },
+        {
+          "w": "发现",
+          "py": "fā xiàn",
+          "gloss": "found",
+          "pos": "verb"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "年轻",
+          "py": "nián qīng",
+          "gloss": "young",
+          "pos": "adj"
+        },
+        {
+          "w": "员工",
+          "py": "yuán gōng",
+          "gloss": "employees",
+          "pos": "noun"
+        },
+        {
+          "w": "对",
+          "py": "duì",
+          "gloss": "about",
+          "pos": "conn"
+        },
+        {
+          "w": "这",
+          "py": "zhè",
+          "gloss": "this",
+          "pos": "pron"
+        },
+        {
+          "w": "个",
+          "py": "gè",
+          "gloss": "(measure word)",
+          "pos": "quant"
+        },
+        {
+          "w": "问题",
+          "py": "wèn tí",
+          "gloss": "issue",
+          "pos": "noun"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(possessive)",
+          "pos": "part"
+        },
+        {
+          "w": "意见",
+          "py": "yì jiàn",
+          "gloss": "opinion",
+          "pos": "noun"
+        },
+        {
+          "w": "跟",
+          "py": "gēn",
+          "gloss": "from",
+          "pos": "conn"
+        },
+        {
+          "w": "老板",
+          "py": "lǎo bǎn",
+          "gloss": "bosses",
+          "pos": "noun"
+        },
+        {
+          "w": "很",
+          "py": "hěn",
+          "gloss": "very",
+          "pos": "adv"
+        },
+        {
+          "w": "不",
+          "py": "bù",
+          "gloss": "not",
+          "pos": "adv"
+        },
+        {
+          "w": "一样",
+          "py": "yí yàng",
+          "gloss": "the same",
+          "pos": "adj"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "很多年轻人说，周末是他们最重要的时间，他们想用来旅游、运动，或者发展自己的兴趣爱好。",
+      "en": "Many young people said weekends are their most important time, which they want to use for travel, exercise, or developing their own hobbies.",
+      "tokens": [
+        {
+          "w": "很多",
+          "py": "hěn duō",
+          "gloss": "many",
+          "pos": "adj"
+        },
+        {
+          "w": "年轻人",
+          "py": "nián qīng rén",
+          "gloss": "young people",
+          "pos": "noun"
+        },
+        {
+          "w": "说",
+          "py": "shuō",
+          "gloss": "said",
+          "pos": "verb"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "周末",
+          "py": "zhōu mò",
+          "gloss": "weekends",
+          "pos": "noun"
+        },
+        {
+          "w": "是",
+          "py": "shì",
+          "gloss": "are",
+          "pos": "verb"
+        },
+        {
+          "w": "他们",
+          "py": "tā men",
+          "gloss": "their",
+          "pos": "pron"
+        },
+        {
+          "w": "最",
+          "py": "zuì",
+          "gloss": "most",
+          "pos": "adv"
+        },
+        {
+          "w": "重要",
+          "py": "zhòng yào",
+          "gloss": "important",
+          "pos": "adj"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(nominaliser)",
+          "pos": "part"
+        },
+        {
+          "w": "时间",
+          "py": "shí jiān",
+          "gloss": "time",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "他们",
+          "py": "tā men",
+          "gloss": "they",
+          "pos": "pron"
+        },
+        {
+          "w": "想",
+          "py": "xiǎng",
+          "gloss": "want to",
+          "pos": "verb"
+        },
+        {
+          "w": "用",
+          "py": "yòng",
+          "gloss": "use",
+          "pos": "verb"
+        },
+        {
+          "w": "来",
+          "py": "lái",
+          "gloss": "to",
+          "pos": "conn"
+        },
+        {
+          "w": "旅游",
+          "py": "lǚ yóu",
+          "gloss": "travel",
+          "pos": "verb"
+        },
+        {
+          "w": "、",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "运动",
+          "py": "yùn dòng",
+          "gloss": "exercise",
+          "pos": "verb"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "或者",
+          "py": "huò zhě",
+          "gloss": "or",
+          "pos": "conn"
+        },
+        {
+          "w": "发展",
+          "py": "fā zhǎn",
+          "gloss": "develop",
+          "pos": "verb"
+        },
+        {
+          "w": "自己",
+          "py": "zì jǐ",
+          "gloss": "their own",
+          "pos": "pron"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(possessive)",
+          "pos": "part"
+        },
+        {
+          "w": "兴趣",
+          "py": "xìng qù",
+          "gloss": "interests",
+          "pos": "noun"
+        },
+        {
+          "w": "爱好",
+          "py": "ài hào",
+          "gloss": "hobbies",
+          "pos": "noun"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "一些公司已经开始试新的政策：让员工自己选择上班时间，或者一个星期在家工作两天。",
+      "en": "Some companies have already started trying new policies: letting employees choose their own start times, or work from home two days a week.",
+      "tokens": [
+        {
+          "w": "一些",
+          "py": "yì xiē",
+          "gloss": "some",
+          "pos": "quant"
+        },
+        {
+          "w": "公司",
+          "py": "gōng sī",
+          "gloss": "companies",
+          "pos": "noun"
+        },
+        {
+          "w": "已经",
+          "py": "yǐ jīng",
+          "gloss": "already",
+          "pos": "adv"
+        },
+        {
+          "w": "开始",
+          "py": "kāi shǐ",
+          "gloss": "started",
+          "pos": "verb"
+        },
+        {
+          "w": "试",
+          "py": "shì",
+          "gloss": "try",
+          "pos": "verb"
+        },
+        {
+          "w": "新",
+          "py": "xīn",
+          "gloss": "new",
+          "pos": "adj"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(nominaliser)",
+          "pos": "part"
+        },
+        {
+          "w": "政策",
+          "py": "zhèng cè",
+          "gloss": "policies",
+          "pos": "noun"
+        },
+        {
+          "w": "：",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "让",
+          "py": "ràng",
+          "gloss": "letting",
+          "pos": "verb"
+        },
+        {
+          "w": "员工",
+          "py": "yuán gōng",
+          "gloss": "employees",
+          "pos": "noun"
+        },
+        {
+          "w": "自己",
+          "py": "zì jǐ",
+          "gloss": "themselves",
+          "pos": "pron"
+        },
+        {
+          "w": "选择",
+          "py": "xuǎn zé",
+          "gloss": "choose",
+          "pos": "verb"
+        },
+        {
+          "w": "上班",
+          "py": "shàng bān",
+          "gloss": "start-work",
+          "pos": "noun"
+        },
+        {
+          "w": "时间",
+          "py": "shí jiān",
+          "gloss": "time",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "或者",
+          "py": "huò zhě",
+          "gloss": "or",
+          "pos": "conn"
+        },
+        {
+          "w": "一",
+          "py": "yì",
+          "gloss": "one",
+          "pos": "quant"
+        },
+        {
+          "w": "个",
+          "py": "gè",
+          "gloss": "(measure word)",
+          "pos": "quant"
+        },
+        {
+          "w": "星期",
+          "py": "xīng qī",
+          "gloss": "week",
+          "pos": "noun"
+        },
+        {
+          "w": "在",
+          "py": "zài",
+          "gloss": "at",
+          "pos": "conn"
+        },
+        {
+          "w": "家",
+          "py": "jiā",
+          "gloss": "home",
+          "pos": "noun"
+        },
+        {
+          "w": "工作",
+          "py": "gōng zuò",
+          "gloss": "work",
+          "pos": "verb"
+        },
+        {
+          "w": "两",
+          "py": "liǎng",
+          "gloss": "two",
+          "pos": "quant"
+        },
+        {
+          "w": "天",
+          "py": "tiān",
+          "gloss": "days",
+          "pos": "noun"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "一位经理说：“一开始我担心效率会下降，可是结果正好相反，团队完成工作的速度比以前更快了。”",
+      "en": "A manager said: \"At first I was worried productivity would drop, but actually the opposite happened — the team finishes its work faster than before.\"",
+      "tokens": [
+        {
+          "w": "一",
+          "py": "yí",
+          "gloss": "a",
+          "pos": "quant"
+        },
+        {
+          "w": "位",
+          "py": "wèi",
+          "gloss": "(measure word, polite)",
+          "pos": "quant"
+        },
+        {
+          "w": "经理",
+          "py": "jīng lǐ",
+          "gloss": "manager",
+          "pos": "noun"
+        },
+        {
+          "w": "说",
+          "py": "shuō",
+          "gloss": "said",
+          "pos": "verb"
+        },
+        {
+          "w": "：“",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "一开始",
+          "py": "yì kāi shǐ",
+          "gloss": "at first",
+          "pos": "noun"
+        },
+        {
+          "w": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "pos": "pron"
+        },
+        {
+          "w": "担心",
+          "py": "dān xīn",
+          "gloss": "worried",
+          "pos": "verb"
+        },
+        {
+          "w": "效率",
+          "py": "xiào lǜ",
+          "gloss": "productivity",
+          "pos": "noun"
+        },
+        {
+          "w": "会",
+          "py": "huì",
+          "gloss": "would",
+          "pos": "verb"
+        },
+        {
+          "w": "下降",
+          "py": "xià jiàng",
+          "gloss": "drop",
+          "pos": "verb"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "可是",
+          "py": "kě shì",
+          "gloss": "but",
+          "pos": "conn"
+        },
+        {
+          "w": "结果",
+          "py": "jié guǒ",
+          "gloss": "the result",
+          "pos": "noun"
+        },
+        {
+          "w": "正",
+          "py": "zhèng",
+          "gloss": "exactly",
+          "pos": "adv"
+        },
+        {
+          "w": "好",
+          "py": "hǎo",
+          "gloss": "(completive)",
+          "pos": "adj"
+        },
+        {
+          "w": "相反",
+          "py": "xiāng fǎn",
+          "gloss": "opposite",
+          "pos": "adj"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "团队",
+          "py": "tuán duì",
+          "gloss": "the team",
+          "pos": "noun"
+        },
+        {
+          "w": "完成",
+          "py": "wán chéng",
+          "gloss": "finishes",
+          "pos": "verb"
+        },
+        {
+          "w": "工作",
+          "py": "gōng zuò",
+          "gloss": "work",
+          "pos": "noun"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(nominaliser)",
+          "pos": "part"
+        },
+        {
+          "w": "速度",
+          "py": "sù dù",
+          "gloss": "speed",
+          "pos": "noun"
+        },
+        {
+          "w": "比",
+          "py": "bǐ",
+          "gloss": "compared to",
+          "pos": "conn"
+        },
+        {
+          "w": "以前",
+          "py": "yǐ qián",
+          "gloss": "before",
+          "pos": "noun"
+        },
+        {
+          "w": "更",
+          "py": "gèng",
+          "gloss": "even more",
+          "pos": "adv"
+        },
+        {
+          "w": "快",
+          "py": "kuài",
+          "gloss": "fast",
+          "pos": "adj"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(change of state)",
+          "pos": "part"
+        },
+        {
+          "w": "。”",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "当然，不是每个工作都能提供这种自由，商店需要有人在店里，医院也需要有人值班。",
+      "en": "Not every job can offer this kind of freedom, of course — a shop needs someone on the floor, and a hospital needs someone on duty.",
+      "tokens": [
+        {
+          "w": "当然",
+          "py": "dāng rán",
+          "gloss": "of course",
+          "pos": "adv"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "不是",
+          "py": "bú shì",
+          "gloss": "not every",
+          "pos": "verb"
+        },
+        {
+          "w": "每",
+          "py": "měi",
+          "gloss": "every",
+          "pos": "pron"
+        },
+        {
+          "w": "个",
+          "py": "gè",
+          "gloss": "(measure word)",
+          "pos": "quant"
+        },
+        {
+          "w": "工作",
+          "py": "gōng zuò",
+          "gloss": "job",
+          "pos": "noun"
+        },
+        {
+          "w": "都",
+          "py": "dōu",
+          "gloss": "all",
+          "pos": "adv"
+        },
+        {
+          "w": "能",
+          "py": "néng",
+          "gloss": "can",
+          "pos": "verb"
+        },
+        {
+          "w": "提供",
+          "py": "tí gōng",
+          "gloss": "offer",
+          "pos": "verb"
+        },
+        {
+          "w": "这种",
+          "py": "zhè zhǒng",
+          "gloss": "this kind of",
+          "pos": "pron"
+        },
+        {
+          "w": "自由",
+          "py": "zì yóu",
+          "gloss": "freedom",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "商店",
+          "py": "shāng diàn",
+          "gloss": "a shop",
+          "pos": "noun"
+        },
+        {
+          "w": "需要",
+          "py": "xū yào",
+          "gloss": "needs",
+          "pos": "verb"
+        },
+        {
+          "w": "有",
+          "py": "yǒu",
+          "gloss": "to have",
+          "pos": "verb"
+        },
+        {
+          "w": "人",
+          "py": "rén",
+          "gloss": "someone",
+          "pos": "noun"
+        },
+        {
+          "w": "在",
+          "py": "zài",
+          "gloss": "at",
+          "pos": "conn"
+        },
+        {
+          "w": "店",
+          "py": "diàn",
+          "gloss": "the floor",
+          "pos": "noun"
+        },
+        {
+          "w": "里",
+          "py": "lǐ",
+          "gloss": "in",
+          "pos": "conn"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "医院",
+          "py": "yī yuàn",
+          "gloss": "a hospital",
+          "pos": "noun"
+        },
+        {
+          "w": "也",
+          "py": "yě",
+          "gloss": "also",
+          "pos": "adv"
+        },
+        {
+          "w": "需要",
+          "py": "xū yào",
+          "gloss": "needs",
+          "pos": "verb"
+        },
+        {
+          "w": "有",
+          "py": "yǒu",
+          "gloss": "to have",
+          "pos": "verb"
+        },
+        {
+          "w": "人",
+          "py": "rén",
+          "gloss": "someone",
+          "pos": "noun"
+        },
+        {
+          "w": "值班",
+          "py": "zhí bān",
+          "gloss": "on duty",
+          "pos": "verb"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "研究这个问题的人认为，真正的问题不是一个人工作多少小时，而是这个人有没有真正的选择。",
+      "en": "Researchers who study this question believe the real issue isn't how many hours someone works, but whether that person has a real choice in the matter.",
+      "tokens": [
+        {
+          "w": "研究",
+          "py": "yán jiū",
+          "gloss": "to research",
+          "pos": "verb"
+        },
+        {
+          "w": "这",
+          "py": "zhè",
+          "gloss": "this",
+          "pos": "pron"
+        },
+        {
+          "w": "个",
+          "py": "gè",
+          "gloss": "(measure word)",
+          "pos": "quant"
+        },
+        {
+          "w": "问题",
+          "py": "wèn tí",
+          "gloss": "question",
+          "pos": "noun"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(nominaliser)",
+          "pos": "part"
+        },
+        {
+          "w": "人",
+          "py": "rén",
+          "gloss": "people",
+          "pos": "noun"
+        },
+        {
+          "w": "认为",
+          "py": "rèn wéi",
+          "gloss": "believe",
+          "pos": "verb"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "真正",
+          "py": "zhēn zhèng",
+          "gloss": "real",
+          "pos": "adj"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(nominaliser)",
+          "pos": "part"
+        },
+        {
+          "w": "问题",
+          "py": "wèn tí",
+          "gloss": "issue",
+          "pos": "noun"
+        },
+        {
+          "w": "不",
+          "py": "bú",
+          "gloss": "not",
+          "pos": "adv"
+        },
+        {
+          "w": "是",
+          "py": "shì",
+          "gloss": "is",
+          "pos": "verb"
+        },
+        {
+          "w": "一",
+          "py": "yí",
+          "gloss": "a",
+          "pos": "quant"
+        },
+        {
+          "w": "个",
+          "py": "gè",
+          "gloss": "(measure word)",
+          "pos": "quant"
+        },
+        {
+          "w": "人",
+          "py": "rén",
+          "gloss": "person",
+          "pos": "noun"
+        },
+        {
+          "w": "工作",
+          "py": "gōng zuò",
+          "gloss": "works",
+          "pos": "verb"
+        },
+        {
+          "w": "多少",
+          "py": "duō shǎo",
+          "gloss": "how many",
+          "pos": "pron"
+        },
+        {
+          "w": "小时",
+          "py": "xiǎo shí",
+          "gloss": "hours",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "而是",
+          "py": "ér shì",
+          "gloss": "but rather",
+          "pos": "conn"
+        },
+        {
+          "w": "这",
+          "py": "zhè",
+          "gloss": "this",
+          "pos": "pron"
+        },
+        {
+          "w": "个",
+          "py": "gè",
+          "gloss": "(measure word)",
+          "pos": "quant"
+        },
+        {
+          "w": "人",
+          "py": "rén",
+          "gloss": "person",
+          "pos": "noun"
+        },
+        {
+          "w": "有没有",
+          "py": "yǒu méi yǒu",
+          "gloss": "whether they have",
+          "pos": "verb"
+        },
+        {
+          "w": "真正",
+          "py": "zhēn zhèng",
+          "gloss": "real",
+          "pos": "adj"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(nominaliser)",
+          "pos": "part"
+        },
+        {
+          "w": "选择",
+          "py": "xuǎn zé",
+          "gloss": "choice",
+          "pos": "noun"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "因为喜欢这个项目而选择加班的员工，跟完全没有选择、被迫加班的员工，感受完全不一样。",
+      "en": "An employee who chooses to work overtime because they love the project feels very differently from one who is forced to, with no say in it at all.",
+      "tokens": [
+        {
+          "w": "因为",
+          "py": "yīn wèi",
+          "gloss": "because",
+          "pos": "conn"
+        },
+        {
+          "w": "喜欢",
+          "py": "xǐ huan",
+          "gloss": "loves",
+          "pos": "verb"
+        },
+        {
+          "w": "这",
+          "py": "zhè",
+          "gloss": "this",
+          "pos": "pron"
+        },
+        {
+          "w": "个",
+          "py": "gè",
+          "gloss": "(measure word)",
+          "pos": "quant"
+        },
+        {
+          "w": "项目",
+          "py": "xiàng mù",
+          "gloss": "project",
+          "pos": "noun"
+        },
+        {
+          "w": "而",
+          "py": "ér",
+          "gloss": "and so",
+          "pos": "conn"
+        },
+        {
+          "w": "选择",
+          "py": "xuǎn zé",
+          "gloss": "chooses",
+          "pos": "verb"
+        },
+        {
+          "w": "加班",
+          "py": "jiā bān",
+          "gloss": "to work overtime",
+          "pos": "verb"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(nominaliser)",
+          "pos": "part"
+        },
+        {
+          "w": "员工",
+          "py": "yuán gōng",
+          "gloss": "an employee",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "跟",
+          "py": "gēn",
+          "gloss": "compared with",
+          "pos": "conn"
+        },
+        {
+          "w": "完全",
+          "py": "wán quán",
+          "gloss": "completely",
+          "pos": "adv"
+        },
+        {
+          "w": "没有",
+          "py": "méi yǒu",
+          "gloss": "has no",
+          "pos": "verb"
+        },
+        {
+          "w": "选择",
+          "py": "xuǎn zé",
+          "gloss": "say",
+          "pos": "noun"
+        },
+        {
+          "w": "、",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "被迫",
+          "py": "bèi pò",
+          "gloss": "forced",
+          "pos": "adv"
+        },
+        {
+          "w": "加班",
+          "py": "jiā bān",
+          "gloss": "to work overtime",
+          "pos": "verb"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(nominaliser)",
+          "pos": "part"
+        },
+        {
+          "w": "员工",
+          "py": "yuán gōng",
+          "gloss": "an employee",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "感受",
+          "py": "gǎn shòu",
+          "gloss": "feeling",
+          "pos": "noun"
+        },
+        {
+          "w": "完全",
+          "py": "wán quán",
+          "gloss": "completely",
+          "pos": "adv"
+        },
+        {
+          "w": "不",
+          "py": "bù",
+          "gloss": "not",
+          "pos": "adv"
+        },
+        {
+          "w": "一样",
+          "py": "yí yàng",
+          "gloss": "the same",
+          "pos": "adj"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "现在，还没有一个答案适合所有公司，只是越来越多的公司开始认真思考这个问题了。",
+      "en": "For now, there is no single answer that works for every company — only more and more of them starting to ask the question seriously.",
+      "tokens": [
+        {
+          "w": "现在",
+          "py": "xiàn zài",
+          "gloss": "for now",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "还",
+          "py": "hái",
+          "gloss": "still",
+          "pos": "adv"
+        },
+        {
+          "w": "没有",
+          "py": "méi yǒu",
+          "gloss": "there is no",
+          "pos": "verb"
+        },
+        {
+          "w": "一",
+          "py": "yí",
+          "gloss": "a",
+          "pos": "quant"
+        },
+        {
+          "w": "个",
+          "py": "gè",
+          "gloss": "(measure word)",
+          "pos": "quant"
+        },
+        {
+          "w": "答案",
+          "py": "dá àn",
+          "gloss": "answer",
+          "pos": "noun"
+        },
+        {
+          "w": "适合",
+          "py": "shì hé",
+          "gloss": "suits",
+          "pos": "verb"
+        },
+        {
+          "w": "所有",
+          "py": "suǒ yǒu",
+          "gloss": "every",
+          "pos": "pron"
+        },
+        {
+          "w": "公司",
+          "py": "gōng sī",
+          "gloss": "company",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "只是",
+          "py": "zhǐ shì",
+          "gloss": "only",
+          "pos": "adv"
+        },
+        {
+          "w": "越来越",
+          "py": "yuè lái yuè",
+          "gloss": "more and more",
+          "pos": "adv"
+        },
+        {
+          "w": "多",
+          "py": "duō",
+          "gloss": "many",
+          "pos": "adj"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(nominaliser)",
+          "pos": "part"
+        },
+        {
+          "w": "公司",
+          "py": "gōng sī",
+          "gloss": "companies",
+          "pos": "noun"
+        },
+        {
+          "w": "开始",
+          "py": "kāi shǐ",
+          "gloss": "started",
+          "pos": "verb"
+        },
+        {
+          "w": "认真",
+          "py": "rèn zhēn",
+          "gloss": "seriously",
+          "pos": "adv"
+        },
+        {
+          "w": "思考",
+          "py": "sī kǎo",
+          "gloss": "to think about",
+          "pos": "verb"
+        },
+        {
+          "w": "这",
+          "py": "zhè",
+          "gloss": "this",
+          "pos": "pron"
+        },
+        {
+          "w": "个",
+          "py": "gè",
+          "gloss": "(measure word)",
+          "pos": "quant"
+        },
+        {
+          "w": "问题",
+          "py": "wèn tí",
+          "gloss": "question",
+          "pos": "noun"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(change of state)",
+          "pos": "part"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "看来，工作和生活怎么平衡，才能对每个人都公平，会是未来很多公司都要面对的问题。",
+      "en": "It seems that how to balance work and life, in a way that is fair to everyone, will be a problem many companies will have to face in the future.",
+      "tokens": [
+        {
+          "w": "看来",
+          "py": "kàn lái",
+          "gloss": "it seems",
+          "pos": "conn"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "工作",
+          "py": "gōng zuò",
+          "gloss": "work",
+          "pos": "noun"
+        },
+        {
+          "w": "和",
+          "py": "hé",
+          "gloss": "and",
+          "pos": "conn"
+        },
+        {
+          "w": "生活",
+          "py": "shēng huó",
+          "gloss": "life",
+          "pos": "noun"
+        },
+        {
+          "w": "怎么",
+          "py": "zěn me",
+          "gloss": "how to",
+          "pos": "pron"
+        },
+        {
+          "w": "平衡",
+          "py": "píng héng",
+          "gloss": "balance",
+          "pos": "verb"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "才",
+          "py": "cái",
+          "gloss": "in order to",
+          "pos": "adv"
+        },
+        {
+          "w": "能",
+          "py": "néng",
+          "gloss": "be able to",
+          "pos": "verb"
+        },
+        {
+          "w": "对",
+          "py": "duì",
+          "gloss": "towards",
+          "pos": "conn"
+        },
+        {
+          "w": "每",
+          "py": "měi",
+          "gloss": "every",
+          "pos": "pron"
+        },
+        {
+          "w": "个",
+          "py": "gè",
+          "gloss": "(measure word)",
+          "pos": "quant"
+        },
+        {
+          "w": "人",
+          "py": "rén",
+          "gloss": "person",
+          "pos": "noun"
+        },
+        {
+          "w": "都",
+          "py": "dōu",
+          "gloss": "all",
+          "pos": "adv"
+        },
+        {
+          "w": "公平",
+          "py": "gōng píng",
+          "gloss": "fair",
+          "pos": "adj"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "会",
+          "py": "huì",
+          "gloss": "will",
+          "pos": "verb"
+        },
+        {
+          "w": "是",
+          "py": "shì",
+          "gloss": "be",
+          "pos": "verb"
+        },
+        {
+          "w": "未来",
+          "py": "wèi lái",
+          "gloss": "the future",
+          "pos": "noun"
+        },
+        {
+          "w": "很多",
+          "py": "hěn duō",
+          "gloss": "many",
+          "pos": "adj"
+        },
+        {
+          "w": "公司",
+          "py": "gōng sī",
+          "gloss": "companies",
+          "pos": "noun"
+        },
+        {
+          "w": "都",
+          "py": "dōu",
+          "gloss": "all",
+          "pos": "adv"
+        },
+        {
+          "w": "要",
+          "py": "yào",
+          "gloss": "will have to",
+          "pos": "verb"
+        },
+        {
+          "w": "面对",
+          "py": "miàn duì",
+          "gloss": "face",
+          "pos": "verb"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(nominaliser)",
+          "pos": "part"
+        },
+        {
+          "w": "问题",
+          "py": "wèn tí",
+          "gloss": "problem",
+          "pos": "noun"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    }
+  ],
+  "new_words": [
+    {
+      "w": "弹性",
+      "py": "tán xìng",
+      "gloss": "flexible, flexibility"
+    },
+    {
+      "w": "政策",
+      "py": "zhèng cè",
+      "gloss": "policy"
+    },
+    {
+      "w": "平衡",
+      "py": "píng héng",
+      "gloss": "balance"
+    },
+    {
+      "w": "团队",
+      "py": "tuán duì",
+      "gloss": "team"
+    },
+    {
+      "w": "陪",
+      "py": "péi",
+      "gloss": "to accompany, spend time with"
+    },
+    {
+      "w": "值班",
+      "py": "zhí bān",
+      "gloss": "to be on duty"
+    },
+    {
+      "w": "被迫",
+      "py": "bèi pò",
+      "gloss": "to be forced to"
+    },
+    {
+      "w": "有没有",
+      "py": "yǒu méi yǒu",
+      "gloss": "whether (something) exists / has"
+    }
+  ],
+  "grammar_points": [
+    {
+      "pattern": "越来越多的 + noun",
+      "explanation_en": "\"More and more X\" — 越来越 modifies 多, and together they describe a noun whose quantity keeps rising.",
+      "example_zh": "越来越多的人喜欢在家工作。",
+      "example_en": "More and more people like working from home."
+    },
+    {
+      "pattern": "A 跟 B 不一样",
+      "explanation_en": "跟...不一样 (\"different from\") compares two things; the thing compared to goes right after 跟.",
+      "example_zh": "他的想法跟我的不一样。",
+      "example_en": "His idea is different from mine."
+    },
+    {
+      "pattern": "反而",
+      "explanation_en": "\"On the contrary, instead\" — signals a result opposite to what you'd expect from what came before it.",
+      "example_zh": "他休息了一天，工作反而做得更快了。",
+      "example_en": "He took a day off, and got his work done faster instead."
+    }
+  ],
+  "questions": [
+    {
+      "q_zh": "调查发现，大多数员工对什么不满意？",
+      "q_en": "What did the survey find most employees were unsatisfied with?",
+      "answer_en": "Overtime work."
+    },
+    {
+      "q_zh": "一些公司改变态度以后，发现了什么？",
+      "q_en": "What did some companies find after changing their attitude?",
+      "answer_en": "That when employees rest well, work efficiency actually improves."
+    },
+    {
+      "q_zh": "年轻员工最希望周末做什么？",
+      "q_en": "What do young employees most want to do on weekends?",
+      "answer_en": "Travel, exercise, or develop their own hobbies."
+    }
+  ]
+}
