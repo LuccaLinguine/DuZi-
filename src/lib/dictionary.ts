@@ -38,3 +38,21 @@ export async function lookupWords(words: readonly string[]): Promise<Map<string,
   }
   return out;
 }
+
+/**
+ * Preloads every shard a longest-match segmentation of `text` could touch —
+ * one per distinct first character — then returns a synchronous "is this a
+ * headword" check backed by those already-resolved shards. Segmentation
+ * (lib/segment.ts) probes many candidate substrings per character position,
+ * which only works as a tight synchronous loop; this is what makes that
+ * possible without an await per probe.
+ */
+export async function headwordChecker(text: string): Promise<(word: string) => boolean> {
+  const shardNums = [...new Set([...text].map((ch) => shardFor(ch)))];
+  const shards = await Promise.all(shardNums.map(loadShard));
+  const byShard = new Map(shardNums.map((n, i) => [n, shards[i]!]));
+  return (word: string) => {
+    const shard = byShard.get(shardFor(word));
+    return shard ? word in shard : false;
+  };
+}

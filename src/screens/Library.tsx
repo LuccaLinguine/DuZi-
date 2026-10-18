@@ -29,7 +29,15 @@ import type { StoryRow } from '../db/types.ts';
 
 const UNDO_WINDOW_MS = 6000;
 
-export function Library({ onGoTo, onOpenStory }: { onGoTo: (tab: Tab) => void; onOpenStory: (id: string) => void }) {
+export function Library({
+  onGoTo,
+  onOpenStory,
+  onImportText,
+}: {
+  onGoTo: (tab: Tab) => void;
+  onOpenStory: (id: string) => void;
+  onImportText: () => void;
+}) {
   const rows = useLiveQuery(
     () => db.stories.filter((s) => !s.hidden && !s.userRemoved).toArray(),
     [],
@@ -95,20 +103,30 @@ export function Library({ onGoTo, onOpenStory }: { onGoTo: (tab: Tab) => void; o
       title="Library"
       subtitle={allCards.length === 1 ? '1 story' : `${allCards.length} stories`}
       actions={
-        allCards.length > 0 ? (
+        <div className="flex items-center gap-2">
           <button
             type="button"
-            onClick={() => setFiltersOpen((v) => !v)}
-            aria-pressed={filtersOpen}
+            onClick={onImportText}
             className="tap rounded-lg border px-2.5 text-[13px] font-medium"
-            style={{
-              borderColor: hasActiveFilters(filters) ? 'var(--accent)' : 'var(--border)',
-              color: hasActiveFilters(filters) ? 'var(--accent)' : 'var(--ink)',
-            }}
+            style={{ borderColor: 'var(--border)', color: 'var(--ink)' }}
           >
-            Filter{hasActiveFilters(filters) ? ' •' : ''}
+            + Paste text
           </button>
-        ) : undefined
+          {allCards.length > 0 && (
+            <button
+              type="button"
+              onClick={() => setFiltersOpen((v) => !v)}
+              aria-pressed={filtersOpen}
+              className="tap rounded-lg border px-2.5 text-[13px] font-medium"
+              style={{
+                borderColor: hasActiveFilters(filters) ? 'var(--accent)' : 'var(--border)',
+                color: hasActiveFilters(filters) ? 'var(--accent)' : 'var(--ink)',
+              }}
+            >
+              Filter{hasActiveFilters(filters) ? ' •' : ''}
+            </button>
+          )}
+        </div>
       }
     >
       {allCards.length === 0 ? (

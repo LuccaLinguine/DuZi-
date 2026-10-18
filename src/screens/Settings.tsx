@@ -10,7 +10,14 @@ import { LEVEL_LIST } from '../lib/levels.ts';
 import { listZhVoices } from '../lib/tts.ts';
 import { posColor, POS_LABELS, POS_ORDER } from '../lib/pos-colors.ts';
 import { useResolvedTheme } from '../hooks/useResolvedTheme.ts';
+import { useHsk } from '../hooks/useHsk.ts';
+import { formatInterval } from '../lib/review.ts';
+import { pickFiles } from '../lib/pick-files.ts';
+import { shareOrDownloadFile } from '../lib/share-file.ts';
+import { gatherBackup, restoreBackup, BackupInvalid } from '../db/backup.ts';
+import { importStoryFiles } from '../db/manual-import.ts';
 import { Screen, Section, Row } from '../components/Screen.tsx';
+import { ConfirmDialog } from '../components/ConfirmDialog.tsx';
 import { About } from './About.tsx';
 import { MarkKnown } from './MarkKnown.tsx';
 
@@ -50,10 +57,73 @@ type SubScreen = 'about' | 'mark-known' | null;
 export function Settings({ settings, onChange, storageInfo }: Props) {
   const [sub, setSub] = useState<SubScreen>(null);
   const [voices, setVoices] = useState<SpeechSynthesisVoice[]>([]);
+  const [exportState, setExportState] = useState<'idle' | 'working' | 'done' | 'error'>('idle');
+  const [restorePending, setRestorePending] = useState<unknown | null>(null);
+  const [restoreState, setRestoreState] = useState<'idle' | 'working' | 'error'>('idle');
+  const [restoreError, setRestoreError] = useState<string | null>(null);
+  const [importStoriesState, setImportStoriesState] = useState<
+    { status: 'idle' } | { status: 'working' } | { status: 'done'; imported: number; rejected: { file: string; issues: string[] }[] }
+  >({ status: 'idle' });
+  const hsk = useHsk();
 
   useEffect(() => {
     void listZhVoices().then(setVoices);
   }, []);
+
+  const handleExport = async () => {
+    setExportState('working');
+    try {
+      const backup = await gatherBackup();
+      const file = new File([JSON.stringify(backup)], `duzi-backup-${new Date().toISOString().slice(0, 10)}.json`, {
+        type: 'application/json',
+      });
+      await shareOrDownloadFile(file, '读字 backup');
+      onChange({ lastBackupAt: Date.now() });
+      setExportState('done');
+    } catch {
+      setExportState('error');
+    }
+  };
+
+  const handlePickBackup = async () => {
+    const [picked] = await pickFiles({ accept: '.json' });
+    if (!picked) return;
+    try {
+      setRestorePending(JSON.parse(picked.text));
+    } catch {
+      setRestoreState('error');
+      setRestoreError('That file is not valid JSON.');
+    }
+  };
+
+  const handleConfirmRestore = async () => {
+    if (restorePending === undefined || restorePending === null) return;
+    setRestoreState('working');
+    try {
+      await restoreBackup(restorePending);
+      // Every screen holds state sourced from this database — Dexie's
+      // liveQuery hooks pick up the new rows, but `settings` is plain React
+      // state in useSettings, not a liveQuery, so it stays stale until a
+      // fresh load reads the restored row. Reloading is the simplest way to
+      // guarantee the whole app — not just the Dexie-backed parts — reflects
+      // what was just restored.
+      window.location.reload();
+    } catch (err) {
+      setRestoreState('error');
+      setRestoreError(err instanceof BackupInvalid ? err.issues.join('; ') : 'Could not restore that backup.');
+      setRestorePending(null);
+    }
+  };
+
+  const handleImportStories = async () => {
+    if (!hsk) return;
+    const picked = await pickFiles({ accept: '.json', multiple: true });
+    if (picked.length === 0) return;
+    setImportStoriesState({ status: 'working' });
+    const files = Object.fromEntries(picked.map((f) => [f.name, f.text]));
+    const result = await importStoryFiles(files, hsk);
+    setImportStoriesState({ status: 'done', imported: result.imported.length, rejected: result.rejected });
+  };
 
   if (sub === 'about') return <About onBack={() => setSub(null)} />;
   if (sub === 'mark-known') {
@@ -76,6 +146,63 @@ export function Settings({ settings, onChange, storageInfo }: Props) {
           </div>
         </Row>
         <Row label="Mark words as known" value="›" onClick={() => setSub('mark-known')} />
+      </Section>
+
+      <Section title="Backup">
+        <div className="px-4 py-3">
+          <p className="text-[13px] leading-relaxed" style={{ color: 'var(--ink-2)' }}>
+            Everything lives only on this device — there's no sync. Back up regularly, especially
+            before switching phones.
+          </p>
+          <p className="mt-2 text-[12px] font-medium" style={{ color: settings.lastBackupAt ? 'var(--ink-3)' : 'var(--accent)' }}>
+            {settings.lastBackupAt
+              ? `Last backed up ${formatInterval(Date.now() - settings.lastBackupAt)} ago`
+              : 'Never backed up'}
+          </p>
+          <button
+            type="button"
+            onClick={() => void handleExport()}
+            disabled={exportState === 'working'}
+            className="tap mt-3 w-full rounded-lg text-[15px] font-semibold disabled:opacity-50"
+            style={{ background: 'var(--accent)', color: '#fff' }}
+          >
+            {exportState === 'working' ? 'Gathering…' : 'Export all data'}
+          </button>
+          {exportState === 'error' && (
+            <p className="mt-2 text-[12px]" style={{ color: 'var(--accent)' }}>
+              Something went wrong exporting. Try again.
+            </p>
+          )}
+          <button
+            type="button"
+            onClick={() => void handlePickBackup()}
+            className="tap mt-2 w-full rounded-lg border text-[15px] font-medium"
+            style={{ borderColor: 'var(--border)' }}
+          >
+            Import all data
+          </button>
+          {restoreState === 'error' && restoreError && (
+            <p className="mt-2 text-[12px]" style={{ color: 'var(--accent)' }}>
+              {restoreError}
+            </p>
+          )}
+        </div>
+        <Row label="Import stories (JSON files)" value="›" onClick={() => void handleImportStories()} />
+        {importStoriesState.status === 'done' && (
+          <div className="px-4 pb-3 text-[12px]" style={{ color: 'var(--ink-3)' }}>
+            {importStoriesState.imported > 0 && (
+              <p>
+                Imported {importStoriesState.imported}{' '}
+                {importStoriesState.imported === 1 ? 'story' : 'stories'}.
+              </p>
+            )}
+            {importStoriesState.rejected.map((r) => (
+              <p key={r.file} style={{ color: 'var(--accent)' }}>
+                {r.file}: {r.issues[0]}
+              </p>
+            ))}
+          </div>
+        )}
       </Section>
 
       <Section title="Reading">
@@ -266,8 +393,18 @@ export function Settings({ settings, onChange, storageInfo }: Props) {
       </Section>
 
       <p className="px-5 py-6 text-[12px]" style={{ color: 'var(--ink-3)' }}>
-        读字 Dúzì · phase 2. Flashcards, stats, backup and series arrive with their features.
+        读字 Dúzì
       </p>
+
+      {restorePending !== null && (
+        <ConfirmDialog
+          title="Replace everything on this device?"
+          body="This overwrites every story, saved word, flashcard and setting with what's in the backup file. This cannot be undone — if you're not sure this is the right file, cancel and check first."
+          confirmLabel={restoreState === 'working' ? 'Restoring…' : 'Replace everything'}
+          onConfirm={() => void handleConfirmRestore()}
+          onCancel={() => setRestorePending(null)}
+        />
+      )}
     </Screen>
   );
 }

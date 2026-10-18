@@ -77,8 +77,6 @@ export async function reviewCard(row: CardRow, grade: Grade): Promise<CardRow> {
     const day = await db.days.get(key);
     await db.days.put({
       date: key,
-      charsRead: day?.charsRead ?? 0,
-      storiesRead: day?.storiesRead ?? 0,
       reviews: (day?.reviews ?? 0) + 1,
       // "Words learned today" counts first-ever reviews, which is what the
       // new-card budget is measured against.

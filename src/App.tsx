@@ -4,11 +4,12 @@ import { db, requestPersistence } from './db/index.ts';
 import { TabBar, type Tab } from './components/TabBar.tsx';
 import { Toast } from './components/Toast.tsx';
 import { Library } from './screens/Library.tsx';
+import { ImportText } from './screens/ImportText.tsx';
 import { Reader } from './screens/Reader.tsx';
 import { Onboarding } from './screens/Onboarding.tsx';
-import { Placeholder } from './screens/Placeholder.tsx';
 import { Requests } from './screens/Requests.tsx';
 import { Review } from './screens/Review.tsx';
+import { Stats } from './screens/Stats.tsx';
 import { Settings } from './screens/Settings.tsx';
 import { useSettings } from './hooks/useSettings.ts';
 import { useContentSync, syncMessage } from './hooks/useContentSync.ts';
@@ -19,6 +20,7 @@ export function App() {
   const { settings, update, ready } = useSettings();
   const [tab, setTab] = useState<Tab>('library');
   const [openStoryId, setOpenStoryId] = useState<string | null>(null);
+  const [importingText, setImportingText] = useState(false);
   const [toast, setToast] = useState<string | null>(null);
   const [storageInfo, setStorageInfo] = useState('—');
   const { needsRefresh, applyUpdate } = useServiceWorkerUpdate();
@@ -119,20 +121,28 @@ export function App() {
     );
   }
 
+  if (importingText) {
+    return wrap(
+      <ImportText
+        defaultLevel={settings.defaultLevel}
+        onCancel={() => setImportingText(false)}
+        onImported={(id) => {
+          setImportingText(false);
+          setOpenStoryId(id);
+        }}
+      />,
+    );
+  }
+
   return wrap(
     <div className="flex h-full flex-col">
       <main className="flex min-h-0 flex-1 flex-col">
-        {tab === 'library' && <Library onGoTo={setTab} onOpenStory={setOpenStoryId} />}
+        {tab === 'library' && (
+          <Library onGoTo={setTab} onOpenStory={setOpenStoryId} onImportText={() => setImportingText(true)} />
+        )}
         {tab === 'requests' && <Requests defaultLevel={settings.defaultLevel} />}
         {tab === 'review' && <Review settings={settings} />}
-        {tab === 'stats' && (
-          <Placeholder
-            title="Stats"
-            icon="数"
-            phase="Phase 6"
-            body="Characters read, words known, and your daily streak."
-          />
-        )}
+        {tab === 'stats' && <Stats />}
         {tab === 'settings' && (
           <Settings settings={settings} onChange={update} storageInfo={storageInfo} />
         )}

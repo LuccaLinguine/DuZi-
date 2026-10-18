@@ -103,11 +103,16 @@ export interface ReviewLogRow {
 /* ---------------- history & stats ---------------- */
 
 /** One row per day, so streaks and the 30-day chart are a single index scan. */
+/**
+ * Review activity per local day, for the streak and the stats screen.
+ * Characters/stories read are deliberately not duplicated here — `reads`
+ * already has `at` and `chars` per finished story, so the daily reading
+ * stats are aggregated from that table instead of a second counter that
+ * nothing would keep in sync with it.
+ */
 export interface DayRow {
   /** YYYY-MM-DD in the device's local time. */
   date: string;
-  charsRead: number;
-  storiesRead: number;
   reviews: number;
   wordsLearned: number;
 }

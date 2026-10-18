@@ -145,10 +145,12 @@ Both are credited on the app's About screen, as their licences require.
 - [x] **1 — Scaffold, data, content pipeline.** Vite/React/TS/Tailwind/PWA, the
   CC-CEDICT and HSK build scripts, the Dexie schema, the tab shell, the story
   schema, `validate-stories`, `CONTENT.md`, `/stories`, and 3 sample stories.
-- [ ] **2 — Reader + word memory.** Ruby pinyin, Smart pinyin mode, the word
-  bottom sheet, translations, onboarding.
-- [ ] **3 — Audio.** Sentence-by-sentence TTS with highlighting and a player bar.
-- [ ] **4 — Library + content sync.** Story cards, filters, the Requests screen,
-  profile export.
-- [ ] **5 — Flashcards.** Saved words and FSRS reviews.
-- [ ] **6 — Import text, stats, series, export/import** and the final polish pass.
+- [x] **2 — Reader + word memory.** Ruby pinyin, Smart pinyin mode, the word
+  bottom sheet, translations, onboarding, colour-by-grammatical-function.
+- [x] **3 — Audio.** Sentence-by-sentence TTS with highlighting and a player bar.
+- [x] **4 — Library + content sync.** Story cards, filters, the Requests screen,
+  profile export, auto-fulfilled requests.
+- [x] **5 — Flashcards.** Saved words and FSRS reviews, due badge.
+- [x] **6 — Import text, stats, export/import.** Paste-your-own-text with local
+  segmentation, the stats screen, full backup/restore, and a manual
+  story-JSON import fallback.

@@ -9,18 +9,8 @@ import type { LevelId } from './levels.ts';
 import { LEVELS } from './levels.ts';
 import { isWordToken, splitChars } from './text.ts';
 
-/** HSK 3.0 bands. Band 7 in the source data covers the combined 7–9 level. */
-export type HskVersion = 'hsk3' | 'hsk2';
-
-/** word → level number. Level 7 in `hsk3` means the 7–9 band. */
+/** word → level number. Level 7 means the combined HSK 3.0 7–9 band. */
 export type HskMap = Record<string, number>;
-
-export interface HskData {
-  hsk3: HskMap;
-  hsk2: HskMap;
-  /** How many words each band holds, for the vocabulary estimate in Stats. */
-  sizes: { hsk3: Record<string, number>; hsk2: Record<string, number> };
-}
 
 export function hskLevelOf(word: string, map: HskMap): number | undefined {
   return map[word];
