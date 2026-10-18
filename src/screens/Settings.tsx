@@ -4,7 +4,7 @@
  * lives here.
  */
 import { useEffect, useState } from 'react';
-import type { Settings as SettingsShape, ThemeMode, Script, PinyinMode } from '../db/types.ts';
+import type { Settings as SettingsShape, ThemeMode, Script, PinyinMode, CardMode } from '../db/types.ts';
 import type { SettingsPatch } from '../hooks/useSettings.ts';
 import { LEVEL_LIST } from '../lib/levels.ts';
 import { listZhVoices } from '../lib/tts.ts';
@@ -30,6 +30,12 @@ const THEMES: { id: ThemeMode; label: string }[] = [
 const SCRIPTS: { id: Script; label: string }[] = [
   { id: 'simplified', label: '简体' },
   { id: 'traditional', label: '繁體' },
+];
+
+const CARD_MODES: { id: CardMode; label: string }[] = [
+  { id: 'hanzi-meaning', label: '汉字 → meaning' },
+  { id: 'meaning-hanzi', label: 'Meaning → 汉字' },
+  { id: 'audio-meaning', label: 'Audio → meaning' },
 ];
 
 const PINYIN_MODES: { id: PinyinMode; label: string }[] = [
@@ -189,6 +195,63 @@ export function Settings({ settings, onChange, storageInfo }: Props) {
               className="w-full"
               style={{ accentColor: 'var(--accent)' }}
               aria-label="Stories seen without a lookup before a word graduates to known"
+            />
+          </div>
+        </Row>
+        <Row label="Graduate a saved word at" value={`${settings.graduateAtStabilityDays} days stable`}>
+          <div className="flex items-center gap-3 px-4 pb-3">
+            <input
+              type="range"
+              min={7}
+              max={90}
+              step={1}
+              value={settings.graduateAtStabilityDays}
+              onChange={(e) => onChange({ graduateAtStabilityDays: Number(e.target.value) })}
+              className="w-full"
+              style={{ accentColor: 'var(--accent)' }}
+              aria-label="Flashcard stability in days before a word graduates to known"
+            />
+          </div>
+        </Row>
+      </Section>
+
+      <Section title="Flashcards">
+        <Row label="Card types">
+          <div className="flex flex-wrap gap-2 px-4 pb-3">
+            {CARD_MODES.map((m) => {
+              const on = settings.cardModes.includes(m.id);
+              return (
+                <Choice
+                  key={m.id}
+                  label={m.label}
+                  selected={on}
+                  onSelect={() =>
+                    onChange((prev) => {
+                      const next = prev.cardModes.includes(m.id)
+                        ? prev.cardModes.filter((x) => x !== m.id)
+                        : [...prev.cardModes, m.id];
+                      // Never leave zero types enabled — a session with no card
+                      // front to show would just be a blank screen.
+                      return { cardModes: next.length > 0 ? next : prev.cardModes };
+                    })
+                  }
+                />
+              );
+            })}
+          </div>
+        </Row>
+        <Row label="New cards per day" value={String(settings.newCardsPerDay)}>
+          <div className="flex items-center gap-3 px-4 pb-3">
+            <input
+              type="range"
+              min={1}
+              max={50}
+              step={1}
+              value={settings.newCardsPerDay}
+              onChange={(e) => onChange({ newCardsPerDay: Number(e.target.value) })}
+              className="w-full"
+              style={{ accentColor: 'var(--accent)' }}
+              aria-label="How many brand-new flashcards to introduce per day"
             />
           </div>
         </Row>

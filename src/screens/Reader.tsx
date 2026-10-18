@@ -26,6 +26,7 @@ import { WordSheet, type WordSelection } from '../components/WordSheet.tsx';
 import { ConfirmDialog } from '../components/ConfirmDialog.tsx';
 import { PlayerBar, SPEEDS } from '../components/PlayerBar.tsx';
 import { addRequest } from '../db/requests.ts';
+import { saveCard, deleteCard } from '../db/cards.ts';
 
 interface Props {
   storyId: string;
@@ -63,6 +64,11 @@ export function Reader({ storyId, settings, onUpdateSettings, onBack }: Props) {
 
   const words = useMemo(() => (story ? storyWords(story) : []), [story]);
   const wordRows = useWordRows(words);
+  const savedWords = useLiveQuery(
+    async () => new Set((await db.cards.toCollection().primaryKeys()) as string[]),
+    [],
+    new Set<string>(),
+  );
   const hsk = useHsk();
   const ceiling = story ? LEVELS[story.level].hskCeiling : 0;
   const convert = useScriptConverter(settings.script);
@@ -140,8 +146,15 @@ export function Reader({ storyId, settings, onUpdateSettings, onBack }: Props) {
   }, []);
 
   const openWord = useCallback(
-    (word: string, context?: { py: string; gloss: string; pos?: Pos }) => {
-      setSelection({ word, contextPy: context?.py, contextGloss: context?.gloss, contextPos: context?.pos });
+    (word: string, context?: { py: string; gloss: string; pos?: Pos; zh?: string; en?: string }) => {
+      setSelection({
+        word,
+        contextPy: context?.py,
+        contextGloss: context?.gloss,
+        contextPos: context?.pos,
+        exampleZh: context?.zh,
+        exampleEn: context?.en,
+      });
       const now = Date.now();
       void db.words.get(word).then((existing) => {
         const row = existing ?? newWordRow(word, now);
@@ -160,6 +173,17 @@ export function Reader({ storyId, settings, onUpdateSettings, onBack }: Props) {
   const navigateWordSheet = useCallback((word: string) => {
     setSelection({ word });
   }, []);
+
+  const handleSaveCard = useCallback((sel: WordSelection) => {
+    void saveCard({
+      w: sel.word,
+      py: sel.contextPy ?? '',
+      gloss: sel.contextGloss ?? '',
+      exampleZh: sel.exampleZh ?? '',
+      exampleEn: sel.exampleEn ?? '',
+      storyId,
+    });
+  }, [storyId]);
 
   const setWordStatus = useCallback((word: string, status: WordStatus) => {
     const now = Date.now();
@@ -351,11 +375,14 @@ export function Reader({ storyId, settings, onUpdateSettings, onBack }: Props) {
       <WordSheet
         selection={selection}
         status={selectedStatus}
+        saved={selection ? savedWords.has(selection.word) : false}
         voice={voice}
         speechRate={settings.speechRate}
         onClose={() => setSelection(null)}
         onNavigate={navigateWordSheet}
         onStatusChange={(status) => selection && setWordStatus(selection.word, status)}
+        onSave={() => selection && handleSaveCard(selection)}
+        onUnsave={() => selection && void deleteCard(selection.word)}
       />
 
       {confirmMarkRead && (
@@ -394,7 +421,7 @@ const SentenceView = forwardRef<
     hsk: ReturnType<typeof useHsk>;
     wordRows: ReturnType<typeof useWordRows>;
     translationVisible: boolean;
-    onTapWord: (word: string, context: { py: string; gloss: string; pos?: Pos }) => void;
+    onTapWord: (word: string, context: { py: string; gloss: string; pos?: Pos; zh?: string; en?: string }) => void;
     onToggleTranslation: () => void;
     /** True while this is the sentence the player is speaking — karaoke-style highlight. */
     isSpeaking: boolean;
@@ -443,6 +470,7 @@ const SentenceView = forwardRef<
             ceiling={ceiling}
             hsk={hsk}
             wordRows={wordRows}
+            sentence={sentence}
             onTap={onTapWord}
           />
         ))}
@@ -479,6 +507,7 @@ function TokenView({
   ceiling,
   hsk,
   wordRows,
+  sentence,
   onTap,
 }: {
   token: Token;
@@ -491,7 +520,8 @@ function TokenView({
   ceiling: number;
   hsk: ReturnType<typeof useHsk>;
   wordRows: ReturnType<typeof useWordRows>;
-  onTap: (word: string, context: { py: string; gloss: string; pos?: Pos }) => void;
+  sentence: Sentence;
+  onTap: (word: string, context: { py: string; gloss: string; pos?: Pos; zh?: string; en?: string }) => void;
 }) {
   const displayText = convert(token.w);
 
@@ -520,7 +550,13 @@ function TokenView({
     <ruby
       onClick={(e) => {
         e.stopPropagation();
-        onTap(token.w, { py: token.py, gloss: token.gloss, pos: token.pos || undefined });
+        onTap(token.w, {
+          py: token.py,
+          gloss: token.gloss,
+          pos: token.pos || undefined,
+          zh: sentence.zh,
+          en: sentence.en,
+        });
       }}
       className="tap mx-0.5 inline-flex cursor-pointer flex-col items-center px-0.5 text-center active:opacity-60"
       style={{ ...decoration, color }}

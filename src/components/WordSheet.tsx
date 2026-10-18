@@ -22,6 +22,9 @@ export interface WordSelection {
   contextPy?: string;
   contextGloss?: string;
   contextPos?: Pos;
+  /** The sentence the word was tapped in, saved as the flashcard's example. */
+  exampleZh?: string;
+  exampleEn?: string;
 }
 
 const STATUSES: { id: WordStatus; label: string }[] = [
@@ -34,14 +37,29 @@ const STATUSES: { id: WordStatus; label: string }[] = [
 interface Props {
   selection: WordSelection | null;
   status: WordStatus | undefined;
+  /** True when this word already has a flashcard. */
+  saved: boolean;
   voice: SpeechSynthesisVoice | null;
   speechRate: number;
   onClose: () => void;
   onNavigate: (word: string) => void;
   onStatusChange: (status: WordStatus) => void;
+  onSave: () => void;
+  onUnsave: () => void;
 }
 
-export function WordSheet({ selection, status, voice, speechRate, onClose, onNavigate, onStatusChange }: Props) {
+export function WordSheet({
+  selection,
+  status,
+  saved,
+  voice,
+  speechRate,
+  onClose,
+  onNavigate,
+  onStatusChange,
+  onSave,
+  onUnsave,
+}: Props) {
   const chars = useMemo(() => (selection ? splitChars(selection.word) : []), [selection]);
   const isMultiChar = chars.length > 1;
   const lookupTargets = useMemo(
@@ -212,6 +230,19 @@ export function WordSheet({ selection, status, voice, speechRate, onClose, onNav
               })}
             </div>
           </div>
+
+          <button
+            type="button"
+            onClick={saved ? onUnsave : onSave}
+            className="tap mt-4 w-full rounded-lg text-[15px] font-semibold"
+            style={
+              saved
+                ? { border: '1px solid var(--border)', color: 'var(--ink-2)' }
+                : { background: 'var(--accent)', color: '#fff' }
+            }
+          >
+            {saved ? '✓ Saved to flashcards' : 'Save to flashcards'}
+          </button>
         </div>
       </div>
     </div>

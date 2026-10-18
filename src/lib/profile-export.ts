@@ -7,6 +7,7 @@
 import type { LevelId } from './levels.ts';
 import type { StoryFormat } from './story-schema.ts';
 import type { HskMap } from './hsk.ts';
+import { localDayKey } from './day.ts';
 
 export interface LearnerProfile {
   exported_at: string;
@@ -25,15 +26,6 @@ export interface LearnerProfile {
     seriesId: string | null;
     note: string;
   }[];
-}
-
-/** YYYY-MM-DD in local time — matches the format `/stories` and CONTENT.md expect. */
-export function formatLocalDate(ms: number): string {
-  const d = new Date(ms);
-  const y = d.getFullYear();
-  const m = String(d.getMonth() + 1).padStart(2, '0');
-  const day = String(d.getDate()).padStart(2, '0');
-  return `${y}-${m}-${day}`;
 }
 
 /** Known words bucketed by HSK 3.0 band; words absent from the list are skipped. */
@@ -92,7 +84,7 @@ export function buildLearnerProfile(input: BuildProfileInput): LearnerProfile {
     // overdue for reinforcement first when it spreads them across a batch.
     learning: [...input.learningWords]
       .sort((a, b) => a.lastSeen - b.lastSeen)
-      .map((w) => ({ w: w.w, py: w.py, lookups: w.lookups, lastSeen: formatLocalDate(w.lastSeen) })),
+      .map((w) => ({ w: w.w, py: w.py, lookups: w.lookups, lastSeen: localDayKey(w.lastSeen) })),
     known_counts: computeKnownCounts(input.knownWords, input.hsk),
     read: input.reads,
     topic_ratings: computeTopicRatings(input.reads),

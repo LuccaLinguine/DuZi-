@@ -8,9 +8,11 @@ import { Reader } from './screens/Reader.tsx';
 import { Onboarding } from './screens/Onboarding.tsx';
 import { Placeholder } from './screens/Placeholder.tsx';
 import { Requests } from './screens/Requests.tsx';
+import { Review } from './screens/Review.tsx';
 import { Settings } from './screens/Settings.tsx';
 import { useSettings } from './hooks/useSettings.ts';
 import { useContentSync, syncMessage } from './hooks/useContentSync.ts';
+import { countDue } from './lib/review.ts';
 import { useServiceWorkerUpdate } from './hooks/useServiceWorkerUpdate.ts';
 
 export function App() {
@@ -25,9 +27,22 @@ export function App() {
   // against the real stored row rather than the defaults.
   const { result, error } = useContentSync(ready);
 
+  // Re-evaluated on a timer as well as on data change, so a card becoming due
+  // while the app sits open eventually shows up in the badge.
+  const [dueTick, setDueTick] = useState(0);
+  useEffect(() => {
+    const t = setInterval(() => setDueTick((n) => n + 1), 60_000);
+    return () => clearInterval(t);
+  }, []);
+
+  // Deliberately scans the whole (personal-scale) cards table rather than a
+  // `where('due').belowOrEqual(now)` range query: Dexie's liveQuery tracks the
+  // key range a query touched, so a card saved with a due time *after* that
+  // bound falls outside the tracked range and never invalidates it — the badge
+  // would simply never appear. Filtering in JS keeps every write observable.
   const dueCount = useLiveQuery(
-    () => db.cards.where('due').belowOrEqual(Date.now()).count(),
-    [],
+    async () => countDue(await db.cards.toArray(), Date.now()),
+    [dueTick],
     0,
   );
 
@@ -109,14 +124,7 @@ export function App() {
       <main className="flex min-h-0 flex-1 flex-col">
         {tab === 'library' && <Library onGoTo={setTab} onOpenStory={setOpenStoryId} />}
         {tab === 'requests' && <Requests defaultLevel={settings.defaultLevel} />}
-        {tab === 'review' && (
-          <Placeholder
-            title="Review"
-            icon="记"
-            phase="Phase 5"
-            body="Words you save while reading become flashcards here, scheduled with FSRS."
-          />
-        )}
+        {tab === 'review' && <Review settings={settings} />}
         {tab === 'stats' && (
           <Placeholder
             title="Stats"

@@ -1,13 +1,6 @@
 import { describe, it, expect } from 'vitest';
-import { computeKnownCounts, computeTopicRatings, formatLocalDate, buildLearnerProfile } from './profile-export.ts';
+import { computeKnownCounts, computeTopicRatings, buildLearnerProfile } from './profile-export.ts';
 import type { HskMap } from './hsk.ts';
-
-describe('formatLocalDate', () => {
-  it('formats as YYYY-MM-DD, zero-padded', () => {
-    expect(formatLocalDate(new Date(2026, 0, 5).getTime())).toBe('2026-01-05');
-    expect(formatLocalDate(new Date(2026, 10, 17).getTime())).toBe('2026-11-17');
-  });
-});
 
 describe('computeKnownCounts', () => {
   const hsk: HskMap = { 你好: 1, 朋友: 1, 奇怪: 3, 经济: 5 };
