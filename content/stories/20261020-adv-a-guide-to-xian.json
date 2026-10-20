@@ -1,0 +1,5901 @@
+{
+  "id": "20261020-adv-a-guide-to-xian",
+  "series_id": null,
+  "chapter": null,
+  "topic": "Travel",
+  "format": "article",
+  "created_at": "2026-10-20",
+  "ai_generated": false,
+  "title_zh": "去西安旅行",
+  "title_en": "Travelling to Xi'an",
+  "summary_en": "A practical guide to Xi'an: when to go, how to get there and get around, where to stay, the sights not to miss, a four-day itinerary and some tips.",
+  "level": "advanced",
+  "sentences": [
+    {
+      "zh": "如果你正在计划去中国旅行，那么西安应该出现在你的计划里。",
+      "en": "If you're planning a trip to China, Xi'an should be part of your plan.",
+      "tokens": [
+        {
+          "w": "如果",
+          "py": "rú guǒ",
+          "gloss": "if",
+          "pos": "conn"
+        },
+        {
+          "w": "你",
+          "py": "nǐ",
+          "gloss": "you",
+          "pos": "pron"
+        },
+        {
+          "w": "正在",
+          "py": "zhèng zài",
+          "gloss": "(in the middle of)",
+          "pos": "adv"
+        },
+        {
+          "w": "计划",
+          "py": "jì huà",
+          "gloss": "to plan",
+          "pos": "verb"
+        },
+        {
+          "w": "去",
+          "py": "qù",
+          "gloss": "to go",
+          "pos": "verb"
+        },
+        {
+          "w": "中国",
+          "py": "Zhōng guó",
+          "gloss": "China",
+          "pos": "noun"
+        },
+        {
+          "w": "旅行",
+          "py": "lǚ xíng",
+          "gloss": "to travel",
+          "pos": "verb"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "那么",
+          "py": "nà me",
+          "gloss": "then",
+          "pos": "conn"
+        },
+        {
+          "w": "西安",
+          "py": "Xī ān",
+          "gloss": "Xi'an",
+          "pos": "noun"
+        },
+        {
+          "w": "应该",
+          "py": "yīng gāi",
+          "gloss": "should",
+          "pos": "verb"
+        },
+        {
+          "w": "出现",
+          "py": "chū xiàn",
+          "gloss": "to appear",
+          "pos": "verb"
+        },
+        {
+          "w": "在",
+          "py": "zài",
+          "gloss": "in",
+          "pos": "conn"
+        },
+        {
+          "w": "你",
+          "py": "nǐ",
+          "gloss": "your",
+          "pos": "pron"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(possessive)",
+          "pos": "part"
+        },
+        {
+          "w": "计划",
+          "py": "jì huà",
+          "gloss": "plan",
+          "pos": "noun"
+        },
+        {
+          "w": "里",
+          "py": "lǐ",
+          "gloss": "in",
+          "pos": "noun"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "西安是陕西省的省会，也是中国最古老的城市之一。",
+      "en": "Xi'an is the capital of Shaanxi Province, and one of the oldest cities in China.",
+      "tokens": [
+        {
+          "w": "西安",
+          "py": "Xī ān",
+          "gloss": "Xi'an",
+          "pos": "noun"
+        },
+        {
+          "w": "是",
+          "py": "shì",
+          "gloss": "is",
+          "pos": "verb"
+        },
+        {
+          "w": "陕西省",
+          "py": "Shǎn xī shěng",
+          "gloss": "Shaanxi Province",
+          "pos": "noun"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(possessive)",
+          "pos": "part"
+        },
+        {
+          "w": "省会",
+          "py": "shěng huì",
+          "gloss": "provincial capital",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "也",
+          "py": "yě",
+          "gloss": "also",
+          "pos": "adv"
+        },
+        {
+          "w": "是",
+          "py": "shì",
+          "gloss": "is",
+          "pos": "verb"
+        },
+        {
+          "w": "中国",
+          "py": "Zhōng guó",
+          "gloss": "China",
+          "pos": "noun"
+        },
+        {
+          "w": "最",
+          "py": "zuì",
+          "gloss": "most",
+          "pos": "adv"
+        },
+        {
+          "w": "古老",
+          "py": "gǔ lǎo",
+          "gloss": "ancient",
+          "pos": "adj"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(that)",
+          "pos": "part"
+        },
+        {
+          "w": "城市",
+          "py": "chéng shì",
+          "gloss": "cities",
+          "pos": "noun"
+        },
+        {
+          "w": "之一",
+          "py": "zhī yī",
+          "gloss": "one of",
+          "pos": "noun"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "历史上，一共有十三个朝代在这里建都，所以人们也叫它“十三朝古都”。",
+      "en": "Over its history, thirteen dynasties made their capital here, so people also call it \"the ancient capital of thirteen dynasties\".",
+      "tokens": [
+        {
+          "w": "历史",
+          "py": "lì shǐ",
+          "gloss": "history",
+          "pos": "noun"
+        },
+        {
+          "w": "上",
+          "py": "shang",
+          "gloss": "in",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "一共",
+          "py": "yí gòng",
+          "gloss": "in total",
+          "pos": "adv"
+        },
+        {
+          "w": "有",
+          "py": "yǒu",
+          "gloss": "there were",
+          "pos": "verb"
+        },
+        {
+          "w": "十三",
+          "py": "shí sān",
+          "gloss": "thirteen",
+          "pos": "quant"
+        },
+        {
+          "w": "个",
+          "py": "gè",
+          "gloss": "(measure word)",
+          "pos": "quant"
+        },
+        {
+          "w": "朝代",
+          "py": "cháo dài",
+          "gloss": "dynasties",
+          "pos": "noun"
+        },
+        {
+          "w": "在",
+          "py": "zài",
+          "gloss": "in",
+          "pos": "conn"
+        },
+        {
+          "w": "这里",
+          "py": "zhè lǐ",
+          "gloss": "here",
+          "pos": "pron"
+        },
+        {
+          "w": "建都",
+          "py": "jiàn dū",
+          "gloss": "to make a capital",
+          "pos": "verb"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "所以",
+          "py": "suǒ yǐ",
+          "gloss": "so",
+          "pos": "conn"
+        },
+        {
+          "w": "人们",
+          "py": "rén men",
+          "gloss": "people",
+          "pos": "noun"
+        },
+        {
+          "w": "也",
+          "py": "yě",
+          "gloss": "also",
+          "pos": "adv"
+        },
+        {
+          "w": "叫",
+          "py": "jiào",
+          "gloss": "to call",
+          "pos": "verb"
+        },
+        {
+          "w": "它",
+          "py": "tā",
+          "gloss": "it",
+          "pos": "pron"
+        },
+        {
+          "w": "“",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "十三朝",
+          "py": "shí sān cháo",
+          "gloss": "thirteen dynasties",
+          "pos": "noun"
+        },
+        {
+          "w": "古都",
+          "py": "gǔ dū",
+          "gloss": "ancient capital",
+          "pos": "noun"
+        },
+        {
+          "w": "”。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "不管你喜欢历史、美食，还是只想拍一些好看的照片，西安都不会让你失望。",
+      "en": "Whether you love history or food, or just want to take some nice photos, Xi'an won't disappoint you.",
+      "tokens": [
+        {
+          "w": "不管",
+          "py": "bù guǎn",
+          "gloss": "no matter",
+          "pos": "conn"
+        },
+        {
+          "w": "你",
+          "py": "nǐ",
+          "gloss": "you",
+          "pos": "pron"
+        },
+        {
+          "w": "喜欢",
+          "py": "xǐ huan",
+          "gloss": "to like",
+          "pos": "verb"
+        },
+        {
+          "w": "历史",
+          "py": "lì shǐ",
+          "gloss": "history",
+          "pos": "noun"
+        },
+        {
+          "w": "、",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "美食",
+          "py": "měi shí",
+          "gloss": "good food",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "还是",
+          "py": "hái shi",
+          "gloss": "or",
+          "pos": "conn"
+        },
+        {
+          "w": "只",
+          "py": "zhǐ",
+          "gloss": "only",
+          "pos": "adv"
+        },
+        {
+          "w": "想",
+          "py": "xiǎng",
+          "gloss": "to want",
+          "pos": "verb"
+        },
+        {
+          "w": "拍",
+          "py": "pāi",
+          "gloss": "to take (photos)",
+          "pos": "verb"
+        },
+        {
+          "w": "一些",
+          "py": "yì xiē",
+          "gloss": "some",
+          "pos": "quant"
+        },
+        {
+          "w": "好看",
+          "py": "hǎo kàn",
+          "gloss": "nice-looking",
+          "pos": "adj"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(that)",
+          "pos": "part"
+        },
+        {
+          "w": "照片",
+          "py": "zhào piàn",
+          "gloss": "photos",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "西安",
+          "py": "Xī ān",
+          "gloss": "Xi'an",
+          "pos": "noun"
+        },
+        {
+          "w": "都",
+          "py": "dōu",
+          "gloss": "(in every case)",
+          "pos": "adv"
+        },
+        {
+          "w": "不会",
+          "py": "bú huì",
+          "gloss": "will not",
+          "pos": "verb"
+        },
+        {
+          "w": "让",
+          "py": "ràng",
+          "gloss": "to make",
+          "pos": "verb"
+        },
+        {
+          "w": "你",
+          "py": "nǐ",
+          "gloss": "you",
+          "pos": "pron"
+        },
+        {
+          "w": "失望",
+          "py": "shī wàng",
+          "gloss": "disappointed",
+          "pos": "adj"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "什么时候去最合适？",
+      "en": "When is the best time to go?",
+      "tokens": [
+        {
+          "w": "什么",
+          "py": "shén me",
+          "gloss": "what",
+          "pos": "pron"
+        },
+        {
+          "w": "时候",
+          "py": "shí hou",
+          "gloss": "time",
+          "pos": "noun"
+        },
+        {
+          "w": "去",
+          "py": "qù",
+          "gloss": "to go",
+          "pos": "verb"
+        },
+        {
+          "w": "最",
+          "py": "zuì",
+          "gloss": "most",
+          "pos": "adv"
+        },
+        {
+          "w": "合适",
+          "py": "hé shì",
+          "gloss": "suitable",
+          "pos": "adj"
+        },
+        {
+          "w": "？",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "西安的每个季节都各有各的味道。",
+      "en": "Each season in Xi'an has its own flavour.",
+      "tokens": [
+        {
+          "w": "西安",
+          "py": "Xī ān",
+          "gloss": "Xi'an",
+          "pos": "noun"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(possessive)",
+          "pos": "part"
+        },
+        {
+          "w": "每",
+          "py": "měi",
+          "gloss": "every",
+          "pos": "pron"
+        },
+        {
+          "w": "个",
+          "py": "gè",
+          "gloss": "(measure word)",
+          "pos": "quant"
+        },
+        {
+          "w": "季节",
+          "py": "jì jié",
+          "gloss": "season",
+          "pos": "noun"
+        },
+        {
+          "w": "都",
+          "py": "dōu",
+          "gloss": "all",
+          "pos": "adv"
+        },
+        {
+          "w": "各",
+          "py": "gè",
+          "gloss": "each",
+          "pos": "pron"
+        },
+        {
+          "w": "有",
+          "py": "yǒu",
+          "gloss": "to have",
+          "pos": "verb"
+        },
+        {
+          "w": "各",
+          "py": "gè",
+          "gloss": "each",
+          "pos": "pron"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(possessive)",
+          "pos": "part"
+        },
+        {
+          "w": "味道",
+          "py": "wèi dao",
+          "gloss": "flavour",
+          "pos": "noun"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "春天从三月到五月，秋天从九月到十一月，这两个季节不冷不热，最适合出门和拍照。",
+      "en": "Spring runs from March to May and autumn from September to November; these two seasons are neither cold nor hot, perfect for going out and taking photos.",
+      "tokens": [
+        {
+          "w": "春天",
+          "py": "chūn tiān",
+          "gloss": "spring",
+          "pos": "noun"
+        },
+        {
+          "w": "从",
+          "py": "cóng",
+          "gloss": "from",
+          "pos": "conn"
+        },
+        {
+          "w": "三月",
+          "py": "sān yuè",
+          "gloss": "March",
+          "pos": "noun"
+        },
+        {
+          "w": "到",
+          "py": "dào",
+          "gloss": "to",
+          "pos": "conn"
+        },
+        {
+          "w": "五月",
+          "py": "wǔ yuè",
+          "gloss": "May",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "秋天",
+          "py": "qiū tiān",
+          "gloss": "autumn",
+          "pos": "noun"
+        },
+        {
+          "w": "从",
+          "py": "cóng",
+          "gloss": "from",
+          "pos": "conn"
+        },
+        {
+          "w": "九月",
+          "py": "jiǔ yuè",
+          "gloss": "September",
+          "pos": "noun"
+        },
+        {
+          "w": "到",
+          "py": "dào",
+          "gloss": "to",
+          "pos": "conn"
+        },
+        {
+          "w": "十一月",
+          "py": "shí yī yuè",
+          "gloss": "November",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "这",
+          "py": "zhè",
+          "gloss": "these",
+          "pos": "pron"
+        },
+        {
+          "w": "两",
+          "py": "liǎng",
+          "gloss": "two",
+          "pos": "quant"
+        },
+        {
+          "w": "个",
+          "py": "gè",
+          "gloss": "(measure word)",
+          "pos": "quant"
+        },
+        {
+          "w": "季节",
+          "py": "jì jié",
+          "gloss": "seasons",
+          "pos": "noun"
+        },
+        {
+          "w": "不",
+          "py": "bù",
+          "gloss": "not",
+          "pos": "adv"
+        },
+        {
+          "w": "冷",
+          "py": "lěng",
+          "gloss": "cold",
+          "pos": "adj"
+        },
+        {
+          "w": "不",
+          "py": "bú",
+          "gloss": "not",
+          "pos": "adv"
+        },
+        {
+          "w": "热",
+          "py": "rè",
+          "gloss": "hot",
+          "pos": "adj"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "最",
+          "py": "zuì",
+          "gloss": "most",
+          "pos": "adv"
+        },
+        {
+          "w": "适合",
+          "py": "shì hé",
+          "gloss": "to suit",
+          "pos": "verb"
+        },
+        {
+          "w": "出门",
+          "py": "chū mén",
+          "gloss": "to go out",
+          "pos": "verb"
+        },
+        {
+          "w": "和",
+          "py": "hé",
+          "gloss": "and",
+          "pos": "conn"
+        },
+        {
+          "w": "拍照",
+          "py": "pāi zhào",
+          "gloss": "to take photos",
+          "pos": "verb"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "夏天虽然比较热，但是游客最多，活动也最丰富。",
+      "en": "Summer is fairly hot, but it has the most visitors and the most going on.",
+      "tokens": [
+        {
+          "w": "夏天",
+          "py": "xià tiān",
+          "gloss": "summer",
+          "pos": "noun"
+        },
+        {
+          "w": "虽然",
+          "py": "suī rán",
+          "gloss": "although",
+          "pos": "conn"
+        },
+        {
+          "w": "比较",
+          "py": "bǐ jiào",
+          "gloss": "fairly",
+          "pos": "adv"
+        },
+        {
+          "w": "热",
+          "py": "rè",
+          "gloss": "hot",
+          "pos": "adj"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "但是",
+          "py": "dàn shì",
+          "gloss": "but",
+          "pos": "conn"
+        },
+        {
+          "w": "游客",
+          "py": "yóu kè",
+          "gloss": "tourists",
+          "pos": "noun"
+        },
+        {
+          "w": "最",
+          "py": "zuì",
+          "gloss": "most",
+          "pos": "adv"
+        },
+        {
+          "w": "多",
+          "py": "duō",
+          "gloss": "many",
+          "pos": "adj"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "活动",
+          "py": "huó dòng",
+          "gloss": "activities",
+          "pos": "noun"
+        },
+        {
+          "w": "也",
+          "py": "yě",
+          "gloss": "also",
+          "pos": "adv"
+        },
+        {
+          "w": "最",
+          "py": "zuì",
+          "gloss": "most",
+          "pos": "adv"
+        },
+        {
+          "w": "丰富",
+          "py": "fēng fù",
+          "gloss": "plentiful",
+          "pos": "adj"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "冬天游客少，适合想安安静静地感受古城的人。",
+      "en": "Winter has fewer visitors, which suits anyone who wants to experience the old city in peace and quiet.",
+      "tokens": [
+        {
+          "w": "冬天",
+          "py": "dōng tiān",
+          "gloss": "winter",
+          "pos": "noun"
+        },
+        {
+          "w": "游客",
+          "py": "yóu kè",
+          "gloss": "tourists",
+          "pos": "noun"
+        },
+        {
+          "w": "少",
+          "py": "shǎo",
+          "gloss": "few",
+          "pos": "adj"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "适合",
+          "py": "shì hé",
+          "gloss": "to suit",
+          "pos": "verb"
+        },
+        {
+          "w": "想",
+          "py": "xiǎng",
+          "gloss": "to want",
+          "pos": "verb"
+        },
+        {
+          "w": "安安静静",
+          "py": "ān ān jìng jìng",
+          "gloss": "quietly",
+          "pos": "adj"
+        },
+        {
+          "w": "地",
+          "py": "de",
+          "gloss": "(adverbial)",
+          "pos": "part"
+        },
+        {
+          "w": "感受",
+          "py": "gǎn shòu",
+          "gloss": "to experience",
+          "pos": "verb"
+        },
+        {
+          "w": "古城",
+          "py": "gǔ chéng",
+          "gloss": "ancient city",
+          "pos": "noun"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(who)",
+          "pos": "part"
+        },
+        {
+          "w": "人",
+          "py": "rén",
+          "gloss": "people",
+          "pos": "noun"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "怎么去西安？",
+      "en": "How do you get to Xi'an?",
+      "tokens": [
+        {
+          "w": "怎么",
+          "py": "zěn me",
+          "gloss": "how",
+          "pos": "pron"
+        },
+        {
+          "w": "去",
+          "py": "qù",
+          "gloss": "to go",
+          "pos": "verb"
+        },
+        {
+          "w": "西安",
+          "py": "Xī ān",
+          "gloss": "Xi'an",
+          "pos": "noun"
+        },
+        {
+          "w": "？",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "西安的交通很方便。",
+      "en": "Getting around Xi'an is easy.",
+      "tokens": [
+        {
+          "w": "西安",
+          "py": "Xī ān",
+          "gloss": "Xi'an",
+          "pos": "noun"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(possessive)",
+          "pos": "part"
+        },
+        {
+          "w": "交通",
+          "py": "jiāo tōng",
+          "gloss": "transport",
+          "pos": "noun"
+        },
+        {
+          "w": "很",
+          "py": "hěn",
+          "gloss": "very",
+          "pos": "adv"
+        },
+        {
+          "w": "方便",
+          "py": "fāng biàn",
+          "gloss": "convenient",
+          "pos": "adj"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "你可以坐飞机到西安机场，再换地铁或者机场大巴进入市区。",
+      "en": "You can fly into Xi'an airport and then take the metro or the airport coach into the city.",
+      "tokens": [
+        {
+          "w": "你",
+          "py": "nǐ",
+          "gloss": "you",
+          "pos": "pron"
+        },
+        {
+          "w": "可以",
+          "py": "kě yǐ",
+          "gloss": "can",
+          "pos": "verb"
+        },
+        {
+          "w": "坐",
+          "py": "zuò",
+          "gloss": "to take",
+          "pos": "verb"
+        },
+        {
+          "w": "飞机",
+          "py": "fēi jī",
+          "gloss": "plane",
+          "pos": "noun"
+        },
+        {
+          "w": "到",
+          "py": "dào",
+          "gloss": "to",
+          "pos": "conn"
+        },
+        {
+          "w": "西安",
+          "py": "Xī ān",
+          "gloss": "Xi'an",
+          "pos": "noun"
+        },
+        {
+          "w": "机场",
+          "py": "jī chǎng",
+          "gloss": "airport",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "再",
+          "py": "zài",
+          "gloss": "then",
+          "pos": "adv"
+        },
+        {
+          "w": "换",
+          "py": "huàn",
+          "gloss": "to change to",
+          "pos": "verb"
+        },
+        {
+          "w": "地铁",
+          "py": "dì tiě",
+          "gloss": "metro",
+          "pos": "noun"
+        },
+        {
+          "w": "或者",
+          "py": "huò zhě",
+          "gloss": "or",
+          "pos": "conn"
+        },
+        {
+          "w": "机场",
+          "py": "jī chǎng",
+          "gloss": "airport",
+          "pos": "noun"
+        },
+        {
+          "w": "大巴",
+          "py": "dà bā",
+          "gloss": "coach",
+          "pos": "noun"
+        },
+        {
+          "w": "进入",
+          "py": "jìn rù",
+          "gloss": "to enter",
+          "pos": "verb"
+        },
+        {
+          "w": "市区",
+          "py": "shì qū",
+          "gloss": "city area",
+          "pos": "noun"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "也可以坐高铁或者火车来，西安站就在市中心。",
+      "en": "You can also come by high-speed or ordinary train; Xi'an Station is right in the city centre.",
+      "tokens": [
+        {
+          "w": "也",
+          "py": "yě",
+          "gloss": "also",
+          "pos": "adv"
+        },
+        {
+          "w": "可以",
+          "py": "kě yǐ",
+          "gloss": "can",
+          "pos": "verb"
+        },
+        {
+          "w": "坐",
+          "py": "zuò",
+          "gloss": "to take",
+          "pos": "verb"
+        },
+        {
+          "w": "高铁",
+          "py": "gāo tiě",
+          "gloss": "high-speed train",
+          "pos": "noun"
+        },
+        {
+          "w": "或者",
+          "py": "huò zhě",
+          "gloss": "or",
+          "pos": "conn"
+        },
+        {
+          "w": "火车",
+          "py": "huǒ chē",
+          "gloss": "train",
+          "pos": "noun"
+        },
+        {
+          "w": "来",
+          "py": "lái",
+          "gloss": "to come",
+          "pos": "verb"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "西安站",
+          "py": "Xī ān zhàn",
+          "gloss": "Xi'an Station",
+          "pos": "noun"
+        },
+        {
+          "w": "就",
+          "py": "jiù",
+          "gloss": "right",
+          "pos": "adv"
+        },
+        {
+          "w": "在",
+          "py": "zài",
+          "gloss": "to be at",
+          "pos": "verb"
+        },
+        {
+          "w": "市中心",
+          "py": "shì zhōng xīn",
+          "gloss": "city centre",
+          "pos": "noun"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "在城里，坐地铁差不多能到大部分地方。",
+      "en": "Within the city, the metro can take you to almost all the places you'll want to see.",
+      "tokens": [
+        {
+          "w": "在",
+          "py": "zài",
+          "gloss": "in",
+          "pos": "conn"
+        },
+        {
+          "w": "城里",
+          "py": "chéng lǐ",
+          "gloss": "the city",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "坐",
+          "py": "zuò",
+          "gloss": "to take",
+          "pos": "verb"
+        },
+        {
+          "w": "地铁",
+          "py": "dì tiě",
+          "gloss": "metro",
+          "pos": "noun"
+        },
+        {
+          "w": "差不多",
+          "py": "chà bu duō",
+          "gloss": "almost",
+          "pos": "adv"
+        },
+        {
+          "w": "能",
+          "py": "néng",
+          "gloss": "can",
+          "pos": "verb"
+        },
+        {
+          "w": "到",
+          "py": "dào",
+          "gloss": "to reach",
+          "pos": "verb"
+        },
+        {
+          "w": "大部分",
+          "py": "dà bù fen",
+          "gloss": "most",
+          "pos": "quant"
+        },
+        {
+          "w": "地方",
+          "py": "dì fang",
+          "gloss": "places",
+          "pos": "noun"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "你可以在微信里打开乘车码，用手机直接上车。",
+      "en": "You can open a transit QR code in WeChat and board straight away with your phone.",
+      "tokens": [
+        {
+          "w": "你",
+          "py": "nǐ",
+          "gloss": "you",
+          "pos": "pron"
+        },
+        {
+          "w": "可以",
+          "py": "kě yǐ",
+          "gloss": "can",
+          "pos": "verb"
+        },
+        {
+          "w": "在",
+          "py": "zài",
+          "gloss": "in",
+          "pos": "conn"
+        },
+        {
+          "w": "微信",
+          "py": "Wēi xìn",
+          "gloss": "WeChat",
+          "pos": "noun"
+        },
+        {
+          "w": "里",
+          "py": "lǐ",
+          "gloss": "in",
+          "pos": "noun"
+        },
+        {
+          "w": "打开",
+          "py": "dǎ kāi",
+          "gloss": "to open",
+          "pos": "verb"
+        },
+        {
+          "w": "乘车码",
+          "py": "chéng chē mǎ",
+          "gloss": "transit QR code",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "用",
+          "py": "yòng",
+          "gloss": "to use",
+          "pos": "verb"
+        },
+        {
+          "w": "手机",
+          "py": "shǒu jī",
+          "gloss": "phone",
+          "pos": "noun"
+        },
+        {
+          "w": "直接",
+          "py": "zhí jiē",
+          "gloss": "directly",
+          "pos": "adv"
+        },
+        {
+          "w": "上车",
+          "py": "shàng chē",
+          "gloss": "to board",
+          "pos": "verb"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "不过，兵马俑离地铁站比较远，打车过去更节省时间。",
+      "en": "But the Terracotta Warriors are quite far from a metro station, so a taxi saves time.",
+      "tokens": [
+        {
+          "w": "不过",
+          "py": "bú guò",
+          "gloss": "however",
+          "pos": "conn"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "兵马俑",
+          "py": "Bīng mǎ yǒng",
+          "gloss": "Terracotta Warriors",
+          "pos": "noun"
+        },
+        {
+          "w": "离",
+          "py": "lí",
+          "gloss": "from",
+          "pos": "conn"
+        },
+        {
+          "w": "地铁站",
+          "py": "dì tiě zhàn",
+          "gloss": "metro station",
+          "pos": "noun"
+        },
+        {
+          "w": "比较",
+          "py": "bǐ jiào",
+          "gloss": "fairly",
+          "pos": "adv"
+        },
+        {
+          "w": "远",
+          "py": "yuǎn",
+          "gloss": "far",
+          "pos": "adj"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "打车",
+          "py": "dǎ chē",
+          "gloss": "to take a taxi",
+          "pos": "verb"
+        },
+        {
+          "w": "过去",
+          "py": "guò qù",
+          "gloss": "to go there",
+          "pos": "verb"
+        },
+        {
+          "w": "更",
+          "py": "gèng",
+          "gloss": "more",
+          "pos": "adv"
+        },
+        {
+          "w": "节省",
+          "py": "jié shěng",
+          "gloss": "to save",
+          "pos": "verb"
+        },
+        {
+          "w": "时间",
+          "py": "shí jiān",
+          "gloss": "time",
+          "pos": "noun"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "住在哪里最方便？",
+      "en": "Where is the most convenient place to stay?",
+      "tokens": [
+        {
+          "w": "住",
+          "py": "zhù",
+          "gloss": "to stay",
+          "pos": "verb"
+        },
+        {
+          "w": "在",
+          "py": "zài",
+          "gloss": "in",
+          "pos": "conn"
+        },
+        {
+          "w": "哪里",
+          "py": "nǎ lǐ",
+          "gloss": "where",
+          "pos": "pron"
+        },
+        {
+          "w": "最",
+          "py": "zuì",
+          "gloss": "most",
+          "pos": "adv"
+        },
+        {
+          "w": "方便",
+          "py": "fāng biàn",
+          "gloss": "convenient",
+          "pos": "adj"
+        },
+        {
+          "w": "？",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "住在钟楼、大雁塔、南门这些地铁站附近，坐车和吃饭都很方便。",
+      "en": "Stay near metro stations like Bell Tower, Big Wild Goose Pagoda or South Gate, and getting around and eating out are both easy.",
+      "tokens": [
+        {
+          "w": "住",
+          "py": "zhù",
+          "gloss": "to stay",
+          "pos": "verb"
+        },
+        {
+          "w": "在",
+          "py": "zài",
+          "gloss": "in",
+          "pos": "conn"
+        },
+        {
+          "w": "钟楼",
+          "py": "Zhōng lóu",
+          "gloss": "Bell Tower",
+          "pos": "noun"
+        },
+        {
+          "w": "、",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "大雁塔",
+          "py": "Dà yàn tǎ",
+          "gloss": "Big Wild Goose Pagoda",
+          "pos": "noun"
+        },
+        {
+          "w": "、",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "南门",
+          "py": "Nán mén",
+          "gloss": "South Gate",
+          "pos": "noun"
+        },
+        {
+          "w": "这些",
+          "py": "zhè xiē",
+          "gloss": "these",
+          "pos": "pron"
+        },
+        {
+          "w": "地铁站",
+          "py": "dì tiě zhàn",
+          "gloss": "metro stations",
+          "pos": "noun"
+        },
+        {
+          "w": "附近",
+          "py": "fù jìn",
+          "gloss": "nearby",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "坐车",
+          "py": "zuò chē",
+          "gloss": "getting around",
+          "pos": "verb"
+        },
+        {
+          "w": "和",
+          "py": "hé",
+          "gloss": "and",
+          "pos": "conn"
+        },
+        {
+          "w": "吃饭",
+          "py": "chī fàn",
+          "gloss": "eating",
+          "pos": "verb"
+        },
+        {
+          "w": "都",
+          "py": "dōu",
+          "gloss": "both",
+          "pos": "adv"
+        },
+        {
+          "w": "很",
+          "py": "hěn",
+          "gloss": "very",
+          "pos": "adv"
+        },
+        {
+          "w": "方便",
+          "py": "fāng biàn",
+          "gloss": "convenient",
+          "pos": "adj"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "你可以根据自己想花多少钱选择酒店。",
+      "en": "Choose a hotel according to how much you want to spend.",
+      "tokens": [
+        {
+          "w": "你",
+          "py": "nǐ",
+          "gloss": "you",
+          "pos": "pron"
+        },
+        {
+          "w": "可以",
+          "py": "kě yǐ",
+          "gloss": "can",
+          "pos": "verb"
+        },
+        {
+          "w": "根据",
+          "py": "gēn jù",
+          "gloss": "according to",
+          "pos": "conn"
+        },
+        {
+          "w": "自己",
+          "py": "zì jǐ",
+          "gloss": "yourself",
+          "pos": "pron"
+        },
+        {
+          "w": "想",
+          "py": "xiǎng",
+          "gloss": "to want",
+          "pos": "verb"
+        },
+        {
+          "w": "花",
+          "py": "huā",
+          "gloss": "to spend",
+          "pos": "verb"
+        },
+        {
+          "w": "多少",
+          "py": "duō shao",
+          "gloss": "how much",
+          "pos": "pron"
+        },
+        {
+          "w": "钱",
+          "py": "qián",
+          "gloss": "money",
+          "pos": "noun"
+        },
+        {
+          "w": "选择",
+          "py": "xuǎn zé",
+          "gloss": "to choose",
+          "pos": "verb"
+        },
+        {
+          "w": "酒店",
+          "py": "jiǔ diàn",
+          "gloss": "hotel",
+          "pos": "noun"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "说到西安，很多人第一个想到的就是兵马俑。",
+      "en": "When it comes to Xi'an, the first thing many people think of is the Terracotta Warriors.",
+      "tokens": [
+        {
+          "w": "说到",
+          "py": "shuō dào",
+          "gloss": "speaking of",
+          "pos": "verb"
+        },
+        {
+          "w": "西安",
+          "py": "Xī ān",
+          "gloss": "Xi'an",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "很多",
+          "py": "hěn duō",
+          "gloss": "many",
+          "pos": "adj"
+        },
+        {
+          "w": "人",
+          "py": "rén",
+          "gloss": "people",
+          "pos": "noun"
+        },
+        {
+          "w": "第一",
+          "py": "dì yī",
+          "gloss": "first",
+          "pos": "quant"
+        },
+        {
+          "w": "个",
+          "py": "gè",
+          "gloss": "(measure word)",
+          "pos": "quant"
+        },
+        {
+          "w": "想到",
+          "py": "xiǎng dào",
+          "gloss": "to think of",
+          "pos": "verb"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(the one that)",
+          "pos": "part"
+        },
+        {
+          "w": "就是",
+          "py": "jiù shì",
+          "gloss": "is exactly",
+          "pos": "verb"
+        },
+        {
+          "w": "兵马俑",
+          "py": "Bīng mǎ yǒng",
+          "gloss": "Terracotta Warriors",
+          "pos": "noun"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "它们被称为“世界第八大奇迹”。",
+      "en": "They are called \"the eighth wonder of the world\".",
+      "tokens": [
+        {
+          "w": "它们",
+          "py": "tā men",
+          "gloss": "they",
+          "pos": "pron"
+        },
+        {
+          "w": "被",
+          "py": "bèi",
+          "gloss": "(passive)",
+          "pos": "conn"
+        },
+        {
+          "w": "称为",
+          "py": "chēng wéi",
+          "gloss": "to be called",
+          "pos": "verb"
+        },
+        {
+          "w": "“",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "世界",
+          "py": "shì jiè",
+          "gloss": "world",
+          "pos": "noun"
+        },
+        {
+          "w": "第八",
+          "py": "dì bā",
+          "gloss": "eighth",
+          "pos": "quant"
+        },
+        {
+          "w": "大",
+          "py": "dà",
+          "gloss": "great",
+          "pos": "adj"
+        },
+        {
+          "w": "奇迹",
+          "py": "qí jì",
+          "gloss": "wonder",
+          "pos": "noun"
+        },
+        {
+          "w": "”。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "一九七四年，一位农民在打井的时候，偶然发现了它们。",
+      "en": "In 1974, a farmer digging a well discovered them by chance.",
+      "tokens": [
+        {
+          "w": "一九七四年",
+          "py": "yī jiǔ qī sì nián",
+          "gloss": "1974",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "一",
+          "py": "yí",
+          "gloss": "a",
+          "pos": "quant"
+        },
+        {
+          "w": "位",
+          "py": "wèi",
+          "gloss": "(polite measure word)",
+          "pos": "quant"
+        },
+        {
+          "w": "农民",
+          "py": "nóng mín",
+          "gloss": "farmer",
+          "pos": "noun"
+        },
+        {
+          "w": "在",
+          "py": "zài",
+          "gloss": "(while)",
+          "pos": "conn"
+        },
+        {
+          "w": "打井",
+          "py": "dǎ jǐng",
+          "gloss": "to dig a well",
+          "pos": "verb"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(that)",
+          "pos": "part"
+        },
+        {
+          "w": "时候",
+          "py": "shí hou",
+          "gloss": "time",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "偶然",
+          "py": "ǒu rán",
+          "gloss": "by chance",
+          "pos": "adv"
+        },
+        {
+          "w": "发现",
+          "py": "fā xiàn",
+          "gloss": "to discover",
+          "pos": "verb"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(completed)",
+          "pos": "part"
+        },
+        {
+          "w": "它们",
+          "py": "tā men",
+          "gloss": "them",
+          "pos": "pron"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "后来，考古学家又找到了三个很大的坑，里面有上万个和真人一样大的士兵和马。",
+      "en": "Later, archaeologists found three huge pits holding tens of thousands of life-size soldiers and horses.",
+      "tokens": [
+        {
+          "w": "后来",
+          "py": "hòu lái",
+          "gloss": "later",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "考古学家",
+          "py": "kǎo gǔ xué jiā",
+          "gloss": "archaeologists",
+          "pos": "noun"
+        },
+        {
+          "w": "又",
+          "py": "yòu",
+          "gloss": "then also",
+          "pos": "adv"
+        },
+        {
+          "w": "找到",
+          "py": "zhǎo dào",
+          "gloss": "to find",
+          "pos": "verb"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(completed)",
+          "pos": "part"
+        },
+        {
+          "w": "三",
+          "py": "sān",
+          "gloss": "three",
+          "pos": "quant"
+        },
+        {
+          "w": "个",
+          "py": "gè",
+          "gloss": "(measure word)",
+          "pos": "quant"
+        },
+        {
+          "w": "很",
+          "py": "hěn",
+          "gloss": "very",
+          "pos": "adv"
+        },
+        {
+          "w": "大",
+          "py": "dà",
+          "gloss": "big",
+          "pos": "adj"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(that)",
+          "pos": "part"
+        },
+        {
+          "w": "坑",
+          "py": "kēng",
+          "gloss": "pits",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "里面",
+          "py": "lǐ miàn",
+          "gloss": "inside",
+          "pos": "noun"
+        },
+        {
+          "w": "有",
+          "py": "yǒu",
+          "gloss": "there are",
+          "pos": "verb"
+        },
+        {
+          "w": "上万",
+          "py": "shàng wàn",
+          "gloss": "tens of thousands",
+          "pos": "quant"
+        },
+        {
+          "w": "个",
+          "py": "gè",
+          "gloss": "(measure word)",
+          "pos": "quant"
+        },
+        {
+          "w": "和",
+          "py": "hé",
+          "gloss": "as",
+          "pos": "conn"
+        },
+        {
+          "w": "真人",
+          "py": "zhēn rén",
+          "gloss": "real people",
+          "pos": "noun"
+        },
+        {
+          "w": "一样",
+          "py": "yí yàng",
+          "gloss": "same",
+          "pos": "adj"
+        },
+        {
+          "w": "大",
+          "py": "dà",
+          "gloss": "big",
+          "pos": "adj"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(that)",
+          "pos": "part"
+        },
+        {
+          "w": "士兵",
+          "py": "shì bīng",
+          "gloss": "soldiers",
+          "pos": "noun"
+        },
+        {
+          "w": "和",
+          "py": "hé",
+          "gloss": "and",
+          "pos": "conn"
+        },
+        {
+          "w": "马",
+          "py": "mǎ",
+          "gloss": "horses",
+          "pos": "noun"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "而且每个士兵脸上的表情都不一样，让人印象非常深刻。",
+      "en": "And every soldier's face has a different expression — it makes a very deep impression.",
+      "tokens": [
+        {
+          "w": "而且",
+          "py": "ér qiě",
+          "gloss": "moreover",
+          "pos": "conn"
+        },
+        {
+          "w": "每",
+          "py": "měi",
+          "gloss": "every",
+          "pos": "pron"
+        },
+        {
+          "w": "个",
+          "py": "gè",
+          "gloss": "(measure word)",
+          "pos": "quant"
+        },
+        {
+          "w": "士兵",
+          "py": "shì bīng",
+          "gloss": "soldier",
+          "pos": "noun"
+        },
+        {
+          "w": "脸",
+          "py": "liǎn",
+          "gloss": "face",
+          "pos": "noun"
+        },
+        {
+          "w": "上",
+          "py": "shang",
+          "gloss": "on",
+          "pos": "noun"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(possessive)",
+          "pos": "part"
+        },
+        {
+          "w": "表情",
+          "py": "biǎo qíng",
+          "gloss": "expression",
+          "pos": "noun"
+        },
+        {
+          "w": "都",
+          "py": "dōu",
+          "gloss": "all",
+          "pos": "adv"
+        },
+        {
+          "w": "不",
+          "py": "bù",
+          "gloss": "not",
+          "pos": "adv"
+        },
+        {
+          "w": "一样",
+          "py": "yí yàng",
+          "gloss": "same",
+          "pos": "adj"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "让",
+          "py": "ràng",
+          "gloss": "to make",
+          "pos": "verb"
+        },
+        {
+          "w": "人",
+          "py": "rén",
+          "gloss": "people",
+          "pos": "noun"
+        },
+        {
+          "w": "印象",
+          "py": "yìn xiàng",
+          "gloss": "impression",
+          "pos": "noun"
+        },
+        {
+          "w": "非常",
+          "py": "fēi cháng",
+          "gloss": "very",
+          "pos": "adv"
+        },
+        {
+          "w": "深刻",
+          "py": "shēn kè",
+          "gloss": "deep",
+          "pos": "adj"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "如果你去参观，最好提前在网上订票，再请一位导游，否则很难理解它们背后的故事。",
+      "en": "If you visit, book tickets online in advance and hire a guide — otherwise the stories behind them are hard to understand.",
+      "tokens": [
+        {
+          "w": "如果",
+          "py": "rú guǒ",
+          "gloss": "if",
+          "pos": "conn"
+        },
+        {
+          "w": "你",
+          "py": "nǐ",
+          "gloss": "you",
+          "pos": "pron"
+        },
+        {
+          "w": "去",
+          "py": "qù",
+          "gloss": "to go",
+          "pos": "verb"
+        },
+        {
+          "w": "参观",
+          "py": "cān guān",
+          "gloss": "to visit",
+          "pos": "verb"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "最好",
+          "py": "zuì hǎo",
+          "gloss": "had better",
+          "pos": "adv"
+        },
+        {
+          "w": "提前",
+          "py": "tí qián",
+          "gloss": "in advance",
+          "pos": "adv"
+        },
+        {
+          "w": "在",
+          "py": "zài",
+          "gloss": "on",
+          "pos": "conn"
+        },
+        {
+          "w": "网上",
+          "py": "wǎng shàng",
+          "gloss": "online",
+          "pos": "noun"
+        },
+        {
+          "w": "订",
+          "py": "dìng",
+          "gloss": "to book",
+          "pos": "verb"
+        },
+        {
+          "w": "票",
+          "py": "piào",
+          "gloss": "tickets",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "再",
+          "py": "zài",
+          "gloss": "and also",
+          "pos": "adv"
+        },
+        {
+          "w": "请",
+          "py": "qǐng",
+          "gloss": "to hire",
+          "pos": "verb"
+        },
+        {
+          "w": "一",
+          "py": "yí",
+          "gloss": "a",
+          "pos": "quant"
+        },
+        {
+          "w": "位",
+          "py": "wèi",
+          "gloss": "(polite measure word)",
+          "pos": "quant"
+        },
+        {
+          "w": "导游",
+          "py": "dǎo yóu",
+          "gloss": "guide",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "否则",
+          "py": "fǒu zé",
+          "gloss": "otherwise",
+          "pos": "conn"
+        },
+        {
+          "w": "很",
+          "py": "hěn",
+          "gloss": "very",
+          "pos": "adv"
+        },
+        {
+          "w": "难",
+          "py": "nán",
+          "gloss": "hard",
+          "pos": "adj"
+        },
+        {
+          "w": "理解",
+          "py": "lǐ jiě",
+          "gloss": "to understand",
+          "pos": "verb"
+        },
+        {
+          "w": "它们",
+          "py": "tā men",
+          "gloss": "their",
+          "pos": "pron"
+        },
+        {
+          "w": "背后",
+          "py": "bèi hòu",
+          "gloss": "behind",
+          "pos": "noun"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(possessive)",
+          "pos": "part"
+        },
+        {
+          "w": "故事",
+          "py": "gù shi",
+          "gloss": "stories",
+          "pos": "noun"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "西安城墙也是一个必去的地方。",
+      "en": "Xi'an's city wall is also a must-see.",
+      "tokens": [
+        {
+          "w": "西安",
+          "py": "Xī ān",
+          "gloss": "Xi'an",
+          "pos": "noun"
+        },
+        {
+          "w": "城墙",
+          "py": "chéng qiáng",
+          "gloss": "city wall",
+          "pos": "noun"
+        },
+        {
+          "w": "也",
+          "py": "yě",
+          "gloss": "also",
+          "pos": "adv"
+        },
+        {
+          "w": "是",
+          "py": "shì",
+          "gloss": "is",
+          "pos": "verb"
+        },
+        {
+          "w": "一",
+          "py": "yí",
+          "gloss": "one",
+          "pos": "quant"
+        },
+        {
+          "w": "个",
+          "py": "gè",
+          "gloss": "(measure word)",
+          "pos": "quant"
+        },
+        {
+          "w": "必",
+          "py": "bì",
+          "gloss": "must",
+          "pos": "adv"
+        },
+        {
+          "w": "去",
+          "py": "qù",
+          "gloss": "to go",
+          "pos": "verb"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(that)",
+          "pos": "part"
+        },
+        {
+          "w": "地方",
+          "py": "dì fang",
+          "gloss": "place",
+          "pos": "noun"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "这座城墙是明朝，也就是十四世纪，建成的。",
+      "en": "The wall was built in the Ming dynasty, in other words the fourteenth century.",
+      "tokens": [
+        {
+          "w": "这",
+          "py": "zhè",
+          "gloss": "this",
+          "pos": "pron"
+        },
+        {
+          "w": "座",
+          "py": "zuò",
+          "gloss": "(measure word)",
+          "pos": "quant"
+        },
+        {
+          "w": "城墙",
+          "py": "chéng qiáng",
+          "gloss": "city wall",
+          "pos": "noun"
+        },
+        {
+          "w": "是",
+          "py": "shì",
+          "gloss": "(emphasis)",
+          "pos": "verb"
+        },
+        {
+          "w": "明朝",
+          "py": "Míng cháo",
+          "gloss": "Ming dynasty",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "也就是",
+          "py": "yě jiù shì",
+          "gloss": "that is",
+          "pos": "conn"
+        },
+        {
+          "w": "十四",
+          "py": "shí sì",
+          "gloss": "fourteen",
+          "pos": "quant"
+        },
+        {
+          "w": "世纪",
+          "py": "shì jì",
+          "gloss": "century",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "建成",
+          "py": "jiàn chéng",
+          "gloss": "to be built",
+          "pos": "verb"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(emphasis)",
+          "pos": "part"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "它是中国现在规模最大、保存得最完整的古代城墙。",
+      "en": "It is the largest and most completely preserved ancient city wall in China today.",
+      "tokens": [
+        {
+          "w": "它",
+          "py": "tā",
+          "gloss": "it",
+          "pos": "pron"
+        },
+        {
+          "w": "是",
+          "py": "shì",
+          "gloss": "is",
+          "pos": "verb"
+        },
+        {
+          "w": "中国",
+          "py": "Zhōng guó",
+          "gloss": "China",
+          "pos": "noun"
+        },
+        {
+          "w": "现在",
+          "py": "xiàn zài",
+          "gloss": "today",
+          "pos": "noun"
+        },
+        {
+          "w": "规模",
+          "py": "guī mó",
+          "gloss": "scale",
+          "pos": "noun"
+        },
+        {
+          "w": "最",
+          "py": "zuì",
+          "gloss": "most",
+          "pos": "adv"
+        },
+        {
+          "w": "大",
+          "py": "dà",
+          "gloss": "big",
+          "pos": "adj"
+        },
+        {
+          "w": "、",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "保存",
+          "py": "bǎo cún",
+          "gloss": "to preserve",
+          "pos": "verb"
+        },
+        {
+          "w": "得",
+          "py": "de",
+          "gloss": "(complement)",
+          "pos": "part"
+        },
+        {
+          "w": "最",
+          "py": "zuì",
+          "gloss": "most",
+          "pos": "adv"
+        },
+        {
+          "w": "完整",
+          "py": "wán zhěng",
+          "gloss": "complete",
+          "pos": "adj"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(that)",
+          "pos": "part"
+        },
+        {
+          "w": "古代",
+          "py": "gǔ dài",
+          "gloss": "ancient",
+          "pos": "noun"
+        },
+        {
+          "w": "城墙",
+          "py": "chéng qiáng",
+          "gloss": "city wall",
+          "pos": "noun"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "你可以登上去散步，租一辆自行车骑一圈，或者坐小车参观。",
+      "en": "You can climb up and walk along it, rent a bike and ride a lap, or take a small cart around.",
+      "tokens": [
+        {
+          "w": "你",
+          "py": "nǐ",
+          "gloss": "you",
+          "pos": "pron"
+        },
+        {
+          "w": "可以",
+          "py": "kě yǐ",
+          "gloss": "can",
+          "pos": "verb"
+        },
+        {
+          "w": "登",
+          "py": "dēng",
+          "gloss": "to climb",
+          "pos": "verb"
+        },
+        {
+          "w": "上去",
+          "py": "shàng qù",
+          "gloss": "up",
+          "pos": "verb"
+        },
+        {
+          "w": "散步",
+          "py": "sàn bù",
+          "gloss": "to take a walk",
+          "pos": "verb"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "租",
+          "py": "zū",
+          "gloss": "to rent",
+          "pos": "verb"
+        },
+        {
+          "w": "一",
+          "py": "yí",
+          "gloss": "a",
+          "pos": "quant"
+        },
+        {
+          "w": "辆",
+          "py": "liàng",
+          "gloss": "(measure word)",
+          "pos": "quant"
+        },
+        {
+          "w": "自行车",
+          "py": "zì xíng chē",
+          "gloss": "bike",
+          "pos": "noun"
+        },
+        {
+          "w": "骑",
+          "py": "qí",
+          "gloss": "to ride",
+          "pos": "verb"
+        },
+        {
+          "w": "一",
+          "py": "yì",
+          "gloss": "one",
+          "pos": "quant"
+        },
+        {
+          "w": "圈",
+          "py": "quān",
+          "gloss": "lap",
+          "pos": "quant"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "或者",
+          "py": "huò zhě",
+          "gloss": "or",
+          "pos": "conn"
+        },
+        {
+          "w": "坐",
+          "py": "zuò",
+          "gloss": "to take",
+          "pos": "verb"
+        },
+        {
+          "w": "小车",
+          "py": "xiǎo chē",
+          "gloss": "small cart",
+          "pos": "noun"
+        },
+        {
+          "w": "参观",
+          "py": "cān guān",
+          "gloss": "to look around",
+          "pos": "verb"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "从上面往下看，古城里外的风景都能看得很清楚。",
+      "en": "Looking down from the top, you can see the old city inside and outside the wall clearly.",
+      "tokens": [
+        {
+          "w": "从",
+          "py": "cóng",
+          "gloss": "from",
+          "pos": "conn"
+        },
+        {
+          "w": "上面",
+          "py": "shàng miàn",
+          "gloss": "up top",
+          "pos": "noun"
+        },
+        {
+          "w": "往",
+          "py": "wǎng",
+          "gloss": "towards",
+          "pos": "conn"
+        },
+        {
+          "w": "下",
+          "py": "xià",
+          "gloss": "down",
+          "pos": "noun"
+        },
+        {
+          "w": "看",
+          "py": "kàn",
+          "gloss": "to look",
+          "pos": "verb"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "古城",
+          "py": "gǔ chéng",
+          "gloss": "old city",
+          "pos": "noun"
+        },
+        {
+          "w": "里外",
+          "py": "lǐ wài",
+          "gloss": "inside and outside",
+          "pos": "noun"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(possessive)",
+          "pos": "part"
+        },
+        {
+          "w": "风景",
+          "py": "fēng jǐng",
+          "gloss": "scenery",
+          "pos": "noun"
+        },
+        {
+          "w": "都",
+          "py": "dōu",
+          "gloss": "all",
+          "pos": "adv"
+        },
+        {
+          "w": "能",
+          "py": "néng",
+          "gloss": "can",
+          "pos": "verb"
+        },
+        {
+          "w": "看",
+          "py": "kàn",
+          "gloss": "to see",
+          "pos": "verb"
+        },
+        {
+          "w": "得",
+          "py": "de",
+          "gloss": "(complement)",
+          "pos": "part"
+        },
+        {
+          "w": "很",
+          "py": "hěn",
+          "gloss": "very",
+          "pos": "adv"
+        },
+        {
+          "w": "清楚",
+          "py": "qīng chu",
+          "gloss": "clearly",
+          "pos": "adj"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "白天和晚上，这里完全不一样，建议两个时间都去看看。",
+      "en": "By day and by night it looks completely different, so it's worth going at both times.",
+      "tokens": [
+        {
+          "w": "白天",
+          "py": "bái tiān",
+          "gloss": "daytime",
+          "pos": "noun"
+        },
+        {
+          "w": "和",
+          "py": "hé",
+          "gloss": "and",
+          "pos": "conn"
+        },
+        {
+          "w": "晚上",
+          "py": "wǎn shang",
+          "gloss": "evening",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "这里",
+          "py": "zhè lǐ",
+          "gloss": "here",
+          "pos": "pron"
+        },
+        {
+          "w": "完全",
+          "py": "wán quán",
+          "gloss": "completely",
+          "pos": "adv"
+        },
+        {
+          "w": "不",
+          "py": "bù",
+          "gloss": "not",
+          "pos": "adv"
+        },
+        {
+          "w": "一样",
+          "py": "yí yàng",
+          "gloss": "same",
+          "pos": "adj"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "建议",
+          "py": "jiàn yì",
+          "gloss": "to suggest",
+          "pos": "verb"
+        },
+        {
+          "w": "两",
+          "py": "liǎng",
+          "gloss": "two",
+          "pos": "quant"
+        },
+        {
+          "w": "个",
+          "py": "gè",
+          "gloss": "(measure word)",
+          "pos": "quant"
+        },
+        {
+          "w": "时间",
+          "py": "shí jiān",
+          "gloss": "times",
+          "pos": "noun"
+        },
+        {
+          "w": "都",
+          "py": "dōu",
+          "gloss": "both",
+          "pos": "adv"
+        },
+        {
+          "w": "去",
+          "py": "qù",
+          "gloss": "to go",
+          "pos": "verb"
+        },
+        {
+          "w": "看看",
+          "py": "kàn kan",
+          "gloss": "to have a look",
+          "pos": "verb"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "大雁塔是西安的文化标志之一。",
+      "en": "The Big Wild Goose Pagoda is one of Xi'an's cultural landmarks.",
+      "tokens": [
+        {
+          "w": "大雁塔",
+          "py": "Dà yàn tǎ",
+          "gloss": "Big Wild Goose Pagoda",
+          "pos": "noun"
+        },
+        {
+          "w": "是",
+          "py": "shì",
+          "gloss": "is",
+          "pos": "verb"
+        },
+        {
+          "w": "西安",
+          "py": "Xī ān",
+          "gloss": "Xi'an",
+          "pos": "noun"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(possessive)",
+          "pos": "part"
+        },
+        {
+          "w": "文化",
+          "py": "wén huà",
+          "gloss": "cultural",
+          "pos": "noun"
+        },
+        {
+          "w": "标志",
+          "py": "biāo zhì",
+          "gloss": "landmark",
+          "pos": "noun"
+        },
+        {
+          "w": "之一",
+          "py": "zhī yī",
+          "gloss": "one of",
+          "pos": "noun"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "它是公元六五二年建成的，那时候还是唐朝。",
+      "en": "It was built in AD 652, during the Tang dynasty.",
+      "tokens": [
+        {
+          "w": "它",
+          "py": "tā",
+          "gloss": "it",
+          "pos": "pron"
+        },
+        {
+          "w": "是",
+          "py": "shì",
+          "gloss": "(emphasis)",
+          "pos": "verb"
+        },
+        {
+          "w": "公元",
+          "py": "gōng yuán",
+          "gloss": "AD",
+          "pos": "noun"
+        },
+        {
+          "w": "六五二年",
+          "py": "liù wǔ èr nián",
+          "gloss": "652",
+          "pos": "noun"
+        },
+        {
+          "w": "建成",
+          "py": "jiàn chéng",
+          "gloss": "to be built",
+          "pos": "verb"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(emphasis)",
+          "pos": "part"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "那",
+          "py": "nà",
+          "gloss": "that",
+          "pos": "pron"
+        },
+        {
+          "w": "时候",
+          "py": "shí hou",
+          "gloss": "time",
+          "pos": "noun"
+        },
+        {
+          "w": "还是",
+          "py": "hái shi",
+          "gloss": "still",
+          "pos": "adv"
+        },
+        {
+          "w": "唐朝",
+          "py": "Táng cháo",
+          "gloss": "Tang dynasty",
+          "pos": "noun"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "玄奘从印度带回来的书，以前就放在这里。",
+      "en": "The scriptures that Xuanzang brought back from India were once kept here.",
+      "tokens": [
+        {
+          "w": "玄奘",
+          "py": "Xuán zàng",
+          "gloss": "Xuanzang (a famous monk)",
+          "pos": "noun"
+        },
+        {
+          "w": "从",
+          "py": "cóng",
+          "gloss": "from",
+          "pos": "conn"
+        },
+        {
+          "w": "印度",
+          "py": "Yìn dù",
+          "gloss": "India",
+          "pos": "noun"
+        },
+        {
+          "w": "带",
+          "py": "dài",
+          "gloss": "to bring",
+          "pos": "verb"
+        },
+        {
+          "w": "回来",
+          "py": "huí lái",
+          "gloss": "back",
+          "pos": "verb"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(that)",
+          "pos": "part"
+        },
+        {
+          "w": "书",
+          "py": "shū",
+          "gloss": "scriptures",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "以前",
+          "py": "yǐ qián",
+          "gloss": "in the past",
+          "pos": "noun"
+        },
+        {
+          "w": "就",
+          "py": "jiù",
+          "gloss": "(emphasis)",
+          "pos": "adv"
+        },
+        {
+          "w": "放",
+          "py": "fàng",
+          "gloss": "to be kept",
+          "pos": "verb"
+        },
+        {
+          "w": "在",
+          "py": "zài",
+          "gloss": "at",
+          "pos": "conn"
+        },
+        {
+          "w": "这里",
+          "py": "zhè lǐ",
+          "gloss": "here",
+          "pos": "pron"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "它前面的广场很大，晚上有音乐喷泉表演，非常漂亮。",
+      "en": "The square in front of it is huge, and in the evening there's a musical fountain show — it's beautiful.",
+      "tokens": [
+        {
+          "w": "它",
+          "py": "tā",
+          "gloss": "it",
+          "pos": "pron"
+        },
+        {
+          "w": "前面",
+          "py": "qián miàn",
+          "gloss": "in front",
+          "pos": "noun"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(possessive)",
+          "pos": "part"
+        },
+        {
+          "w": "广场",
+          "py": "guǎng chǎng",
+          "gloss": "square",
+          "pos": "noun"
+        },
+        {
+          "w": "很",
+          "py": "hěn",
+          "gloss": "very",
+          "pos": "adv"
+        },
+        {
+          "w": "大",
+          "py": "dà",
+          "gloss": "big",
+          "pos": "adj"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "晚上",
+          "py": "wǎn shang",
+          "gloss": "evening",
+          "pos": "noun"
+        },
+        {
+          "w": "有",
+          "py": "yǒu",
+          "gloss": "there is",
+          "pos": "verb"
+        },
+        {
+          "w": "音乐",
+          "py": "yīn yuè",
+          "gloss": "music",
+          "pos": "noun"
+        },
+        {
+          "w": "喷泉",
+          "py": "pēn quán",
+          "gloss": "fountain",
+          "pos": "noun"
+        },
+        {
+          "w": "表演",
+          "py": "biǎo yǎn",
+          "gloss": "show",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "非常",
+          "py": "fēi cháng",
+          "gloss": "very",
+          "pos": "adv"
+        },
+        {
+          "w": "漂亮",
+          "py": "piào liang",
+          "gloss": "beautiful",
+          "pos": "adj"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "离它不远还有小雁塔，游客更少，也更安静，适合慢慢散步。",
+      "en": "Not far away is the Small Wild Goose Pagoda: fewer visitors, quieter, good for a slow stroll.",
+      "tokens": [
+        {
+          "w": "离",
+          "py": "lí",
+          "gloss": "from",
+          "pos": "conn"
+        },
+        {
+          "w": "它",
+          "py": "tā",
+          "gloss": "it",
+          "pos": "pron"
+        },
+        {
+          "w": "不",
+          "py": "bù",
+          "gloss": "not",
+          "pos": "adv"
+        },
+        {
+          "w": "远",
+          "py": "yuǎn",
+          "gloss": "far",
+          "pos": "adj"
+        },
+        {
+          "w": "还有",
+          "py": "hái yǒu",
+          "gloss": "there is also",
+          "pos": "verb"
+        },
+        {
+          "w": "小雁塔",
+          "py": "Xiǎo yàn tǎ",
+          "gloss": "Small Wild Goose Pagoda",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "游客",
+          "py": "yóu kè",
+          "gloss": "tourists",
+          "pos": "noun"
+        },
+        {
+          "w": "更",
+          "py": "gèng",
+          "gloss": "more",
+          "pos": "adv"
+        },
+        {
+          "w": "少",
+          "py": "shǎo",
+          "gloss": "few",
+          "pos": "adj"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "也",
+          "py": "yě",
+          "gloss": "also",
+          "pos": "adv"
+        },
+        {
+          "w": "更",
+          "py": "gèng",
+          "gloss": "more",
+          "pos": "adv"
+        },
+        {
+          "w": "安静",
+          "py": "ān jìng",
+          "gloss": "quiet",
+          "pos": "adj"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "适合",
+          "py": "shì hé",
+          "gloss": "good for",
+          "pos": "verb"
+        },
+        {
+          "w": "慢慢",
+          "py": "màn màn",
+          "gloss": "slowly",
+          "pos": "adv"
+        },
+        {
+          "w": "散步",
+          "py": "sàn bù",
+          "gloss": "to stroll",
+          "pos": "verb"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "钟楼和鼓楼是两座明朝的建筑，位于西安的正中心。",
+      "en": "The Bell Tower and Drum Tower are two Ming dynasty buildings in the very centre of Xi'an.",
+      "tokens": [
+        {
+          "w": "钟楼",
+          "py": "Zhōng lóu",
+          "gloss": "Bell Tower",
+          "pos": "noun"
+        },
+        {
+          "w": "和",
+          "py": "hé",
+          "gloss": "and",
+          "pos": "conn"
+        },
+        {
+          "w": "鼓楼",
+          "py": "Gǔ lóu",
+          "gloss": "Drum Tower",
+          "pos": "noun"
+        },
+        {
+          "w": "是",
+          "py": "shì",
+          "gloss": "are",
+          "pos": "verb"
+        },
+        {
+          "w": "两",
+          "py": "liǎng",
+          "gloss": "two",
+          "pos": "quant"
+        },
+        {
+          "w": "座",
+          "py": "zuò",
+          "gloss": "(measure word)",
+          "pos": "quant"
+        },
+        {
+          "w": "明朝",
+          "py": "Míng cháo",
+          "gloss": "Ming dynasty",
+          "pos": "noun"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(possessive)",
+          "pos": "part"
+        },
+        {
+          "w": "建筑",
+          "py": "jiàn zhù",
+          "gloss": "buildings",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "位于",
+          "py": "wèi yú",
+          "gloss": "to be located",
+          "pos": "verb"
+        },
+        {
+          "w": "西安",
+          "py": "Xī ān",
+          "gloss": "Xi'an",
+          "pos": "noun"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(possessive)",
+          "pos": "part"
+        },
+        {
+          "w": "正",
+          "py": "zhèng",
+          "gloss": "right",
+          "pos": "adv"
+        },
+        {
+          "w": "中心",
+          "py": "zhōng xīn",
+          "gloss": "centre",
+          "pos": "noun"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "以前，人们早上敲钟、晚上打鼓，告诉大家时间；现在，它们成了西安最有名的建筑。",
+      "en": "People once struck the bell in the morning and beat the drum in the evening to tell everyone the time; now they are Xi'an's most famous buildings.",
+      "tokens": [
+        {
+          "w": "以前",
+          "py": "yǐ qián",
+          "gloss": "in the past",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "人们",
+          "py": "rén men",
+          "gloss": "people",
+          "pos": "noun"
+        },
+        {
+          "w": "早上",
+          "py": "zǎo shang",
+          "gloss": "morning",
+          "pos": "noun"
+        },
+        {
+          "w": "敲",
+          "py": "qiāo",
+          "gloss": "to strike",
+          "pos": "verb"
+        },
+        {
+          "w": "钟",
+          "py": "zhōng",
+          "gloss": "bell",
+          "pos": "noun"
+        },
+        {
+          "w": "、",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "晚上",
+          "py": "wǎn shang",
+          "gloss": "evening",
+          "pos": "noun"
+        },
+        {
+          "w": "打",
+          "py": "dǎ",
+          "gloss": "to beat",
+          "pos": "verb"
+        },
+        {
+          "w": "鼓",
+          "py": "gǔ",
+          "gloss": "drum",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "告诉",
+          "py": "gào su",
+          "gloss": "to tell",
+          "pos": "verb"
+        },
+        {
+          "w": "大家",
+          "py": "dà jiā",
+          "gloss": "everyone",
+          "pos": "pron"
+        },
+        {
+          "w": "时间",
+          "py": "shí jiān",
+          "gloss": "the time",
+          "pos": "noun"
+        },
+        {
+          "w": "；",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "现在",
+          "py": "xiàn zài",
+          "gloss": "now",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "它们",
+          "py": "tā men",
+          "gloss": "they",
+          "pos": "pron"
+        },
+        {
+          "w": "成",
+          "py": "chéng",
+          "gloss": "to become",
+          "pos": "verb"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(change)",
+          "pos": "part"
+        },
+        {
+          "w": "西安",
+          "py": "Xī ān",
+          "gloss": "Xi'an",
+          "pos": "noun"
+        },
+        {
+          "w": "最",
+          "py": "zuì",
+          "gloss": "most",
+          "pos": "adv"
+        },
+        {
+          "w": "有名",
+          "py": "yǒu míng",
+          "gloss": "famous",
+          "pos": "adj"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(that)",
+          "pos": "part"
+        },
+        {
+          "w": "建筑",
+          "py": "jiàn zhù",
+          "gloss": "buildings",
+          "pos": "noun"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "天快黑的时候去最好，你可以一次看到白天、日落和亮灯以后三种景色。",
+      "en": "Dusk is the best time to go: in one visit you'll see three different views — daylight, sunset and the lights coming on.",
+      "tokens": [
+        {
+          "w": "天",
+          "py": "tiān",
+          "gloss": "sky",
+          "pos": "noun"
+        },
+        {
+          "w": "快",
+          "py": "kuài",
+          "gloss": "about to",
+          "pos": "adv"
+        },
+        {
+          "w": "黑",
+          "py": "hēi",
+          "gloss": "dark",
+          "pos": "adj"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(that)",
+          "pos": "part"
+        },
+        {
+          "w": "时候",
+          "py": "shí hou",
+          "gloss": "time",
+          "pos": "noun"
+        },
+        {
+          "w": "去",
+          "py": "qù",
+          "gloss": "to go",
+          "pos": "verb"
+        },
+        {
+          "w": "最",
+          "py": "zuì",
+          "gloss": "most",
+          "pos": "adv"
+        },
+        {
+          "w": "好",
+          "py": "hǎo",
+          "gloss": "good",
+          "pos": "adj"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "你",
+          "py": "nǐ",
+          "gloss": "you",
+          "pos": "pron"
+        },
+        {
+          "w": "可以",
+          "py": "kě yǐ",
+          "gloss": "can",
+          "pos": "verb"
+        },
+        {
+          "w": "一",
+          "py": "yí",
+          "gloss": "one",
+          "pos": "quant"
+        },
+        {
+          "w": "次",
+          "py": "cì",
+          "gloss": "time",
+          "pos": "quant"
+        },
+        {
+          "w": "看到",
+          "py": "kàn dào",
+          "gloss": "to see",
+          "pos": "verb"
+        },
+        {
+          "w": "白天",
+          "py": "bái tiān",
+          "gloss": "daytime",
+          "pos": "noun"
+        },
+        {
+          "w": "、",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "日落",
+          "py": "rì luò",
+          "gloss": "sunset",
+          "pos": "noun"
+        },
+        {
+          "w": "和",
+          "py": "hé",
+          "gloss": "and",
+          "pos": "conn"
+        },
+        {
+          "w": "亮灯",
+          "py": "liàng dēng",
+          "gloss": "the lights coming on",
+          "pos": "verb"
+        },
+        {
+          "w": "以后",
+          "py": "yǐ hòu",
+          "gloss": "after",
+          "pos": "noun"
+        },
+        {
+          "w": "三",
+          "py": "sān",
+          "gloss": "three",
+          "pos": "quant"
+        },
+        {
+          "w": "种",
+          "py": "zhǒng",
+          "gloss": "kinds",
+          "pos": "quant"
+        },
+        {
+          "w": "景色",
+          "py": "jǐng sè",
+          "gloss": "views",
+          "pos": "noun"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "钟楼、鼓楼和回民街都离得很近，可以安排在一起。",
+      "en": "The Bell Tower, Drum Tower and Muslim Quarter street are all close together, so you can see them in one trip.",
+      "tokens": [
+        {
+          "w": "钟楼",
+          "py": "Zhōng lóu",
+          "gloss": "Bell Tower",
+          "pos": "noun"
+        },
+        {
+          "w": "、",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "鼓楼",
+          "py": "Gǔ lóu",
+          "gloss": "Drum Tower",
+          "pos": "noun"
+        },
+        {
+          "w": "和",
+          "py": "hé",
+          "gloss": "and",
+          "pos": "conn"
+        },
+        {
+          "w": "回民街",
+          "py": "Huí mín jiē",
+          "gloss": "Muslim Quarter street",
+          "pos": "noun"
+        },
+        {
+          "w": "都",
+          "py": "dōu",
+          "gloss": "all",
+          "pos": "adv"
+        },
+        {
+          "w": "离",
+          "py": "lí",
+          "gloss": "to be apart",
+          "pos": "verb"
+        },
+        {
+          "w": "得",
+          "py": "de",
+          "gloss": "(complement)",
+          "pos": "part"
+        },
+        {
+          "w": "很",
+          "py": "hěn",
+          "gloss": "very",
+          "pos": "adv"
+        },
+        {
+          "w": "近",
+          "py": "jìn",
+          "gloss": "close",
+          "pos": "adj"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "可以",
+          "py": "kě yǐ",
+          "gloss": "can",
+          "pos": "verb"
+        },
+        {
+          "w": "安排",
+          "py": "ān pái",
+          "gloss": "to arrange",
+          "pos": "verb"
+        },
+        {
+          "w": "在",
+          "py": "zài",
+          "gloss": "(at)",
+          "pos": "conn"
+        },
+        {
+          "w": "一起",
+          "py": "yì qǐ",
+          "gloss": "together",
+          "pos": "adv"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "回民街是西安最有名的小吃街，这里有很多小吃店。",
+      "en": "The Muslim Quarter street is Xi'an's most famous snack street, full of snack shops.",
+      "tokens": [
+        {
+          "w": "回民街",
+          "py": "Huí mín jiē",
+          "gloss": "Muslim Quarter street",
+          "pos": "noun"
+        },
+        {
+          "w": "是",
+          "py": "shì",
+          "gloss": "is",
+          "pos": "verb"
+        },
+        {
+          "w": "西安",
+          "py": "Xī ān",
+          "gloss": "Xi'an",
+          "pos": "noun"
+        },
+        {
+          "w": "最",
+          "py": "zuì",
+          "gloss": "most",
+          "pos": "adv"
+        },
+        {
+          "w": "有名",
+          "py": "yǒu míng",
+          "gloss": "famous",
+          "pos": "adj"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(that)",
+          "pos": "part"
+        },
+        {
+          "w": "小吃",
+          "py": "xiǎo chī",
+          "gloss": "snack",
+          "pos": "noun"
+        },
+        {
+          "w": "街",
+          "py": "jiē",
+          "gloss": "street",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "这里",
+          "py": "zhè lǐ",
+          "gloss": "here",
+          "pos": "pron"
+        },
+        {
+          "w": "有",
+          "py": "yǒu",
+          "gloss": "there are",
+          "pos": "verb"
+        },
+        {
+          "w": "很多",
+          "py": "hěn duō",
+          "gloss": "many",
+          "pos": "adj"
+        },
+        {
+          "w": "小吃",
+          "py": "xiǎo chī",
+          "gloss": "snack",
+          "pos": "noun"
+        },
+        {
+          "w": "店",
+          "py": "diàn",
+          "gloss": "shops",
+          "pos": "noun"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "肉夹馍、凉皮……每一种都值得你尝一尝。",
+      "en": "Roujiamo, liangpi… every kind is worth a taste.",
+      "tokens": [
+        {
+          "w": "肉夹馍",
+          "py": "ròu jiā mó",
+          "gloss": "roujiamo (meat sandwich)",
+          "pos": "noun"
+        },
+        {
+          "w": "、",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "凉皮",
+          "py": "liáng pí",
+          "gloss": "liangpi (cold noodles)",
+          "pos": "noun"
+        },
+        {
+          "w": "……",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "每",
+          "py": "měi",
+          "gloss": "every",
+          "pos": "pron"
+        },
+        {
+          "w": "一",
+          "py": "yì",
+          "gloss": "one",
+          "pos": "quant"
+        },
+        {
+          "w": "种",
+          "py": "zhǒng",
+          "gloss": "kind",
+          "pos": "quant"
+        },
+        {
+          "w": "都",
+          "py": "dōu",
+          "gloss": "all",
+          "pos": "adv"
+        },
+        {
+          "w": "值得",
+          "py": "zhí de",
+          "gloss": "to be worth",
+          "pos": "verb"
+        },
+        {
+          "w": "你",
+          "py": "nǐ",
+          "gloss": "you",
+          "pos": "pron"
+        },
+        {
+          "w": "尝",
+          "py": "cháng",
+          "gloss": "to taste",
+          "pos": "verb"
+        },
+        {
+          "w": "一",
+          "py": "yi",
+          "gloss": "(a bit)",
+          "pos": "quant"
+        },
+        {
+          "w": "尝",
+          "py": "cháng",
+          "gloss": "to taste",
+          "pos": "verb"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "如果你对中国的历史、文化感兴趣，一定要去陕西历史博物馆。",
+      "en": "If you're interested in Chinese history and culture, you must go to the Shaanxi History Museum.",
+      "tokens": [
+        {
+          "w": "如果",
+          "py": "rú guǒ",
+          "gloss": "if",
+          "pos": "conn"
+        },
+        {
+          "w": "你",
+          "py": "nǐ",
+          "gloss": "you",
+          "pos": "pron"
+        },
+        {
+          "w": "对",
+          "py": "duì",
+          "gloss": "in",
+          "pos": "conn"
+        },
+        {
+          "w": "中国",
+          "py": "Zhōng guó",
+          "gloss": "China",
+          "pos": "noun"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(possessive)",
+          "pos": "part"
+        },
+        {
+          "w": "历史",
+          "py": "lì shǐ",
+          "gloss": "history",
+          "pos": "noun"
+        },
+        {
+          "w": "、",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "文化",
+          "py": "wén huà",
+          "gloss": "culture",
+          "pos": "noun"
+        },
+        {
+          "w": "感兴趣",
+          "py": "gǎn xìng qù",
+          "gloss": "to be interested",
+          "pos": "verb"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "一定",
+          "py": "yí dìng",
+          "gloss": "definitely",
+          "pos": "adv"
+        },
+        {
+          "w": "要",
+          "py": "yào",
+          "gloss": "must",
+          "pos": "verb"
+        },
+        {
+          "w": "去",
+          "py": "qù",
+          "gloss": "to go",
+          "pos": "verb"
+        },
+        {
+          "w": "陕西",
+          "py": "Shǎn xī",
+          "gloss": "Shaanxi",
+          "pos": "noun"
+        },
+        {
+          "w": "历史",
+          "py": "lì shǐ",
+          "gloss": "history",
+          "pos": "noun"
+        },
+        {
+          "w": "博物馆",
+          "py": "bó wù guǎn",
+          "gloss": "museum",
+          "pos": "noun"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "在这里，你会更了解这座城市，也更了解这个国家。",
+      "en": "Here you'll come to understand this city — and this country — better.",
+      "tokens": [
+        {
+          "w": "在",
+          "py": "zài",
+          "gloss": "in",
+          "pos": "conn"
+        },
+        {
+          "w": "这里",
+          "py": "zhè lǐ",
+          "gloss": "here",
+          "pos": "pron"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "你",
+          "py": "nǐ",
+          "gloss": "you",
+          "pos": "pron"
+        },
+        {
+          "w": "会",
+          "py": "huì",
+          "gloss": "will",
+          "pos": "verb"
+        },
+        {
+          "w": "更",
+          "py": "gèng",
+          "gloss": "more",
+          "pos": "adv"
+        },
+        {
+          "w": "了解",
+          "py": "liǎo jiě",
+          "gloss": "to understand",
+          "pos": "verb"
+        },
+        {
+          "w": "这",
+          "py": "zhè",
+          "gloss": "this",
+          "pos": "pron"
+        },
+        {
+          "w": "座",
+          "py": "zuò",
+          "gloss": "(measure word)",
+          "pos": "quant"
+        },
+        {
+          "w": "城市",
+          "py": "chéng shì",
+          "gloss": "city",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "也",
+          "py": "yě",
+          "gloss": "also",
+          "pos": "adv"
+        },
+        {
+          "w": "更",
+          "py": "gèng",
+          "gloss": "more",
+          "pos": "adv"
+        },
+        {
+          "w": "了解",
+          "py": "liǎo jiě",
+          "gloss": "to understand",
+          "pos": "verb"
+        },
+        {
+          "w": "这",
+          "py": "zhè",
+          "gloss": "this",
+          "pos": "pron"
+        },
+        {
+          "w": "个",
+          "py": "gè",
+          "gloss": "(measure word)",
+          "pos": "quant"
+        },
+        {
+          "w": "国家",
+          "py": "guó jiā",
+          "gloss": "country",
+          "pos": "noun"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "如果你是第一次来西安，可以安排四天三晚。",
+      "en": "If it's your first time in Xi'an, you could plan four days and three nights.",
+      "tokens": [
+        {
+          "w": "如果",
+          "py": "rú guǒ",
+          "gloss": "if",
+          "pos": "conn"
+        },
+        {
+          "w": "你",
+          "py": "nǐ",
+          "gloss": "you",
+          "pos": "pron"
+        },
+        {
+          "w": "是",
+          "py": "shì",
+          "gloss": "is",
+          "pos": "verb"
+        },
+        {
+          "w": "第一",
+          "py": "dì yī",
+          "gloss": "first",
+          "pos": "quant"
+        },
+        {
+          "w": "次",
+          "py": "cì",
+          "gloss": "time",
+          "pos": "quant"
+        },
+        {
+          "w": "来",
+          "py": "lái",
+          "gloss": "to come",
+          "pos": "verb"
+        },
+        {
+          "w": "西安",
+          "py": "Xī ān",
+          "gloss": "Xi'an",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "可以",
+          "py": "kě yǐ",
+          "gloss": "can",
+          "pos": "verb"
+        },
+        {
+          "w": "安排",
+          "py": "ān pái",
+          "gloss": "to plan",
+          "pos": "verb"
+        },
+        {
+          "w": "四",
+          "py": "sì",
+          "gloss": "four",
+          "pos": "quant"
+        },
+        {
+          "w": "天",
+          "py": "tiān",
+          "gloss": "days",
+          "pos": "quant"
+        },
+        {
+          "w": "三",
+          "py": "sān",
+          "gloss": "three",
+          "pos": "quant"
+        },
+        {
+          "w": "晚",
+          "py": "wǎn",
+          "gloss": "nights",
+          "pos": "quant"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "第一天，去兵马俑和华清池，晚上看一场演出。",
+      "en": "Day one: the Terracotta Warriors and Huaqing Pool, then a show in the evening.",
+      "tokens": [
+        {
+          "w": "第一",
+          "py": "dì yī",
+          "gloss": "first",
+          "pos": "quant"
+        },
+        {
+          "w": "天",
+          "py": "tiān",
+          "gloss": "day",
+          "pos": "quant"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "去",
+          "py": "qù",
+          "gloss": "to go",
+          "pos": "verb"
+        },
+        {
+          "w": "兵马俑",
+          "py": "Bīng mǎ yǒng",
+          "gloss": "Terracotta Warriors",
+          "pos": "noun"
+        },
+        {
+          "w": "和",
+          "py": "hé",
+          "gloss": "and",
+          "pos": "conn"
+        },
+        {
+          "w": "华清池",
+          "py": "Huá qīng chí",
+          "gloss": "Huaqing Pool",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "晚上",
+          "py": "wǎn shang",
+          "gloss": "evening",
+          "pos": "noun"
+        },
+        {
+          "w": "看",
+          "py": "kàn",
+          "gloss": "to watch",
+          "pos": "verb"
+        },
+        {
+          "w": "一",
+          "py": "yì",
+          "gloss": "a",
+          "pos": "quant"
+        },
+        {
+          "w": "场",
+          "py": "chǎng",
+          "gloss": "(measure word)",
+          "pos": "quant"
+        },
+        {
+          "w": "演出",
+          "py": "yǎn chū",
+          "gloss": "show",
+          "pos": "noun"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "第二天上午登上城墙，下午去钟楼和鼓楼，晚上在回民街吃晚饭。",
+      "en": "Day two: climb the city wall in the morning, visit the Bell and Drum Towers in the afternoon, and have dinner on the Muslim Quarter street.",
+      "tokens": [
+        {
+          "w": "第二",
+          "py": "dì èr",
+          "gloss": "second",
+          "pos": "quant"
+        },
+        {
+          "w": "天",
+          "py": "tiān",
+          "gloss": "day",
+          "pos": "quant"
+        },
+        {
+          "w": "上午",
+          "py": "shàng wǔ",
+          "gloss": "morning",
+          "pos": "noun"
+        },
+        {
+          "w": "登上",
+          "py": "dēng shàng",
+          "gloss": "to climb onto",
+          "pos": "verb"
+        },
+        {
+          "w": "城墙",
+          "py": "chéng qiáng",
+          "gloss": "city wall",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "下午",
+          "py": "xià wǔ",
+          "gloss": "afternoon",
+          "pos": "noun"
+        },
+        {
+          "w": "去",
+          "py": "qù",
+          "gloss": "to go",
+          "pos": "verb"
+        },
+        {
+          "w": "钟楼",
+          "py": "Zhōng lóu",
+          "gloss": "Bell Tower",
+          "pos": "noun"
+        },
+        {
+          "w": "和",
+          "py": "hé",
+          "gloss": "and",
+          "pos": "conn"
+        },
+        {
+          "w": "鼓楼",
+          "py": "Gǔ lóu",
+          "gloss": "Drum Tower",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "晚上",
+          "py": "wǎn shang",
+          "gloss": "evening",
+          "pos": "noun"
+        },
+        {
+          "w": "在",
+          "py": "zài",
+          "gloss": "at",
+          "pos": "conn"
+        },
+        {
+          "w": "回民街",
+          "py": "Huí mín jiē",
+          "gloss": "Muslim Quarter street",
+          "pos": "noun"
+        },
+        {
+          "w": "吃",
+          "py": "chī",
+          "gloss": "to eat",
+          "pos": "verb"
+        },
+        {
+          "w": "晚饭",
+          "py": "wǎn fàn",
+          "gloss": "dinner",
+          "pos": "noun"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "第三天，先去历史博物馆，再去大雁塔，晚上去大唐不夜城看灯光和表演。",
+      "en": "Day three: the history museum first, then the Big Wild Goose Pagoda, and in the evening the lights and shows at Great Tang Everbright City.",
+      "tokens": [
+        {
+          "w": "第三",
+          "py": "dì sān",
+          "gloss": "third",
+          "pos": "quant"
+        },
+        {
+          "w": "天",
+          "py": "tiān",
+          "gloss": "day",
+          "pos": "quant"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "先",
+          "py": "xiān",
+          "gloss": "first",
+          "pos": "adv"
+        },
+        {
+          "w": "去",
+          "py": "qù",
+          "gloss": "to go",
+          "pos": "verb"
+        },
+        {
+          "w": "历史",
+          "py": "lì shǐ",
+          "gloss": "history",
+          "pos": "noun"
+        },
+        {
+          "w": "博物馆",
+          "py": "bó wù guǎn",
+          "gloss": "museum",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "再",
+          "py": "zài",
+          "gloss": "then",
+          "pos": "adv"
+        },
+        {
+          "w": "去",
+          "py": "qù",
+          "gloss": "to go",
+          "pos": "verb"
+        },
+        {
+          "w": "大雁塔",
+          "py": "Dà yàn tǎ",
+          "gloss": "Big Wild Goose Pagoda",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "晚上",
+          "py": "wǎn shang",
+          "gloss": "evening",
+          "pos": "noun"
+        },
+        {
+          "w": "去",
+          "py": "qù",
+          "gloss": "to go",
+          "pos": "verb"
+        },
+        {
+          "w": "大唐不夜城",
+          "py": "Dà táng bú yè chéng",
+          "gloss": "Great Tang Everbright City",
+          "pos": "noun"
+        },
+        {
+          "w": "看",
+          "py": "kàn",
+          "gloss": "to see",
+          "pos": "verb"
+        },
+        {
+          "w": "灯光",
+          "py": "dēng guāng",
+          "gloss": "lights",
+          "pos": "noun"
+        },
+        {
+          "w": "和",
+          "py": "hé",
+          "gloss": "and",
+          "pos": "conn"
+        },
+        {
+          "w": "表演",
+          "py": "biǎo yǎn",
+          "gloss": "shows",
+          "pos": "noun"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "第四天可以多睡一会儿，在城里逛一逛，然后准备离开。",
+      "en": "Day four: sleep in, wander round the city, then get ready to leave.",
+      "tokens": [
+        {
+          "w": "第四",
+          "py": "dì sì",
+          "gloss": "fourth",
+          "pos": "quant"
+        },
+        {
+          "w": "天",
+          "py": "tiān",
+          "gloss": "day",
+          "pos": "quant"
+        },
+        {
+          "w": "可以",
+          "py": "kě yǐ",
+          "gloss": "can",
+          "pos": "verb"
+        },
+        {
+          "w": "多",
+          "py": "duō",
+          "gloss": "more",
+          "pos": "adv"
+        },
+        {
+          "w": "睡",
+          "py": "shuì",
+          "gloss": "to sleep",
+          "pos": "verb"
+        },
+        {
+          "w": "一会儿",
+          "py": "yí huìr",
+          "gloss": "a while",
+          "pos": "quant"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "在",
+          "py": "zài",
+          "gloss": "in",
+          "pos": "conn"
+        },
+        {
+          "w": "城里",
+          "py": "chéng lǐ",
+          "gloss": "the city",
+          "pos": "noun"
+        },
+        {
+          "w": "逛",
+          "py": "guàng",
+          "gloss": "to wander",
+          "pos": "verb"
+        },
+        {
+          "w": "一",
+          "py": "yi",
+          "gloss": "(a bit)",
+          "pos": "quant"
+        },
+        {
+          "w": "逛",
+          "py": "guàng",
+          "gloss": "to wander",
+          "pos": "verb"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "然后",
+          "py": "rán hòu",
+          "gloss": "then",
+          "pos": "conn"
+        },
+        {
+          "w": "准备",
+          "py": "zhǔn bèi",
+          "gloss": "to get ready",
+          "pos": "verb"
+        },
+        {
+          "w": "离开",
+          "py": "lí kāi",
+          "gloss": "to leave",
+          "pos": "verb"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "暑假和国庆节的时候游客特别多，一定要提前订好酒店和门票。",
+      "en": "The summer holidays and National Day are peak times, so be sure to book hotels and tickets early.",
+      "tokens": [
+        {
+          "w": "暑假",
+          "py": "shǔ jià",
+          "gloss": "summer holidays",
+          "pos": "noun"
+        },
+        {
+          "w": "和",
+          "py": "hé",
+          "gloss": "and",
+          "pos": "conn"
+        },
+        {
+          "w": "国庆节",
+          "py": "Guó qìng jié",
+          "gloss": "National Day",
+          "pos": "noun"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(possessive)",
+          "pos": "part"
+        },
+        {
+          "w": "时候",
+          "py": "shí hou",
+          "gloss": "time",
+          "pos": "noun"
+        },
+        {
+          "w": "游客",
+          "py": "yóu kè",
+          "gloss": "tourists",
+          "pos": "noun"
+        },
+        {
+          "w": "特别",
+          "py": "tè bié",
+          "gloss": "especially",
+          "pos": "adv"
+        },
+        {
+          "w": "多",
+          "py": "duō",
+          "gloss": "many",
+          "pos": "adj"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "一定",
+          "py": "yí dìng",
+          "gloss": "definitely",
+          "pos": "adv"
+        },
+        {
+          "w": "要",
+          "py": "yào",
+          "gloss": "must",
+          "pos": "verb"
+        },
+        {
+          "w": "提前",
+          "py": "tí qián",
+          "gloss": "in advance",
+          "pos": "adv"
+        },
+        {
+          "w": "订",
+          "py": "dìng",
+          "gloss": "to book",
+          "pos": "verb"
+        },
+        {
+          "w": "好",
+          "py": "hǎo",
+          "gloss": "(done)",
+          "pos": "adj"
+        },
+        {
+          "w": "酒店",
+          "py": "jiǔ diàn",
+          "gloss": "hotel",
+          "pos": "noun"
+        },
+        {
+          "w": "和",
+          "py": "hé",
+          "gloss": "and",
+          "pos": "conn"
+        },
+        {
+          "w": "门票",
+          "py": "mén piào",
+          "gloss": "tickets",
+          "pos": "noun"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "历史博物馆虽然是免费的，但是很难订，最好提前几天在网上订好。",
+      "en": "The history museum is free, but it's very hard to get a booking, so book online a few days ahead.",
+      "tokens": [
+        {
+          "w": "历史",
+          "py": "lì shǐ",
+          "gloss": "history",
+          "pos": "noun"
+        },
+        {
+          "w": "博物馆",
+          "py": "bó wù guǎn",
+          "gloss": "museum",
+          "pos": "noun"
+        },
+        {
+          "w": "虽然",
+          "py": "suī rán",
+          "gloss": "although",
+          "pos": "conn"
+        },
+        {
+          "w": "是",
+          "py": "shì",
+          "gloss": "is",
+          "pos": "verb"
+        },
+        {
+          "w": "免费",
+          "py": "miǎn fèi",
+          "gloss": "free",
+          "pos": "adj"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(emphasis)",
+          "pos": "part"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "但是",
+          "py": "dàn shì",
+          "gloss": "but",
+          "pos": "conn"
+        },
+        {
+          "w": "很",
+          "py": "hěn",
+          "gloss": "very",
+          "pos": "adv"
+        },
+        {
+          "w": "难",
+          "py": "nán",
+          "gloss": "hard",
+          "pos": "adj"
+        },
+        {
+          "w": "订",
+          "py": "dìng",
+          "gloss": "to book",
+          "pos": "verb"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "最好",
+          "py": "zuì hǎo",
+          "gloss": "had better",
+          "pos": "adv"
+        },
+        {
+          "w": "提前",
+          "py": "tí qián",
+          "gloss": "in advance",
+          "pos": "adv"
+        },
+        {
+          "w": "几",
+          "py": "jǐ",
+          "gloss": "a few",
+          "pos": "quant"
+        },
+        {
+          "w": "天",
+          "py": "tiān",
+          "gloss": "days",
+          "pos": "quant"
+        },
+        {
+          "w": "在",
+          "py": "zài",
+          "gloss": "on",
+          "pos": "conn"
+        },
+        {
+          "w": "网上",
+          "py": "wǎng shàng",
+          "gloss": "online",
+          "pos": "noun"
+        },
+        {
+          "w": "订",
+          "py": "dìng",
+          "gloss": "to book",
+          "pos": "verb"
+        },
+        {
+          "w": "好",
+          "py": "hǎo",
+          "gloss": "(done)",
+          "pos": "adj"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "夏天的西安很热，出门一定要注意防晒。",
+      "en": "Xi'an is very hot in summer, so protect yourself from the sun when you go out.",
+      "tokens": [
+        {
+          "w": "夏天",
+          "py": "xià tiān",
+          "gloss": "summer",
+          "pos": "noun"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(possessive)",
+          "pos": "part"
+        },
+        {
+          "w": "西安",
+          "py": "Xī ān",
+          "gloss": "Xi'an",
+          "pos": "noun"
+        },
+        {
+          "w": "很",
+          "py": "hěn",
+          "gloss": "very",
+          "pos": "adv"
+        },
+        {
+          "w": "热",
+          "py": "rè",
+          "gloss": "hot",
+          "pos": "adj"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "出门",
+          "py": "chū mén",
+          "gloss": "to go out",
+          "pos": "verb"
+        },
+        {
+          "w": "一定",
+          "py": "yí dìng",
+          "gloss": "definitely",
+          "pos": "adv"
+        },
+        {
+          "w": "要",
+          "py": "yào",
+          "gloss": "must",
+          "pos": "verb"
+        },
+        {
+          "w": "注意",
+          "py": "zhù yì",
+          "gloss": "to pay attention to",
+          "pos": "verb"
+        },
+        {
+          "w": "防晒",
+          "py": "fáng shài",
+          "gloss": "sun protection",
+          "pos": "verb"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "去兵马俑的话，可以坐地铁九号线到“华清池”站，出站以后再打车过去，又方便又便宜。",
+      "en": "For the Terracotta Warriors, take metro Line 9 to Huaqing Pool station and a taxi from there — convenient and cheap.",
+      "tokens": [
+        {
+          "w": "去",
+          "py": "qù",
+          "gloss": "to go",
+          "pos": "verb"
+        },
+        {
+          "w": "兵马俑",
+          "py": "Bīng mǎ yǒng",
+          "gloss": "Terracotta Warriors",
+          "pos": "noun"
+        },
+        {
+          "w": "的话",
+          "py": "de huà",
+          "gloss": "if",
+          "pos": "part"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "可以",
+          "py": "kě yǐ",
+          "gloss": "can",
+          "pos": "verb"
+        },
+        {
+          "w": "坐",
+          "py": "zuò",
+          "gloss": "to take",
+          "pos": "verb"
+        },
+        {
+          "w": "地铁",
+          "py": "dì tiě",
+          "gloss": "metro",
+          "pos": "noun"
+        },
+        {
+          "w": "九",
+          "py": "jiǔ",
+          "gloss": "nine",
+          "pos": "quant"
+        },
+        {
+          "w": "号",
+          "py": "hào",
+          "gloss": "number",
+          "pos": "noun"
+        },
+        {
+          "w": "线",
+          "py": "xiàn",
+          "gloss": "line",
+          "pos": "noun"
+        },
+        {
+          "w": "到",
+          "py": "dào",
+          "gloss": "to",
+          "pos": "conn"
+        },
+        {
+          "w": "“",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "华清池",
+          "py": "Huá qīng chí",
+          "gloss": "Huaqing Pool",
+          "pos": "noun"
+        },
+        {
+          "w": "”",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "站",
+          "py": "zhàn",
+          "gloss": "station",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "出",
+          "py": "chū",
+          "gloss": "to exit",
+          "pos": "verb"
+        },
+        {
+          "w": "站",
+          "py": "zhàn",
+          "gloss": "station",
+          "pos": "noun"
+        },
+        {
+          "w": "以后",
+          "py": "yǐ hòu",
+          "gloss": "after",
+          "pos": "noun"
+        },
+        {
+          "w": "再",
+          "py": "zài",
+          "gloss": "then",
+          "pos": "adv"
+        },
+        {
+          "w": "打车",
+          "py": "dǎ chē",
+          "gloss": "to take a taxi",
+          "pos": "verb"
+        },
+        {
+          "w": "过去",
+          "py": "guò qù",
+          "gloss": "to go there",
+          "pos": "verb"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "又",
+          "py": "yòu",
+          "gloss": "both",
+          "pos": "adv"
+        },
+        {
+          "w": "方便",
+          "py": "fāng biàn",
+          "gloss": "convenient",
+          "pos": "adj"
+        },
+        {
+          "w": "又",
+          "py": "yòu",
+          "gloss": "and",
+          "pos": "adv"
+        },
+        {
+          "w": "便宜",
+          "py": "pián yi",
+          "gloss": "cheap",
+          "pos": "adj"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "所有地方都要用身份证买票，外国游客记得带上护照。",
+      "en": "Every site needs ID to buy a ticket; foreign visitors should remember to bring their passport.",
+      "tokens": [
+        {
+          "w": "所有",
+          "py": "suǒ yǒu",
+          "gloss": "all",
+          "pos": "adj"
+        },
+        {
+          "w": "地方",
+          "py": "dì fang",
+          "gloss": "places",
+          "pos": "noun"
+        },
+        {
+          "w": "都",
+          "py": "dōu",
+          "gloss": "all",
+          "pos": "adv"
+        },
+        {
+          "w": "要",
+          "py": "yào",
+          "gloss": "to need",
+          "pos": "verb"
+        },
+        {
+          "w": "用",
+          "py": "yòng",
+          "gloss": "to use",
+          "pos": "verb"
+        },
+        {
+          "w": "身份证",
+          "py": "shēn fèn zhèng",
+          "gloss": "ID card",
+          "pos": "noun"
+        },
+        {
+          "w": "买",
+          "py": "mǎi",
+          "gloss": "to buy",
+          "pos": "verb"
+        },
+        {
+          "w": "票",
+          "py": "piào",
+          "gloss": "tickets",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "外国",
+          "py": "wài guó",
+          "gloss": "foreign",
+          "pos": "noun"
+        },
+        {
+          "w": "游客",
+          "py": "yóu kè",
+          "gloss": "tourists",
+          "pos": "noun"
+        },
+        {
+          "w": "记得",
+          "py": "jì de",
+          "gloss": "to remember",
+          "pos": "verb"
+        },
+        {
+          "w": "带上",
+          "py": "dài shang",
+          "gloss": "to bring along",
+          "pos": "verb"
+        },
+        {
+          "w": "护照",
+          "py": "hù zhào",
+          "gloss": "passport",
+          "pos": "noun"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "晚上亮灯以后，在钟楼、鼓楼和南门拍照特别好看。",
+      "en": "After the lights come on, photos from the Bell Tower, Drum Tower and South Gate look especially good.",
+      "tokens": [
+        {
+          "w": "晚上",
+          "py": "wǎn shang",
+          "gloss": "evening",
+          "pos": "noun"
+        },
+        {
+          "w": "亮灯",
+          "py": "liàng dēng",
+          "gloss": "the lights come on",
+          "pos": "verb"
+        },
+        {
+          "w": "以后",
+          "py": "yǐ hòu",
+          "gloss": "after",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "在",
+          "py": "zài",
+          "gloss": "at",
+          "pos": "conn"
+        },
+        {
+          "w": "钟楼",
+          "py": "Zhōng lóu",
+          "gloss": "Bell Tower",
+          "pos": "noun"
+        },
+        {
+          "w": "、",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "鼓楼",
+          "py": "Gǔ lóu",
+          "gloss": "Drum Tower",
+          "pos": "noun"
+        },
+        {
+          "w": "和",
+          "py": "hé",
+          "gloss": "and",
+          "pos": "conn"
+        },
+        {
+          "w": "南门",
+          "py": "Nán mén",
+          "gloss": "South Gate",
+          "pos": "noun"
+        },
+        {
+          "w": "拍照",
+          "py": "pāi zhào",
+          "gloss": "to take photos",
+          "pos": "verb"
+        },
+        {
+          "w": "特别",
+          "py": "tè bié",
+          "gloss": "especially",
+          "pos": "adv"
+        },
+        {
+          "w": "好看",
+          "py": "hǎo kàn",
+          "gloss": "nice-looking",
+          "pos": "adj"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "大雁塔广场的音乐喷泉表演也一定要去看看。",
+      "en": "Be sure to see the musical fountain show at the Big Wild Goose Pagoda too.",
+      "tokens": [
+        {
+          "w": "大雁塔",
+          "py": "Dà yàn tǎ",
+          "gloss": "Big Wild Goose Pagoda",
+          "pos": "noun"
+        },
+        {
+          "w": "广场",
+          "py": "guǎng chǎng",
+          "gloss": "square",
+          "pos": "noun"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(possessive)",
+          "pos": "part"
+        },
+        {
+          "w": "音乐",
+          "py": "yīn yuè",
+          "gloss": "music",
+          "pos": "noun"
+        },
+        {
+          "w": "喷泉",
+          "py": "pēn quán",
+          "gloss": "fountain",
+          "pos": "noun"
+        },
+        {
+          "w": "表演",
+          "py": "biǎo yǎn",
+          "gloss": "show",
+          "pos": "noun"
+        },
+        {
+          "w": "也",
+          "py": "yě",
+          "gloss": "also",
+          "pos": "adv"
+        },
+        {
+          "w": "一定",
+          "py": "yí dìng",
+          "gloss": "definitely",
+          "pos": "adv"
+        },
+        {
+          "w": "要",
+          "py": "yào",
+          "gloss": "must",
+          "pos": "verb"
+        },
+        {
+          "w": "去",
+          "py": "qù",
+          "gloss": "to go",
+          "pos": "verb"
+        },
+        {
+          "w": "看看",
+          "py": "kàn kan",
+          "gloss": "to have a look",
+          "pos": "verb"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "希望这篇介绍对你有帮助。",
+      "en": "I hope this introduction is useful to you.",
+      "tokens": [
+        {
+          "w": "希望",
+          "py": "xī wàng",
+          "gloss": "to hope",
+          "pos": "verb"
+        },
+        {
+          "w": "这",
+          "py": "zhè",
+          "gloss": "this",
+          "pos": "pron"
+        },
+        {
+          "w": "篇",
+          "py": "piān",
+          "gloss": "(measure word)",
+          "pos": "quant"
+        },
+        {
+          "w": "介绍",
+          "py": "jiè shào",
+          "gloss": "introduction",
+          "pos": "noun"
+        },
+        {
+          "w": "对",
+          "py": "duì",
+          "gloss": "to",
+          "pos": "conn"
+        },
+        {
+          "w": "你",
+          "py": "nǐ",
+          "gloss": "you",
+          "pos": "pron"
+        },
+        {
+          "w": "有",
+          "py": "yǒu",
+          "gloss": "to have",
+          "pos": "verb"
+        },
+        {
+          "w": "帮助",
+          "py": "bāng zhù",
+          "gloss": "help",
+          "pos": "noun"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "祝你在西安过得开心！",
+      "en": "Have a great time in Xi'an!",
+      "tokens": [
+        {
+          "w": "祝",
+          "py": "zhù",
+          "gloss": "to wish",
+          "pos": "verb"
+        },
+        {
+          "w": "你",
+          "py": "nǐ",
+          "gloss": "you",
+          "pos": "pron"
+        },
+        {
+          "w": "在",
+          "py": "zài",
+          "gloss": "in",
+          "pos": "conn"
+        },
+        {
+          "w": "西安",
+          "py": "Xī ān",
+          "gloss": "Xi'an",
+          "pos": "noun"
+        },
+        {
+          "w": "过",
+          "py": "guò",
+          "gloss": "to spend time",
+          "pos": "verb"
+        },
+        {
+          "w": "得",
+          "py": "de",
+          "gloss": "(complement)",
+          "pos": "part"
+        },
+        {
+          "w": "开心",
+          "py": "kāi xīn",
+          "gloss": "happy",
+          "pos": "adj"
+        },
+        {
+          "w": "！",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    }
+  ],
+  "new_words": [
+    {
+      "w": "陕西省",
+      "py": "Shǎn xī shěng",
+      "gloss": "Shaanxi Province"
+    },
+    {
+      "w": "陕西",
+      "py": "Shǎn xī",
+      "gloss": "Shaanxi"
+    },
+    {
+      "w": "朝代",
+      "py": "cháo dài",
+      "gloss": "dynasty"
+    },
+    {
+      "w": "兵马俑",
+      "py": "Bīng mǎ yǒng",
+      "gloss": "Terracotta Warriors"
+    },
+    {
+      "w": "奇迹",
+      "py": "qí jì",
+      "gloss": "wonder, miracle"
+    },
+    {
+      "w": "打井",
+      "py": "dǎ jǐng",
+      "gloss": "to dig a well"
+    },
+    {
+      "w": "坑",
+      "py": "kēng",
+      "gloss": "pit"
+    },
+    {
+      "w": "城墙",
+      "py": "chéng qiáng",
+      "gloss": "city wall"
+    },
+    {
+      "w": "明朝",
+      "py": "Míng cháo",
+      "gloss": "Ming dynasty"
+    },
+    {
+      "w": "大雁塔",
+      "py": "Dà yàn tǎ",
+      "gloss": "Big Wild Goose Pagoda"
+    },
+    {
+      "w": "小雁塔",
+      "py": "Xiǎo yàn tǎ",
+      "gloss": "Small Wild Goose Pagoda"
+    },
+    {
+      "w": "唐朝",
+      "py": "Táng cháo",
+      "gloss": "Tang dynasty"
+    },
+    {
+      "w": "玄奘",
+      "py": "Xuán zàng",
+      "gloss": "Xuanzang (Tang-dynasty monk)"
+    },
+    {
+      "w": "印度",
+      "py": "Yìn dù",
+      "gloss": "India"
+    },
+    {
+      "w": "喷泉",
+      "py": "pēn quán",
+      "gloss": "fountain"
+    },
+    {
+      "w": "回民街",
+      "py": "Huí mín jiē",
+      "gloss": "Muslim Quarter street"
+    },
+    {
+      "w": "肉夹馍",
+      "py": "ròu jiā mó",
+      "gloss": "roujiamo (meat in flatbread)"
+    },
+    {
+      "w": "凉皮",
+      "py": "liáng pí",
+      "gloss": "liangpi (cold noodles)"
+    },
+    {
+      "w": "华清池",
+      "py": "Huá qīng chí",
+      "gloss": "Huaqing Pool"
+    },
+    {
+      "w": "大唐不夜城",
+      "py": "Dà táng bú yè chéng",
+      "gloss": "Great Tang Everbright City"
+    },
+    {
+      "w": "乘车码",
+      "py": "chéng chē mǎ",
+      "gloss": "transit QR code"
+    }
+  ],
+  "grammar_points": [
+    {
+      "pattern": "不管 A 还是 B，都……",
+      "explanation_en": "\"No matter whether A or B, …\" — the result holds in every case. 都 in the second half is what ties it together.",
+      "example_zh": "不管下雨还是下雪，他都走路上班。",
+      "example_en": "Whether it rains or snows, he walks to work."
+    },
+    {
+      "pattern": "是 + time / place + verb + 的",
+      "explanation_en": "Used to highlight when, where or how a past action happened, rather than the action itself.",
+      "example_zh": "这座桥是一九五八年修好的。",
+      "example_en": "This bridge was finished in 1958."
+    },
+    {
+      "pattern": "……，否则……",
+      "explanation_en": "\"…, otherwise …\": the first part gives advice, the second says what happens if you ignore it. More formal than 不然.",
+      "example_zh": "出门要带伞，否则会被雨淋湿。",
+      "example_en": "Take an umbrella, otherwise you'll get soaked."
+    }
+  ],
+  "questions": [
+    {
+      "q_zh": "为什么人们叫西安“十三朝古都”？",
+      "q_en": "Why do people call Xi'an \"the ancient capital of thirteen dynasties\"?",
+      "answer_en": "Because thirteen dynasties made their capital there."
+    },
+    {
+      "q_zh": "兵马俑是怎么被发现的？",
+      "q_en": "How were the Terracotta Warriors discovered?",
+      "answer_en": "A farmer found them by chance while digging a well in 1974."
+    },
+    {
+      "q_zh": "文章说，去钟楼和鼓楼最好的时间是什么时候？为什么？",
+      "q_en": "According to the article, when is the best time to visit the Bell and Drum Towers, and why?",
+      "answer_en": "Around dusk, because you can see the daytime view, the sunset and the lights coming on in one visit."
+    }
+  ]
+}

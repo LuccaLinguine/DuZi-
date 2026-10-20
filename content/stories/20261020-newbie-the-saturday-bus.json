@@ -1,0 +1,567 @@
+{
+  "id": "20261020-newbie-the-saturday-bus",
+  "series_id": null,
+  "chapter": null,
+  "topic": "Work",
+  "format": "story",
+  "created_at": "2026-10-20",
+  "ai_generated": false,
+  "title_zh": "星期六的早上",
+  "title_en": "Saturday Morning",
+  "summary_en": "Tom waits a long time for a late bus and goes to work, only to find nobody there. A phone call to a friend explains why.",
+  "level": "newbie",
+  "sentences": [
+    {
+      "zh": "汤姆天天早上坐车去上班。",
+      "en": "Every morning, Tom takes the bus to work.",
+      "tokens": [
+        {
+          "w": "汤姆",
+          "py": "Tāng mǔ",
+          "gloss": "Tom",
+          "pos": "noun"
+        },
+        {
+          "w": "天天",
+          "py": "tiān tiān",
+          "gloss": "every day",
+          "pos": "noun"
+        },
+        {
+          "w": "早上",
+          "py": "zǎo shang",
+          "gloss": "morning",
+          "pos": "noun"
+        },
+        {
+          "w": "坐",
+          "py": "zuò",
+          "gloss": "to take (a bus)",
+          "pos": "verb"
+        },
+        {
+          "w": "车",
+          "py": "chē",
+          "gloss": "bus",
+          "pos": "noun"
+        },
+        {
+          "w": "去",
+          "py": "qù",
+          "gloss": "to go",
+          "pos": "verb"
+        },
+        {
+          "w": "上班",
+          "py": "shàng bān",
+          "gloss": "to go to work",
+          "pos": "verb"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "他都会在车站旁边的商店买一杯咖啡。",
+      "en": "He always buys a cup of coffee at the shop next to the bus stop.",
+      "tokens": [
+        {
+          "w": "他",
+          "py": "tā",
+          "gloss": "he",
+          "pos": "pron"
+        },
+        {
+          "w": "都",
+          "py": "dōu",
+          "gloss": "always",
+          "pos": "adv"
+        },
+        {
+          "w": "会",
+          "py": "huì",
+          "gloss": "will (habitually)",
+          "pos": "verb"
+        },
+        {
+          "w": "在",
+          "py": "zài",
+          "gloss": "at",
+          "pos": "conn"
+        },
+        {
+          "w": "车站",
+          "py": "chē zhàn",
+          "gloss": "bus stop",
+          "pos": "noun"
+        },
+        {
+          "w": "旁边",
+          "py": "páng biān",
+          "gloss": "next to",
+          "pos": "noun"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(possessive)",
+          "pos": "part"
+        },
+        {
+          "w": "商店",
+          "py": "shāng diàn",
+          "gloss": "shop",
+          "pos": "noun"
+        },
+        {
+          "w": "买",
+          "py": "mǎi",
+          "gloss": "to buy",
+          "pos": "verb"
+        },
+        {
+          "w": "一",
+          "py": "yì",
+          "gloss": "one",
+          "pos": "quant"
+        },
+        {
+          "w": "杯",
+          "py": "bēi",
+          "gloss": "cup",
+          "pos": "quant"
+        },
+        {
+          "w": "咖啡",
+          "py": "kā fēi",
+          "gloss": "coffee",
+          "pos": "noun"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "有一天早上，车来晚了。",
+      "en": "One morning, the bus came late.",
+      "tokens": [
+        {
+          "w": "有",
+          "py": "yǒu",
+          "gloss": "there was",
+          "pos": "verb"
+        },
+        {
+          "w": "一",
+          "py": "yì",
+          "gloss": "one",
+          "pos": "quant"
+        },
+        {
+          "w": "天",
+          "py": "tiān",
+          "gloss": "day",
+          "pos": "quant"
+        },
+        {
+          "w": "早上",
+          "py": "zǎo shang",
+          "gloss": "morning",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "车",
+          "py": "chē",
+          "gloss": "bus",
+          "pos": "noun"
+        },
+        {
+          "w": "来",
+          "py": "lái",
+          "gloss": "to come",
+          "pos": "verb"
+        },
+        {
+          "w": "晚",
+          "py": "wǎn",
+          "gloss": "late",
+          "pos": "adj"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(change)",
+          "pos": "part"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "他等了二十分钟。",
+      "en": "He waited for twenty minutes.",
+      "tokens": [
+        {
+          "w": "他",
+          "py": "tā",
+          "gloss": "he",
+          "pos": "pron"
+        },
+        {
+          "w": "等",
+          "py": "děng",
+          "gloss": "to wait",
+          "pos": "verb"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(completed)",
+          "pos": "part"
+        },
+        {
+          "w": "二十",
+          "py": "èr shí",
+          "gloss": "twenty",
+          "pos": "quant"
+        },
+        {
+          "w": "分钟",
+          "py": "fēn zhōng",
+          "gloss": "minutes",
+          "pos": "noun"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "他到了上班的地方，一个人也没有，门也没开。",
+      "en": "He got to his workplace: there wasn't a single person there, and the door wasn't open either.",
+      "tokens": [
+        {
+          "w": "他",
+          "py": "tā",
+          "gloss": "he",
+          "pos": "pron"
+        },
+        {
+          "w": "到",
+          "py": "dào",
+          "gloss": "to arrive",
+          "pos": "verb"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(completed)",
+          "pos": "part"
+        },
+        {
+          "w": "上班",
+          "py": "shàng bān",
+          "gloss": "work",
+          "pos": "verb"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(that)",
+          "pos": "part"
+        },
+        {
+          "w": "地方",
+          "py": "dì fang",
+          "gloss": "place",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "一",
+          "py": "yí",
+          "gloss": "one",
+          "pos": "quant"
+        },
+        {
+          "w": "个",
+          "py": "gè",
+          "gloss": "(measure word)",
+          "pos": "quant"
+        },
+        {
+          "w": "人",
+          "py": "rén",
+          "gloss": "person",
+          "pos": "noun"
+        },
+        {
+          "w": "也",
+          "py": "yě",
+          "gloss": "even",
+          "pos": "adv"
+        },
+        {
+          "w": "没有",
+          "py": "méi yǒu",
+          "gloss": "there is no",
+          "pos": "verb"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "门",
+          "py": "mén",
+          "gloss": "door",
+          "pos": "noun"
+        },
+        {
+          "w": "也",
+          "py": "yě",
+          "gloss": "also",
+          "pos": "adv"
+        },
+        {
+          "w": "没",
+          "py": "méi",
+          "gloss": "not",
+          "pos": "adv"
+        },
+        {
+          "w": "开",
+          "py": "kāi",
+          "gloss": "to be open",
+          "pos": "verb"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "他给朋友打电话。",
+      "en": "He phoned a friend.",
+      "tokens": [
+        {
+          "w": "他",
+          "py": "tā",
+          "gloss": "he",
+          "pos": "pron"
+        },
+        {
+          "w": "给",
+          "py": "gěi",
+          "gloss": "to",
+          "pos": "conn"
+        },
+        {
+          "w": "朋友",
+          "py": "péng you",
+          "gloss": "friend",
+          "pos": "noun"
+        },
+        {
+          "w": "打",
+          "py": "dǎ",
+          "gloss": "to make (a call)",
+          "pos": "verb"
+        },
+        {
+          "w": "电话",
+          "py": "diàn huà",
+          "gloss": "phone call",
+          "pos": "noun"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "朋友笑了，说：“今天是星期六！你回家睡觉吧。”",
+      "en": "His friend laughed and said: \"Today is Saturday! Go home and sleep.\"",
+      "tokens": [
+        {
+          "w": "朋友",
+          "py": "péng you",
+          "gloss": "friend",
+          "pos": "noun"
+        },
+        {
+          "w": "笑",
+          "py": "xiào",
+          "gloss": "to laugh",
+          "pos": "verb"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(completed)",
+          "pos": "part"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "说",
+          "py": "shuō",
+          "gloss": "to say",
+          "pos": "verb"
+        },
+        {
+          "w": "：“",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "今天",
+          "py": "jīn tiān",
+          "gloss": "today",
+          "pos": "noun"
+        },
+        {
+          "w": "是",
+          "py": "shì",
+          "gloss": "is",
+          "pos": "verb"
+        },
+        {
+          "w": "星期六",
+          "py": "xīng qī liù",
+          "gloss": "Saturday",
+          "pos": "noun"
+        },
+        {
+          "w": "！",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "你",
+          "py": "nǐ",
+          "gloss": "you",
+          "pos": "pron"
+        },
+        {
+          "w": "回",
+          "py": "huí",
+          "gloss": "to go back",
+          "pos": "verb"
+        },
+        {
+          "w": "家",
+          "py": "jiā",
+          "gloss": "home",
+          "pos": "noun"
+        },
+        {
+          "w": "睡觉",
+          "py": "shuì jiào",
+          "gloss": "to sleep",
+          "pos": "verb"
+        },
+        {
+          "w": "吧",
+          "py": "ba",
+          "gloss": "(suggestion)",
+          "pos": "part"
+        },
+        {
+          "w": "。”",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    }
+  ],
+  "new_words": [
+    {
+      "w": "汤姆",
+      "py": "Tāng mǔ",
+      "gloss": "Tom (name)"
+    },
+    {
+      "w": "咖啡",
+      "py": "kā fēi",
+      "gloss": "coffee"
+    },
+    {
+      "w": "分钟",
+      "py": "fēn zhōng",
+      "gloss": "minute"
+    }
+  ],
+  "grammar_points": [
+    {
+      "pattern": "一 + measure word + noun + 也 + 没有",
+      "explanation_en": "\"Not even one\": put 一个人 (or 一本书, 一杯水…) before 也没有 to say there is none at all.",
+      "example_zh": "家里一个人也没有。",
+      "example_en": "There is nobody at all at home."
+    },
+    {
+      "pattern": "给 + person + 打电话",
+      "explanation_en": "To phone someone, put 给 and the person before 打电话.",
+      "example_zh": "我晚上给妈妈打电话。",
+      "example_en": "I call my mum in the evening."
+    }
+  ],
+  "questions": [
+    {
+      "q_zh": "汤姆天天怎么去上班？",
+      "q_en": "How does Tom go to work every day?",
+      "answer_en": "He takes the bus."
+    },
+    {
+      "q_zh": "汤姆等了多少分钟？",
+      "q_en": "How many minutes did Tom wait?",
+      "answer_en": "Twenty minutes."
+    },
+    {
+      "q_zh": "为什么上班的地方没有人？",
+      "q_en": "Why was nobody at Tom's workplace?",
+      "answer_en": "Because it was Saturday."
+    }
+  ]
+}

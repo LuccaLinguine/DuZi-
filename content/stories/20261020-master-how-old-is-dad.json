@@ -1,0 +1,401 @@
+{
+  "id": "20261020-master-how-old-is-dad",
+  "series_id": null,
+  "chapter": null,
+  "topic": "Funny",
+  "format": "dialogue",
+  "created_at": "2026-10-20",
+  "ai_generated": false,
+  "title_zh": "爸爸几岁？",
+  "title_en": "How Old Is Dad?",
+  "summary_en": "A teacher asks Xiaoming how old his father is. Xiaoming gives a funny answer: his father is seven, because he only became a father on the day Xiaoming was born.",
+  "level": "master",
+  "sentences": [
+    {
+      "zh": "老师问小明：“你爸爸今年多少岁？”",
+      "en": "The teacher asked Xiaoming, \"How old is your father this year?\"",
+      "tokens": [
+        {
+          "w": "老师",
+          "py": "lǎo shī",
+          "gloss": "teacher",
+          "pos": "noun"
+        },
+        {
+          "w": "问",
+          "py": "wèn",
+          "gloss": "to ask",
+          "pos": "verb"
+        },
+        {
+          "w": "小明",
+          "py": "Xiǎo Míng",
+          "gloss": "Xiaoming",
+          "pos": "noun"
+        },
+        {
+          "w": "：",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "“",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "你",
+          "py": "nǐ",
+          "gloss": "you",
+          "pos": "pron"
+        },
+        {
+          "w": "爸爸",
+          "py": "bà ba",
+          "gloss": "dad",
+          "pos": "noun"
+        },
+        {
+          "w": "今年",
+          "py": "jīn nián",
+          "gloss": "this year",
+          "pos": "noun"
+        },
+        {
+          "w": "多少",
+          "py": "duō shao",
+          "gloss": "how many (how old)",
+          "pos": "pron"
+        },
+        {
+          "w": "岁",
+          "py": "suì",
+          "gloss": "years of age",
+          "pos": "noun"
+        },
+        {
+          "w": "？",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "”",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "他说：“和我一样大，他今年七岁。”",
+      "en": "Xiaoming said, \"He's the same age as me. He's seven this year.\"",
+      "tokens": [
+        {
+          "w": "他",
+          "py": "tā",
+          "gloss": "he",
+          "pos": "pron"
+        },
+        {
+          "w": "说",
+          "py": "shuō",
+          "gloss": "to say",
+          "pos": "verb"
+        },
+        {
+          "w": "：",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "“",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "和",
+          "py": "hé",
+          "gloss": "as ... as",
+          "pos": "conn"
+        },
+        {
+          "w": "我",
+          "py": "wǒ",
+          "gloss": "me",
+          "pos": "pron"
+        },
+        {
+          "w": "一样",
+          "py": "yí yàng",
+          "gloss": "the same",
+          "pos": "adj"
+        },
+        {
+          "w": "大",
+          "py": "dà",
+          "gloss": "old (in age)",
+          "pos": "adj"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "他",
+          "py": "tā",
+          "gloss": "he",
+          "pos": "pron"
+        },
+        {
+          "w": "今年",
+          "py": "jīn nián",
+          "gloss": "this year",
+          "pos": "noun"
+        },
+        {
+          "w": "七",
+          "py": "qī",
+          "gloss": "seven",
+          "pos": "quant"
+        },
+        {
+          "w": "岁",
+          "py": "suì",
+          "gloss": "years old",
+          "pos": "quant"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "”",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "老师问：“为什么？”",
+      "en": "The teacher asked, \"Why?\"",
+      "tokens": [
+        {
+          "w": "老师",
+          "py": "lǎo shī",
+          "gloss": "teacher",
+          "pos": "noun"
+        },
+        {
+          "w": "问",
+          "py": "wèn",
+          "gloss": "to ask",
+          "pos": "verb"
+        },
+        {
+          "w": "：",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "“",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "为什么",
+          "py": "wèi shén me",
+          "gloss": "why",
+          "pos": "adv"
+        },
+        {
+          "w": "？",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "”",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "他说：“因为他在我出生的那一天，才变成爸爸的呀！”",
+      "en": "Xiaoming said, \"Because he only became a dad on the day I was born!\"",
+      "tokens": [
+        {
+          "w": "他",
+          "py": "tā",
+          "gloss": "he",
+          "pos": "pron"
+        },
+        {
+          "w": "说",
+          "py": "shuō",
+          "gloss": "to say",
+          "pos": "verb"
+        },
+        {
+          "w": "：",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "“",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "因为",
+          "py": "yīn wèi",
+          "gloss": "because",
+          "pos": "conn"
+        },
+        {
+          "w": "他",
+          "py": "tā",
+          "gloss": "he",
+          "pos": "pron"
+        },
+        {
+          "w": "在",
+          "py": "zài",
+          "gloss": "on",
+          "pos": "conn"
+        },
+        {
+          "w": "我",
+          "py": "wǒ",
+          "gloss": "my",
+          "pos": "pron"
+        },
+        {
+          "w": "出生",
+          "py": "chū shēng",
+          "gloss": "to be born",
+          "pos": "verb"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(attributive)",
+          "pos": "part"
+        },
+        {
+          "w": "那一天",
+          "py": "nà yì tiān",
+          "gloss": "that day",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "才",
+          "py": "cái",
+          "gloss": "only (not until)",
+          "pos": "adv"
+        },
+        {
+          "w": "变成",
+          "py": "biàn chéng",
+          "gloss": "to become",
+          "pos": "verb"
+        },
+        {
+          "w": "爸爸",
+          "py": "bà ba",
+          "gloss": "dad",
+          "pos": "noun"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(emphatic)",
+          "pos": "part"
+        },
+        {
+          "w": "呀",
+          "py": "ya",
+          "gloss": "(exclamatory)",
+          "pos": "part"
+        },
+        {
+          "w": "！",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "”",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    }
+  ],
+  "new_words": [
+    {
+      "w": "小明",
+      "py": "Xiǎo Míng",
+      "gloss": "Xiaoming"
+    }
+  ],
+  "grammar_points": [
+    {
+      "pattern": "和……一样＋adjective",
+      "explanation_en": "Means \"as (adjective) as ...\". Put the thing you compare with after 和, then 一样 and the adjective.",
+      "example_zh": "我的弟弟和我一样高。",
+      "example_en": "My younger brother is as tall as I am."
+    },
+    {
+      "pattern": "因为……，才……",
+      "explanation_en": "Gives a reason and stresses that something happened only at that point or under that condition. 才 means \"only then\".",
+      "example_zh": "因为下雨了，我们才回家。",
+      "example_en": "Because it rained, we only then went home."
+    },
+    {
+      "pattern": "……的那一天",
+      "explanation_en": "A clause before 的那一天 describes which day you mean, like \"the day when ...\".",
+      "example_zh": "我到北京的那一天，天气很好。",
+      "example_en": "On the day I arrived in Beijing, the weather was very nice."
+    }
+  ],
+  "questions": [
+    {
+      "q_zh": "小明的爸爸今年多少岁？",
+      "q_en": "How old is Xiaoming's father this year, according to Xiaoming?",
+      "answer_en": "Seven years old."
+    },
+    {
+      "q_zh": "他为什么这样说？",
+      "q_en": "Why does Xiaoming say this?",
+      "answer_en": "Because his father only became a father on the day Xiaoming was born."
+    },
+    {
+      "q_zh": "谁问了这个问题？",
+      "q_en": "Who asked Xiaoming this question?",
+      "answer_en": "His teacher."
+    }
+  ]
+}

@@ -1,0 +1,917 @@
+{
+  "id": "20261020-inter-chinese-children-are-too-heavy",
+  "series_id": null,
+  "chapter": null,
+  "topic": "News-style",
+  "format": "story",
+  "created_at": "2026-10-20",
+  "ai_generated": false,
+  "title_zh": "中国的孩子太胖了",
+  "title_en": "Chinese Children Are Too Heavy",
+  "summary_en": "Many children in China are overweight, boys more than girls. The text explains why children get fat and says everyone should exercise more and eat better.",
+  "level": "intermediate",
+  "sentences": [
+    {
+      "zh": "现在，中国的孩子有点儿太胖了。",
+      "en": "Now, children in China are a bit too fat.",
+      "tokens": [
+        {
+          "w": "现在",
+          "py": "xiàn zài",
+          "gloss": "now",
+          "pos": "adv"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "中国",
+          "py": "Zhōng guó",
+          "gloss": "China",
+          "pos": "noun"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(possessive)",
+          "pos": "part"
+        },
+        {
+          "w": "孩子",
+          "py": "hái zi",
+          "gloss": "children",
+          "pos": "noun"
+        },
+        {
+          "w": "有点儿",
+          "py": "yǒu diǎnr",
+          "gloss": "a bit",
+          "pos": "adv"
+        },
+        {
+          "w": "太",
+          "py": "tài",
+          "gloss": "too",
+          "pos": "adv"
+        },
+        {
+          "w": "胖",
+          "py": "pàng",
+          "gloss": "fat",
+          "pos": "adj"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(change of state)",
+          "pos": "part"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "男孩子比女孩子更胖。",
+      "en": "Boys are fatter than girls.",
+      "tokens": [
+        {
+          "w": "男孩子",
+          "py": "nán hái zi",
+          "gloss": "boys",
+          "pos": "noun"
+        },
+        {
+          "w": "比",
+          "py": "bǐ",
+          "gloss": "than",
+          "pos": "conn"
+        },
+        {
+          "w": "女孩子",
+          "py": "nǚ hái zi",
+          "gloss": "girls",
+          "pos": "noun"
+        },
+        {
+          "w": "更",
+          "py": "gèng",
+          "gloss": "more",
+          "pos": "adv"
+        },
+        {
+          "w": "胖",
+          "py": "pàng",
+          "gloss": "fat",
+          "pos": "adj"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "很多爸爸和妈妈觉得，孩子胖一点儿是好事。",
+      "en": "Many fathers and mothers think it is a good thing for a child to be a little fat.",
+      "tokens": [
+        {
+          "w": "很多",
+          "py": "hěn duō",
+          "gloss": "many",
+          "pos": "adj"
+        },
+        {
+          "w": "爸爸",
+          "py": "bà ba",
+          "gloss": "fathers",
+          "pos": "noun"
+        },
+        {
+          "w": "和",
+          "py": "hé",
+          "gloss": "and",
+          "pos": "conn"
+        },
+        {
+          "w": "妈妈",
+          "py": "mā ma",
+          "gloss": "mothers",
+          "pos": "noun"
+        },
+        {
+          "w": "觉得",
+          "py": "jué de",
+          "gloss": "to think",
+          "pos": "verb"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "孩子",
+          "py": "hái zi",
+          "gloss": "child",
+          "pos": "noun"
+        },
+        {
+          "w": "胖",
+          "py": "pàng",
+          "gloss": "being fat",
+          "pos": "adj"
+        },
+        {
+          "w": "一点儿",
+          "py": "yì diǎnr",
+          "gloss": "a little",
+          "pos": "quant"
+        },
+        {
+          "w": "是",
+          "py": "shì",
+          "gloss": "to be",
+          "pos": "verb"
+        },
+        {
+          "w": "好事",
+          "py": "hǎo shì",
+          "gloss": "good thing",
+          "pos": "noun"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "因为胖看起来身体好。",
+      "en": "Because being fat looks like being healthy.",
+      "tokens": [
+        {
+          "w": "因为",
+          "py": "yīn wèi",
+          "gloss": "because",
+          "pos": "conn"
+        },
+        {
+          "w": "胖",
+          "py": "pàng",
+          "gloss": "being fat",
+          "pos": "noun"
+        },
+        {
+          "w": "看起来",
+          "py": "kàn qǐ lai",
+          "gloss": "to look (like)",
+          "pos": "verb"
+        },
+        {
+          "w": "身体",
+          "py": "shēn tǐ",
+          "gloss": "body (health)",
+          "pos": "noun"
+        },
+        {
+          "w": "好",
+          "py": "hǎo",
+          "gloss": "healthy",
+          "pos": "adj"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "但是，医生说，太胖了对身体不好。",
+      "en": "But doctors say that being too fat is bad for the body.",
+      "tokens": [
+        {
+          "w": "但是",
+          "py": "dàn shì",
+          "gloss": "but",
+          "pos": "conn"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "医生",
+          "py": "yī shēng",
+          "gloss": "doctors",
+          "pos": "noun"
+        },
+        {
+          "w": "说",
+          "py": "shuō",
+          "gloss": "to say",
+          "pos": "verb"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "太",
+          "py": "tài",
+          "gloss": "too",
+          "pos": "adv"
+        },
+        {
+          "w": "胖",
+          "py": "pàng",
+          "gloss": "being fat",
+          "pos": "adj"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(change of state)",
+          "pos": "part"
+        },
+        {
+          "w": "对",
+          "py": "duì",
+          "gloss": "for",
+          "pos": "conn"
+        },
+        {
+          "w": "身体",
+          "py": "shēn tǐ",
+          "gloss": "body",
+          "pos": "noun"
+        },
+        {
+          "w": "不",
+          "py": "bù",
+          "gloss": "not",
+          "pos": "adv"
+        },
+        {
+          "w": "好",
+          "py": "hǎo",
+          "gloss": "good (here: bad)",
+          "pos": "adj"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "在一些地方，比如湖南，孩子吃了很多油，所以胖孩子很多。",
+      "en": "In some places, such as Hunan, children eat a lot of oil, so there are many fat children.",
+      "tokens": [
+        {
+          "w": "在",
+          "py": "zài",
+          "gloss": "in",
+          "pos": "conn"
+        },
+        {
+          "w": "一些",
+          "py": "yì xiē",
+          "gloss": "some",
+          "pos": "quant"
+        },
+        {
+          "w": "地方",
+          "py": "dì fang",
+          "gloss": "places",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "比如",
+          "py": "bǐ rú",
+          "gloss": "such as",
+          "pos": "conn"
+        },
+        {
+          "w": "湖南",
+          "py": "Hú nán",
+          "gloss": "Hunan",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "孩子",
+          "py": "hái zi",
+          "gloss": "children",
+          "pos": "noun"
+        },
+        {
+          "w": "吃",
+          "py": "chī",
+          "gloss": "to eat",
+          "pos": "verb"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(completed)",
+          "pos": "part"
+        },
+        {
+          "w": "很多",
+          "py": "hěn duō",
+          "gloss": "a lot of",
+          "pos": "adj"
+        },
+        {
+          "w": "油",
+          "py": "yóu",
+          "gloss": "oil",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "所以",
+          "py": "suǒ yǐ",
+          "gloss": "so",
+          "pos": "conn"
+        },
+        {
+          "w": "胖",
+          "py": "pàng",
+          "gloss": "fat",
+          "pos": "adj"
+        },
+        {
+          "w": "孩子",
+          "py": "hái zi",
+          "gloss": "children",
+          "pos": "noun"
+        },
+        {
+          "w": "很多",
+          "py": "hěn duō",
+          "gloss": "many",
+          "pos": "adj"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "为什么孩子会变胖？",
+      "en": "Why do children become fat?",
+      "tokens": [
+        {
+          "w": "为什么",
+          "py": "wèi shén me",
+          "gloss": "why",
+          "pos": "adv"
+        },
+        {
+          "w": "孩子",
+          "py": "hái zi",
+          "gloss": "children",
+          "pos": "noun"
+        },
+        {
+          "w": "会",
+          "py": "huì",
+          "gloss": "will",
+          "pos": "verb"
+        },
+        {
+          "w": "变",
+          "py": "biàn",
+          "gloss": "to become",
+          "pos": "verb"
+        },
+        {
+          "w": "胖",
+          "py": "pàng",
+          "gloss": "fat",
+          "pos": "adj"
+        },
+        {
+          "w": "？",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "第一，孩子吃饭太快，吃得太多。",
+      "en": "First, children eat too fast and eat too much.",
+      "tokens": [
+        {
+          "w": "第一",
+          "py": "dì yī",
+          "gloss": "first",
+          "pos": "quant"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "孩子",
+          "py": "hái zi",
+          "gloss": "children",
+          "pos": "noun"
+        },
+        {
+          "w": "吃饭",
+          "py": "chī fàn",
+          "gloss": "to eat",
+          "pos": "verb"
+        },
+        {
+          "w": "太",
+          "py": "tài",
+          "gloss": "too",
+          "pos": "adv"
+        },
+        {
+          "w": "快",
+          "py": "kuài",
+          "gloss": "fast",
+          "pos": "adj"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "吃",
+          "py": "chī",
+          "gloss": "to eat",
+          "pos": "verb"
+        },
+        {
+          "w": "得",
+          "py": "de",
+          "gloss": "(degree complement)",
+          "pos": "part"
+        },
+        {
+          "w": "太",
+          "py": "tài",
+          "gloss": "too",
+          "pos": "adv"
+        },
+        {
+          "w": "多",
+          "py": "duō",
+          "gloss": "much",
+          "pos": "adj"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "第二，很多孩子喜欢玩手机，不喜欢运动。",
+      "en": "Second, many children like playing with their phones and do not like exercise.",
+      "tokens": [
+        {
+          "w": "第二",
+          "py": "dì èr",
+          "gloss": "second",
+          "pos": "quant"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "很多",
+          "py": "hěn duō",
+          "gloss": "many",
+          "pos": "adj"
+        },
+        {
+          "w": "孩子",
+          "py": "hái zi",
+          "gloss": "children",
+          "pos": "noun"
+        },
+        {
+          "w": "喜欢",
+          "py": "xǐ huan",
+          "gloss": "to like",
+          "pos": "verb"
+        },
+        {
+          "w": "玩",
+          "py": "wán",
+          "gloss": "to play with",
+          "pos": "verb"
+        },
+        {
+          "w": "手机",
+          "py": "shǒu jī",
+          "gloss": "phones",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "不",
+          "py": "bù",
+          "gloss": "not",
+          "pos": "adv"
+        },
+        {
+          "w": "喜欢",
+          "py": "xǐ huan",
+          "gloss": "to like",
+          "pos": "verb"
+        },
+        {
+          "w": "运动",
+          "py": "yùn dòng",
+          "gloss": "exercise",
+          "pos": "noun"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "第三，如果爸爸妈妈很胖，孩子也可能很胖。",
+      "en": "Third, if the father and mother are fat, the child may also be fat.",
+      "tokens": [
+        {
+          "w": "第三",
+          "py": "dì sān",
+          "gloss": "third",
+          "pos": "quant"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "如果",
+          "py": "rú guǒ",
+          "gloss": "if",
+          "pos": "conn"
+        },
+        {
+          "w": "爸爸",
+          "py": "bà ba",
+          "gloss": "father",
+          "pos": "noun"
+        },
+        {
+          "w": "妈妈",
+          "py": "mā ma",
+          "gloss": "mother",
+          "pos": "noun"
+        },
+        {
+          "w": "很",
+          "py": "hěn",
+          "gloss": "very",
+          "pos": "adv"
+        },
+        {
+          "w": "胖",
+          "py": "pàng",
+          "gloss": "fat",
+          "pos": "adj"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "孩子",
+          "py": "hái zi",
+          "gloss": "child",
+          "pos": "noun"
+        },
+        {
+          "w": "也",
+          "py": "yě",
+          "gloss": "also",
+          "pos": "adv"
+        },
+        {
+          "w": "可能",
+          "py": "kě néng",
+          "gloss": "may",
+          "pos": "adv"
+        },
+        {
+          "w": "很",
+          "py": "hěn",
+          "gloss": "very",
+          "pos": "adv"
+        },
+        {
+          "w": "胖",
+          "py": "pàng",
+          "gloss": "fat",
+          "pos": "adj"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "太胖了会让人生病。",
+      "en": "Being too fat can make people sick.",
+      "tokens": [
+        {
+          "w": "太",
+          "py": "tài",
+          "gloss": "too",
+          "pos": "adv"
+        },
+        {
+          "w": "胖",
+          "py": "pàng",
+          "gloss": "fat",
+          "pos": "adj"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(change of state)",
+          "pos": "part"
+        },
+        {
+          "w": "会",
+          "py": "huì",
+          "gloss": "can",
+          "pos": "verb"
+        },
+        {
+          "w": "让",
+          "py": "ràng",
+          "gloss": "to make",
+          "pos": "verb"
+        },
+        {
+          "w": "人",
+          "py": "rén",
+          "gloss": "people",
+          "pos": "noun"
+        },
+        {
+          "w": "生病",
+          "py": "shēng bìng",
+          "gloss": "get sick",
+          "pos": "verb"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "大家要多运动，多吃水果和菜，慢慢地吃饭。",
+      "en": "Everyone should exercise more, eat more fruit and vegetables, and eat slowly.",
+      "tokens": [
+        {
+          "w": "大家",
+          "py": "dà jiā",
+          "gloss": "everyone",
+          "pos": "pron"
+        },
+        {
+          "w": "要",
+          "py": "yào",
+          "gloss": "should",
+          "pos": "verb"
+        },
+        {
+          "w": "多",
+          "py": "duō",
+          "gloss": "more",
+          "pos": "adv"
+        },
+        {
+          "w": "运动",
+          "py": "yùn dòng",
+          "gloss": "exercise",
+          "pos": "verb"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "多",
+          "py": "duō",
+          "gloss": "more",
+          "pos": "adv"
+        },
+        {
+          "w": "吃",
+          "py": "chī",
+          "gloss": "to eat",
+          "pos": "verb"
+        },
+        {
+          "w": "水果",
+          "py": "shuǐ guǒ",
+          "gloss": "fruit",
+          "pos": "noun"
+        },
+        {
+          "w": "和",
+          "py": "hé",
+          "gloss": "and",
+          "pos": "conn"
+        },
+        {
+          "w": "菜",
+          "py": "cài",
+          "gloss": "vegetables",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "慢慢地",
+          "py": "màn màn de",
+          "gloss": "slowly",
+          "pos": "adv"
+        },
+        {
+          "w": "吃饭",
+          "py": "chī fàn",
+          "gloss": "to eat",
+          "pos": "verb"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    }
+  ],
+  "new_words": [
+    {
+      "w": "玩",
+      "py": "wán",
+      "gloss": "to play with"
+    }
+  ],
+  "grammar_points": [
+    {
+      "pattern": "A 比 B + 更 + adjective",
+      "explanation_en": "Use 比 to compare two things. Adding 更 means 'even more' and stresses the difference.",
+      "example_zh": "哥哥比弟弟更高。",
+      "example_en": "The older brother is taller than the younger brother."
+    },
+    {
+      "pattern": "Verb + 得 + 太/很 + adjective",
+      "explanation_en": "After a verb, 得 introduces a description of how the action is done.",
+      "example_zh": "她说得太快了。",
+      "example_en": "She speaks too fast."
+    },
+    {
+      "pattern": "如果……，……也……",
+      "explanation_en": "如果 means 'if'. The second part often uses 也 or 就 to give the result or a similar result.",
+      "example_zh": "如果明天下雨，我也不出去。",
+      "example_en": "If it rains tomorrow, I won't go out either."
+    }
+  ],
+  "questions": [
+    {
+      "q_zh": "很多爸爸妈妈为什么觉得孩子胖一点儿是好事？",
+      "q_en": "Why do many parents think it is good for a child to be a little fat?",
+      "answer_en": "Because being fat looks like being healthy."
+    },
+    {
+      "q_zh": "孩子为什么会变胖？请说一个原因。",
+      "q_en": "Why do children become fat? Give one reason.",
+      "answer_en": "They eat too fast and too much, they play on phones instead of exercising, or their parents are fat."
+    },
+    {
+      "q_zh": "医生说大家应该怎么做？",
+      "q_en": "What do doctors say everyone should do?",
+      "answer_en": "Exercise more, eat more fruit and vegetables, and eat slowly."
+    }
+  ]
+}

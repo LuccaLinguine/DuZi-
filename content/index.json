@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T13:25:29.253Z",
+  "generated_at": "2026-10-20T13:08:40.881Z",
   "stories": [
     {
       "id": "20261017-elem-the-best-dumplings",
@@ -135,6 +135,111 @@
       "chars": 506,
       "in_level_pct": 97.4,
       "hash": "6d56556cd1f05bbb"
+    },
+    {
+      "id": "20261020-adv-a-guide-to-xian",
+      "file": "stories/20261020-adv-a-guide-to-xian.json",
+      "title_zh": "去西安旅行",
+      "title_en": "Travelling to Xi'an",
+      "level": "advanced",
+      "topic": "Travel",
+      "format": "article",
+      "series_id": null,
+      "chapter": null,
+      "created_at": "2026-10-20",
+      "chars": 1191,
+      "in_level_pct": 95.5,
+      "hash": "95845c3ae62a35d1"
+    },
+    {
+      "id": "20261020-elem-dawei-martin",
+      "file": "stories/20261020-elem-dawei-martin.json",
+      "title_zh": "大伟和马丁",
+      "title_en": "Dawei and Martin",
+      "level": "elementary",
+      "topic": "Daily life",
+      "format": "story",
+      "series_id": null,
+      "chapter": null,
+      "created_at": "2026-10-20",
+      "chars": 120,
+      "in_level_pct": 97.4,
+      "hash": "08efbe11c922c5bf"
+    },
+    {
+      "id": "20261020-elem-grandmas-photos",
+      "file": "stories/20261020-elem-grandmas-photos.json",
+      "title_zh": "奶奶的照片",
+      "title_en": "Grandma's Photos",
+      "level": "elementary",
+      "topic": "Daily life",
+      "format": "story",
+      "series_id": null,
+      "chapter": null,
+      "created_at": "2026-10-20",
+      "chars": 151,
+      "in_level_pct": 96.2,
+      "hash": "65bed84ca96da53c"
+    },
+    {
+      "id": "20261020-elem-lantern-festival",
+      "file": "stories/20261020-elem-lantern-festival.json",
+      "title_zh": "元宵节",
+      "title_en": "The Lantern Festival",
+      "level": "elementary",
+      "topic": "Culture",
+      "format": "article",
+      "series_id": null,
+      "chapter": null,
+      "created_at": "2026-10-20",
+      "chars": 91,
+      "in_level_pct": 96.7,
+      "hash": "64c03731f8e6b504"
+    },
+    {
+      "id": "20261020-inter-chinese-children-are-too-heavy",
+      "file": "stories/20261020-inter-chinese-children-are-too-heavy.json",
+      "title_zh": "中国的孩子太胖了",
+      "title_en": "Chinese Children Are Too Heavy",
+      "level": "intermediate",
+      "topic": "News-style",
+      "format": "story",
+      "series_id": null,
+      "chapter": null,
+      "created_at": "2026-10-20",
+      "chars": 163,
+      "in_level_pct": 99,
+      "hash": "0a4f213c0e303232"
+    },
+    {
+      "id": "20261020-master-how-old-is-dad",
+      "file": "stories/20261020-master-how-old-is-dad.json",
+      "title_zh": "爸爸几岁？",
+      "title_en": "How Old Is Dad?",
+      "level": "master",
+      "topic": "Funny",
+      "format": "dialogue",
+      "series_id": null,
+      "chapter": null,
+      "created_at": "2026-10-20",
+      "chars": 51,
+      "in_level_pct": 97.1,
+      "hash": "1aa67118c8174ec0"
+    },
+    {
+      "id": "20261020-newbie-the-saturday-bus",
+      "file": "stories/20261020-newbie-the-saturday-bus.json",
+      "title_zh": "星期六的早上",
+      "title_en": "Saturday Morning",
+      "level": "newbie",
+      "topic": "Work",
+      "format": "story",
+      "series_id": null,
+      "chapter": null,
+      "created_at": "2026-10-20",
+      "chars": 85,
+      "in_level_pct": 95.3,
+      "hash": "2a688da26d0b5596"
     }
   ]
 }

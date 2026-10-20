@@ -1,0 +1,867 @@
+{
+  "id": "20261020-elem-grandmas-photos",
+  "series_id": null,
+  "chapter": null,
+  "topic": "Daily life",
+  "format": "story",
+  "created_at": "2026-10-20",
+  "ai_generated": false,
+  "title_zh": "奶奶的照片",
+  "title_en": "Grandma's Photos",
+  "summary_en": "An eighty-year-old grandmother finally has time for herself and learns to take photos with her phone. When she shares them online, far more people like them than she ever expected.",
+  "level": "elementary",
+  "sentences": [
+    {
+      "zh": "我奶奶今年八十岁了，可是她天天早上六点就起床，去公园运动。",
+      "en": "My grandma is eighty this year, but every morning she's up at six and goes to the park to exercise.",
+      "tokens": [
+        {
+          "w": "我",
+          "py": "wǒ",
+          "gloss": "my",
+          "pos": "pron"
+        },
+        {
+          "w": "奶奶",
+          "py": "nǎi nai",
+          "gloss": "grandma",
+          "pos": "noun"
+        },
+        {
+          "w": "今年",
+          "py": "jīn nián",
+          "gloss": "this year",
+          "pos": "noun"
+        },
+        {
+          "w": "八十",
+          "py": "bā shí",
+          "gloss": "eighty",
+          "pos": "quant"
+        },
+        {
+          "w": "岁",
+          "py": "suì",
+          "gloss": "years old",
+          "pos": "quant"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(now)",
+          "pos": "part"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "可是",
+          "py": "kě shì",
+          "gloss": "but",
+          "pos": "conn"
+        },
+        {
+          "w": "她",
+          "py": "tā",
+          "gloss": "she",
+          "pos": "pron"
+        },
+        {
+          "w": "天天",
+          "py": "tiān tiān",
+          "gloss": "every day",
+          "pos": "noun"
+        },
+        {
+          "w": "早上",
+          "py": "zǎo shang",
+          "gloss": "morning",
+          "pos": "noun"
+        },
+        {
+          "w": "六",
+          "py": "liù",
+          "gloss": "six",
+          "pos": "quant"
+        },
+        {
+          "w": "点",
+          "py": "diǎn",
+          "gloss": "o'clock",
+          "pos": "quant"
+        },
+        {
+          "w": "就",
+          "py": "jiù",
+          "gloss": "already",
+          "pos": "adv"
+        },
+        {
+          "w": "起床",
+          "py": "qǐ chuáng",
+          "gloss": "to get up",
+          "pos": "verb"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "去",
+          "py": "qù",
+          "gloss": "to go",
+          "pos": "verb"
+        },
+        {
+          "w": "公园",
+          "py": "gōng yuán",
+          "gloss": "park",
+          "pos": "noun"
+        },
+        {
+          "w": "运动",
+          "py": "yùn dòng",
+          "gloss": "to exercise",
+          "pos": "verb"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "她说，年轻的时候工作太忙了，没有时间照顾自己。",
+      "en": "She says that when she was young, work kept her too busy, and she had no time to look after herself.",
+      "tokens": [
+        {
+          "w": "她",
+          "py": "tā",
+          "gloss": "she",
+          "pos": "pron"
+        },
+        {
+          "w": "说",
+          "py": "shuō",
+          "gloss": "to say",
+          "pos": "verb"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "年轻",
+          "py": "nián qīng",
+          "gloss": "young",
+          "pos": "adj"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(that)",
+          "pos": "part"
+        },
+        {
+          "w": "时候",
+          "py": "shí hou",
+          "gloss": "time",
+          "pos": "noun"
+        },
+        {
+          "w": "工作",
+          "py": "gōng zuò",
+          "gloss": "work",
+          "pos": "noun"
+        },
+        {
+          "w": "太",
+          "py": "tài",
+          "gloss": "too",
+          "pos": "adv"
+        },
+        {
+          "w": "忙",
+          "py": "máng",
+          "gloss": "busy",
+          "pos": "adj"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(emphasis)",
+          "pos": "part"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "没有",
+          "py": "méi yǒu",
+          "gloss": "not have",
+          "pos": "verb"
+        },
+        {
+          "w": "时间",
+          "py": "shí jiān",
+          "gloss": "time",
+          "pos": "noun"
+        },
+        {
+          "w": "照顾",
+          "py": "zhào gù",
+          "gloss": "to look after",
+          "pos": "verb"
+        },
+        {
+          "w": "自己",
+          "py": "zì jǐ",
+          "gloss": "herself",
+          "pos": "pron"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "现在她不上班了，可以做自己喜欢的事情了。",
+      "en": "Now she doesn't go to work any more, so she can do the things she likes.",
+      "tokens": [
+        {
+          "w": "现在",
+          "py": "xiàn zài",
+          "gloss": "now",
+          "pos": "noun"
+        },
+        {
+          "w": "她",
+          "py": "tā",
+          "gloss": "she",
+          "pos": "pron"
+        },
+        {
+          "w": "不",
+          "py": "bú",
+          "gloss": "not",
+          "pos": "adv"
+        },
+        {
+          "w": "上班",
+          "py": "shàng bān",
+          "gloss": "to go to work",
+          "pos": "verb"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(any more)",
+          "pos": "part"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "可以",
+          "py": "kě yǐ",
+          "gloss": "can",
+          "pos": "verb"
+        },
+        {
+          "w": "做",
+          "py": "zuò",
+          "gloss": "to do",
+          "pos": "verb"
+        },
+        {
+          "w": "自己",
+          "py": "zì jǐ",
+          "gloss": "herself",
+          "pos": "pron"
+        },
+        {
+          "w": "喜欢",
+          "py": "xǐ huan",
+          "gloss": "to like",
+          "pos": "verb"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(that)",
+          "pos": "part"
+        },
+        {
+          "w": "事情",
+          "py": "shì qing",
+          "gloss": "things",
+          "pos": "noun"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(now)",
+          "pos": "part"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "她打太极拳，和楼下的朋友说话，还学用手机照相。",
+      "en": "She does tai chi, chats with her friends downstairs, and is learning to take photos with her phone.",
+      "tokens": [
+        {
+          "w": "她",
+          "py": "tā",
+          "gloss": "she",
+          "pos": "pron"
+        },
+        {
+          "w": "打",
+          "py": "dǎ",
+          "gloss": "to do (tai chi)",
+          "pos": "verb"
+        },
+        {
+          "w": "太极拳",
+          "py": "tài jí quán",
+          "gloss": "tai chi",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "和",
+          "py": "hé",
+          "gloss": "with",
+          "pos": "conn"
+        },
+        {
+          "w": "楼下",
+          "py": "lóu xià",
+          "gloss": "downstairs",
+          "pos": "noun"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(of)",
+          "pos": "part"
+        },
+        {
+          "w": "朋友",
+          "py": "péng you",
+          "gloss": "friends",
+          "pos": "noun"
+        },
+        {
+          "w": "说话",
+          "py": "shuō huà",
+          "gloss": "to chat",
+          "pos": "verb"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "还",
+          "py": "hái",
+          "gloss": "also",
+          "pos": "adv"
+        },
+        {
+          "w": "学",
+          "py": "xué",
+          "gloss": "to learn",
+          "pos": "verb"
+        },
+        {
+          "w": "用",
+          "py": "yòng",
+          "gloss": "to use",
+          "pos": "verb"
+        },
+        {
+          "w": "手机",
+          "py": "shǒu jī",
+          "gloss": "mobile phone",
+          "pos": "noun"
+        },
+        {
+          "w": "照相",
+          "py": "zhào xiàng",
+          "gloss": "to take photos",
+          "pos": "verb"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "她的第一张照片是楼下的花。",
+      "en": "Her first photo was of the flowers downstairs.",
+      "tokens": [
+        {
+          "w": "她",
+          "py": "tā",
+          "gloss": "her",
+          "pos": "pron"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(possessive)",
+          "pos": "part"
+        },
+        {
+          "w": "第一",
+          "py": "dì yī",
+          "gloss": "first",
+          "pos": "quant"
+        },
+        {
+          "w": "张",
+          "py": "zhāng",
+          "gloss": "(measure word)",
+          "pos": "quant"
+        },
+        {
+          "w": "照片",
+          "py": "zhào piàn",
+          "gloss": "photo",
+          "pos": "noun"
+        },
+        {
+          "w": "是",
+          "py": "shì",
+          "gloss": "was",
+          "pos": "verb"
+        },
+        {
+          "w": "楼下",
+          "py": "lóu xià",
+          "gloss": "downstairs",
+          "pos": "noun"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(of)",
+          "pos": "part"
+        },
+        {
+          "w": "花",
+          "py": "huā",
+          "gloss": "flowers",
+          "pos": "noun"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "孙子看了，说这张照片很好看，她高兴得好几天都没睡好。",
+      "en": "Her grandson looked at it and said it was a lovely photo; she was so happy she didn't sleep well for days.",
+      "tokens": [
+        {
+          "w": "孙子",
+          "py": "sūn zi",
+          "gloss": "grandson",
+          "pos": "noun"
+        },
+        {
+          "w": "看",
+          "py": "kàn",
+          "gloss": "to look",
+          "pos": "verb"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(completed)",
+          "pos": "part"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "说",
+          "py": "shuō",
+          "gloss": "to say",
+          "pos": "verb"
+        },
+        {
+          "w": "这",
+          "py": "zhè",
+          "gloss": "this",
+          "pos": "pron"
+        },
+        {
+          "w": "张",
+          "py": "zhāng",
+          "gloss": "(measure word)",
+          "pos": "quant"
+        },
+        {
+          "w": "照片",
+          "py": "zhào piàn",
+          "gloss": "photo",
+          "pos": "noun"
+        },
+        {
+          "w": "很",
+          "py": "hěn",
+          "gloss": "very",
+          "pos": "adv"
+        },
+        {
+          "w": "好看",
+          "py": "hǎo kàn",
+          "gloss": "nice-looking",
+          "pos": "adj"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "她",
+          "py": "tā",
+          "gloss": "she",
+          "pos": "pron"
+        },
+        {
+          "w": "高兴",
+          "py": "gāo xìng",
+          "gloss": "happy",
+          "pos": "adj"
+        },
+        {
+          "w": "得",
+          "py": "de",
+          "gloss": "(so … that)",
+          "pos": "part"
+        },
+        {
+          "w": "好几天",
+          "py": "hǎo jǐ tiān",
+          "gloss": "several days",
+          "pos": "noun"
+        },
+        {
+          "w": "都",
+          "py": "dōu",
+          "gloss": "(for all of them)",
+          "pos": "adv"
+        },
+        {
+          "w": "没",
+          "py": "méi",
+          "gloss": "not",
+          "pos": "adv"
+        },
+        {
+          "w": "睡",
+          "py": "shuì",
+          "gloss": "to sleep",
+          "pos": "verb"
+        },
+        {
+          "w": "好",
+          "py": "hǎo",
+          "gloss": "well",
+          "pos": "adj"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "上个月，她还在网上给大家看这些花的照片。",
+      "en": "Last month, she even started showing these flower photos to everyone online.",
+      "tokens": [
+        {
+          "w": "上",
+          "py": "shàng",
+          "gloss": "last",
+          "pos": "adj"
+        },
+        {
+          "w": "个",
+          "py": "gè",
+          "gloss": "(measure word)",
+          "pos": "quant"
+        },
+        {
+          "w": "月",
+          "py": "yuè",
+          "gloss": "month",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "她",
+          "py": "tā",
+          "gloss": "she",
+          "pos": "pron"
+        },
+        {
+          "w": "还",
+          "py": "hái",
+          "gloss": "even",
+          "pos": "adv"
+        },
+        {
+          "w": "在",
+          "py": "zài",
+          "gloss": "on",
+          "pos": "conn"
+        },
+        {
+          "w": "网上",
+          "py": "wǎng shàng",
+          "gloss": "online",
+          "pos": "noun"
+        },
+        {
+          "w": "给",
+          "py": "gěi",
+          "gloss": "to",
+          "pos": "conn"
+        },
+        {
+          "w": "大家",
+          "py": "dà jiā",
+          "gloss": "everyone",
+          "pos": "pron"
+        },
+        {
+          "w": "看",
+          "py": "kàn",
+          "gloss": "to look at",
+          "pos": "verb"
+        },
+        {
+          "w": "这些",
+          "py": "zhè xiē",
+          "gloss": "these",
+          "pos": "pron"
+        },
+        {
+          "w": "花",
+          "py": "huā",
+          "gloss": "flower",
+          "pos": "noun"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(of)",
+          "pos": "part"
+        },
+        {
+          "w": "照片",
+          "py": "zhào piàn",
+          "gloss": "photos",
+          "pos": "noun"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "没想到，有两千多人喜欢她的照片！",
+      "en": "To her surprise, more than two thousand people like her photos!",
+      "tokens": [
+        {
+          "w": "没",
+          "py": "méi",
+          "gloss": "not",
+          "pos": "adv"
+        },
+        {
+          "w": "想到",
+          "py": "xiǎng dào",
+          "gloss": "to expect",
+          "pos": "verb"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "有",
+          "py": "yǒu",
+          "gloss": "there are",
+          "pos": "verb"
+        },
+        {
+          "w": "两",
+          "py": "liǎng",
+          "gloss": "two",
+          "pos": "quant"
+        },
+        {
+          "w": "千",
+          "py": "qiān",
+          "gloss": "thousand",
+          "pos": "quant"
+        },
+        {
+          "w": "多",
+          "py": "duō",
+          "gloss": "more than",
+          "pos": "quant"
+        },
+        {
+          "w": "人",
+          "py": "rén",
+          "gloss": "people",
+          "pos": "noun"
+        },
+        {
+          "w": "喜欢",
+          "py": "xǐ huan",
+          "gloss": "to like",
+          "pos": "verb"
+        },
+        {
+          "w": "她",
+          "py": "tā",
+          "gloss": "her",
+          "pos": "pron"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(possessive)",
+          "pos": "part"
+        },
+        {
+          "w": "照片",
+          "py": "zhào piàn",
+          "gloss": "photos",
+          "pos": "noun"
+        },
+        {
+          "w": "！",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    }
+  ],
+  "new_words": [
+    {
+      "w": "太极拳",
+      "py": "tài jí quán",
+      "gloss": "tai chi"
+    },
+    {
+      "w": "张",
+      "py": "zhāng",
+      "gloss": "(measure word for photos, paper)"
+    },
+    {
+      "w": "孙子",
+      "py": "sūn zi",
+      "gloss": "grandson"
+    }
+  ],
+  "grammar_points": [
+    {
+      "pattern": "adjective + 得 + result",
+      "explanation_en": "得 after an adjective tells you how strong the feeling was by showing what it caused. 高兴得没睡好 = so happy that she didn't sleep well.",
+      "example_zh": "他累得不想说话。",
+      "example_en": "He was so tired he didn't want to talk."
+    },
+    {
+      "pattern": "……了 (change of state)",
+      "explanation_en": "了 at the end of a sentence shows that something is now different from before. 不上班了 = doesn't go to work any more.",
+      "example_zh": "天黑了，我们回家吧。",
+      "example_en": "It's dark now, let's go home."
+    },
+    {
+      "pattern": "没想到，……",
+      "explanation_en": "Puts a surprise at the front of a sentence: \"I never expected that…\".",
+      "example_zh": "没想到，今天这么冷。",
+      "example_en": "I didn't expect it to be so cold today."
+    }
+  ],
+  "questions": [
+    {
+      "q_zh": "奶奶天天早上几点起床？",
+      "q_en": "What time does Grandma get up every morning?",
+      "answer_en": "At six o'clock."
+    },
+    {
+      "q_zh": "年轻的时候，奶奶为什么不能照顾自己？",
+      "q_en": "Why couldn't Grandma look after herself when she was young?",
+      "answer_en": "Because work kept her too busy."
+    },
+    {
+      "q_zh": "有多少人喜欢奶奶的照片？",
+      "q_en": "How many people like Grandma's photos?",
+      "answer_en": "More than two thousand."
+    }
+  ]
+}

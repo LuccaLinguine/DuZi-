@@ -1,0 +1,574 @@
+{
+  "id": "20261020-elem-lantern-festival",
+  "series_id": null,
+  "chapter": null,
+  "topic": "Culture",
+  "format": "article",
+  "created_at": "2026-10-20",
+  "ai_generated": false,
+  "title_zh": "元宵节",
+  "title_en": "The Lantern Festival",
+  "summary_en": "A short text about the Lantern Festival, when families eat yuanxiao together, see red lanterns and a big moon, and feel happy.",
+  "level": "elementary",
+  "sentences": [
+    {
+      "zh": "元宵节是中国的节日。",
+      "en": "The Lantern Festival is a Chinese festival.",
+      "tokens": [
+        {
+          "w": "元宵节",
+          "py": "yuán xiāo jié",
+          "gloss": "Lantern Festival",
+          "pos": "noun"
+        },
+        {
+          "w": "是",
+          "py": "shì",
+          "gloss": "is",
+          "pos": "verb"
+        },
+        {
+          "w": "中国",
+          "py": "Zhōng guó",
+          "gloss": "China",
+          "pos": "noun"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(possessive)",
+          "pos": "part"
+        },
+        {
+          "w": "节日",
+          "py": "jié rì",
+          "gloss": "festival",
+          "pos": "noun"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "这是说，春节过了，春天要来了。",
+      "en": "It means the Spring Festival is over and spring is coming.",
+      "tokens": [
+        {
+          "w": "这",
+          "py": "zhè",
+          "gloss": "this",
+          "pos": "pron"
+        },
+        {
+          "w": "是",
+          "py": "shì",
+          "gloss": "means",
+          "pos": "verb"
+        },
+        {
+          "w": "说",
+          "py": "shuō",
+          "gloss": "to say",
+          "pos": "verb"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "春节",
+          "py": "Chūn jié",
+          "gloss": "Spring Festival",
+          "pos": "noun"
+        },
+        {
+          "w": "过",
+          "py": "guò",
+          "gloss": "to pass",
+          "pos": "verb"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(completed)",
+          "pos": "part"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "春天",
+          "py": "chūn tiān",
+          "gloss": "spring",
+          "pos": "noun"
+        },
+        {
+          "w": "要",
+          "py": "yào",
+          "gloss": "is about to",
+          "pos": "adv"
+        },
+        {
+          "w": "来",
+          "py": "lái",
+          "gloss": "come",
+          "pos": "verb"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(change of state)",
+          "pos": "part"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "这一天，家人会在一起吃元宵。",
+      "en": "On this day, families eat yuanxiao together.",
+      "tokens": [
+        {
+          "w": "这",
+          "py": "zhè",
+          "gloss": "this",
+          "pos": "pron"
+        },
+        {
+          "w": "一",
+          "py": "yì",
+          "gloss": "one",
+          "pos": "quant"
+        },
+        {
+          "w": "天",
+          "py": "tiān",
+          "gloss": "day",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "家人",
+          "py": "jiā rén",
+          "gloss": "family members",
+          "pos": "noun"
+        },
+        {
+          "w": "会",
+          "py": "huì",
+          "gloss": "will",
+          "pos": "verb"
+        },
+        {
+          "w": "在",
+          "py": "zài",
+          "gloss": "in",
+          "pos": "conn"
+        },
+        {
+          "w": "一起",
+          "py": "yì qǐ",
+          "gloss": "together",
+          "pos": "adv"
+        },
+        {
+          "w": "吃",
+          "py": "chī",
+          "gloss": "eat",
+          "pos": "verb"
+        },
+        {
+          "w": "元宵",
+          "py": "yuán xiāo",
+          "gloss": "yuanxiao",
+          "pos": "noun"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "它是白色的，非常好吃。",
+      "en": "It is white and very tasty.",
+      "tokens": [
+        {
+          "w": "它",
+          "py": "tā",
+          "gloss": "it",
+          "pos": "pron"
+        },
+        {
+          "w": "是",
+          "py": "shì",
+          "gloss": "is",
+          "pos": "verb"
+        },
+        {
+          "w": "白色",
+          "py": "bái sè",
+          "gloss": "white",
+          "pos": "noun"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(predicate particle)",
+          "pos": "part"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "非常",
+          "py": "fēi cháng",
+          "gloss": "very",
+          "pos": "adv"
+        },
+        {
+          "w": "好吃",
+          "py": "hǎo chī",
+          "gloss": "tasty",
+          "pos": "adj"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "晚上很漂亮，可以看到很多红色的灯。",
+      "en": "At night it is very beautiful, and you can see many red lanterns.",
+      "tokens": [
+        {
+          "w": "晚上",
+          "py": "wǎn shang",
+          "gloss": "night",
+          "pos": "noun"
+        },
+        {
+          "w": "很",
+          "py": "hěn",
+          "gloss": "very",
+          "pos": "adv"
+        },
+        {
+          "w": "漂亮",
+          "py": "piào liang",
+          "gloss": "beautiful",
+          "pos": "adj"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "可以",
+          "py": "kě yǐ",
+          "gloss": "can",
+          "pos": "verb"
+        },
+        {
+          "w": "看到",
+          "py": "kàn dào",
+          "gloss": "see",
+          "pos": "verb"
+        },
+        {
+          "w": "很多",
+          "py": "hěn duō",
+          "gloss": "many",
+          "pos": "adj"
+        },
+        {
+          "w": "红色",
+          "py": "hóng sè",
+          "gloss": "red",
+          "pos": "adj"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(attributive)",
+          "pos": "part"
+        },
+        {
+          "w": "灯",
+          "py": "dēng",
+          "gloss": "lantern",
+          "pos": "noun"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "月亮也很大。",
+      "en": "The moon is also very big.",
+      "tokens": [
+        {
+          "w": "月亮",
+          "py": "yuè liang",
+          "gloss": "moon",
+          "pos": "noun"
+        },
+        {
+          "w": "也",
+          "py": "yě",
+          "gloss": "also",
+          "pos": "adv"
+        },
+        {
+          "w": "很",
+          "py": "hěn",
+          "gloss": "very",
+          "pos": "adv"
+        },
+        {
+          "w": "大",
+          "py": "dà",
+          "gloss": "big",
+          "pos": "adj"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "我们会去看一看。",
+      "en": "We go to have a look.",
+      "tokens": [
+        {
+          "w": "我们",
+          "py": "wǒ men",
+          "gloss": "we",
+          "pos": "pron"
+        },
+        {
+          "w": "会",
+          "py": "huì",
+          "gloss": "will",
+          "pos": "verb"
+        },
+        {
+          "w": "去",
+          "py": "qù",
+          "gloss": "go",
+          "pos": "verb"
+        },
+        {
+          "w": "看一看",
+          "py": "kàn yi kàn",
+          "gloss": "have a look",
+          "pos": "verb"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "大家一起说话，一起笑，非常快乐。",
+      "en": "Everyone talks and laughs together, and we are very happy.",
+      "tokens": [
+        {
+          "w": "大家",
+          "py": "dà jiā",
+          "gloss": "everyone",
+          "pos": "pron"
+        },
+        {
+          "w": "一起",
+          "py": "yì qǐ",
+          "gloss": "together",
+          "pos": "adv"
+        },
+        {
+          "w": "说话",
+          "py": "shuō huà",
+          "gloss": "talk",
+          "pos": "verb"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "一起",
+          "py": "yì qǐ",
+          "gloss": "together",
+          "pos": "adv"
+        },
+        {
+          "w": "笑",
+          "py": "xiào",
+          "gloss": "laugh",
+          "pos": "verb"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "非常",
+          "py": "fēi cháng",
+          "gloss": "very",
+          "pos": "adv"
+        },
+        {
+          "w": "快乐",
+          "py": "kuài lè",
+          "gloss": "happy",
+          "pos": "adj"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "我非常喜欢这个节日！",
+      "en": "I like this festival very much!",
+      "tokens": [
+        {
+          "w": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "pos": "pron"
+        },
+        {
+          "w": "非常",
+          "py": "fēi cháng",
+          "gloss": "very",
+          "pos": "adv"
+        },
+        {
+          "w": "喜欢",
+          "py": "xǐ huan",
+          "gloss": "like",
+          "pos": "verb"
+        },
+        {
+          "w": "这",
+          "py": "zhè",
+          "gloss": "this",
+          "pos": "pron"
+        },
+        {
+          "w": "个",
+          "py": "gè",
+          "gloss": "(measure)",
+          "pos": "quant"
+        },
+        {
+          "w": "节日",
+          "py": "jié rì",
+          "gloss": "festival",
+          "pos": "noun"
+        },
+        {
+          "w": "！",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    }
+  ],
+  "new_words": [
+    {
+      "w": "元宵",
+      "py": "yuán xiāo",
+      "gloss": "yuanxiao"
+    },
+    {
+      "w": "元宵节",
+      "py": "yuán xiāo jié",
+      "gloss": "Lantern Festival"
+    }
+  ],
+  "grammar_points": [
+    {
+      "pattern": "要……了",
+      "explanation_en": "Shows that something is about to happen soon.",
+      "example_zh": "火车要来了。",
+      "example_en": "The train is about to arrive."
+    },
+    {
+      "pattern": "可以 + verb",
+      "explanation_en": "Means you are able to do something, or something is possible or allowed.",
+      "example_zh": "在这里可以看到山。",
+      "example_en": "You can see the mountains from here."
+    },
+    {
+      "pattern": "一起 + verb",
+      "explanation_en": "Means doing something together with other people.",
+      "example_zh": "我们一起吃饭。",
+      "example_en": "We eat together."
+    }
+  ],
+  "questions": [
+    {
+      "q_zh": "元宵是什么样的？",
+      "q_en": "What is yuanxiao like?",
+      "answer_en": "It is white and very tasty."
+    },
+    {
+      "q_zh": "晚上可以看到什么？",
+      "q_en": "What can you see at night?",
+      "answer_en": "Many red lanterns, and a big moon."
+    },
+    {
+      "q_zh": "这个人喜欢元宵节吗？",
+      "q_en": "Does the writer like the Lantern Festival?",
+      "answer_en": "Yes, very much."
+    }
+  ]
+}
