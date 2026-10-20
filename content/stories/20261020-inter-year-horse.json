@@ -1,0 +1,844 @@
+{
+  "id": "20261020-inter-year-horse",
+  "series_id": null,
+  "chapter": null,
+  "topic": "Culture",
+  "format": "article",
+  "created_at": "2026-10-20",
+  "ai_generated": false,
+  "title_zh": "马年",
+  "title_en": "Year of the Horse",
+  "summary_en": "The text describes the Year of the Horse in China: people born in this year are hardworking, homes are decorated with horse characters and pictures, and people say 马到成功 and enjoy food and lively streets at New Year. It ends with a wish for everyone's happiness and good health, work, and study.",
+  "level": "intermediate",
+  "sentences": [
+    {
+      "zh": "年是马年。",
+      "en": "This year is the Year of the Horse.",
+      "tokens": [
+        {
+          "w": "年",
+          "py": "nián",
+          "gloss": "year",
+          "pos": "noun"
+        },
+        {
+          "w": "是",
+          "py": "shì",
+          "gloss": "is",
+          "pos": "verb"
+        },
+        {
+          "w": "马年",
+          "py": "mǎ nián",
+          "gloss": "Year of the Horse",
+          "pos": "noun"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "马年很好，很多人喜欢马。",
+      "en": "The Year of the Horse is very good, and many people like horses.",
+      "tokens": [
+        {
+          "w": "马年",
+          "py": "mǎ nián",
+          "gloss": "Year of the Horse",
+          "pos": "noun"
+        },
+        {
+          "w": "很",
+          "py": "hěn",
+          "gloss": "very",
+          "pos": "adv"
+        },
+        {
+          "w": "好",
+          "py": "hǎo",
+          "gloss": "good",
+          "pos": "adj"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "很多",
+          "py": "hěn duō",
+          "gloss": "many",
+          "pos": "adj"
+        },
+        {
+          "w": "人",
+          "py": "rén",
+          "gloss": "people",
+          "pos": "noun"
+        },
+        {
+          "w": "喜欢",
+          "py": "xǐ huan",
+          "gloss": "like",
+          "pos": "verb"
+        },
+        {
+          "w": "马",
+          "py": "mǎ",
+          "gloss": "horses",
+          "pos": "noun"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "马年出生的人工作很努力。",
+      "en": "People born in the Year of the Horse work very hard.",
+      "tokens": [
+        {
+          "w": "马年",
+          "py": "mǎ nián",
+          "gloss": "Year of the Horse",
+          "pos": "noun"
+        },
+        {
+          "w": "出生",
+          "py": "chū shēng",
+          "gloss": "born",
+          "pos": "verb"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(particle)",
+          "pos": "part"
+        },
+        {
+          "w": "人",
+          "py": "rén",
+          "gloss": "people",
+          "pos": "noun"
+        },
+        {
+          "w": "工作",
+          "py": "gōng zuò",
+          "gloss": "work",
+          "pos": "verb"
+        },
+        {
+          "w": "很",
+          "py": "hěn",
+          "gloss": "very",
+          "pos": "adv"
+        },
+        {
+          "w": "努力",
+          "py": "nǔ lì",
+          "gloss": "hard",
+          "pos": "adj"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "他们喜欢去很多地方，认识很多人。",
+      "en": "They like going to many places and getting to know many people.",
+      "tokens": [
+        {
+          "w": "他们",
+          "py": "tā men",
+          "gloss": "they",
+          "pos": "pron"
+        },
+        {
+          "w": "喜欢",
+          "py": "xǐ huan",
+          "gloss": "like",
+          "pos": "verb"
+        },
+        {
+          "w": "去",
+          "py": "qù",
+          "gloss": "to go",
+          "pos": "verb"
+        },
+        {
+          "w": "很多",
+          "py": "hěn duō",
+          "gloss": "many",
+          "pos": "adj"
+        },
+        {
+          "w": "地方",
+          "py": "dì fang",
+          "gloss": "places",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "认识",
+          "py": "rèn shi",
+          "gloss": "get to know",
+          "pos": "verb"
+        },
+        {
+          "w": "很多",
+          "py": "hěn duō",
+          "gloss": "many",
+          "pos": "adj"
+        },
+        {
+          "w": "人",
+          "py": "rén",
+          "gloss": "people",
+          "pos": "noun"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "在中国，马年有很多有意思的事。",
+      "en": "In China, there are many interesting things during the Year of the Horse.",
+      "tokens": [
+        {
+          "w": "在",
+          "py": "zài",
+          "gloss": "in",
+          "pos": "conn"
+        },
+        {
+          "w": "中国",
+          "py": "zhōng guó",
+          "gloss": "China",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "马年",
+          "py": "mǎ nián",
+          "gloss": "Year of the Horse",
+          "pos": "noun"
+        },
+        {
+          "w": "有",
+          "py": "yǒu",
+          "gloss": "there are",
+          "pos": "verb"
+        },
+        {
+          "w": "很多",
+          "py": "hěn duō",
+          "gloss": "many",
+          "pos": "adj"
+        },
+        {
+          "w": "有意思",
+          "py": "yǒu yì si",
+          "gloss": "interesting",
+          "pos": "adj"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(particle)",
+          "pos": "part"
+        },
+        {
+          "w": "事",
+          "py": "shì",
+          "gloss": "things",
+          "pos": "noun"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "很多人家里会放马的字和画，非常好看。",
+      "en": "Many people put horse characters and pictures in their homes, and they look very beautiful.",
+      "tokens": [
+        {
+          "w": "很多",
+          "py": "hěn duō",
+          "gloss": "many",
+          "pos": "adj"
+        },
+        {
+          "w": "人",
+          "py": "rén",
+          "gloss": "people",
+          "pos": "noun"
+        },
+        {
+          "w": "家里",
+          "py": "jiā li",
+          "gloss": "at home",
+          "pos": "noun"
+        },
+        {
+          "w": "会",
+          "py": "huì",
+          "gloss": "will",
+          "pos": "verb"
+        },
+        {
+          "w": "放",
+          "py": "fàng",
+          "gloss": "display",
+          "pos": "verb"
+        },
+        {
+          "w": "马",
+          "py": "mǎ",
+          "gloss": "horse",
+          "pos": "noun"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(particle)",
+          "pos": "part"
+        },
+        {
+          "w": "字",
+          "py": "zì",
+          "gloss": "characters",
+          "pos": "noun"
+        },
+        {
+          "w": "和",
+          "py": "hé",
+          "gloss": "and",
+          "pos": "conn"
+        },
+        {
+          "w": "画",
+          "py": "huà",
+          "gloss": "pictures",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "非常",
+          "py": "fēi cháng",
+          "gloss": "very",
+          "pos": "adv"
+        },
+        {
+          "w": "好看",
+          "py": "hǎo kàn",
+          "gloss": "pretty",
+          "pos": "adj"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "大家也会说“马到成功”，意思是工作很快有好结果。",
+      "en": "People also say \"马到成功\", which means work quickly has a good result.",
+      "tokens": [
+        {
+          "w": "大家",
+          "py": "dà jiā",
+          "gloss": "everyone",
+          "pos": "pron"
+        },
+        {
+          "w": "也",
+          "py": "yě",
+          "gloss": "also",
+          "pos": "adv"
+        },
+        {
+          "w": "会",
+          "py": "huì",
+          "gloss": "can",
+          "pos": "verb"
+        },
+        {
+          "w": "说",
+          "py": "shuō",
+          "gloss": "say",
+          "pos": "verb"
+        },
+        {
+          "w": "“",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "马到成功",
+          "py": "mǎ dào chéng gōng",
+          "gloss": "\"success upon arrival\"",
+          "pos": "noun"
+        },
+        {
+          "w": "”",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "意思",
+          "py": "yì si",
+          "gloss": "meaning",
+          "pos": "noun"
+        },
+        {
+          "w": "是",
+          "py": "shì",
+          "gloss": "means",
+          "pos": "verb"
+        },
+        {
+          "w": "工作",
+          "py": "gōng zuò",
+          "gloss": "work",
+          "pos": "noun"
+        },
+        {
+          "w": "很",
+          "py": "hěn",
+          "gloss": "very",
+          "pos": "adv"
+        },
+        {
+          "w": "快",
+          "py": "kuài",
+          "gloss": "quickly",
+          "pos": "adv"
+        },
+        {
+          "w": "有",
+          "py": "yǒu",
+          "gloss": "achieve",
+          "pos": "verb"
+        },
+        {
+          "w": "好",
+          "py": "hǎo",
+          "gloss": "good",
+          "pos": "adj"
+        },
+        {
+          "w": "结果",
+          "py": "jié guǒ",
+          "gloss": "result",
+          "pos": "noun"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "新年的时候，大家会吃很多好吃的东西。",
+      "en": "At New Year, people eat a lot of delicious food.",
+      "tokens": [
+        {
+          "w": "新年",
+          "py": "xīn nián",
+          "gloss": "New Year",
+          "pos": "noun"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(particle)",
+          "pos": "part"
+        },
+        {
+          "w": "时候",
+          "py": "shí hou",
+          "gloss": "time",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "大家",
+          "py": "dà jiā",
+          "gloss": "everyone",
+          "pos": "pron"
+        },
+        {
+          "w": "会",
+          "py": "huì",
+          "gloss": "will",
+          "pos": "verb"
+        },
+        {
+          "w": "吃",
+          "py": "chī",
+          "gloss": "eat",
+          "pos": "verb"
+        },
+        {
+          "w": "很多",
+          "py": "hěn duō",
+          "gloss": "many",
+          "pos": "adj"
+        },
+        {
+          "w": "好吃",
+          "py": "hǎo chī",
+          "gloss": "delicious",
+          "pos": "adj"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(particle)",
+          "pos": "part"
+        },
+        {
+          "w": "东西",
+          "py": "dōng xi",
+          "gloss": "food",
+          "pos": "noun"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "街上很热闹，有很多人，也有很多红色的灯笼，非常漂亮。",
+      "en": "The streets are lively, with many people and many red lanterns, and it is very pretty.",
+      "tokens": [
+        {
+          "w": "街上",
+          "py": "jiē shang",
+          "gloss": "on the street",
+          "pos": "noun"
+        },
+        {
+          "w": "很",
+          "py": "hěn",
+          "gloss": "very",
+          "pos": "adv"
+        },
+        {
+          "w": "热闹",
+          "py": "rè nao",
+          "gloss": "lively",
+          "pos": "adj"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "有",
+          "py": "yǒu",
+          "gloss": "there are",
+          "pos": "verb"
+        },
+        {
+          "w": "很多",
+          "py": "hěn duō",
+          "gloss": "many",
+          "pos": "adj"
+        },
+        {
+          "w": "人",
+          "py": "rén",
+          "gloss": "people",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "也",
+          "py": "yě",
+          "gloss": "also",
+          "pos": "adv"
+        },
+        {
+          "w": "有",
+          "py": "yǒu",
+          "gloss": "there are",
+          "pos": "verb"
+        },
+        {
+          "w": "很多",
+          "py": "hěn duō",
+          "gloss": "many",
+          "pos": "adj"
+        },
+        {
+          "w": "红色",
+          "py": "hóng sè",
+          "gloss": "red",
+          "pos": "adj"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(particle)",
+          "pos": "part"
+        },
+        {
+          "w": "灯笼",
+          "py": "dēng long",
+          "gloss": "lanterns",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "非常",
+          "py": "fēi cháng",
+          "gloss": "very",
+          "pos": "adv"
+        },
+        {
+          "w": "漂亮",
+          "py": "piào liang",
+          "gloss": "pretty",
+          "pos": "adj"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "马年，希望大家每天都快乐，身体好、工作好、学习也好。",
+      "en": "In the Year of the Horse, I hope everyone is happy every day, with good health, good work, and good studies too.",
+      "tokens": [
+        {
+          "w": "马年",
+          "py": "mǎ nián",
+          "gloss": "Year of the Horse",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "希望",
+          "py": "xī wàng",
+          "gloss": "hope",
+          "pos": "verb"
+        },
+        {
+          "w": "大家",
+          "py": "dà jiā",
+          "gloss": "everyone",
+          "pos": "pron"
+        },
+        {
+          "w": "每天",
+          "py": "měi tiān",
+          "gloss": "every day",
+          "pos": "adv"
+        },
+        {
+          "w": "都",
+          "py": "dōu",
+          "gloss": "all",
+          "pos": "adv"
+        },
+        {
+          "w": "快乐",
+          "py": "kuài lè",
+          "gloss": "happy",
+          "pos": "adj"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "身体",
+          "py": "shēn tǐ",
+          "gloss": "health",
+          "pos": "noun"
+        },
+        {
+          "w": "好",
+          "py": "hǎo",
+          "gloss": "good",
+          "pos": "adj"
+        },
+        {
+          "w": "、",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "工作",
+          "py": "gōng zuò",
+          "gloss": "work",
+          "pos": "noun"
+        },
+        {
+          "w": "好",
+          "py": "hǎo",
+          "gloss": "good",
+          "pos": "adj"
+        },
+        {
+          "w": "、",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "学习",
+          "py": "xué xí",
+          "gloss": "studies",
+          "pos": "noun"
+        },
+        {
+          "w": "也",
+          "py": "yě",
+          "gloss": "too",
+          "pos": "adv"
+        },
+        {
+          "w": "好",
+          "py": "hǎo",
+          "gloss": "good",
+          "pos": "adj"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    }
+  ],
+  "new_words": [
+    {
+      "w": "灯笼",
+      "py": "dēng long",
+      "gloss": "lanterns"
+    },
+    {
+      "w": "热闹",
+      "py": "rè nao",
+      "gloss": "lively"
+    }
+  ],
+  "grammar_points": [
+    {
+      "pattern": "很多 + noun",
+      "explanation_en": "很多 means \"many\" or \"a lot of\" and goes directly before a noun, without needing 的.",
+      "example_zh": "我的城市有很多公园。",
+      "example_en": "My city has many parks."
+    },
+    {
+      "pattern": "会 + verb (will / tend to)",
+      "explanation_en": "会 before a verb can show what people usually do or what will happen. In the text, it describes customs people follow.",
+      "example_zh": "周末我们会去公园玩。",
+      "example_en": "On weekends we go to the park to play."
+    },
+    {
+      "pattern": "……的时候 (when / at the time of)",
+      "explanation_en": "Put 的时候 after a time or an action to say \"when...\". The time phrase usually comes at the start of the sentence.",
+      "example_zh": "下雨的时候，我在家看书。",
+      "example_en": "When it rains, I read at home."
+    }
+  ],
+  "questions": [
+    {
+      "q_zh": "马年出生的人工作怎么样？",
+      "q_en": "What are people born in the Year of the Horse like at work?",
+      "answer_en": "They work very hard."
+    },
+    {
+      "q_zh": "“马到成功”是什么意思？",
+      "q_en": "What does \"马到成功\" mean?",
+      "answer_en": "It means work quickly has a good result."
+    },
+    {
+      "q_zh": "新年的时候，街上有什么？",
+      "q_en": "At New Year, what is on the streets?",
+      "answer_en": "Many people and many red lanterns, and the streets are lively."
+    }
+  ]
+}

@@ -1,0 +1,377 @@
+{
+  "id": "20261020-adv-ice-cream",
+  "series_id": null,
+  "chapter": null,
+  "topic": "Funny",
+  "format": "story",
+  "created_at": "2026-10-20",
+  "ai_generated": false,
+  "title_zh": "冰淇淋",
+  "title_en": "Ice Cream",
+  "summary_en": "A mother and her son meet an elderly neighbor, who gives the chubby boy an ice cream. When his mother prompts him to say thank you, he instead asks whether there is more.",
+  "level": "advanced",
+  "sentences": [
+    {
+      "zh": "妈妈和儿子见到邻居奶奶。",
+      "en": "A mother and her son ran into an elderly lady who lived nearby.",
+      "tokens": [
+        {
+          "w": "妈妈",
+          "py": "mā ma",
+          "gloss": "mother",
+          "pos": "noun"
+        },
+        {
+          "w": "和",
+          "py": "hé",
+          "gloss": "and",
+          "pos": "conn"
+        },
+        {
+          "w": "儿子",
+          "py": "ér zi",
+          "gloss": "son",
+          "pos": "noun"
+        },
+        {
+          "w": "见到",
+          "py": "jiàn dào",
+          "gloss": "to run into",
+          "pos": "verb"
+        },
+        {
+          "w": "邻居",
+          "py": "lín jū",
+          "gloss": "neighbor",
+          "pos": "noun"
+        },
+        {
+          "w": "奶奶",
+          "py": "nǎi nai",
+          "gloss": "elderly lady",
+          "pos": "noun"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "奶奶喜欢这个胖孩子，就送了一个冰淇淋给他。",
+      "en": "The old lady liked the chubby child, so she gave him an ice cream.",
+      "tokens": [
+        {
+          "w": "奶奶",
+          "py": "nǎi nai",
+          "gloss": "elderly lady",
+          "pos": "noun"
+        },
+        {
+          "w": "喜欢",
+          "py": "xǐ huan",
+          "gloss": "to like",
+          "pos": "verb"
+        },
+        {
+          "w": "这",
+          "py": "zhè",
+          "gloss": "this",
+          "pos": "pron"
+        },
+        {
+          "w": "个",
+          "py": "gè",
+          "gloss": "(measure)",
+          "pos": "quant"
+        },
+        {
+          "w": "胖",
+          "py": "pàng",
+          "gloss": "chubby",
+          "pos": "adj"
+        },
+        {
+          "w": "孩子",
+          "py": "hái zi",
+          "gloss": "child",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "就",
+          "py": "jiù",
+          "gloss": "so",
+          "pos": "adv"
+        },
+        {
+          "w": "送",
+          "py": "sòng",
+          "gloss": "to give",
+          "pos": "verb"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(completed)",
+          "pos": "part"
+        },
+        {
+          "w": "一",
+          "py": "yí",
+          "gloss": "one",
+          "pos": "quant"
+        },
+        {
+          "w": "个",
+          "py": "gè",
+          "gloss": "(measure)",
+          "pos": "quant"
+        },
+        {
+          "w": "冰淇淋",
+          "py": "bīng qí lín",
+          "gloss": "ice cream",
+          "pos": "noun"
+        },
+        {
+          "w": "给",
+          "py": "gěi",
+          "gloss": "to (someone)",
+          "pos": "conn"
+        },
+        {
+          "w": "他",
+          "py": "tā",
+          "gloss": "him",
+          "pos": "pron"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "妈妈对儿子说：“奶奶送给你冰淇淋，你应该说什么？”",
+      "en": "The mother said to her son, \"The lady has given you an ice cream. What should you say?\"",
+      "tokens": [
+        {
+          "w": "妈妈",
+          "py": "mā ma",
+          "gloss": "mother",
+          "pos": "noun"
+        },
+        {
+          "w": "对",
+          "py": "duì",
+          "gloss": "to",
+          "pos": "conn"
+        },
+        {
+          "w": "儿子",
+          "py": "ér zi",
+          "gloss": "son",
+          "pos": "noun"
+        },
+        {
+          "w": "说",
+          "py": "shuō",
+          "gloss": "to say",
+          "pos": "verb"
+        },
+        {
+          "w": "：“",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "奶奶",
+          "py": "nǎi nai",
+          "gloss": "the lady",
+          "pos": "noun"
+        },
+        {
+          "w": "送",
+          "py": "sòng",
+          "gloss": "to give",
+          "pos": "verb"
+        },
+        {
+          "w": "给",
+          "py": "gěi",
+          "gloss": "to",
+          "pos": "conn"
+        },
+        {
+          "w": "你",
+          "py": "nǐ",
+          "gloss": "you",
+          "pos": "pron"
+        },
+        {
+          "w": "冰淇淋",
+          "py": "bīng qí lín",
+          "gloss": "ice cream",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "你",
+          "py": "nǐ",
+          "gloss": "you",
+          "pos": "pron"
+        },
+        {
+          "w": "应该",
+          "py": "yīng gāi",
+          "gloss": "should",
+          "pos": "verb"
+        },
+        {
+          "w": "说",
+          "py": "shuō",
+          "gloss": "to say",
+          "pos": "verb"
+        },
+        {
+          "w": "什么",
+          "py": "shén me",
+          "gloss": "what",
+          "pos": "pron"
+        },
+        {
+          "w": "？”",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "儿子看着奶奶问：“还有吗？”",
+      "en": "The son looked at the old lady and asked, \"Do you have any more?\"",
+      "tokens": [
+        {
+          "w": "儿子",
+          "py": "ér zi",
+          "gloss": "son",
+          "pos": "noun"
+        },
+        {
+          "w": "看",
+          "py": "kàn",
+          "gloss": "to look at",
+          "pos": "verb"
+        },
+        {
+          "w": "着",
+          "py": "zhe",
+          "gloss": "(ongoing)",
+          "pos": "part"
+        },
+        {
+          "w": "奶奶",
+          "py": "nǎi nai",
+          "gloss": "elderly lady",
+          "pos": "noun"
+        },
+        {
+          "w": "问",
+          "py": "wèn",
+          "gloss": "to ask",
+          "pos": "verb"
+        },
+        {
+          "w": "：“",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "还",
+          "py": "hái",
+          "gloss": "more",
+          "pos": "adv"
+        },
+        {
+          "w": "有",
+          "py": "yǒu",
+          "gloss": "to have",
+          "pos": "verb"
+        },
+        {
+          "w": "吗",
+          "py": "ma",
+          "gloss": "(question)",
+          "pos": "part"
+        },
+        {
+          "w": "？”",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    }
+  ],
+  "new_words": [
+    {
+      "w": "冰淇淋",
+      "py": "bīng qí lín",
+      "gloss": "ice cream"
+    }
+  ],
+  "grammar_points": [
+    {
+      "pattern": "送……给……",
+      "explanation_en": "'送 + thing + 给 + person' means to give something to someone as a gift. The thing comes first and the recipient comes after 给. In sentence 2 the order is 送了一个冰淇淋给他, and in sentence 3 it is 送给你冰淇淋 (recipient first).",
+      "example_zh": "朋友送了一本书给我。",
+      "example_en": "My friend gave me a book as a gift."
+    },
+    {
+      "pattern": "对……说",
+      "explanation_en": "'对 + person + 说' means 'to say to someone'. It introduces who is being spoken to, and what is said follows after a colon in quotation marks.",
+      "example_zh": "老师对学生说：“明天要考试。”",
+      "example_en": "The teacher said to the students, \"There will be a test tomorrow.\""
+    },
+    {
+      "pattern": "应该 + verb",
+      "explanation_en": "应该 expresses what someone ought to do, based on manners, duty, or common sense. It is often used when teaching or reminding someone, as the mother does here.",
+      "example_zh": "见到老师，你应该打招呼。",
+      "example_en": "When you see your teacher, you should say hello."
+    }
+  ],
+  "questions": [
+    {
+      "q_zh": "奶奶为什么送冰淇淋给孩子？",
+      "q_en": "Why did the old lady give the child an ice cream?",
+      "answer_en": "Because she liked the chubby child."
+    },
+    {
+      "q_zh": "妈妈希望儿子说什么？",
+      "q_en": "What did the mother want her son to say?",
+      "answer_en": "She wanted him to say thank you (to thank the old lady)."
+    },
+    {
+      "q_zh": "儿子最后问了什么？为什么这很好笑？",
+      "q_en": "What did the son ask in the end, and why is it funny?",
+      "answer_en": "He asked, \"Do you have any more?\" It's funny because instead of thanking her, he asked for another ice cream."
+    }
+  ]
+}

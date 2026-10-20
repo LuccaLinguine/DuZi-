@@ -1,0 +1,413 @@
+{
+  "id": "20261020-elem-mother-s-day",
+  "series_id": null,
+  "chapter": null,
+  "topic": "Daily life",
+  "format": "story",
+  "created_at": "2026-10-20",
+  "ai_generated": false,
+  "title_zh": "母亲节",
+  "title_en": "Mother's Day",
+  "summary_en": "On Mother's Day morning, a daughter and son tell their mother they love her. They give her a dress and flowers, and she is very happy.",
+  "level": "elementary",
+  "sentences": [
+    {
+      "zh": "今天是母亲节。",
+      "en": "Today is Mother's Day.",
+      "tokens": [
+        {
+          "w": "今天",
+          "py": "jīn tiān",
+          "gloss": "today",
+          "pos": "noun"
+        },
+        {
+          "w": "是",
+          "py": "shì",
+          "gloss": "is",
+          "pos": "verb"
+        },
+        {
+          "w": "母亲节",
+          "py": "mǔ qīn jié",
+          "gloss": "Mother's Day",
+          "pos": "noun"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "早上，女儿和儿子对妈妈说：“妈妈，母亲节快乐。",
+      "en": "In the morning, the daughter and son said to their mother, \"Mom, happy Mother's Day.",
+      "tokens": [
+        {
+          "w": "早上",
+          "py": "zǎo shang",
+          "gloss": "in the morning",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "女儿",
+          "py": "nǚ ér",
+          "gloss": "daughter",
+          "pos": "noun"
+        },
+        {
+          "w": "和",
+          "py": "hé",
+          "gloss": "and",
+          "pos": "conn"
+        },
+        {
+          "w": "儿子",
+          "py": "ér zi",
+          "gloss": "son",
+          "pos": "noun"
+        },
+        {
+          "w": "对",
+          "py": "duì",
+          "gloss": "to",
+          "pos": "conn"
+        },
+        {
+          "w": "妈妈",
+          "py": "mā ma",
+          "gloss": "Mom",
+          "pos": "noun"
+        },
+        {
+          "w": "说",
+          "py": "shuō",
+          "gloss": "say",
+          "pos": "verb"
+        },
+        {
+          "w": "：“",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "妈妈",
+          "py": "mā ma",
+          "gloss": "Mom",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "母亲节",
+          "py": "mǔ qīn jié",
+          "gloss": "Mother's Day",
+          "pos": "noun"
+        },
+        {
+          "w": "快乐",
+          "py": "kuài lè",
+          "gloss": "happy",
+          "pos": "adj"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "我们爱你！”",
+      "en": "We love you!\"",
+      "tokens": [
+        {
+          "w": "我们",
+          "py": "wǒ men",
+          "gloss": "we",
+          "pos": "pron"
+        },
+        {
+          "w": "爱",
+          "py": "ài",
+          "gloss": "love",
+          "pos": "verb"
+        },
+        {
+          "w": "你",
+          "py": "nǐ",
+          "gloss": "you",
+          "pos": "pron"
+        },
+        {
+          "w": "！”",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "妈妈笑了。",
+      "en": "Mom smiled.",
+      "tokens": [
+        {
+          "w": "妈妈",
+          "py": "mā ma",
+          "gloss": "Mom",
+          "pos": "noun"
+        },
+        {
+          "w": "笑",
+          "py": "xiào",
+          "gloss": "smile",
+          "pos": "verb"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "[completed]",
+          "pos": "part"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "女儿给妈妈买了一件衣服，儿子给妈妈买了花，这些都是妈妈喜欢的东西，妈妈非常高兴。",
+      "en": "The daughter bought Mom a piece of clothing, and the son bought Mom flowers; these were all things Mom likes, and Mom was very happy.",
+      "tokens": [
+        {
+          "w": "女儿",
+          "py": "nǚ ér",
+          "gloss": "daughter",
+          "pos": "noun"
+        },
+        {
+          "w": "给",
+          "py": "gěi",
+          "gloss": "for",
+          "pos": "conn"
+        },
+        {
+          "w": "妈妈",
+          "py": "mā ma",
+          "gloss": "Mom",
+          "pos": "noun"
+        },
+        {
+          "w": "买",
+          "py": "mǎi",
+          "gloss": "buy",
+          "pos": "verb"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "[completed]",
+          "pos": "part"
+        },
+        {
+          "w": "一",
+          "py": "yí",
+          "gloss": "a",
+          "pos": "quant"
+        },
+        {
+          "w": "件",
+          "py": "jiàn",
+          "gloss": "piece of",
+          "pos": "quant"
+        },
+        {
+          "w": "衣服",
+          "py": "yī fu",
+          "gloss": "clothing",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "儿子",
+          "py": "ér zi",
+          "gloss": "son",
+          "pos": "noun"
+        },
+        {
+          "w": "给",
+          "py": "gěi",
+          "gloss": "for",
+          "pos": "conn"
+        },
+        {
+          "w": "妈妈",
+          "py": "mā ma",
+          "gloss": "Mom",
+          "pos": "noun"
+        },
+        {
+          "w": "买",
+          "py": "mǎi",
+          "gloss": "buy",
+          "pos": "verb"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "[completed]",
+          "pos": "part"
+        },
+        {
+          "w": "花",
+          "py": "huā",
+          "gloss": "flowers",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "这些",
+          "py": "zhè xiē",
+          "gloss": "these",
+          "pos": "pron"
+        },
+        {
+          "w": "都",
+          "py": "dōu",
+          "gloss": "all",
+          "pos": "adv"
+        },
+        {
+          "w": "是",
+          "py": "shì",
+          "gloss": "are",
+          "pos": "verb"
+        },
+        {
+          "w": "妈妈",
+          "py": "mā ma",
+          "gloss": "Mom",
+          "pos": "noun"
+        },
+        {
+          "w": "喜欢",
+          "py": "xǐ huan",
+          "gloss": "like",
+          "pos": "verb"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "[linking particle]",
+          "pos": "part"
+        },
+        {
+          "w": "东西",
+          "py": "dōng xi",
+          "gloss": "things",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "妈妈",
+          "py": "mā ma",
+          "gloss": "Mom",
+          "pos": "noun"
+        },
+        {
+          "w": "非常",
+          "py": "fēi cháng",
+          "gloss": "very",
+          "pos": "adv"
+        },
+        {
+          "w": "高兴",
+          "py": "gāo xìng",
+          "gloss": "happy",
+          "pos": "adj"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    }
+  ],
+  "new_words": [
+    {
+      "w": "母亲节",
+      "py": "mǔ qīn jié",
+      "gloss": "Mother's Day"
+    }
+  ],
+  "grammar_points": [
+    {
+      "pattern": "V + 了 (completed action)",
+      "explanation_en": "Put 了 after a verb to show an action has been completed. It is often used for past events.",
+      "example_zh": "我昨天买了一本书。",
+      "example_en": "I bought a book yesterday."
+    },
+    {
+      "pattern": "给 + person + V + thing",
+      "explanation_en": "给 means 'to give' or 'for'. Use 给 + person before a verb to show who receives the action or benefit.",
+      "example_zh": "爸爸给我做了一个蛋糕。",
+      "example_en": "Dad made me a cake."
+    },
+    {
+      "pattern": "一件 + clothing (measure word)",
+      "explanation_en": "Chinese uses measure words between a number and a noun. 件 is used for clothes such as shirts, coats and dresses.",
+      "example_zh": "我想买一件白色的衣服。",
+      "example_en": "I want to buy a white piece of clothing."
+    }
+  ],
+  "questions": [
+    {
+      "q_zh": "今天是什么节日？",
+      "q_en": "What holiday is it today?",
+      "answer_en": "Mother's Day."
+    },
+    {
+      "q_zh": "女儿给妈妈买了什么？",
+      "q_en": "What did the daughter buy for Mom?",
+      "answer_en": "A piece of clothing."
+    },
+    {
+      "q_zh": "妈妈高兴吗？",
+      "q_en": "Is Mom happy?",
+      "answer_en": "Yes, she is very happy because the gifts are things she likes."
+    }
+  ]
+}

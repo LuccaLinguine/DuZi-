@@ -1,0 +1,461 @@
+{
+  "id": "20261020-inter-what-eat-today",
+  "series_id": null,
+  "chapter": null,
+  "topic": "Daily life",
+  "format": "dialogue",
+  "created_at": "2026-10-20",
+  "ai_generated": false,
+  "title_zh": "今天吃什么",
+  "title_en": "What to eat today",
+  "summary_en": "A child asks their mother for bread, a hamburger and cola for breakfast, but she only allows bread, eggs and hot milk. At lunch the child may have a hamburger but not cola, and accepts this.",
+  "level": "intermediate",
+  "sentences": [
+    {
+      "zh": "今天早上我说：妈妈，早餐我想吃面包、汉堡和可乐。",
+      "en": "This morning I said: Mom, for breakfast I want to eat bread, a hamburger and cola.",
+      "tokens": [
+        {
+          "w": "今天",
+          "py": "jīn tiān",
+          "gloss": "today",
+          "pos": "noun"
+        },
+        {
+          "w": "早上",
+          "py": "zǎo shang",
+          "gloss": "this morning",
+          "pos": "noun"
+        },
+        {
+          "w": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "pos": "pron"
+        },
+        {
+          "w": "说",
+          "py": "shuō",
+          "gloss": "to say",
+          "pos": "verb"
+        },
+        {
+          "w": "：",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "妈妈",
+          "py": "mā ma",
+          "gloss": "Mom",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "早餐",
+          "py": "zǎo cān",
+          "gloss": "breakfast",
+          "pos": "noun"
+        },
+        {
+          "w": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "pos": "pron"
+        },
+        {
+          "w": "想",
+          "py": "xiǎng",
+          "gloss": "to want (to)",
+          "pos": "verb"
+        },
+        {
+          "w": "吃",
+          "py": "chī",
+          "gloss": "to eat",
+          "pos": "verb"
+        },
+        {
+          "w": "面包",
+          "py": "miàn bāo",
+          "gloss": "bread",
+          "pos": "noun"
+        },
+        {
+          "w": "、",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "汉堡",
+          "py": "hàn bǎo",
+          "gloss": "hamburger",
+          "pos": "noun"
+        },
+        {
+          "w": "和",
+          "py": "hé",
+          "gloss": "and",
+          "pos": "conn"
+        },
+        {
+          "w": "可乐",
+          "py": "kě lè",
+          "gloss": "cola",
+          "pos": "noun"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "妈妈说：不行，你只能吃面包、鸡蛋和热牛奶。",
+      "en": "Mom said: No, you can only eat bread, eggs and hot milk.",
+      "tokens": [
+        {
+          "w": "妈妈",
+          "py": "mā ma",
+          "gloss": "Mom",
+          "pos": "noun"
+        },
+        {
+          "w": "说",
+          "py": "shuō",
+          "gloss": "to say",
+          "pos": "verb"
+        },
+        {
+          "w": "：",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "不行",
+          "py": "bù xíng",
+          "gloss": "no; not okay",
+          "pos": "adj"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "你",
+          "py": "nǐ",
+          "gloss": "you",
+          "pos": "pron"
+        },
+        {
+          "w": "只",
+          "py": "zhǐ",
+          "gloss": "only",
+          "pos": "adv"
+        },
+        {
+          "w": "能",
+          "py": "néng",
+          "gloss": "can; may",
+          "pos": "verb"
+        },
+        {
+          "w": "吃",
+          "py": "chī",
+          "gloss": "to eat",
+          "pos": "verb"
+        },
+        {
+          "w": "面包",
+          "py": "miàn bāo",
+          "gloss": "bread",
+          "pos": "noun"
+        },
+        {
+          "w": "、",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "鸡蛋",
+          "py": "jī dàn",
+          "gloss": "eggs",
+          "pos": "noun"
+        },
+        {
+          "w": "和",
+          "py": "hé",
+          "gloss": "and",
+          "pos": "conn"
+        },
+        {
+          "w": "热",
+          "py": "rè",
+          "gloss": "hot",
+          "pos": "adj"
+        },
+        {
+          "w": "牛奶",
+          "py": "niú nǎi",
+          "gloss": "milk",
+          "pos": "noun"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "我说：中午能吃汉堡和可乐吗？",
+      "en": "I said: Can I have a hamburger and cola at noon?",
+      "tokens": [
+        {
+          "w": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "pos": "pron"
+        },
+        {
+          "w": "说",
+          "py": "shuō",
+          "gloss": "to say",
+          "pos": "verb"
+        },
+        {
+          "w": "：",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "中午",
+          "py": "zhōng wǔ",
+          "gloss": "noon",
+          "pos": "noun"
+        },
+        {
+          "w": "能",
+          "py": "néng",
+          "gloss": "can; may",
+          "pos": "verb"
+        },
+        {
+          "w": "吃",
+          "py": "chī",
+          "gloss": "to eat",
+          "pos": "verb"
+        },
+        {
+          "w": "汉堡",
+          "py": "hàn bǎo",
+          "gloss": "hamburger",
+          "pos": "noun"
+        },
+        {
+          "w": "和",
+          "py": "hé",
+          "gloss": "and",
+          "pos": "conn"
+        },
+        {
+          "w": "可乐",
+          "py": "kě lè",
+          "gloss": "cola",
+          "pos": "noun"
+        },
+        {
+          "w": "吗",
+          "py": "ma",
+          "gloss": "(question particle)",
+          "pos": "part"
+        },
+        {
+          "w": "？",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "妈妈说：中午可以吃汉堡，不可以喝可乐。",
+      "en": "Mom said: At noon you can eat a hamburger, but you may not drink cola.",
+      "tokens": [
+        {
+          "w": "妈妈",
+          "py": "mā ma",
+          "gloss": "Mom",
+          "pos": "noun"
+        },
+        {
+          "w": "说",
+          "py": "shuō",
+          "gloss": "to say",
+          "pos": "verb"
+        },
+        {
+          "w": "：",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "中午",
+          "py": "zhōng wǔ",
+          "gloss": "noon",
+          "pos": "noun"
+        },
+        {
+          "w": "可以",
+          "py": "kě yǐ",
+          "gloss": "may; can",
+          "pos": "verb"
+        },
+        {
+          "w": "吃",
+          "py": "chī",
+          "gloss": "to eat",
+          "pos": "verb"
+        },
+        {
+          "w": "汉堡",
+          "py": "hàn bǎo",
+          "gloss": "hamburger",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "不",
+          "py": "bù",
+          "gloss": "not",
+          "pos": "adv"
+        },
+        {
+          "w": "可以",
+          "py": "kě yǐ",
+          "gloss": "may; can",
+          "pos": "verb"
+        },
+        {
+          "w": "喝",
+          "py": "hē",
+          "gloss": "to drink",
+          "pos": "verb"
+        },
+        {
+          "w": "可乐",
+          "py": "kě lè",
+          "gloss": "cola",
+          "pos": "noun"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "我说：好吧。",
+      "en": "I said: Okay.",
+      "tokens": [
+        {
+          "w": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "pos": "pron"
+        },
+        {
+          "w": "说",
+          "py": "shuō",
+          "gloss": "to say",
+          "pos": "verb"
+        },
+        {
+          "w": "：",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "好吧",
+          "py": "hǎo ba",
+          "gloss": "okay then",
+          "pos": "adv"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    }
+  ],
+  "new_words": [
+    {
+      "w": "汉堡",
+      "py": "hàn bǎo",
+      "gloss": "hamburger"
+    }
+  ],
+  "grammar_points": [
+    {
+      "pattern": "只能 + verb phrase",
+      "explanation_en": "只能 means 'can only' or 'may only'. It limits what is allowed or possible to a single option or group.",
+      "example_zh": "晚上你只能看一个小时电视。",
+      "example_en": "In the evening you can only watch TV for one hour."
+    },
+    {
+      "pattern": "可以 / 不可以 + verb (permission)",
+      "explanation_en": "可以 gives permission and 不可以 refuses it. Contrasting the two in parallel clauses shows what is and is not allowed.",
+      "example_zh": "在这里可以拍照，不可以大声说话。",
+      "example_en": "You may take photos here, but you may not talk loudly."
+    },
+    {
+      "pattern": "……吗？ (yes/no question) with 能",
+      "explanation_en": "Adding 吗 to the end of a statement turns it into a yes/no question. 能 asks whether something is possible or permitted.",
+      "example_zh": "我能用你的手机吗？",
+      "example_en": "Can I use your phone?"
+    }
+  ],
+  "questions": [
+    {
+      "q_zh": "早餐妈妈让我吃什么？",
+      "q_en": "What did Mom let me eat for breakfast?",
+      "answer_en": "Bread, eggs and hot milk."
+    },
+    {
+      "q_zh": "中午我可以吃什么，不可以喝什么？",
+      "q_en": "What can I eat at noon, and what can't I drink?",
+      "answer_en": "I can eat a hamburger but can't drink cola."
+    },
+    {
+      "q_zh": "最后我同意妈妈的话吗？",
+      "q_en": "In the end, did I agree with Mom?",
+      "answer_en": "Yes, I said 'Okay' and accepted her rules."
+    }
+  ]
+}

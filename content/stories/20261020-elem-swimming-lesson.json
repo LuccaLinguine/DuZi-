@@ -1,0 +1,395 @@
+{
+  "id": "20261020-elem-swimming-lesson",
+  "series_id": null,
+  "chapter": null,
+  "topic": "Funny",
+  "format": "story",
+  "created_at": "2026-10-20",
+  "ai_generated": false,
+  "title_zh": "游泳课",
+  "title_en": "Swimming Lesson",
+  "summary_en": "A boy goes to his first swimming lesson and after thirty minutes tells the teacher he doesn't want to swim anymore. His reason is that he has swallowed too much water.",
+  "level": "elementary",
+  "sentences": [
+    {
+      "zh": "儿子第一次去上游泳课，上了三十分钟，他就对老师说：“老师，我今天不想游泳了。”",
+      "en": "The son went to his first swimming lesson, and after thirty minutes he said to the teacher, \"Teacher, I don't want to swim today.\"",
+      "tokens": [
+        {
+          "w": "儿子",
+          "py": "ér zi",
+          "gloss": "son",
+          "pos": "noun"
+        },
+        {
+          "w": "第一",
+          "py": "dì yī",
+          "gloss": "first",
+          "pos": "quant"
+        },
+        {
+          "w": "次",
+          "py": "cì",
+          "gloss": "time",
+          "pos": "quant"
+        },
+        {
+          "w": "去",
+          "py": "qù",
+          "gloss": "to go",
+          "pos": "verb"
+        },
+        {
+          "w": "上",
+          "py": "shàng",
+          "gloss": "to attend",
+          "pos": "verb"
+        },
+        {
+          "w": "游泳",
+          "py": "yóu yǒng",
+          "gloss": "swimming",
+          "pos": "verb"
+        },
+        {
+          "w": "课",
+          "py": "kè",
+          "gloss": "lesson",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "上",
+          "py": "shàng",
+          "gloss": "to attend",
+          "pos": "verb"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(completed)",
+          "pos": "part"
+        },
+        {
+          "w": "三十",
+          "py": "sān shí",
+          "gloss": "thirty",
+          "pos": "quant"
+        },
+        {
+          "w": "分钟",
+          "py": "fēn zhōng",
+          "gloss": "minutes",
+          "pos": "quant"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "他",
+          "py": "tā",
+          "gloss": "he",
+          "pos": "pron"
+        },
+        {
+          "w": "就",
+          "py": "jiù",
+          "gloss": "then",
+          "pos": "adv"
+        },
+        {
+          "w": "对",
+          "py": "duì",
+          "gloss": "to",
+          "pos": "conn"
+        },
+        {
+          "w": "老师",
+          "py": "lǎo shī",
+          "gloss": "teacher",
+          "pos": "noun"
+        },
+        {
+          "w": "说",
+          "py": "shuō",
+          "gloss": "to say",
+          "pos": "verb"
+        },
+        {
+          "w": "：“",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "老师",
+          "py": "lǎo shī",
+          "gloss": "teacher",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "pos": "pron"
+        },
+        {
+          "w": "今天",
+          "py": "jīn tiān",
+          "gloss": "today",
+          "pos": "noun"
+        },
+        {
+          "w": "不",
+          "py": "bù",
+          "gloss": "not",
+          "pos": "adv"
+        },
+        {
+          "w": "想",
+          "py": "xiǎng",
+          "gloss": "to want",
+          "pos": "verb"
+        },
+        {
+          "w": "游泳",
+          "py": "yóu yǒng",
+          "gloss": "to swim",
+          "pos": "verb"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(new state)",
+          "pos": "part"
+        },
+        {
+          "w": "。”",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "老师问：“为什么呢？”",
+      "en": "The teacher asked, \"Why is that?\"",
+      "tokens": [
+        {
+          "w": "老师",
+          "py": "lǎo shī",
+          "gloss": "teacher",
+          "pos": "noun"
+        },
+        {
+          "w": "问",
+          "py": "wèn",
+          "gloss": "to ask",
+          "pos": "verb"
+        },
+        {
+          "w": "：“",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "为什么",
+          "py": "wèi shén me",
+          "gloss": "why",
+          "pos": "adv"
+        },
+        {
+          "w": "呢",
+          "py": "ne",
+          "gloss": "(question)",
+          "pos": "part"
+        },
+        {
+          "w": "？”",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "儿子说：“我真的不想再喝水了，今天喝得太多了。”",
+      "en": "The son said, \"I really don't want to drink any more water. I've drunk too much today.\"",
+      "tokens": [
+        {
+          "w": "儿子",
+          "py": "ér zi",
+          "gloss": "son",
+          "pos": "noun"
+        },
+        {
+          "w": "说",
+          "py": "shuō",
+          "gloss": "to say",
+          "pos": "verb"
+        },
+        {
+          "w": "：“",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "pos": "pron"
+        },
+        {
+          "w": "真的",
+          "py": "zhēn de",
+          "gloss": "really",
+          "pos": "adv"
+        },
+        {
+          "w": "不",
+          "py": "bù",
+          "gloss": "not",
+          "pos": "adv"
+        },
+        {
+          "w": "想",
+          "py": "xiǎng",
+          "gloss": "to want",
+          "pos": "verb"
+        },
+        {
+          "w": "再",
+          "py": "zài",
+          "gloss": "any more",
+          "pos": "adv"
+        },
+        {
+          "w": "喝",
+          "py": "hē",
+          "gloss": "to drink",
+          "pos": "verb"
+        },
+        {
+          "w": "水",
+          "py": "shuǐ",
+          "gloss": "water",
+          "pos": "noun"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(new state)",
+          "pos": "part"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "今天",
+          "py": "jīn tiān",
+          "gloss": "today",
+          "pos": "noun"
+        },
+        {
+          "w": "喝",
+          "py": "hē",
+          "gloss": "to drink",
+          "pos": "verb"
+        },
+        {
+          "w": "得",
+          "py": "de",
+          "gloss": "(complement)",
+          "pos": "part"
+        },
+        {
+          "w": "太",
+          "py": "tài",
+          "gloss": "too",
+          "pos": "adv"
+        },
+        {
+          "w": "多",
+          "py": "duō",
+          "gloss": "much",
+          "pos": "adj"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(completed)",
+          "pos": "part"
+        },
+        {
+          "w": "。”",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    }
+  ],
+  "new_words": [
+    {
+      "w": "游泳",
+      "py": "yóu yǒng",
+      "gloss": "swimming"
+    }
+  ],
+  "grammar_points": [
+    {
+      "pattern": "V + 得 + adj (complement of degree)",
+      "explanation_en": "Put 得 after a verb to describe how an action is done or to what degree. The adjective after 得 tells the manner or result.",
+      "example_zh": "妹妹跑得很快。",
+      "example_en": "My younger sister runs very fast."
+    },
+    {
+      "pattern": "不想再 + V",
+      "explanation_en": "不想再 means 'don't want to ... anymore'. 再 shows the action would repeat or continue, and the speaker doesn't want that.",
+      "example_zh": "我不想再吃了，已经很饱了。",
+      "example_en": "I don't want to eat anymore; I'm already very full."
+    },
+    {
+      "pattern": "V + 了 + duration, 就 ...",
+      "explanation_en": "After an action lasting a certain amount of time, 就 introduces what happened next, often suggesting it happened quickly or soon.",
+      "example_zh": "他看了十分钟书，就睡着了。",
+      "example_en": "He read for ten minutes and then fell asleep."
+    }
+  ],
+  "questions": [
+    {
+      "q_zh": "儿子上了多长时间的游泳课以后，不想游了？",
+      "q_en": "After how long in the swimming lesson did the son not want to swim anymore?",
+      "answer_en": "After thirty minutes."
+    },
+    {
+      "q_zh": "儿子为什么不想游泳了？",
+      "q_en": "Why did the son not want to swim anymore?",
+      "answer_en": "Because he had drunk too much water."
+    },
+    {
+      "q_zh": "这是儿子第几次上游泳课？",
+      "q_en": "Which swimming lesson was this for the son?",
+      "answer_en": "His first."
+    }
+  ]
+}

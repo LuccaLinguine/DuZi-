@@ -1,0 +1,663 @@
+{
+  "id": "20261020-inter-today-is-my-birthday",
+  "series_id": null,
+  "chapter": null,
+  "topic": "Daily life",
+  "format": "story",
+  "created_at": "2026-10-20",
+  "ai_generated": false,
+  "title_zh": "今天是我的生日",
+  "title_en": "Today Is My Birthday",
+  "summary_en": "The narrator describes their birthday: the gift they bought themselves, the presents from friends, and a red envelope from their parents. They plan to use the money to treat friends to a meal and go singing.",
+  "level": "intermediate",
+  "sentences": [
+    {
+      "zh": "今天是我的生日。",
+      "en": "Today is my birthday.",
+      "tokens": [
+        {
+          "w": "今天",
+          "py": "jīn tiān",
+          "gloss": "today",
+          "pos": "noun"
+        },
+        {
+          "w": "是",
+          "py": "shì",
+          "gloss": "is",
+          "pos": "verb"
+        },
+        {
+          "w": "我",
+          "py": "wǒ",
+          "gloss": "my",
+          "pos": "pron"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(possessive)",
+          "pos": "part"
+        },
+        {
+          "w": "生日",
+          "py": "shēng rì",
+          "gloss": "birthday",
+          "pos": "noun"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "我送给自己的礼物是一双鞋，那双鞋有点儿贵，但是我喜欢很久了。",
+      "en": "The gift I gave myself is a pair of shoes; they are a bit expensive, but I have liked them for a long time.",
+      "tokens": [
+        {
+          "w": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "pos": "pron"
+        },
+        {
+          "w": "送给",
+          "py": "sòng gěi",
+          "gloss": "to give (as a gift)",
+          "pos": "verb"
+        },
+        {
+          "w": "自己",
+          "py": "zì jǐ",
+          "gloss": "myself",
+          "pos": "pron"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(possessive)",
+          "pos": "part"
+        },
+        {
+          "w": "礼物",
+          "py": "lǐ wù",
+          "gloss": "gift",
+          "pos": "noun"
+        },
+        {
+          "w": "是",
+          "py": "shì",
+          "gloss": "is",
+          "pos": "verb"
+        },
+        {
+          "w": "一",
+          "py": "yì",
+          "gloss": "a",
+          "pos": "quant"
+        },
+        {
+          "w": "双",
+          "py": "shuāng",
+          "gloss": "pair (of)",
+          "pos": "quant"
+        },
+        {
+          "w": "鞋",
+          "py": "xié",
+          "gloss": "shoes",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "那",
+          "py": "nà",
+          "gloss": "that",
+          "pos": "pron"
+        },
+        {
+          "w": "双",
+          "py": "shuāng",
+          "gloss": "pair (of)",
+          "pos": "quant"
+        },
+        {
+          "w": "鞋",
+          "py": "xié",
+          "gloss": "shoes",
+          "pos": "noun"
+        },
+        {
+          "w": "有点儿",
+          "py": "yǒu diǎnr",
+          "gloss": "a bit",
+          "pos": "adv"
+        },
+        {
+          "w": "贵",
+          "py": "guì",
+          "gloss": "expensive",
+          "pos": "adj"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "但是",
+          "py": "dàn shì",
+          "gloss": "but",
+          "pos": "conn"
+        },
+        {
+          "w": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "pos": "pron"
+        },
+        {
+          "w": "喜欢",
+          "py": "xǐ huan",
+          "gloss": "to like",
+          "pos": "verb"
+        },
+        {
+          "w": "很",
+          "py": "hěn",
+          "gloss": "very",
+          "pos": "adv"
+        },
+        {
+          "w": "久",
+          "py": "jiǔ",
+          "gloss": "long",
+          "pos": "adj"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(change of state)",
+          "pos": "part"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "朋友们送给我一束花、一瓶香水、一个大蛋糕，这些东西我都很喜欢。",
+      "en": "My friends gave me a bouquet of flowers, a bottle of perfume, and a big cake, and I like all of these things very much.",
+      "tokens": [
+        {
+          "w": "朋友",
+          "py": "péng you",
+          "gloss": "friends",
+          "pos": "noun"
+        },
+        {
+          "w": "们",
+          "py": "men",
+          "gloss": "(plural)",
+          "pos": "part"
+        },
+        {
+          "w": "送给",
+          "py": "sòng gěi",
+          "gloss": "to give (as a gift)",
+          "pos": "verb"
+        },
+        {
+          "w": "我",
+          "py": "wǒ",
+          "gloss": "me",
+          "pos": "pron"
+        },
+        {
+          "w": "一",
+          "py": "yí",
+          "gloss": "a",
+          "pos": "quant"
+        },
+        {
+          "w": "束",
+          "py": "shù",
+          "gloss": "bunch (of)",
+          "pos": "quant"
+        },
+        {
+          "w": "花",
+          "py": "huā",
+          "gloss": "flowers",
+          "pos": "noun"
+        },
+        {
+          "w": "、",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "一",
+          "py": "yì",
+          "gloss": "a",
+          "pos": "quant"
+        },
+        {
+          "w": "瓶",
+          "py": "píng",
+          "gloss": "bottle (of)",
+          "pos": "quant"
+        },
+        {
+          "w": "香水",
+          "py": "xiāng shuǐ",
+          "gloss": "perfume",
+          "pos": "noun"
+        },
+        {
+          "w": "、",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "一",
+          "py": "yí",
+          "gloss": "a",
+          "pos": "quant"
+        },
+        {
+          "w": "个",
+          "py": "gè",
+          "gloss": "(measure)",
+          "pos": "quant"
+        },
+        {
+          "w": "大",
+          "py": "dà",
+          "gloss": "big",
+          "pos": "adj"
+        },
+        {
+          "w": "蛋糕",
+          "py": "dàn gāo",
+          "gloss": "cake",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "这些",
+          "py": "zhè xiē",
+          "gloss": "these",
+          "pos": "pron"
+        },
+        {
+          "w": "东西",
+          "py": "dōng xi",
+          "gloss": "things",
+          "pos": "noun"
+        },
+        {
+          "w": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "pos": "pron"
+        },
+        {
+          "w": "都",
+          "py": "dōu",
+          "gloss": "all",
+          "pos": "adv"
+        },
+        {
+          "w": "很",
+          "py": "hěn",
+          "gloss": "very",
+          "pos": "adv"
+        },
+        {
+          "w": "喜欢",
+          "py": "xǐ huan",
+          "gloss": "to like",
+          "pos": "verb"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "我的爸爸妈妈给我发了一个红包，里面有八百块钱。",
+      "en": "My mom and dad sent me a red envelope with eight hundred yuan inside.",
+      "tokens": [
+        {
+          "w": "我",
+          "py": "wǒ",
+          "gloss": "my",
+          "pos": "pron"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(possessive)",
+          "pos": "part"
+        },
+        {
+          "w": "爸爸",
+          "py": "bà ba",
+          "gloss": "dad",
+          "pos": "noun"
+        },
+        {
+          "w": "妈妈",
+          "py": "mā ma",
+          "gloss": "mom",
+          "pos": "noun"
+        },
+        {
+          "w": "给",
+          "py": "gěi",
+          "gloss": "for",
+          "pos": "conn"
+        },
+        {
+          "w": "我",
+          "py": "wǒ",
+          "gloss": "me",
+          "pos": "pron"
+        },
+        {
+          "w": "发",
+          "py": "fā",
+          "gloss": "to send",
+          "pos": "verb"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(completed)",
+          "pos": "part"
+        },
+        {
+          "w": "一",
+          "py": "yí",
+          "gloss": "a",
+          "pos": "quant"
+        },
+        {
+          "w": "个",
+          "py": "gè",
+          "gloss": "(measure)",
+          "pos": "quant"
+        },
+        {
+          "w": "红包",
+          "py": "hóng bāo",
+          "gloss": "red envelope",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "里面",
+          "py": "lǐ miàn",
+          "gloss": "inside",
+          "pos": "noun"
+        },
+        {
+          "w": "有",
+          "py": "yǒu",
+          "gloss": "have",
+          "pos": "verb"
+        },
+        {
+          "w": "八",
+          "py": "bā",
+          "gloss": "eight",
+          "pos": "quant"
+        },
+        {
+          "w": "百",
+          "py": "bǎi",
+          "gloss": "hundred",
+          "pos": "quant"
+        },
+        {
+          "w": "块",
+          "py": "kuài",
+          "gloss": "yuan",
+          "pos": "quant"
+        },
+        {
+          "w": "钱",
+          "py": "qián",
+          "gloss": "money",
+          "pos": "noun"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "我想用这些钱请朋友们吃饭，然后去唱歌。",
+      "en": "I want to use this money to treat my friends to a meal, and then go sing karaoke.",
+      "tokens": [
+        {
+          "w": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "pos": "pron"
+        },
+        {
+          "w": "想",
+          "py": "xiǎng",
+          "gloss": "want to",
+          "pos": "verb"
+        },
+        {
+          "w": "用",
+          "py": "yòng",
+          "gloss": "with",
+          "pos": "conn"
+        },
+        {
+          "w": "这些",
+          "py": "zhè xiē",
+          "gloss": "these",
+          "pos": "pron"
+        },
+        {
+          "w": "钱",
+          "py": "qián",
+          "gloss": "money",
+          "pos": "noun"
+        },
+        {
+          "w": "请",
+          "py": "qǐng",
+          "gloss": "to treat",
+          "pos": "verb"
+        },
+        {
+          "w": "朋友",
+          "py": "péng you",
+          "gloss": "friends",
+          "pos": "noun"
+        },
+        {
+          "w": "们",
+          "py": "men",
+          "gloss": "(plural)",
+          "pos": "part"
+        },
+        {
+          "w": "吃饭",
+          "py": "chī fàn",
+          "gloss": "to have a meal",
+          "pos": "verb"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "然后",
+          "py": "rán hòu",
+          "gloss": "then",
+          "pos": "conn"
+        },
+        {
+          "w": "去",
+          "py": "qù",
+          "gloss": "go",
+          "pos": "verb"
+        },
+        {
+          "w": "唱歌",
+          "py": "chàng gē",
+          "gloss": "to sing",
+          "pos": "verb"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "这就是我的生日。",
+      "en": "This is my birthday.",
+      "tokens": [
+        {
+          "w": "这",
+          "py": "zhè",
+          "gloss": "this",
+          "pos": "pron"
+        },
+        {
+          "w": "就",
+          "py": "jiù",
+          "gloss": "exactly",
+          "pos": "adv"
+        },
+        {
+          "w": "是",
+          "py": "shì",
+          "gloss": "is",
+          "pos": "verb"
+        },
+        {
+          "w": "我",
+          "py": "wǒ",
+          "gloss": "my",
+          "pos": "pron"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(possessive)",
+          "pos": "part"
+        },
+        {
+          "w": "生日",
+          "py": "shēng rì",
+          "gloss": "birthday",
+          "pos": "noun"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    }
+  ],
+  "new_words": [
+    {
+      "w": "红包",
+      "py": "hóng bāo",
+      "gloss": "red envelope"
+    },
+    {
+      "w": "蛋糕",
+      "py": "dàn gāo",
+      "gloss": "cake"
+    },
+    {
+      "w": "香水",
+      "py": "xiāng shuǐ",
+      "gloss": "perfume"
+    }
+  ],
+  "grammar_points": [
+    {
+      "pattern": "送给 + person + thing",
+      "explanation_en": "送给 means 'to give as a gift to'. Put the receiver after 给 and the gift after the receiver. The person can also be 自己 (oneself).",
+      "example_zh": "我送给妈妈一本书。",
+      "example_en": "I gave my mom a book as a gift."
+    },
+    {
+      "pattern": "虽然/有点儿……，但是……",
+      "explanation_en": "但是 introduces a contrast with what came before. 有点儿 + adjective means 'a bit' and usually describes something slightly negative.",
+      "example_zh": "这件衣服有点儿小，但是我很喜欢。",
+      "example_en": "This piece of clothing is a bit small, but I like it a lot."
+    },
+    {
+      "pattern": "先/用……（verb）……，然后……",
+      "explanation_en": "然后 means 'and then' and links two actions in order. 用 means 'to use' something to do an action.",
+      "example_zh": "我想用这个杯子喝茶，然后看书。",
+      "example_en": "I want to use this cup to drink tea, and then read a book."
+    }
+  ],
+  "questions": [
+    {
+      "q_zh": "作者送给自己什么礼物？",
+      "q_en": "What gift did the author give themselves?",
+      "answer_en": "A pair of shoes."
+    },
+    {
+      "q_zh": "朋友们送给作者什么东西？",
+      "q_en": "What did the friends give the author?",
+      "answer_en": "A bouquet of flowers, a bottle of perfume, and a big cake."
+    },
+    {
+      "q_zh": "作者想用爸爸妈妈给的钱做什么？",
+      "q_en": "What does the author want to do with the money from their parents?",
+      "answer_en": "Treat friends to a meal and then go singing."
+    }
+  ]
+}

@@ -1,0 +1,257 @@
+{
+  "id": "20261020-elem-dad-s-work",
+  "series_id": null,
+  "chapter": null,
+  "topic": "Funny",
+  "format": "dialogue",
+  "created_at": "2026-10-20",
+  "ai_generated": false,
+  "title_zh": "爸爸的工作",
+  "title_en": "Dad's Work",
+  "summary_en": "A teacher asks a five-year-old girl what her father does for a living. She answers humorously that he does whatever her mother tells him to do.",
+  "level": "elementary",
+  "sentences": [
+    {
+      "zh": "老师问五岁的小女孩：你的爸爸是做什么的？",
+      "en": "The teacher asked the five-year-old little girl: \"What does your dad do for a living?\"",
+      "tokens": [
+        {
+          "w": "老师",
+          "py": "lǎo shī",
+          "gloss": "teacher",
+          "pos": "noun"
+        },
+        {
+          "w": "问",
+          "py": "wèn",
+          "gloss": "ask",
+          "pos": "verb"
+        },
+        {
+          "w": "五",
+          "py": "wǔ",
+          "gloss": "five",
+          "pos": "quant"
+        },
+        {
+          "w": "岁",
+          "py": "suì",
+          "gloss": "years old",
+          "pos": "quant"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(attributive)",
+          "pos": "part"
+        },
+        {
+          "w": "小女孩",
+          "py": "xiǎo nǚ hái",
+          "gloss": "little girl",
+          "pos": "noun"
+        },
+        {
+          "w": "：",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "你",
+          "py": "nǐ",
+          "gloss": "you",
+          "pos": "pron"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(possessive)",
+          "pos": "part"
+        },
+        {
+          "w": "爸爸",
+          "py": "bà ba",
+          "gloss": "dad",
+          "pos": "noun"
+        },
+        {
+          "w": "是",
+          "py": "shì",
+          "gloss": "is",
+          "pos": "verb"
+        },
+        {
+          "w": "做",
+          "py": "zuò",
+          "gloss": "do",
+          "pos": "verb"
+        },
+        {
+          "w": "什么",
+          "py": "shén me",
+          "gloss": "what",
+          "pos": "pron"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(emphasis)",
+          "pos": "part"
+        },
+        {
+          "w": "？",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "小女孩说：我的妈妈让他做什么，他就做什么。",
+      "en": "The little girl said: \"He does whatever my mom tells him to do.\"",
+      "tokens": [
+        {
+          "w": "小女孩",
+          "py": "xiǎo nǚ hái",
+          "gloss": "little girl",
+          "pos": "noun"
+        },
+        {
+          "w": "说",
+          "py": "shuō",
+          "gloss": "say",
+          "pos": "verb"
+        },
+        {
+          "w": "：",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "pos": "pron"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(possessive)",
+          "pos": "part"
+        },
+        {
+          "w": "妈妈",
+          "py": "mā ma",
+          "gloss": "mom",
+          "pos": "noun"
+        },
+        {
+          "w": "让",
+          "py": "ràng",
+          "gloss": "make/let",
+          "pos": "verb"
+        },
+        {
+          "w": "他",
+          "py": "tā",
+          "gloss": "him",
+          "pos": "pron"
+        },
+        {
+          "w": "做",
+          "py": "zuò",
+          "gloss": "do",
+          "pos": "verb"
+        },
+        {
+          "w": "什么",
+          "py": "shén me",
+          "gloss": "what",
+          "pos": "pron"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "他",
+          "py": "tā",
+          "gloss": "he",
+          "pos": "pron"
+        },
+        {
+          "w": "就",
+          "py": "jiù",
+          "gloss": "just/then",
+          "pos": "adv"
+        },
+        {
+          "w": "做",
+          "py": "zuò",
+          "gloss": "do",
+          "pos": "verb"
+        },
+        {
+          "w": "什么",
+          "py": "shén me",
+          "gloss": "whatever",
+          "pos": "pron"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    }
+  ],
+  "new_words": [
+    {
+      "w": "小女孩",
+      "py": "xiǎo nǚ hái",
+      "gloss": "little girl"
+    }
+  ],
+  "grammar_points": [
+    {
+      "pattern": "疑问代词 + …，(就) 疑问代词 + …(呼应用法)",
+      "explanation_en": "The same question word appears twice to mean 'whatever/whoever/wherever... then...'. The first clause sets the condition, and the second clause follows it with the same thing. 就 is often added before the second part.",
+      "example_zh": "你想吃什么，我就做什么。",
+      "example_en": "I'll cook whatever you want to eat."
+    },
+    {
+      "pattern": "A 让 B + 动词",
+      "explanation_en": "让 is a causative verb meaning 'to have/let/make someone do something'. The person who gives the instruction comes before 让, and the person who has to act comes after it.",
+      "example_zh": "老师让学生把书打开。",
+      "example_en": "The teacher told the students to open their books."
+    },
+    {
+      "pattern": "数词 + 量词 + 的 + 名词 (describing a person by age)",
+      "explanation_en": "A number, measure word and 的 can come before a noun to describe it, such as a person's age. Here 五岁的 describes the little girl.",
+      "example_zh": "三岁的男孩正在画画。",
+      "example_en": "The three-year-old boy is drawing."
+    }
+  ],
+  "questions": [
+    {
+      "q_zh": "谁问了这个问题？",
+      "q_en": "Who asked the question?",
+      "answer_en": "The teacher."
+    },
+    {
+      "q_zh": "小女孩的爸爸做什么，由谁决定？",
+      "q_en": "Who decides what the girl's dad does?",
+      "answer_en": "The girl's mother decides."
+    },
+    {
+      "q_zh": "小女孩的回答为什么有意思？",
+      "q_en": "Why is the girl's answer funny?",
+      "answer_en": "Instead of naming a job, she says her dad does whatever her mom tells him, which humorously suggests the mother is in charge at home."
+    }
+  ]
+}

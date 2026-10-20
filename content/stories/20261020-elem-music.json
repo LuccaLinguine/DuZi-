@@ -1,0 +1,735 @@
+{
+  "id": "20261020-elem-music",
+  "series_id": null,
+  "chapter": null,
+  "topic": "Daily life",
+  "format": "article",
+  "created_at": "2026-10-20",
+  "ai_generated": false,
+  "title_zh": "音乐",
+  "title_en": "Music",
+  "summary_en": "The narrator loves music and listens to it every day, in the car in the morning and at home in the evening. Music is a good friend, and the narrator also likes singing but cannot dance.",
+  "level": "elementary",
+  "sentences": [
+    {
+      "zh": "我喜欢音乐，每天我都听很多音乐。",
+      "en": "I like music, and every day I listen to a lot of music.",
+      "tokens": [
+        {
+          "w": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "pos": "pron"
+        },
+        {
+          "w": "喜欢",
+          "py": "xǐ huan",
+          "gloss": "like",
+          "pos": "verb"
+        },
+        {
+          "w": "音乐",
+          "py": "yīn yuè",
+          "gloss": "music",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "每天",
+          "py": "měi tiān",
+          "gloss": "every day",
+          "pos": "adv"
+        },
+        {
+          "w": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "pos": "pron"
+        },
+        {
+          "w": "都",
+          "py": "dōu",
+          "gloss": "always",
+          "pos": "adv"
+        },
+        {
+          "w": "听",
+          "py": "tīng",
+          "gloss": "listen to",
+          "pos": "verb"
+        },
+        {
+          "w": "很多",
+          "py": "hěn duō",
+          "gloss": "a lot of",
+          "pos": "quant"
+        },
+        {
+          "w": "音乐",
+          "py": "yīn yuè",
+          "gloss": "music",
+          "pos": "noun"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "早上，我在车里听音乐；",
+      "en": "In the morning, I listen to music in the car;",
+      "tokens": [
+        {
+          "w": "早上",
+          "py": "zǎo shang",
+          "gloss": "in the morning",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "pos": "pron"
+        },
+        {
+          "w": "在",
+          "py": "zài",
+          "gloss": "in",
+          "pos": "conn"
+        },
+        {
+          "w": "车里",
+          "py": "chē lǐ",
+          "gloss": "in the car",
+          "pos": "noun"
+        },
+        {
+          "w": "听",
+          "py": "tīng",
+          "gloss": "listen to",
+          "pos": "verb"
+        },
+        {
+          "w": "音乐",
+          "py": "yīn yuè",
+          "gloss": "music",
+          "pos": "noun"
+        },
+        {
+          "w": "；",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "晚上，我在家听音乐。",
+      "en": "in the evening, I listen to music at home.",
+      "tokens": [
+        {
+          "w": "晚上",
+          "py": "wǎn shang",
+          "gloss": "in the evening",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "pos": "pron"
+        },
+        {
+          "w": "在",
+          "py": "zài",
+          "gloss": "at",
+          "pos": "conn"
+        },
+        {
+          "w": "家",
+          "py": "jiā",
+          "gloss": "home",
+          "pos": "noun"
+        },
+        {
+          "w": "听",
+          "py": "tīng",
+          "gloss": "listen to",
+          "pos": "verb"
+        },
+        {
+          "w": "音乐",
+          "py": "yīn yuè",
+          "gloss": "music",
+          "pos": "noun"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "音乐是我的好朋友。",
+      "en": "Music is my good friend.",
+      "tokens": [
+        {
+          "w": "音乐",
+          "py": "yīn yuè",
+          "gloss": "music",
+          "pos": "noun"
+        },
+        {
+          "w": "是",
+          "py": "shì",
+          "gloss": "is",
+          "pos": "verb"
+        },
+        {
+          "w": "我",
+          "py": "wǒ",
+          "gloss": "my",
+          "pos": "pron"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(possessive)",
+          "pos": "part"
+        },
+        {
+          "w": "好",
+          "py": "hǎo",
+          "gloss": "good",
+          "pos": "adj"
+        },
+        {
+          "w": "朋友",
+          "py": "péng you",
+          "gloss": "friend",
+          "pos": "noun"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "我的妈妈喜欢听慢的音乐，爸爸喜欢听老的音乐，姐姐喜欢听快的音乐，这些我都喜欢。",
+      "en": "My mother likes listening to slow music, my father likes listening to old music, and my older sister likes listening to fast music; I like all of these.",
+      "tokens": [
+        {
+          "w": "我",
+          "py": "wǒ",
+          "gloss": "my",
+          "pos": "pron"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(possessive)",
+          "pos": "part"
+        },
+        {
+          "w": "妈妈",
+          "py": "mā ma",
+          "gloss": "mother",
+          "pos": "noun"
+        },
+        {
+          "w": "喜欢",
+          "py": "xǐ huan",
+          "gloss": "like",
+          "pos": "verb"
+        },
+        {
+          "w": "听",
+          "py": "tīng",
+          "gloss": "listen to",
+          "pos": "verb"
+        },
+        {
+          "w": "慢",
+          "py": "màn",
+          "gloss": "slow",
+          "pos": "adj"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(attributive)",
+          "pos": "part"
+        },
+        {
+          "w": "音乐",
+          "py": "yīn yuè",
+          "gloss": "music",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "爸爸",
+          "py": "bà ba",
+          "gloss": "father",
+          "pos": "noun"
+        },
+        {
+          "w": "喜欢",
+          "py": "xǐ huan",
+          "gloss": "like",
+          "pos": "verb"
+        },
+        {
+          "w": "听",
+          "py": "tīng",
+          "gloss": "listen to",
+          "pos": "verb"
+        },
+        {
+          "w": "老",
+          "py": "lǎo",
+          "gloss": "old",
+          "pos": "adj"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(attributive)",
+          "pos": "part"
+        },
+        {
+          "w": "音乐",
+          "py": "yīn yuè",
+          "gloss": "music",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "姐姐",
+          "py": "jiě jie",
+          "gloss": "older sister",
+          "pos": "noun"
+        },
+        {
+          "w": "喜欢",
+          "py": "xǐ huan",
+          "gloss": "like",
+          "pos": "verb"
+        },
+        {
+          "w": "听",
+          "py": "tīng",
+          "gloss": "listen to",
+          "pos": "verb"
+        },
+        {
+          "w": "快",
+          "py": "kuài",
+          "gloss": "fast",
+          "pos": "adj"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(attributive)",
+          "pos": "part"
+        },
+        {
+          "w": "音乐",
+          "py": "yīn yuè",
+          "gloss": "music",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "这些",
+          "py": "zhè xiē",
+          "gloss": "these",
+          "pos": "pron"
+        },
+        {
+          "w": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "pos": "pron"
+        },
+        {
+          "w": "都",
+          "py": "dōu",
+          "gloss": "all",
+          "pos": "adv"
+        },
+        {
+          "w": "喜欢",
+          "py": "xǐ huan",
+          "gloss": "like",
+          "pos": "verb"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "因为喜欢听音乐，所以我也喜欢唱歌。",
+      "en": "Because I like listening to music, I also like singing.",
+      "tokens": [
+        {
+          "w": "因为",
+          "py": "yīn wèi",
+          "gloss": "because",
+          "pos": "conn"
+        },
+        {
+          "w": "喜欢",
+          "py": "xǐ huan",
+          "gloss": "like",
+          "pos": "verb"
+        },
+        {
+          "w": "听",
+          "py": "tīng",
+          "gloss": "listen to",
+          "pos": "verb"
+        },
+        {
+          "w": "音乐",
+          "py": "yīn yuè",
+          "gloss": "music",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "所以",
+          "py": "suǒ yǐ",
+          "gloss": "so",
+          "pos": "conn"
+        },
+        {
+          "w": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "pos": "pron"
+        },
+        {
+          "w": "也",
+          "py": "yě",
+          "gloss": "also",
+          "pos": "adv"
+        },
+        {
+          "w": "喜欢",
+          "py": "xǐ huan",
+          "gloss": "like",
+          "pos": "verb"
+        },
+        {
+          "w": "唱歌",
+          "py": "chàng gē",
+          "gloss": "singing",
+          "pos": "verb"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "我会唱很多歌，我和我的好朋友经常一起唱。",
+      "en": "I can sing many songs, and my good friend and I often sing together.",
+      "tokens": [
+        {
+          "w": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "pos": "pron"
+        },
+        {
+          "w": "会",
+          "py": "huì",
+          "gloss": "can",
+          "pos": "verb"
+        },
+        {
+          "w": "唱",
+          "py": "chàng",
+          "gloss": "sing",
+          "pos": "verb"
+        },
+        {
+          "w": "很多",
+          "py": "hěn duō",
+          "gloss": "many",
+          "pos": "quant"
+        },
+        {
+          "w": "歌",
+          "py": "gē",
+          "gloss": "songs",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "pos": "pron"
+        },
+        {
+          "w": "和",
+          "py": "hé",
+          "gloss": "and",
+          "pos": "conn"
+        },
+        {
+          "w": "我",
+          "py": "wǒ",
+          "gloss": "my",
+          "pos": "pron"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(possessive)",
+          "pos": "part"
+        },
+        {
+          "w": "好",
+          "py": "hǎo",
+          "gloss": "good",
+          "pos": "adj"
+        },
+        {
+          "w": "朋友",
+          "py": "péng you",
+          "gloss": "friend",
+          "pos": "noun"
+        },
+        {
+          "w": "经常",
+          "py": "jīng cháng",
+          "gloss": "often",
+          "pos": "adv"
+        },
+        {
+          "w": "一起",
+          "py": "yì qǐ",
+          "gloss": "together",
+          "pos": "adv"
+        },
+        {
+          "w": "唱",
+          "py": "chàng",
+          "gloss": "sing",
+          "pos": "verb"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "我不会跳舞，但是我觉得不会跳也没关系。",
+      "en": "I can't dance, but I think it doesn't matter if I can't.",
+      "tokens": [
+        {
+          "w": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "pos": "pron"
+        },
+        {
+          "w": "不",
+          "py": "bú",
+          "gloss": "not",
+          "pos": "adv"
+        },
+        {
+          "w": "会",
+          "py": "huì",
+          "gloss": "can",
+          "pos": "verb"
+        },
+        {
+          "w": "跳舞",
+          "py": "tiào wǔ",
+          "gloss": "dance",
+          "pos": "verb"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "但是",
+          "py": "dàn shì",
+          "gloss": "but",
+          "pos": "conn"
+        },
+        {
+          "w": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "pos": "pron"
+        },
+        {
+          "w": "觉得",
+          "py": "jué de",
+          "gloss": "think",
+          "pos": "verb"
+        },
+        {
+          "w": "不",
+          "py": "bú",
+          "gloss": "not",
+          "pos": "adv"
+        },
+        {
+          "w": "会",
+          "py": "huì",
+          "gloss": "can",
+          "pos": "verb"
+        },
+        {
+          "w": "跳",
+          "py": "tiào",
+          "gloss": "dance",
+          "pos": "verb"
+        },
+        {
+          "w": "也",
+          "py": "yě",
+          "gloss": "also",
+          "pos": "adv"
+        },
+        {
+          "w": "没关系",
+          "py": "méi guān xi",
+          "gloss": "doesn't matter",
+          "pos": "adj"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    }
+  ],
+  "new_words": [
+    {
+      "w": "每天",
+      "py": "měi tiān",
+      "gloss": "every day"
+    },
+    {
+      "w": "跳",
+      "py": "tiào",
+      "gloss": "dance"
+    },
+    {
+      "w": "跳舞",
+      "py": "tiào wǔ",
+      "gloss": "dance"
+    }
+  ],
+  "grammar_points": [
+    {
+      "pattern": "因为……，所以……",
+      "explanation_en": "Means 'because... so...'. 因为 introduces the reason and 所以 introduces the result. Both are used together in Chinese, unlike in English where we usually use only one.",
+      "example_zh": "因为今天下雨，所以我不出去。",
+      "example_en": "Because it is raining today, I'm not going out."
+    },
+    {
+      "pattern": "会 + verb (ability)",
+      "explanation_en": "会 shows you have learned how to do something. Its negative is 不会. Use it for learned skills like singing, dancing or swimming.",
+      "example_zh": "我会做中国菜，但是我不会做日本菜。",
+      "example_en": "I can cook Chinese food, but I can't cook Japanese food."
+    },
+    {
+      "pattern": "在 + place + verb",
+      "explanation_en": "在 plus a place goes before the verb to say where an action happens.",
+      "example_zh": "中午，我在学校吃饭。",
+      "example_en": "At noon, I eat at school."
+    }
+  ],
+  "questions": [
+    {
+      "q_zh": "早上，他在哪里听音乐？",
+      "q_en": "Where does he or she listen to music in the morning?",
+      "answer_en": "In the car."
+    },
+    {
+      "q_zh": "姐姐喜欢听什么音乐？",
+      "q_en": "What kind of music does the older sister like?",
+      "answer_en": "Fast music."
+    },
+    {
+      "q_zh": "他会跳舞吗？他觉得怎么样？",
+      "q_en": "Can he or she dance? How does he or she feel about it?",
+      "answer_en": "No, but he or she thinks it doesn't matter."
+    }
+  ]
+}

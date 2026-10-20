@@ -1,0 +1,299 @@
+{
+  "id": "20261020-elem-it-s-hot-today",
+  "series_id": null,
+  "chapter": null,
+  "topic": "Daily life",
+  "format": "story",
+  "created_at": "2026-10-20",
+  "ai_generated": false,
+  "title_zh": "今天很热",
+  "title_en": "It's hot today",
+  "summary_en": "On a hot day, a Chinese teacher teaches three classes and gets very thirsty. She buys a bottle of water, drinks two cups of tea back in her office, and feels much better.",
+  "level": "elementary",
+  "sentences": [
+    {
+      "zh": "今天天气很热，早上中文老师上了三节课，非常渴。",
+      "en": "The weather is very hot today. This morning the Chinese teacher taught three classes and was very thirsty.",
+      "tokens": [
+        {
+          "w": "今天",
+          "py": "jīn tiān",
+          "gloss": "today",
+          "pos": "noun"
+        },
+        {
+          "w": "天气",
+          "py": "tiān qì",
+          "gloss": "weather",
+          "pos": "noun"
+        },
+        {
+          "w": "很",
+          "py": "hěn",
+          "gloss": "very",
+          "pos": "adv"
+        },
+        {
+          "w": "热",
+          "py": "rè",
+          "gloss": "hot",
+          "pos": "adj"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "早上",
+          "py": "zǎo shang",
+          "gloss": "in the morning",
+          "pos": "noun"
+        },
+        {
+          "w": "中文",
+          "py": "Zhōng wén",
+          "gloss": "Chinese (language)",
+          "pos": "noun"
+        },
+        {
+          "w": "老师",
+          "py": "lǎo shī",
+          "gloss": "teacher",
+          "pos": "noun"
+        },
+        {
+          "w": "上",
+          "py": "shàng",
+          "gloss": "to teach (class)",
+          "pos": "verb"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(completed)",
+          "pos": "part"
+        },
+        {
+          "w": "三",
+          "py": "sān",
+          "gloss": "three",
+          "pos": "quant"
+        },
+        {
+          "w": "节",
+          "py": "jié",
+          "gloss": "(class period)",
+          "pos": "quant"
+        },
+        {
+          "w": "课",
+          "py": "kè",
+          "gloss": "class",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "非常",
+          "py": "fēi cháng",
+          "gloss": "very",
+          "pos": "adv"
+        },
+        {
+          "w": "渴",
+          "py": "kě",
+          "gloss": "thirsty",
+          "pos": "adj"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "她去超市买了一瓶水，又回办公室喝了两杯茶，舒服多了。",
+      "en": "She went to the supermarket and bought a bottle of water, then went back to the office and drank two cups of tea, and felt much more comfortable.",
+      "tokens": [
+        {
+          "w": "她",
+          "py": "tā",
+          "gloss": "she",
+          "pos": "pron"
+        },
+        {
+          "w": "去",
+          "py": "qù",
+          "gloss": "to go",
+          "pos": "verb"
+        },
+        {
+          "w": "超市",
+          "py": "chāo shì",
+          "gloss": "supermarket",
+          "pos": "noun"
+        },
+        {
+          "w": "买",
+          "py": "mǎi",
+          "gloss": "to buy",
+          "pos": "verb"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(completed)",
+          "pos": "part"
+        },
+        {
+          "w": "一",
+          "py": "yì",
+          "gloss": "one",
+          "pos": "quant"
+        },
+        {
+          "w": "瓶",
+          "py": "píng",
+          "gloss": "bottle",
+          "pos": "quant"
+        },
+        {
+          "w": "水",
+          "py": "shuǐ",
+          "gloss": "water",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "又",
+          "py": "yòu",
+          "gloss": "again",
+          "pos": "adv"
+        },
+        {
+          "w": "回",
+          "py": "huí",
+          "gloss": "to return",
+          "pos": "verb"
+        },
+        {
+          "w": "办公室",
+          "py": "bàn gōng shì",
+          "gloss": "office",
+          "pos": "noun"
+        },
+        {
+          "w": "喝",
+          "py": "hē",
+          "gloss": "to drink",
+          "pos": "verb"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(completed)",
+          "pos": "part"
+        },
+        {
+          "w": "两",
+          "py": "liǎng",
+          "gloss": "two",
+          "pos": "quant"
+        },
+        {
+          "w": "杯",
+          "py": "bēi",
+          "gloss": "cup",
+          "pos": "quant"
+        },
+        {
+          "w": "茶",
+          "py": "chá",
+          "gloss": "tea",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "舒服",
+          "py": "shū fu",
+          "gloss": "comfortable",
+          "pos": "adj"
+        },
+        {
+          "w": "多",
+          "py": "duō",
+          "gloss": "much more",
+          "pos": "adv"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(change of state)",
+          "pos": "part"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    }
+  ],
+  "new_words": [],
+  "grammar_points": [
+    {
+      "pattern": "Verb + 了 (completed action)",
+      "explanation_en": "Put 了 after a verb to show the action has been completed. It is often used with a number and measure word, like 三节课 or 两杯茶.",
+      "example_zh": "我昨天吃了三个苹果。",
+      "example_en": "I ate three apples yesterday."
+    },
+    {
+      "pattern": "Adjective + 多了 (much more…)",
+      "explanation_en": "Put 多了 after an adjective to say that something is much more that way than before, often showing a change or comparison.",
+      "example_zh": "吃了药，我好多了。",
+      "example_en": "After taking medicine, I feel much better."
+    },
+    {
+      "pattern": "又 (and then, also, another action)",
+      "explanation_en": "又 links a second action that follows the first one, or an action that happens again. Here it adds one more thing she did after buying water.",
+      "example_zh": "他先去商店，又去了银行。",
+      "example_en": "He went to the store first, and then went to the bank."
+    }
+  ],
+  "questions": [
+    {
+      "q_zh": "今天天气怎么样？",
+      "q_en": "What is the weather like today?",
+      "answer_en": "It is very hot."
+    },
+    {
+      "q_zh": "老师早上上了几节课？",
+      "q_en": "How many classes did the teacher teach this morning?",
+      "answer_en": "Three classes."
+    },
+    {
+      "q_zh": "老师在办公室喝了什么？",
+      "q_en": "What did the teacher drink in the office?",
+      "answer_en": "Two cups of tea."
+    }
+  ]
+}

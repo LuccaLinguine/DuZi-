@@ -1,0 +1,503 @@
+{
+  "id": "20261020-inter-stop-talking",
+  "series_id": null,
+  "chapter": null,
+  "topic": "Funny",
+  "format": "dialogue",
+  "created_at": "2026-10-20",
+  "ai_generated": false,
+  "title_zh": "别说话",
+  "title_en": "Stop Talking",
+  "summary_en": "A teacher tells two chatty students to stop talking, but they start again. When the teacher annoyedly tells them to come up and talk while he goes down to listen, the students give a funny reply.",
+  "level": "intermediate",
+  "sentences": [
+    {
+      "zh": "老师在上课，两个学生在说话，老师对他们说：“别说话了！”",
+      "en": "The teacher was teaching a class, and two students were talking. The teacher said to them, \"Stop talking!\"",
+      "tokens": [
+        {
+          "w": "老师",
+          "py": "lǎo shī",
+          "gloss": "teacher",
+          "pos": "noun"
+        },
+        {
+          "w": "在",
+          "py": "zài",
+          "gloss": "(progressive)",
+          "pos": "adv"
+        },
+        {
+          "w": "上课",
+          "py": "shàng kè",
+          "gloss": "to have class",
+          "pos": "verb"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "两",
+          "py": "liǎng",
+          "gloss": "two",
+          "pos": "quant"
+        },
+        {
+          "w": "个",
+          "py": "ge",
+          "gloss": "(measure word)",
+          "pos": "quant"
+        },
+        {
+          "w": "学生",
+          "py": "xué sheng",
+          "gloss": "students",
+          "pos": "noun"
+        },
+        {
+          "w": "在",
+          "py": "zài",
+          "gloss": "(progressive)",
+          "pos": "adv"
+        },
+        {
+          "w": "说话",
+          "py": "shuō huà",
+          "gloss": "to talk",
+          "pos": "verb"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "老师",
+          "py": "lǎo shī",
+          "gloss": "teacher",
+          "pos": "noun"
+        },
+        {
+          "w": "对",
+          "py": "duì",
+          "gloss": "to",
+          "pos": "conn"
+        },
+        {
+          "w": "他们",
+          "py": "tā men",
+          "gloss": "them",
+          "pos": "pron"
+        },
+        {
+          "w": "说",
+          "py": "shuō",
+          "gloss": "to say",
+          "pos": "verb"
+        },
+        {
+          "w": "：“",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "别",
+          "py": "bié",
+          "gloss": "don't",
+          "pos": "adv"
+        },
+        {
+          "w": "说话",
+          "py": "shuō huà",
+          "gloss": "talk",
+          "pos": "verb"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(particle)",
+          "pos": "part"
+        },
+        {
+          "w": "！”",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "但是过了一会儿，他们又开始说，老师有点儿生气：“来，你们上来说，我下去听。”",
+      "en": "But after a little while, they started talking again. The teacher was a bit angry: \"Come on, you two come up here and talk, and I'll go down and listen.\"",
+      "tokens": [
+        {
+          "w": "但是",
+          "py": "dàn shì",
+          "gloss": "but",
+          "pos": "conn"
+        },
+        {
+          "w": "过",
+          "py": "guò",
+          "gloss": "pass (time)",
+          "pos": "verb"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(completed)",
+          "pos": "part"
+        },
+        {
+          "w": "一会儿",
+          "py": "yí huìr",
+          "gloss": "a little while",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "他们",
+          "py": "tā men",
+          "gloss": "they",
+          "pos": "pron"
+        },
+        {
+          "w": "又",
+          "py": "yòu",
+          "gloss": "again",
+          "pos": "adv"
+        },
+        {
+          "w": "开始",
+          "py": "kāi shǐ",
+          "gloss": "began",
+          "pos": "verb"
+        },
+        {
+          "w": "说",
+          "py": "shuō",
+          "gloss": "talk",
+          "pos": "verb"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "老师",
+          "py": "lǎo shī",
+          "gloss": "teacher",
+          "pos": "noun"
+        },
+        {
+          "w": "有点儿",
+          "py": "yǒu diǎnr",
+          "gloss": "somewhat",
+          "pos": "adv"
+        },
+        {
+          "w": "生气",
+          "py": "shēng qì",
+          "gloss": "angry",
+          "pos": "adj"
+        },
+        {
+          "w": "：“",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "来",
+          "py": "lái",
+          "gloss": "come on",
+          "pos": "verb"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "你们",
+          "py": "nǐ men",
+          "gloss": "you two",
+          "pos": "pron"
+        },
+        {
+          "w": "上来",
+          "py": "shàng lai",
+          "gloss": "come up",
+          "pos": "verb"
+        },
+        {
+          "w": "说",
+          "py": "shuō",
+          "gloss": "talk",
+          "pos": "verb"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "pos": "pron"
+        },
+        {
+          "w": "下去",
+          "py": "xià qu",
+          "gloss": "go down",
+          "pos": "verb"
+        },
+        {
+          "w": "听",
+          "py": "tīng",
+          "gloss": "listen",
+          "pos": "verb"
+        },
+        {
+          "w": "。”",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "学生：“但我们不是老师。”",
+      "en": "The students said, \"But we're not teachers.\"",
+      "tokens": [
+        {
+          "w": "学生",
+          "py": "xué sheng",
+          "gloss": "students",
+          "pos": "noun"
+        },
+        {
+          "w": "：“",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "但",
+          "py": "dàn",
+          "gloss": "but",
+          "pos": "conn"
+        },
+        {
+          "w": "我们",
+          "py": "wǒ men",
+          "gloss": "we",
+          "pos": "pron"
+        },
+        {
+          "w": "不是",
+          "py": "bú shì",
+          "gloss": "are not",
+          "pos": "verb"
+        },
+        {
+          "w": "老师",
+          "py": "lǎo shī",
+          "gloss": "teachers",
+          "pos": "noun"
+        },
+        {
+          "w": "。”",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "老师说：“不是老师，你们为什么一直说话？”",
+      "en": "The teacher said, \"If you're not teachers, why do you keep talking?\"",
+      "tokens": [
+        {
+          "w": "老师",
+          "py": "lǎo shī",
+          "gloss": "teacher",
+          "pos": "noun"
+        },
+        {
+          "w": "说",
+          "py": "shuō",
+          "gloss": "said",
+          "pos": "verb"
+        },
+        {
+          "w": "：“",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "不是",
+          "py": "bú shì",
+          "gloss": "are not",
+          "pos": "verb"
+        },
+        {
+          "w": "老师",
+          "py": "lǎo shī",
+          "gloss": "teachers",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "你们",
+          "py": "nǐ men",
+          "gloss": "you",
+          "pos": "pron"
+        },
+        {
+          "w": "为什么",
+          "py": "wèi shén me",
+          "gloss": "why",
+          "pos": "adv"
+        },
+        {
+          "w": "一直",
+          "py": "yì zhí",
+          "gloss": "keep (doing)",
+          "pos": "adv"
+        },
+        {
+          "w": "说话",
+          "py": "shuō huà",
+          "gloss": "talk",
+          "pos": "verb"
+        },
+        {
+          "w": "？”",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "学生说：“所以我们在下面说。”",
+      "en": "The student said, \"That's why we talk down here.\"",
+      "tokens": [
+        {
+          "w": "学生",
+          "py": "xué sheng",
+          "gloss": "student",
+          "pos": "noun"
+        },
+        {
+          "w": "说",
+          "py": "shuō",
+          "gloss": "said",
+          "pos": "verb"
+        },
+        {
+          "w": "：“",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "所以",
+          "py": "suǒ yǐ",
+          "gloss": "so",
+          "pos": "conn"
+        },
+        {
+          "w": "我们",
+          "py": "wǒ men",
+          "gloss": "we",
+          "pos": "pron"
+        },
+        {
+          "w": "在",
+          "py": "zài",
+          "gloss": "at",
+          "pos": "conn"
+        },
+        {
+          "w": "下面",
+          "py": "xià mian",
+          "gloss": "down here",
+          "pos": "noun"
+        },
+        {
+          "w": "说",
+          "py": "shuō",
+          "gloss": "talk",
+          "pos": "verb"
+        },
+        {
+          "w": "。”",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    }
+  ],
+  "new_words": [],
+  "grammar_points": [
+    {
+      "pattern": "又 + verb (repeated action)",
+      "explanation_en": "又 is used for an action that has happened again, already repeated. It goes before the verb.",
+      "example_zh": "他昨天迟到了，今天又迟到了。",
+      "example_en": "He was late yesterday, and he was late again today."
+    },
+    {
+      "pattern": "在 + verb (action in progress)",
+      "explanation_en": "在 before a verb shows that an action is happening right now.",
+      "example_zh": "妈妈在做饭，爸爸在看电视。",
+      "example_en": "Mom is cooking, and Dad is watching TV."
+    },
+    {
+      "pattern": "过了一会儿",
+      "explanation_en": "过了一会儿 means 'after a little while'. It links two events and shows that a short time passed between them.",
+      "example_zh": "我们坐下来，过了一会儿，菜就来了。",
+      "example_en": "We sat down, and after a little while, the food came."
+    }
+  ],
+  "questions": [
+    {
+      "q_zh": "老师为什么有点儿生气？",
+      "q_en": "Why was the teacher a bit angry?",
+      "answer_en": "Because the two students started talking again after being told to stop."
+    },
+    {
+      "q_zh": "老师想让学生做什么？",
+      "q_en": "What did the teacher want the students to do?",
+      "answer_en": "Come up to the front and talk while the teacher went down to listen."
+    },
+    {
+      "q_zh": "学生为什么说“我们在下面说”？",
+      "q_en": "Why did the students say \"we talk down here\"?",
+      "answer_en": "They said they are not teachers, so they should talk down below with the students, not up front where the teacher stands."
+    }
+  ]
+}

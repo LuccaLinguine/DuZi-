@@ -1,0 +1,868 @@
+{
+  "id": "20261020-elem-spring-festival",
+  "series_id": null,
+  "chapter": null,
+  "topic": "Culture",
+  "format": "article",
+  "created_at": "2026-10-20",
+  "ai_generated": false,
+  "title_zh": "春节",
+  "title_en": "Spring Festival",
+  "summary_en": "The narrator describes Spring Festival, the biggest holiday in China, on 17 February 2026. Families buy lots of food and new clothes, eat together, give red envelopes, and say happy new year to each other.",
+  "level": "elementary",
+  "sentences": [
+    {
+      "zh": "二零二六年二月十七日是春节。",
+      "en": "February 17, 2026 is the Spring Festival.",
+      "tokens": [
+        {
+          "w": "二",
+          "py": "èr",
+          "gloss": "two",
+          "pos": "quant"
+        },
+        {
+          "w": "零",
+          "py": "líng",
+          "gloss": "zero",
+          "pos": "quant"
+        },
+        {
+          "w": "二",
+          "py": "èr",
+          "gloss": "two",
+          "pos": "quant"
+        },
+        {
+          "w": "六",
+          "py": "liù",
+          "gloss": "six",
+          "pos": "quant"
+        },
+        {
+          "w": "年",
+          "py": "nián",
+          "gloss": "year",
+          "pos": "quant"
+        },
+        {
+          "w": "二",
+          "py": "èr",
+          "gloss": "two",
+          "pos": "quant"
+        },
+        {
+          "w": "月",
+          "py": "yuè",
+          "gloss": "month",
+          "pos": "quant"
+        },
+        {
+          "w": "十",
+          "py": "shí",
+          "gloss": "ten",
+          "pos": "quant"
+        },
+        {
+          "w": "七",
+          "py": "qī",
+          "gloss": "seven",
+          "pos": "quant"
+        },
+        {
+          "w": "日",
+          "py": "rì",
+          "gloss": "day (date)",
+          "pos": "quant"
+        },
+        {
+          "w": "是",
+          "py": "shì",
+          "gloss": "is",
+          "pos": "verb"
+        },
+        {
+          "w": "春节",
+          "py": "chūn jié",
+          "gloss": "Spring Festival",
+          "pos": "noun"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "这是新年的第一天，也是中国最大的节日。",
+      "en": "This is the first day of the new year, and also the biggest holiday in China.",
+      "tokens": [
+        {
+          "w": "这",
+          "py": "zhè",
+          "gloss": "this",
+          "pos": "pron"
+        },
+        {
+          "w": "是",
+          "py": "shì",
+          "gloss": "is",
+          "pos": "verb"
+        },
+        {
+          "w": "新年",
+          "py": "xīn nián",
+          "gloss": "new year",
+          "pos": "noun"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(possessive)",
+          "pos": "part"
+        },
+        {
+          "w": "第",
+          "py": "dì",
+          "gloss": "(ordinal prefix)",
+          "pos": "part"
+        },
+        {
+          "w": "一",
+          "py": "yī",
+          "gloss": "one",
+          "pos": "quant"
+        },
+        {
+          "w": "天",
+          "py": "tiān",
+          "gloss": "day",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "也",
+          "py": "yě",
+          "gloss": "also",
+          "pos": "adv"
+        },
+        {
+          "w": "是",
+          "py": "shì",
+          "gloss": "is",
+          "pos": "verb"
+        },
+        {
+          "w": "中国",
+          "py": "Zhōng guó",
+          "gloss": "China",
+          "pos": "noun"
+        },
+        {
+          "w": "最",
+          "py": "zuì",
+          "gloss": "most",
+          "pos": "adv"
+        },
+        {
+          "w": "大",
+          "py": "dà",
+          "gloss": "big",
+          "pos": "adj"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(possessive)",
+          "pos": "part"
+        },
+        {
+          "w": "节日",
+          "py": "jié rì",
+          "gloss": "holiday",
+          "pos": "noun"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "在这一天，天气很冷，但是大家都很高兴。",
+      "en": "On this day, the weather is very cold, but everyone is very happy.",
+      "tokens": [
+        {
+          "w": "在",
+          "py": "zài",
+          "gloss": "on",
+          "pos": "conn"
+        },
+        {
+          "w": "这",
+          "py": "zhè",
+          "gloss": "this",
+          "pos": "pron"
+        },
+        {
+          "w": "一",
+          "py": "yī",
+          "gloss": "one",
+          "pos": "quant"
+        },
+        {
+          "w": "天",
+          "py": "tiān",
+          "gloss": "day",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "天气",
+          "py": "tiān qì",
+          "gloss": "weather",
+          "pos": "noun"
+        },
+        {
+          "w": "很",
+          "py": "hěn",
+          "gloss": "very",
+          "pos": "adv"
+        },
+        {
+          "w": "冷",
+          "py": "lěng",
+          "gloss": "cold",
+          "pos": "adj"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "但是",
+          "py": "dàn shì",
+          "gloss": "but",
+          "pos": "conn"
+        },
+        {
+          "w": "大家",
+          "py": "dà jiā",
+          "gloss": "everyone",
+          "pos": "pron"
+        },
+        {
+          "w": "都",
+          "py": "dōu",
+          "gloss": "all",
+          "pos": "adv"
+        },
+        {
+          "w": "很",
+          "py": "hěn",
+          "gloss": "very",
+          "pos": "adv"
+        },
+        {
+          "w": "高兴",
+          "py": "gāo xìng",
+          "gloss": "happy",
+          "pos": "adj"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "我们会买很多东西：有鱼、有肉、有水果，还有新衣服。",
+      "en": "We buy a lot of things: fish, meat, fruit, and also new clothes.",
+      "tokens": [
+        {
+          "w": "我们",
+          "py": "wǒ men",
+          "gloss": "we",
+          "pos": "pron"
+        },
+        {
+          "w": "会",
+          "py": "huì",
+          "gloss": "will",
+          "pos": "verb"
+        },
+        {
+          "w": "买",
+          "py": "mǎi",
+          "gloss": "to buy",
+          "pos": "verb"
+        },
+        {
+          "w": "很多",
+          "py": "hěn duō",
+          "gloss": "a lot of",
+          "pos": "adj"
+        },
+        {
+          "w": "东西",
+          "py": "dōng xi",
+          "gloss": "things",
+          "pos": "noun"
+        },
+        {
+          "w": "：",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "有",
+          "py": "yǒu",
+          "gloss": "there is",
+          "pos": "verb"
+        },
+        {
+          "w": "鱼",
+          "py": "yú",
+          "gloss": "fish",
+          "pos": "noun"
+        },
+        {
+          "w": "、",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "有",
+          "py": "yǒu",
+          "gloss": "there is",
+          "pos": "verb"
+        },
+        {
+          "w": "肉",
+          "py": "ròu",
+          "gloss": "meat",
+          "pos": "noun"
+        },
+        {
+          "w": "、",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "有",
+          "py": "yǒu",
+          "gloss": "there is",
+          "pos": "verb"
+        },
+        {
+          "w": "水果",
+          "py": "shuǐ guǒ",
+          "gloss": "fruit",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "还",
+          "py": "hái",
+          "gloss": "also",
+          "pos": "adv"
+        },
+        {
+          "w": "有",
+          "py": "yǒu",
+          "gloss": "there is",
+          "pos": "verb"
+        },
+        {
+          "w": "新",
+          "py": "xīn",
+          "gloss": "new",
+          "pos": "adj"
+        },
+        {
+          "w": "衣服",
+          "py": "yī fu",
+          "gloss": "clothes",
+          "pos": "noun"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "家人们会在一起吃饭，有很多好吃的东西。",
+      "en": "Family members eat together, and there is a lot of delicious food.",
+      "tokens": [
+        {
+          "w": "家人们",
+          "py": "jiā rén men",
+          "gloss": "family members",
+          "pos": "noun"
+        },
+        {
+          "w": "会",
+          "py": "huì",
+          "gloss": "will",
+          "pos": "verb"
+        },
+        {
+          "w": "在一起",
+          "py": "zài yì qǐ",
+          "gloss": "together",
+          "pos": "adv"
+        },
+        {
+          "w": "吃饭",
+          "py": "chī fàn",
+          "gloss": "to eat a meal",
+          "pos": "verb"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "有",
+          "py": "yǒu",
+          "gloss": "there is",
+          "pos": "verb"
+        },
+        {
+          "w": "很多",
+          "py": "hěn duō",
+          "gloss": "a lot of",
+          "pos": "adj"
+        },
+        {
+          "w": "好吃",
+          "py": "hǎo chī",
+          "gloss": "delicious",
+          "pos": "adj"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(nominalizer)",
+          "pos": "part"
+        },
+        {
+          "w": "东西",
+          "py": "dōng xi",
+          "gloss": "food",
+          "pos": "noun"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "大家一起说话、吃东西、喝茶、看电视。",
+      "en": "Everyone talks, eats, drinks tea, and watches TV together.",
+      "tokens": [
+        {
+          "w": "大家",
+          "py": "dà jiā",
+          "gloss": "everyone",
+          "pos": "pron"
+        },
+        {
+          "w": "一起",
+          "py": "yì qǐ",
+          "gloss": "together",
+          "pos": "adv"
+        },
+        {
+          "w": "说话",
+          "py": "shuō huà",
+          "gloss": "to talk",
+          "pos": "verb"
+        },
+        {
+          "w": "、",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "吃",
+          "py": "chī",
+          "gloss": "to eat",
+          "pos": "verb"
+        },
+        {
+          "w": "东西",
+          "py": "dōng xi",
+          "gloss": "food",
+          "pos": "noun"
+        },
+        {
+          "w": "、",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "喝",
+          "py": "hē",
+          "gloss": "to drink",
+          "pos": "verb"
+        },
+        {
+          "w": "茶",
+          "py": "chá",
+          "gloss": "tea",
+          "pos": "noun"
+        },
+        {
+          "w": "、",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "看",
+          "py": "kàn",
+          "gloss": "to watch",
+          "pos": "verb"
+        },
+        {
+          "w": "电视",
+          "py": "diàn shì",
+          "gloss": "TV",
+          "pos": "noun"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "大人会给孩子们红包，里面有钱。",
+      "en": "Adults give children red envelopes with money inside.",
+      "tokens": [
+        {
+          "w": "大人",
+          "py": "dà rén",
+          "gloss": "adults",
+          "pos": "noun"
+        },
+        {
+          "w": "会",
+          "py": "huì",
+          "gloss": "will",
+          "pos": "verb"
+        },
+        {
+          "w": "给",
+          "py": "gěi",
+          "gloss": "to",
+          "pos": "conn"
+        },
+        {
+          "w": "孩子们",
+          "py": "hái zi men",
+          "gloss": "children",
+          "pos": "noun"
+        },
+        {
+          "w": "红包",
+          "py": "hóng bāo",
+          "gloss": "red envelope",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "里面",
+          "py": "lǐ miàn",
+          "gloss": "inside",
+          "pos": "noun"
+        },
+        {
+          "w": "有",
+          "py": "yǒu",
+          "gloss": "there is",
+          "pos": "verb"
+        },
+        {
+          "w": "钱",
+          "py": "qián",
+          "gloss": "money",
+          "pos": "noun"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "我们会穿红色的新衣服，非常漂亮。",
+      "en": "We wear new red clothes, which look very beautiful.",
+      "tokens": [
+        {
+          "w": "我们",
+          "py": "wǒ men",
+          "gloss": "we",
+          "pos": "pron"
+        },
+        {
+          "w": "会",
+          "py": "huì",
+          "gloss": "will",
+          "pos": "verb"
+        },
+        {
+          "w": "穿",
+          "py": "chuān",
+          "gloss": "to wear",
+          "pos": "verb"
+        },
+        {
+          "w": "红色",
+          "py": "hóng sè",
+          "gloss": "red",
+          "pos": "noun"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(modifier)",
+          "pos": "part"
+        },
+        {
+          "w": "新",
+          "py": "xīn",
+          "gloss": "new",
+          "pos": "adj"
+        },
+        {
+          "w": "衣服",
+          "py": "yī fu",
+          "gloss": "clothes",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "非常",
+          "py": "fēi cháng",
+          "gloss": "very",
+          "pos": "adv"
+        },
+        {
+          "w": "漂亮",
+          "py": "piào liang",
+          "gloss": "beautiful",
+          "pos": "adj"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "大家见面的时候会说：“新年快乐！”",
+      "en": "When people meet, they say: \"Happy New Year!\"",
+      "tokens": [
+        {
+          "w": "大家",
+          "py": "dà jiā",
+          "gloss": "everyone",
+          "pos": "pron"
+        },
+        {
+          "w": "见面",
+          "py": "jiàn miàn",
+          "gloss": "to meet",
+          "pos": "verb"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(when)",
+          "pos": "part"
+        },
+        {
+          "w": "时候",
+          "py": "shí hou",
+          "gloss": "time",
+          "pos": "noun"
+        },
+        {
+          "w": "会",
+          "py": "huì",
+          "gloss": "will",
+          "pos": "verb"
+        },
+        {
+          "w": "说",
+          "py": "shuō",
+          "gloss": "to say",
+          "pos": "verb"
+        },
+        {
+          "w": "：“",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "新年",
+          "py": "xīn nián",
+          "gloss": "New Year",
+          "pos": "noun"
+        },
+        {
+          "w": "快乐",
+          "py": "kuài lè",
+          "gloss": "happy",
+          "pos": "adj"
+        },
+        {
+          "w": "！”",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "我非常喜欢春节。",
+      "en": "I like Spring Festival very much.",
+      "tokens": [
+        {
+          "w": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "pos": "pron"
+        },
+        {
+          "w": "非常",
+          "py": "fēi cháng",
+          "gloss": "very",
+          "pos": "adv"
+        },
+        {
+          "w": "喜欢",
+          "py": "xǐ huan",
+          "gloss": "to like",
+          "pos": "verb"
+        },
+        {
+          "w": "春节",
+          "py": "chūn jié",
+          "gloss": "Spring Festival",
+          "pos": "noun"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    }
+  ],
+  "new_words": [
+    {
+      "w": "红包",
+      "py": "hóng bāo",
+      "gloss": "red envelope"
+    },
+    {
+      "w": "里面",
+      "py": "lǐ miàn",
+      "gloss": "inside"
+    }
+  ],
+  "grammar_points": [
+    {
+      "pattern": "虽然/但是 pattern: A，但是 B (contrast)",
+      "explanation_en": "用 但是 to introduce a result that contrasts with the first part. Here the cold weather contrasts with people being happy. It means 'but'.",
+      "example_zh": "今天很忙，但是我很开心。",
+      "example_en": "I am very busy today, but I am happy."
+    },
+    {
+      "pattern": "有……、有……，还有……",
+      "explanation_en": "Use this to list several items. 有 names each item and 还有 adds one more at the end.",
+      "example_zh": "桌子上有苹果、有茶，还有面包。",
+      "example_en": "On the table there are apples, tea, and also bread."
+    },
+    {
+      "pattern": "在……的时候 / 在一起 (time and place with 在)",
+      "explanation_en": "在 can mark a time or a place. 在这一天 means 'on this day', and 在一起 means 'together'. 的时候 means 'when'.",
+      "example_zh": "我吃饭的时候不看手机。",
+      "example_en": "When I eat, I don't look at my phone."
+    }
+  ],
+  "questions": [
+    {
+      "q_zh": "春节是什么时候？",
+      "q_en": "When is the Spring Festival?",
+      "answer_en": "February 17, 2026."
+    },
+    {
+      "q_zh": "大人会给孩子们什么？",
+      "q_en": "What do adults give to children?",
+      "answer_en": "Red envelopes with money inside."
+    },
+    {
+      "q_zh": "大家见面的时候说什么？",
+      "q_en": "What do people say when they meet?",
+      "answer_en": "\"Happy New Year!\" (新年快乐)"
+    }
+  ]
+}

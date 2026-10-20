@@ -1,0 +1,424 @@
+{
+  "id": "20261020-upper-who-i-am",
+  "series_id": null,
+  "chapter": null,
+  "topic": "Daily life",
+  "format": "story",
+  "created_at": "2026-10-20",
+  "ai_generated": false,
+  "title_zh": "我是谁",
+  "title_en": "Who I Am",
+  "summary_en": "Li David, an American who grew up in Japan and studied in England, introduces himself as an English teacher working in China. He loves his job and says the students and the school are both good.",
+  "level": "upper",
+  "sentences": [
+    {
+      "zh": "我的名字叫李大卫，我是美国人，但是在日本长大，在英国上大学，现在在中国工作。",
+      "en": "My name is Li David. I am American, but I grew up in Japan, went to university in England, and now work in China.",
+      "tokens": [
+        {
+          "w": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "pos": "pron"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(possessive)",
+          "pos": "part"
+        },
+        {
+          "w": "名字",
+          "py": "míng zi",
+          "gloss": "name",
+          "pos": "noun"
+        },
+        {
+          "w": "叫",
+          "py": "jiào",
+          "gloss": "to be called",
+          "pos": "verb"
+        },
+        {
+          "w": "李大卫",
+          "py": "lǐ dà wèi",
+          "gloss": "Li David",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "pos": "pron"
+        },
+        {
+          "w": "是",
+          "py": "shì",
+          "gloss": "am",
+          "pos": "verb"
+        },
+        {
+          "w": "美国人",
+          "py": "měi guó rén",
+          "gloss": "American",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "但是",
+          "py": "dàn shì",
+          "gloss": "but",
+          "pos": "conn"
+        },
+        {
+          "w": "在",
+          "py": "zài",
+          "gloss": "in",
+          "pos": "conn"
+        },
+        {
+          "w": "日本",
+          "py": "rì běn",
+          "gloss": "Japan",
+          "pos": "noun"
+        },
+        {
+          "w": "长大",
+          "py": "zhǎng dà",
+          "gloss": "to grow up",
+          "pos": "verb"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "在",
+          "py": "zài",
+          "gloss": "in",
+          "pos": "conn"
+        },
+        {
+          "w": "英国",
+          "py": "yīng guó",
+          "gloss": "England",
+          "pos": "noun"
+        },
+        {
+          "w": "上",
+          "py": "shàng",
+          "gloss": "to attend",
+          "pos": "verb"
+        },
+        {
+          "w": "大学",
+          "py": "dà xué",
+          "gloss": "university",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "现在",
+          "py": "xiàn zài",
+          "gloss": "now",
+          "pos": "adv"
+        },
+        {
+          "w": "在",
+          "py": "zài",
+          "gloss": "in",
+          "pos": "conn"
+        },
+        {
+          "w": "中国",
+          "py": "zhōng guó",
+          "gloss": "China",
+          "pos": "noun"
+        },
+        {
+          "w": "工作",
+          "py": "gōng zuò",
+          "gloss": "to work",
+          "pos": "verb"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "我在大学学习历史和英语，现在是一个英语老师，我非常喜欢我的工作。",
+      "en": "I studied history and English at university, and now I am an English teacher. I like my job very much.",
+      "tokens": [
+        {
+          "w": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "pos": "pron"
+        },
+        {
+          "w": "在",
+          "py": "zài",
+          "gloss": "at",
+          "pos": "conn"
+        },
+        {
+          "w": "大学",
+          "py": "dà xué",
+          "gloss": "university",
+          "pos": "noun"
+        },
+        {
+          "w": "学习",
+          "py": "xué xí",
+          "gloss": "to study",
+          "pos": "verb"
+        },
+        {
+          "w": "历史",
+          "py": "lì shǐ",
+          "gloss": "history",
+          "pos": "noun"
+        },
+        {
+          "w": "和",
+          "py": "hé",
+          "gloss": "and",
+          "pos": "conn"
+        },
+        {
+          "w": "英语",
+          "py": "Yīng yǔ",
+          "gloss": "English",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "现在",
+          "py": "xiàn zài",
+          "gloss": "now",
+          "pos": "adv"
+        },
+        {
+          "w": "是",
+          "py": "shì",
+          "gloss": "am",
+          "pos": "verb"
+        },
+        {
+          "w": "一",
+          "py": "yī",
+          "gloss": "a",
+          "pos": "quant"
+        },
+        {
+          "w": "个",
+          "py": "gè",
+          "gloss": "(measure word)",
+          "pos": "quant"
+        },
+        {
+          "w": "英语",
+          "py": "Yīng yǔ",
+          "gloss": "English",
+          "pos": "noun"
+        },
+        {
+          "w": "老师",
+          "py": "lǎo shī",
+          "gloss": "teacher",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "pos": "pron"
+        },
+        {
+          "w": "非常",
+          "py": "fēi cháng",
+          "gloss": "very",
+          "pos": "adv"
+        },
+        {
+          "w": "喜欢",
+          "py": "xǐ huan",
+          "gloss": "to like",
+          "pos": "verb"
+        },
+        {
+          "w": "我",
+          "py": "wǒ",
+          "gloss": "my",
+          "pos": "pron"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(possessive)",
+          "pos": "part"
+        },
+        {
+          "w": "工作",
+          "py": "gōng zuò",
+          "gloss": "job",
+          "pos": "noun"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "学生们很好，学校也很好。",
+      "en": "The students are great, and the school is great too.",
+      "tokens": [
+        {
+          "w": "学生",
+          "py": "xué sheng",
+          "gloss": "student",
+          "pos": "noun"
+        },
+        {
+          "w": "们",
+          "py": "men",
+          "gloss": "(plural)",
+          "pos": "part"
+        },
+        {
+          "w": "很",
+          "py": "hěn",
+          "gloss": "very",
+          "pos": "adv"
+        },
+        {
+          "w": "好",
+          "py": "hǎo",
+          "gloss": "great",
+          "pos": "adj"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "学校",
+          "py": "xué xiào",
+          "gloss": "school",
+          "pos": "noun"
+        },
+        {
+          "w": "也",
+          "py": "yě",
+          "gloss": "too",
+          "pos": "adv"
+        },
+        {
+          "w": "很",
+          "py": "hěn",
+          "gloss": "very",
+          "pos": "adv"
+        },
+        {
+          "w": "好",
+          "py": "hǎo",
+          "gloss": "great",
+          "pos": "adj"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    }
+  ],
+  "new_words": [
+    {
+      "w": "李大卫",
+      "py": "lǐ dà wèi",
+      "gloss": "Li David"
+    },
+    {
+      "w": "英国",
+      "py": "yīng guó",
+      "gloss": "England"
+    }
+  ],
+  "grammar_points": [
+    {
+      "pattern": "虽然/…，但是…（A，但是 B）: contrast with 但是",
+      "explanation_en": "但是 introduces something that contrasts with or goes against what was said before. The first clause gives the expected or background fact, and the second gives the contrasting one.",
+      "example_zh": "我家很小，但是很温暖。",
+      "example_en": "My home is small, but it is very warm."
+    },
+    {
+      "pattern": "在 + place + verb",
+      "explanation_en": "在 placed before a verb marks the place where an action happens. The text uses it to say where the speaker grew up, studied, and works.",
+      "example_zh": "她在法国学做菜。",
+      "example_en": "She learns to cook in France."
+    },
+    {
+      "pattern": "A 也很… (也 for 'also')",
+      "explanation_en": "也 means 'also' and goes before the verb or adjective, after the subject. It adds a new subject that shares the same quality as the one mentioned before.",
+      "example_zh": "我的朋友很忙，我也很忙。",
+      "example_en": "My friend is very busy, and I am very busy too."
+    }
+  ],
+  "questions": [
+    {
+      "q_zh": "李大卫是哪国人？",
+      "q_en": "What nationality is Li David?",
+      "answer_en": "He is American."
+    },
+    {
+      "q_zh": "他在哪里上大学？",
+      "q_en": "Where did he go to university?",
+      "answer_en": "In England."
+    },
+    {
+      "q_zh": "他现在做什么工作？他喜欢吗？",
+      "q_en": "What job does he do now? Does he like it?",
+      "answer_en": "He is an English teacher, and he likes his job very much."
+    }
+  ]
+}

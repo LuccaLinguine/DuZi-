@@ -1,0 +1,431 @@
+{
+  "id": "20261020-inter-i-didn-t-laugh",
+  "series_id": null,
+  "chapter": null,
+  "topic": "Funny",
+  "format": "story",
+  "created_at": "2026-10-20",
+  "ai_generated": false,
+  "title_zh": "我没笑",
+  "title_en": "I Didn't Laugh",
+  "summary_en": "Xiao Wang tells his mother that a child fell into the water at school and everyone laughed except him. His mother praises him, then asks who fell in, and he answers that it was himself.",
+  "level": "intermediate",
+  "sentences": [
+    {
+      "zh": "小王从学校回家，妈妈问他今天怎么样，他告诉妈妈：“今天有一个孩子掉进水里了，同学们都大笑，只有我没笑。”",
+      "en": "Xiao Wang came home from school, and his mother asked him how today was. He told her: \"Today a child fell into the water, and all the classmates laughed loudly. Only I didn't laugh.\"",
+      "tokens": [
+        {
+          "w": "小王",
+          "py": "Xiǎo Wáng",
+          "gloss": "Xiao Wang",
+          "pos": "noun"
+        },
+        {
+          "w": "从",
+          "py": "cóng",
+          "gloss": "from",
+          "pos": "conn"
+        },
+        {
+          "w": "学校",
+          "py": "xué xiào",
+          "gloss": "school",
+          "pos": "noun"
+        },
+        {
+          "w": "回家",
+          "py": "huí jiā",
+          "gloss": "go home",
+          "pos": "verb"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "妈妈",
+          "py": "mā ma",
+          "gloss": "mom",
+          "pos": "noun"
+        },
+        {
+          "w": "问",
+          "py": "wèn",
+          "gloss": "ask",
+          "pos": "verb"
+        },
+        {
+          "w": "他",
+          "py": "tā",
+          "gloss": "him",
+          "pos": "pron"
+        },
+        {
+          "w": "今天",
+          "py": "jīn tiān",
+          "gloss": "today",
+          "pos": "noun"
+        },
+        {
+          "w": "怎么样",
+          "py": "zěn me yàng",
+          "gloss": "how (was it)",
+          "pos": "pron"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "他",
+          "py": "tā",
+          "gloss": "he",
+          "pos": "pron"
+        },
+        {
+          "w": "告诉",
+          "py": "gào sù",
+          "gloss": "tell",
+          "pos": "verb"
+        },
+        {
+          "w": "妈妈",
+          "py": "mā ma",
+          "gloss": "mom",
+          "pos": "noun"
+        },
+        {
+          "w": "：“",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "今天",
+          "py": "jīn tiān",
+          "gloss": "today",
+          "pos": "noun"
+        },
+        {
+          "w": "有",
+          "py": "yǒu",
+          "gloss": "there is",
+          "pos": "verb"
+        },
+        {
+          "w": "一",
+          "py": "yí",
+          "gloss": "one",
+          "pos": "quant"
+        },
+        {
+          "w": "个",
+          "py": "gè",
+          "gloss": "(measure word)",
+          "pos": "quant"
+        },
+        {
+          "w": "孩子",
+          "py": "hái zi",
+          "gloss": "child",
+          "pos": "noun"
+        },
+        {
+          "w": "掉",
+          "py": "diào",
+          "gloss": "fall",
+          "pos": "verb"
+        },
+        {
+          "w": "进",
+          "py": "jìn",
+          "gloss": "into",
+          "pos": "verb"
+        },
+        {
+          "w": "水里",
+          "py": "shuǐ lǐ",
+          "gloss": "in the water",
+          "pos": "noun"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(change of state)",
+          "pos": "part"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "同学们",
+          "py": "tóng xué men",
+          "gloss": "classmates",
+          "pos": "noun"
+        },
+        {
+          "w": "都",
+          "py": "dōu",
+          "gloss": "all",
+          "pos": "adv"
+        },
+        {
+          "w": "大笑",
+          "py": "dà xiào",
+          "gloss": "laugh loudly",
+          "pos": "verb"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "只有",
+          "py": "zhǐ yǒu",
+          "gloss": "only",
+          "pos": "adv"
+        },
+        {
+          "w": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "pos": "pron"
+        },
+        {
+          "w": "没",
+          "py": "méi",
+          "gloss": "did not",
+          "pos": "adv"
+        },
+        {
+          "w": "笑",
+          "py": "xiào",
+          "gloss": "laugh",
+          "pos": "verb"
+        },
+        {
+          "w": "。”",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "妈妈很高兴：“好孩子，我们当然不能笑别人。",
+      "en": "His mother was very happy: \"Good boy, of course we must not laugh at other people.",
+      "tokens": [
+        {
+          "w": "妈妈",
+          "py": "mā ma",
+          "gloss": "mom",
+          "pos": "noun"
+        },
+        {
+          "w": "很",
+          "py": "hěn",
+          "gloss": "very",
+          "pos": "adv"
+        },
+        {
+          "w": "高兴",
+          "py": "gāo xìng",
+          "gloss": "happy",
+          "pos": "adj"
+        },
+        {
+          "w": "：“",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "好",
+          "py": "hǎo",
+          "gloss": "good",
+          "pos": "adj"
+        },
+        {
+          "w": "孩子",
+          "py": "hái zi",
+          "gloss": "child",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "我们",
+          "py": "wǒ men",
+          "gloss": "we",
+          "pos": "pron"
+        },
+        {
+          "w": "当然",
+          "py": "dāng rán",
+          "gloss": "of course",
+          "pos": "adv"
+        },
+        {
+          "w": "不能",
+          "py": "bù néng",
+          "gloss": "must not",
+          "pos": "verb"
+        },
+        {
+          "w": "笑",
+          "py": "xiào",
+          "gloss": "laugh at",
+          "pos": "verb"
+        },
+        {
+          "w": "别人",
+          "py": "bié ren",
+          "gloss": "other people",
+          "pos": "noun"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "谁掉进水里了？”",
+      "en": "Who fell into the water?\"",
+      "tokens": [
+        {
+          "w": "谁",
+          "py": "shéi",
+          "gloss": "who",
+          "pos": "pron"
+        },
+        {
+          "w": "掉",
+          "py": "diào",
+          "gloss": "fall",
+          "pos": "verb"
+        },
+        {
+          "w": "进",
+          "py": "jìn",
+          "gloss": "into",
+          "pos": "verb"
+        },
+        {
+          "w": "水里",
+          "py": "shuǐ lǐ",
+          "gloss": "in the water",
+          "pos": "noun"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(change of state)",
+          "pos": "part"
+        },
+        {
+          "w": "？”",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "小王说：“我。”",
+      "en": "Xiao Wang said: \"Me.\"",
+      "tokens": [
+        {
+          "w": "小王",
+          "py": "Xiǎo Wáng",
+          "gloss": "Xiao Wang",
+          "pos": "noun"
+        },
+        {
+          "w": "说",
+          "py": "shuō",
+          "gloss": "say",
+          "pos": "verb"
+        },
+        {
+          "w": "：“",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "我",
+          "py": "wǒ",
+          "gloss": "me",
+          "pos": "pron"
+        },
+        {
+          "w": "。”",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    }
+  ],
+  "new_words": [
+    {
+      "w": "小王",
+      "py": "Xiǎo Wáng",
+      "gloss": "Xiao Wang"
+    }
+  ],
+  "grammar_points": [
+    {
+      "pattern": "只有……(都)没/不……",
+      "explanation_en": "\"只有\" means \"only\" and singles out one person or thing. Here it is paired with \"都\" earlier in the sentence to contrast \"everyone\" with \"only me\".",
+      "example_zh": "大家都去了，只有我没去。",
+      "example_en": "Everyone went; only I didn't go."
+    },
+    {
+      "pattern": "V + 进 + place (direction complement)",
+      "explanation_en": "\"进\" after a verb shows movement into something. \"掉进\" means to fall into. \"了\" at the end shows the event has happened.",
+      "example_zh": "小猫跳进了盒子里。",
+      "example_en": "The kitten jumped into the box."
+    },
+    {
+      "pattern": "不能 + verb",
+      "explanation_en": "\"不能\" means \"must not\" or \"cannot\", used for rules or what is not acceptable to do. \"当然\" (of course) can be added for emphasis.",
+      "example_zh": "在教室里我们不能大声说话。",
+      "example_en": "In the classroom we must not talk loudly."
+    }
+  ],
+  "questions": [
+    {
+      "q_zh": "小王回家后告诉妈妈什么？",
+      "q_en": "What did Xiao Wang tell his mother after he got home?",
+      "answer_en": "That a child fell into the water at school, everyone laughed, and only he didn't laugh."
+    },
+    {
+      "q_zh": "妈妈为什么很高兴？",
+      "q_en": "Why was his mother happy?",
+      "answer_en": "Because she thought her son didn't laugh at someone else's misfortune, which was good behavior."
+    },
+    {
+      "q_zh": "谁掉进水里了？",
+      "q_en": "Who fell into the water?",
+      "answer_en": "Xiao Wang himself."
+    }
+  ]
+}

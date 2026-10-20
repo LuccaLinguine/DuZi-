@@ -1,0 +1,574 @@
+{
+  "id": "20261020-inter-my-bicycle",
+  "series_id": null,
+  "chapter": null,
+  "topic": "Daily life",
+  "format": "story",
+  "created_at": "2026-10-20",
+  "ai_generated": false,
+  "title_zh": "我的自行车",
+  "title_en": "My Bicycle",
+  "summary_en": "The narrator's favorite vehicle is a bicycle, which their mother bought them at age six. It was small and sky-blue, and the narrator rode it all around the city, treating it as their best friend.",
+  "level": "intermediate",
+  "sentences": [
+    {
+      "zh": "我最喜欢的车是自行车。",
+      "en": "My favorite vehicle is the bicycle.",
+      "tokens": [
+        {
+          "w": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "pos": "pron"
+        },
+        {
+          "w": "最",
+          "py": "zuì",
+          "gloss": "most",
+          "pos": "adv"
+        },
+        {
+          "w": "喜欢",
+          "py": "xǐ huan",
+          "gloss": "like",
+          "pos": "verb"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(attributive)",
+          "pos": "part"
+        },
+        {
+          "w": "车",
+          "py": "chē",
+          "gloss": "vehicle",
+          "pos": "noun"
+        },
+        {
+          "w": "是",
+          "py": "shì",
+          "gloss": "is",
+          "pos": "verb"
+        },
+        {
+          "w": "自行车",
+          "py": "zì xíng chē",
+          "gloss": "bicycle",
+          "pos": "noun"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "我六岁的时候，妈妈就给我买了一辆小自行车。",
+      "en": "When I was six years old, my mother bought me a small bicycle.",
+      "tokens": [
+        {
+          "w": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "pos": "pron"
+        },
+        {
+          "w": "六",
+          "py": "liù",
+          "gloss": "six",
+          "pos": "quant"
+        },
+        {
+          "w": "岁",
+          "py": "suì",
+          "gloss": "years old",
+          "pos": "quant"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(attributive)",
+          "pos": "part"
+        },
+        {
+          "w": "时候",
+          "py": "shí hou",
+          "gloss": "time",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "妈妈",
+          "py": "mā ma",
+          "gloss": "mom",
+          "pos": "noun"
+        },
+        {
+          "w": "就",
+          "py": "jiù",
+          "gloss": "then",
+          "pos": "adv"
+        },
+        {
+          "w": "给",
+          "py": "gěi",
+          "gloss": "for",
+          "pos": "conn"
+        },
+        {
+          "w": "我",
+          "py": "wǒ",
+          "gloss": "me",
+          "pos": "pron"
+        },
+        {
+          "w": "买",
+          "py": "mǎi",
+          "gloss": "buy",
+          "pos": "verb"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(completed)",
+          "pos": "part"
+        },
+        {
+          "w": "一",
+          "py": "yí",
+          "gloss": "one",
+          "pos": "quant"
+        },
+        {
+          "w": "辆",
+          "py": "liàng",
+          "gloss": "(vehicle measure)",
+          "pos": "quant"
+        },
+        {
+          "w": "小",
+          "py": "xiǎo",
+          "gloss": "small",
+          "pos": "adj"
+        },
+        {
+          "w": "自行车",
+          "py": "zì xíng chē",
+          "gloss": "bicycle",
+          "pos": "noun"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "那辆车非常漂亮，像天空一样蓝。",
+      "en": "That bike was very beautiful, as blue as the sky.",
+      "tokens": [
+        {
+          "w": "那",
+          "py": "nà",
+          "gloss": "that",
+          "pos": "pron"
+        },
+        {
+          "w": "辆",
+          "py": "liàng",
+          "gloss": "(vehicle measure)",
+          "pos": "quant"
+        },
+        {
+          "w": "车",
+          "py": "chē",
+          "gloss": "bike",
+          "pos": "noun"
+        },
+        {
+          "w": "非常",
+          "py": "fēi cháng",
+          "gloss": "very",
+          "pos": "adv"
+        },
+        {
+          "w": "漂亮",
+          "py": "piào liang",
+          "gloss": "beautiful",
+          "pos": "adj"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "像",
+          "py": "xiàng",
+          "gloss": "be like",
+          "pos": "verb"
+        },
+        {
+          "w": "天空",
+          "py": "tiān kōng",
+          "gloss": "sky",
+          "pos": "noun"
+        },
+        {
+          "w": "一样",
+          "py": "yí yàng",
+          "gloss": "the same as",
+          "pos": "adj"
+        },
+        {
+          "w": "蓝",
+          "py": "lán",
+          "gloss": "blue",
+          "pos": "adj"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "虽然车很小，但是我可以骑得很快。",
+      "en": "Although the bike was small, I could ride very fast.",
+      "tokens": [
+        {
+          "w": "虽然",
+          "py": "suī rán",
+          "gloss": "although",
+          "pos": "conn"
+        },
+        {
+          "w": "车",
+          "py": "chē",
+          "gloss": "bike",
+          "pos": "noun"
+        },
+        {
+          "w": "很",
+          "py": "hěn",
+          "gloss": "very",
+          "pos": "adv"
+        },
+        {
+          "w": "小",
+          "py": "xiǎo",
+          "gloss": "small",
+          "pos": "adj"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "但是",
+          "py": "dàn shì",
+          "gloss": "but",
+          "pos": "conn"
+        },
+        {
+          "w": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "pos": "pron"
+        },
+        {
+          "w": "可以",
+          "py": "kě yǐ",
+          "gloss": "can",
+          "pos": "verb"
+        },
+        {
+          "w": "骑",
+          "py": "qí",
+          "gloss": "ride",
+          "pos": "verb"
+        },
+        {
+          "w": "得",
+          "py": "de",
+          "gloss": "(complement)",
+          "pos": "part"
+        },
+        {
+          "w": "很",
+          "py": "hěn",
+          "gloss": "very",
+          "pos": "adv"
+        },
+        {
+          "w": "快",
+          "py": "kuài",
+          "gloss": "fast",
+          "pos": "adj"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "我经常骑着我的自行车去公园或者图书馆，经过街道和大桥，穿过整个城市。",
+      "en": "I often rode my bicycle to the park or the library, passing through streets and over bridges, and going across the whole city.",
+      "tokens": [
+        {
+          "w": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "pos": "pron"
+        },
+        {
+          "w": "经常",
+          "py": "jīng cháng",
+          "gloss": "often",
+          "pos": "adv"
+        },
+        {
+          "w": "骑",
+          "py": "qí",
+          "gloss": "ride",
+          "pos": "verb"
+        },
+        {
+          "w": "着",
+          "py": "zhe",
+          "gloss": "(ongoing)",
+          "pos": "part"
+        },
+        {
+          "w": "我",
+          "py": "wǒ",
+          "gloss": "my",
+          "pos": "pron"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(possessive)",
+          "pos": "part"
+        },
+        {
+          "w": "自行车",
+          "py": "zì xíng chē",
+          "gloss": "bicycle",
+          "pos": "noun"
+        },
+        {
+          "w": "去",
+          "py": "qù",
+          "gloss": "go to",
+          "pos": "verb"
+        },
+        {
+          "w": "公园",
+          "py": "gōng yuán",
+          "gloss": "park",
+          "pos": "noun"
+        },
+        {
+          "w": "或者",
+          "py": "huò zhě",
+          "gloss": "or",
+          "pos": "conn"
+        },
+        {
+          "w": "图书馆",
+          "py": "tú shū guǎn",
+          "gloss": "library",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "经过",
+          "py": "jīng guò",
+          "gloss": "pass through",
+          "pos": "verb"
+        },
+        {
+          "w": "街道",
+          "py": "jiē dào",
+          "gloss": "streets",
+          "pos": "noun"
+        },
+        {
+          "w": "和",
+          "py": "hé",
+          "gloss": "and",
+          "pos": "conn"
+        },
+        {
+          "w": "大桥",
+          "py": "dà qiáo",
+          "gloss": "bridge",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "穿过",
+          "py": "chuān guò",
+          "gloss": "cross",
+          "pos": "verb"
+        },
+        {
+          "w": "整个",
+          "py": "zhěng gè",
+          "gloss": "whole",
+          "pos": "adj"
+        },
+        {
+          "w": "城市",
+          "py": "chéng shì",
+          "gloss": "city",
+          "pos": "noun"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "自行车就是我最好的朋友。",
+      "en": "The bicycle is my best friend.",
+      "tokens": [
+        {
+          "w": "自行车",
+          "py": "zì xíng chē",
+          "gloss": "bicycle",
+          "pos": "noun"
+        },
+        {
+          "w": "就",
+          "py": "jiù",
+          "gloss": "exactly",
+          "pos": "adv"
+        },
+        {
+          "w": "是",
+          "py": "shì",
+          "gloss": "is",
+          "pos": "verb"
+        },
+        {
+          "w": "我",
+          "py": "wǒ",
+          "gloss": "my",
+          "pos": "pron"
+        },
+        {
+          "w": "最",
+          "py": "zuì",
+          "gloss": "most",
+          "pos": "adv"
+        },
+        {
+          "w": "好",
+          "py": "hǎo",
+          "gloss": "good",
+          "pos": "adj"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(attributive)",
+          "pos": "part"
+        },
+        {
+          "w": "朋友",
+          "py": "péng you",
+          "gloss": "friend",
+          "pos": "noun"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    }
+  ],
+  "new_words": [
+    {
+      "w": "穿过",
+      "py": "chuān guò",
+      "gloss": "cross"
+    },
+    {
+      "w": "街道",
+      "py": "jiē dào",
+      "gloss": "streets"
+    }
+  ],
+  "grammar_points": [
+    {
+      "pattern": "虽然……，但是……",
+      "explanation_en": "Means 'although... but...'. The first part gives a fact, and the second part gives a contrast. In Chinese you use both words together.",
+      "example_zh": "虽然今天很冷，但是我还是去跑步了。",
+      "example_en": "Although it is very cold today, I still went running."
+    },
+    {
+      "pattern": "A 像 B 一样 + adjective",
+      "explanation_en": "Used to compare two things that are alike: 'A is as ADJ as B'. The adjective tells in what way they are similar.",
+      "example_zh": "我的妹妹像小鸟一样爱唱歌。",
+      "example_en": "My younger sister loves to sing like a little bird."
+    },
+    {
+      "pattern": "Verb + 得 + adjective (complement of degree)",
+      "explanation_en": "After a verb, 得 introduces a description of how the action is done, such as how fast or how well.",
+      "example_zh": "他说得很清楚。",
+      "example_en": "He speaks very clearly."
+    }
+  ],
+  "questions": [
+    {
+      "q_zh": "妈妈什么时候给我买了自行车？",
+      "q_en": "When did Mom buy the narrator a bicycle?",
+      "answer_en": "When the narrator was six years old."
+    },
+    {
+      "q_zh": "那辆自行车是什么颜色的？",
+      "q_en": "What color was the bicycle?",
+      "answer_en": "Blue, like the sky."
+    },
+    {
+      "q_zh": "我经常骑自行车去哪里？",
+      "q_en": "Where does the narrator often ride the bicycle to?",
+      "answer_en": "To the park or the library."
+    }
+  ]
+}

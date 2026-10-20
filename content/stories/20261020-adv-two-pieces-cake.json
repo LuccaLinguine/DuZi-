@@ -1,0 +1,383 @@
+{
+  "id": "20261020-adv-two-pieces-cake",
+  "series_id": null,
+  "chapter": null,
+  "topic": "Funny",
+  "format": "dialogue",
+  "created_at": "2026-10-20",
+  "ai_generated": false,
+  "title_zh": "两块蛋糕",
+  "title_en": "Two Pieces of Cake",
+  "summary_en": "A child asks his mother for two pieces of cake instead of one. She says yes, then takes his single piece and cuts it in half, giving him \"two pieces.\"",
+  "level": "advanced",
+  "sentences": [
+    {
+      "zh": "妈妈：给你一块蛋糕，吃吧！",
+      "en": "Mom: Here's a piece of cake for you. Go ahead and eat!",
+      "tokens": [
+        {
+          "w": "妈妈",
+          "py": "mā ma",
+          "gloss": "mom",
+          "pos": "noun"
+        },
+        {
+          "w": "：",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "给",
+          "py": "gěi",
+          "gloss": "to give",
+          "pos": "verb"
+        },
+        {
+          "w": "你",
+          "py": "nǐ",
+          "gloss": "you",
+          "pos": "pron"
+        },
+        {
+          "w": "一",
+          "py": "yí",
+          "gloss": "one",
+          "pos": "quant"
+        },
+        {
+          "w": "块",
+          "py": "kuài",
+          "gloss": "piece",
+          "pos": "quant"
+        },
+        {
+          "w": "蛋糕",
+          "py": "dàn gāo",
+          "gloss": "cake",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "吃",
+          "py": "chī",
+          "gloss": "to eat",
+          "pos": "verb"
+        },
+        {
+          "w": "吧",
+          "py": "ba",
+          "gloss": "(suggestion)",
+          "pos": "part"
+        },
+        {
+          "w": "！",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "孩子：妈妈，我想吃两块蛋糕，可以吗？",
+      "en": "Child: Mom, I'd like to have two pieces of cake. Is that okay?",
+      "tokens": [
+        {
+          "w": "孩子",
+          "py": "hái zi",
+          "gloss": "child",
+          "pos": "noun"
+        },
+        {
+          "w": "：",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "妈妈",
+          "py": "mā ma",
+          "gloss": "mom",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "pos": "pron"
+        },
+        {
+          "w": "想",
+          "py": "xiǎng",
+          "gloss": "would like",
+          "pos": "verb"
+        },
+        {
+          "w": "吃",
+          "py": "chī",
+          "gloss": "to eat",
+          "pos": "verb"
+        },
+        {
+          "w": "两",
+          "py": "liǎng",
+          "gloss": "two",
+          "pos": "quant"
+        },
+        {
+          "w": "块",
+          "py": "kuài",
+          "gloss": "piece",
+          "pos": "quant"
+        },
+        {
+          "w": "蛋糕",
+          "py": "dàn gāo",
+          "gloss": "cake",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "可以",
+          "py": "kě yǐ",
+          "gloss": "may",
+          "pos": "verb"
+        },
+        {
+          "w": "吗",
+          "py": "ma",
+          "gloss": "(question)",
+          "pos": "part"
+        },
+        {
+          "w": "？",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "妈妈：当然可以！",
+      "en": "Mom: Of course you can!",
+      "tokens": [
+        {
+          "w": "妈妈",
+          "py": "mā ma",
+          "gloss": "mom",
+          "pos": "noun"
+        },
+        {
+          "w": "：",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "当然",
+          "py": "dāng rán",
+          "gloss": "of course",
+          "pos": "adv"
+        },
+        {
+          "w": "可以",
+          "py": "kě yǐ",
+          "gloss": "may",
+          "pos": "verb"
+        },
+        {
+          "w": "！",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "妈妈拿走孩子的这块蛋糕，切成两半，说：给你，两块。",
+      "en": "Mom takes away the child's piece of cake, cuts it into two halves, and says: Here you go, two pieces.",
+      "tokens": [
+        {
+          "w": "妈妈",
+          "py": "mā ma",
+          "gloss": "mom",
+          "pos": "noun"
+        },
+        {
+          "w": "拿走",
+          "py": "ná zǒu",
+          "gloss": "to take away",
+          "pos": "verb"
+        },
+        {
+          "w": "孩子",
+          "py": "hái zi",
+          "gloss": "child",
+          "pos": "noun"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(possessive)",
+          "pos": "part"
+        },
+        {
+          "w": "这",
+          "py": "zhè",
+          "gloss": "this",
+          "pos": "pron"
+        },
+        {
+          "w": "块",
+          "py": "kuài",
+          "gloss": "piece",
+          "pos": "quant"
+        },
+        {
+          "w": "蛋糕",
+          "py": "dàn gāo",
+          "gloss": "cake",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "切成",
+          "py": "qiē chéng",
+          "gloss": "to cut into",
+          "pos": "verb"
+        },
+        {
+          "w": "两",
+          "py": "liǎng",
+          "gloss": "two",
+          "pos": "quant"
+        },
+        {
+          "w": "半",
+          "py": "bàn",
+          "gloss": "halves",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "说",
+          "py": "shuō",
+          "gloss": "to say",
+          "pos": "verb"
+        },
+        {
+          "w": "：",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "给",
+          "py": "gěi",
+          "gloss": "here, take it",
+          "pos": "verb"
+        },
+        {
+          "w": "你",
+          "py": "nǐ",
+          "gloss": "you",
+          "pos": "pron"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "两",
+          "py": "liǎng",
+          "gloss": "two",
+          "pos": "quant"
+        },
+        {
+          "w": "块",
+          "py": "kuài",
+          "gloss": "pieces",
+          "pos": "quant"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    }
+  ],
+  "new_words": [
+    {
+      "w": "拿走",
+      "py": "ná zǒu",
+      "gloss": "to take away"
+    }
+  ],
+  "grammar_points": [
+    {
+      "pattern": "V + 成 (切成两半)",
+      "explanation_en": "The structure 'verb + 成' shows something being changed or turned into a different form or result. What it becomes comes after 成.",
+      "example_zh": "他把纸折成了一只小船。",
+      "example_en": "He folded the paper into a little boat."
+    },
+    {
+      "pattern": "给你 + quantity (给你一块蛋糕 / 给你，两块)",
+      "explanation_en": "给 can be followed by a person and then the thing given, meaning 'give someone something.' In speech it can also be used on its own as 'here you go' when handing something over.",
+      "example_zh": "我给你一杯热茶，喝吧。",
+      "example_en": "I'll give you a cup of hot tea, so drink up."
+    },
+    {
+      "pattern": "拿走 (verb + directional complement 走)",
+      "explanation_en": "走 after a verb shows that something is taken or moved away from the speaker's place. 拿走 means 'take away.'",
+      "example_zh": "服务员把空盘子拿走了。",
+      "example_en": "The waiter took the empty plates away."
+    }
+  ],
+  "questions": [
+    {
+      "q_zh": "孩子想吃几块蛋糕？",
+      "q_en": "How many pieces of cake does the child want to eat?",
+      "answer_en": "Two pieces."
+    },
+    {
+      "q_zh": "妈妈为什么说“当然可以”？",
+      "q_en": "Why does the mother say \"Of course you can\"?",
+      "answer_en": "Because she plans to cut the one piece in half and call it two pieces, so she can technically agree."
+    },
+    {
+      "q_zh": "妈妈最后做了什么？",
+      "q_en": "What did the mother do in the end?",
+      "answer_en": "She took the child's piece of cake, cut it into two halves, and gave them back as \"two pieces.\""
+    }
+  ]
+}

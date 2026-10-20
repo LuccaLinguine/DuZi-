@@ -1,0 +1,388 @@
+{
+  "id": "20261020-elem-having-meeting",
+  "series_id": null,
+  "chapter": null,
+  "topic": "Work",
+  "format": "story",
+  "created_at": "2026-10-20",
+  "ai_generated": false,
+  "title_zh": "开会",
+  "title_en": "Having a Meeting",
+  "summary_en": "The narrator has an important meeting in the afternoon but is not prepared. They skip a proper lunch and prepare while eating and drinking at the office, and finally finish in time.",
+  "level": "elementary",
+  "sentences": [
+    {
+      "zh": "今天下午我要开会，这个会很重要，但是我没准备好。",
+      "en": "This afternoon I have a meeting. It is a very important meeting, but I am not ready.",
+      "tokens": [
+        {
+          "w": "今天",
+          "py": "jīn tiān",
+          "gloss": "today",
+          "pos": "noun"
+        },
+        {
+          "w": "下午",
+          "py": "xià wǔ",
+          "gloss": "afternoon",
+          "pos": "noun"
+        },
+        {
+          "w": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "pos": "pron"
+        },
+        {
+          "w": "要",
+          "py": "yào",
+          "gloss": "will (future)",
+          "pos": "verb"
+        },
+        {
+          "w": "开会",
+          "py": "kāi huì",
+          "gloss": "to hold a meeting",
+          "pos": "verb"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "这个",
+          "py": "zhè ge",
+          "gloss": "this",
+          "pos": "pron"
+        },
+        {
+          "w": "会",
+          "py": "huì",
+          "gloss": "meeting",
+          "pos": "noun"
+        },
+        {
+          "w": "很",
+          "py": "hěn",
+          "gloss": "very",
+          "pos": "adv"
+        },
+        {
+          "w": "重要",
+          "py": "zhòng yào",
+          "gloss": "important",
+          "pos": "adj"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "但是",
+          "py": "dàn shì",
+          "gloss": "but",
+          "pos": "conn"
+        },
+        {
+          "w": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "pos": "pron"
+        },
+        {
+          "w": "没",
+          "py": "méi",
+          "gloss": "not",
+          "pos": "adv"
+        },
+        {
+          "w": "准备好",
+          "py": "zhǔn bèi hǎo",
+          "gloss": "to be ready",
+          "pos": "verb"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "中午，我没时间吃东西，就在办公室里一边喝咖啡、吃面包，一边准备开会的东西。",
+      "en": "At noon, I had no time to eat, so in the office I drank coffee and ate bread while preparing the things for the meeting.",
+      "tokens": [
+        {
+          "w": "中午",
+          "py": "zhōng wǔ",
+          "gloss": "noon",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "pos": "pron"
+        },
+        {
+          "w": "没",
+          "py": "méi",
+          "gloss": "not",
+          "pos": "adv"
+        },
+        {
+          "w": "时间",
+          "py": "shí jiān",
+          "gloss": "time",
+          "pos": "noun"
+        },
+        {
+          "w": "吃",
+          "py": "chī",
+          "gloss": "to eat",
+          "pos": "verb"
+        },
+        {
+          "w": "东西",
+          "py": "dōng xi",
+          "gloss": "food",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "就",
+          "py": "jiù",
+          "gloss": "then",
+          "pos": "adv"
+        },
+        {
+          "w": "在",
+          "py": "zài",
+          "gloss": "at",
+          "pos": "conn"
+        },
+        {
+          "w": "办公室",
+          "py": "bàn gōng shì",
+          "gloss": "office",
+          "pos": "noun"
+        },
+        {
+          "w": "里",
+          "py": "lǐ",
+          "gloss": "in",
+          "pos": "noun"
+        },
+        {
+          "w": "一边",
+          "py": "yì biān",
+          "gloss": "while",
+          "pos": "adv"
+        },
+        {
+          "w": "喝",
+          "py": "hē",
+          "gloss": "to drink",
+          "pos": "verb"
+        },
+        {
+          "w": "咖啡",
+          "py": "kā fēi",
+          "gloss": "coffee",
+          "pos": "noun"
+        },
+        {
+          "w": "、",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "吃",
+          "py": "chī",
+          "gloss": "to eat",
+          "pos": "verb"
+        },
+        {
+          "w": "面包",
+          "py": "miàn bāo",
+          "gloss": "bread",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "一边",
+          "py": "yì biān",
+          "gloss": "while",
+          "pos": "adv"
+        },
+        {
+          "w": "准备",
+          "py": "zhǔn bèi",
+          "gloss": "to prepare",
+          "pos": "verb"
+        },
+        {
+          "w": "开会",
+          "py": "kāi huì",
+          "gloss": "meeting (attributive)",
+          "pos": "verb"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(attributive)",
+          "pos": "part"
+        },
+        {
+          "w": "东西",
+          "py": "dōng xi",
+          "gloss": "things",
+          "pos": "noun"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "终于，在开会前，我准备好了。",
+      "en": "Finally, before the meeting, I was ready.",
+      "tokens": [
+        {
+          "w": "终于",
+          "py": "zhōng yú",
+          "gloss": "finally",
+          "pos": "adv"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "在",
+          "py": "zài",
+          "gloss": "before",
+          "pos": "conn"
+        },
+        {
+          "w": "开会",
+          "py": "kāi huì",
+          "gloss": "to hold a meeting",
+          "pos": "verb"
+        },
+        {
+          "w": "前",
+          "py": "qián",
+          "gloss": "before",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "pos": "pron"
+        },
+        {
+          "w": "准备好",
+          "py": "zhǔn bèi hǎo",
+          "gloss": "to be ready",
+          "pos": "verb"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(completed)",
+          "pos": "part"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    }
+  ],
+  "new_words": [
+    {
+      "w": "咖啡",
+      "py": "kā fēi",
+      "gloss": "coffee"
+    },
+    {
+      "w": "终于",
+      "py": "zhōng yú",
+      "gloss": "finally"
+    }
+  ],
+  "grammar_points": [
+    {
+      "pattern": "一边……，一边……",
+      "explanation_en": "Use this to say that someone does two actions at the same time. Put the pattern before each verb.",
+      "example_zh": "妹妹一边听音乐，一边做作业。",
+      "example_en": "My younger sister does homework while listening to music."
+    },
+    {
+      "pattern": "……，但是……",
+      "explanation_en": "But. 但是 introduces a contrast with what was said in the first part of the sentence.",
+      "example_zh": "这个菜很好吃，但是有点儿贵。",
+      "example_en": "This dish is delicious, but it is a bit expensive."
+    },
+    {
+      "pattern": "V + 好 (result complement)",
+      "explanation_en": "Put 好 after a verb to show that an action is completed well or is ready. The negative form is 没 + verb + 好.",
+      "example_zh": "晚饭已经做好了，你可以来吃了。",
+      "example_en": "Dinner is already made, so you can come and eat."
+    }
+  ],
+  "questions": [
+    {
+      "q_zh": "今天下午“我”要做什么？",
+      "q_en": "What will the narrator do this afternoon?",
+      "answer_en": "Have an important meeting."
+    },
+    {
+      "q_zh": "中午“我”为什么没有吃午饭？",
+      "q_en": "Why didn't the narrator have a proper lunch at noon?",
+      "answer_en": "Because they had no time; they were preparing for the meeting."
+    },
+    {
+      "q_zh": "中午“我”在办公室里吃了什么、喝了什么？",
+      "q_en": "What did the narrator eat and drink in the office at noon?",
+      "answer_en": "They ate bread and drank coffee."
+    }
+  ]
+}

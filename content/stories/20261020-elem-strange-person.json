@@ -1,0 +1,772 @@
+{
+  "id": "20261020-elem-strange-person",
+  "series_id": null,
+  "chapter": null,
+  "topic": "Funny",
+  "format": "story",
+  "created_at": "2026-10-20",
+  "ai_generated": false,
+  "title_zh": "奇怪的人",
+  "title_en": "The Strange Person",
+  "summary_en": "A man goes into a restroom stall and hears someone next to him asking questions, so he answers them. In the end, we find out the other person was on the phone and thought the man was the strange one.",
+  "level": "elementary",
+  "sentences": [
+    {
+      "zh": "一个男人去洗手间。",
+      "en": "A man went to the restroom.",
+      "tokens": [
+        {
+          "w": "一",
+          "py": "yí",
+          "gloss": "one",
+          "pos": "quant"
+        },
+        {
+          "w": "个",
+          "py": "gè",
+          "gloss": "(measure word)",
+          "pos": "quant"
+        },
+        {
+          "w": "男人",
+          "py": "nán rén",
+          "gloss": "man",
+          "pos": "noun"
+        },
+        {
+          "w": "去",
+          "py": "qù",
+          "gloss": "to go",
+          "pos": "verb"
+        },
+        {
+          "w": "洗手间",
+          "py": "xǐ shǒu jiān",
+          "gloss": "restroom",
+          "pos": "noun"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "第一间有人，他就去了第二间。",
+      "en": "The first stall was taken, so he went into the second one.",
+      "tokens": [
+        {
+          "w": "第一",
+          "py": "dì yī",
+          "gloss": "first",
+          "pos": "quant"
+        },
+        {
+          "w": "间",
+          "py": "jiān",
+          "gloss": "(measure word)",
+          "pos": "quant"
+        },
+        {
+          "w": "有",
+          "py": "yǒu",
+          "gloss": "to be taken",
+          "pos": "verb"
+        },
+        {
+          "w": "人",
+          "py": "rén",
+          "gloss": "someone",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "他",
+          "py": "tā",
+          "gloss": "he",
+          "pos": "pron"
+        },
+        {
+          "w": "就",
+          "py": "jiù",
+          "gloss": "then",
+          "pos": "adv"
+        },
+        {
+          "w": "去",
+          "py": "qù",
+          "gloss": "to go",
+          "pos": "verb"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(completed)",
+          "pos": "part"
+        },
+        {
+          "w": "第二",
+          "py": "dì èr",
+          "gloss": "second",
+          "pos": "quant"
+        },
+        {
+          "w": "间",
+          "py": "jiān",
+          "gloss": "(measure word)",
+          "pos": "quant"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "他刚坐下，就听见旁边有人问：“你好，你还好吗？”",
+      "en": "He had just sat down when he heard someone next to him ask, \"Hello, are you doing okay?\"",
+      "tokens": [
+        {
+          "w": "他",
+          "py": "tā",
+          "gloss": "he",
+          "pos": "pron"
+        },
+        {
+          "w": "刚",
+          "py": "gāng",
+          "gloss": "just",
+          "pos": "adv"
+        },
+        {
+          "w": "坐下",
+          "py": "zuò xià",
+          "gloss": "to sit down",
+          "pos": "verb"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "就",
+          "py": "jiù",
+          "gloss": "then",
+          "pos": "adv"
+        },
+        {
+          "w": "听见",
+          "py": "tīng jiàn",
+          "gloss": "to hear",
+          "pos": "verb"
+        },
+        {
+          "w": "旁边",
+          "py": "páng biān",
+          "gloss": "side",
+          "pos": "noun"
+        },
+        {
+          "w": "有",
+          "py": "yǒu",
+          "gloss": "there was",
+          "pos": "verb"
+        },
+        {
+          "w": "人",
+          "py": "rén",
+          "gloss": "someone",
+          "pos": "noun"
+        },
+        {
+          "w": "问",
+          "py": "wèn",
+          "gloss": "to ask",
+          "pos": "verb"
+        },
+        {
+          "w": "：“",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "你好",
+          "py": "nǐ hǎo",
+          "gloss": "hello",
+          "pos": "adj"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "你",
+          "py": "nǐ",
+          "gloss": "you",
+          "pos": "pron"
+        },
+        {
+          "w": "还",
+          "py": "hái",
+          "gloss": "still",
+          "pos": "adv"
+        },
+        {
+          "w": "好",
+          "py": "hǎo",
+          "gloss": "well",
+          "pos": "adj"
+        },
+        {
+          "w": "吗",
+          "py": "ma",
+          "gloss": "(question)",
+          "pos": "part"
+        },
+        {
+          "w": "？”",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "男人觉得很奇怪，但是还是回答：“我还好。”",
+      "en": "The man thought it was very strange, but he still answered, \"I'm fine.\"",
+      "tokens": [
+        {
+          "w": "男人",
+          "py": "nán rén",
+          "gloss": "man",
+          "pos": "noun"
+        },
+        {
+          "w": "觉得",
+          "py": "jué de",
+          "gloss": "to feel",
+          "pos": "verb"
+        },
+        {
+          "w": "很",
+          "py": "hěn",
+          "gloss": "very",
+          "pos": "adv"
+        },
+        {
+          "w": "奇怪",
+          "py": "qí guài",
+          "gloss": "strange",
+          "pos": "adj"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "但是",
+          "py": "dàn shì",
+          "gloss": "but",
+          "pos": "conn"
+        },
+        {
+          "w": "还是",
+          "py": "hái shi",
+          "gloss": "still",
+          "pos": "adv"
+        },
+        {
+          "w": "回答",
+          "py": "huí dá",
+          "gloss": "to answer",
+          "pos": "verb"
+        },
+        {
+          "w": "：“",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "pos": "pron"
+        },
+        {
+          "w": "还",
+          "py": "hái",
+          "gloss": "still",
+          "pos": "adv"
+        },
+        {
+          "w": "好",
+          "py": "hǎo",
+          "gloss": "fine",
+          "pos": "adj"
+        },
+        {
+          "w": "。”",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "旁边的人又问：“你在做什么？”",
+      "en": "The person next to him asked again, \"What are you doing?\"",
+      "tokens": [
+        {
+          "w": "旁边",
+          "py": "páng biān",
+          "gloss": "side",
+          "pos": "noun"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(possessive)",
+          "pos": "part"
+        },
+        {
+          "w": "人",
+          "py": "rén",
+          "gloss": "person",
+          "pos": "noun"
+        },
+        {
+          "w": "又",
+          "py": "yòu",
+          "gloss": "again",
+          "pos": "adv"
+        },
+        {
+          "w": "问",
+          "py": "wèn",
+          "gloss": "to ask",
+          "pos": "verb"
+        },
+        {
+          "w": "：“",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "你",
+          "py": "nǐ",
+          "gloss": "you",
+          "pos": "pron"
+        },
+        {
+          "w": "在",
+          "py": "zài",
+          "gloss": "(ongoing)",
+          "pos": "part"
+        },
+        {
+          "w": "做",
+          "py": "zuò",
+          "gloss": "to do",
+          "pos": "verb"
+        },
+        {
+          "w": "什么",
+          "py": "shén me",
+          "gloss": "what",
+          "pos": "pron"
+        },
+        {
+          "w": "？”",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "男人更奇怪了，但还是回答：“我在上厕所。”",
+      "en": "The man felt even more strange, but he still answered, \"I'm using the toilet.\"",
+      "tokens": [
+        {
+          "w": "男人",
+          "py": "nán rén",
+          "gloss": "man",
+          "pos": "noun"
+        },
+        {
+          "w": "更",
+          "py": "gèng",
+          "gloss": "even more",
+          "pos": "adv"
+        },
+        {
+          "w": "奇怪",
+          "py": "qí guài",
+          "gloss": "strange",
+          "pos": "adj"
+        },
+        {
+          "w": "了",
+          "py": "le",
+          "gloss": "(change of state)",
+          "pos": "part"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "但",
+          "py": "dàn",
+          "gloss": "but",
+          "pos": "conn"
+        },
+        {
+          "w": "还是",
+          "py": "hái shi",
+          "gloss": "still",
+          "pos": "adv"
+        },
+        {
+          "w": "回答",
+          "py": "huí dá",
+          "gloss": "to answer",
+          "pos": "verb"
+        },
+        {
+          "w": "：“",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "pos": "pron"
+        },
+        {
+          "w": "在",
+          "py": "zài",
+          "gloss": "(ongoing)",
+          "pos": "part"
+        },
+        {
+          "w": "上",
+          "py": "shàng",
+          "gloss": "to go to",
+          "pos": "verb"
+        },
+        {
+          "w": "厕所",
+          "py": "cè suǒ",
+          "gloss": "toilet",
+          "pos": "noun"
+        },
+        {
+          "w": "。”",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "这时，旁边的人说：“我等一下再给你打电话。",
+      "en": "Then the person next to him said, \"I'll call you back in a bit.",
+      "tokens": [
+        {
+          "w": "这时",
+          "py": "zhè shí",
+          "gloss": "at that moment",
+          "pos": "adv"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "旁边",
+          "py": "páng biān",
+          "gloss": "side",
+          "pos": "noun"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(possessive)",
+          "pos": "part"
+        },
+        {
+          "w": "人",
+          "py": "rén",
+          "gloss": "person",
+          "pos": "noun"
+        },
+        {
+          "w": "说",
+          "py": "shuō",
+          "gloss": "to say",
+          "pos": "verb"
+        },
+        {
+          "w": "：“",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "pos": "pron"
+        },
+        {
+          "w": "等",
+          "py": "děng",
+          "gloss": "to wait",
+          "pos": "verb"
+        },
+        {
+          "w": "一下",
+          "py": "yí xià",
+          "gloss": "for a moment",
+          "pos": "quant"
+        },
+        {
+          "w": "再",
+          "py": "zài",
+          "gloss": "again",
+          "pos": "adv"
+        },
+        {
+          "w": "给",
+          "py": "gěi",
+          "gloss": "to",
+          "pos": "conn"
+        },
+        {
+          "w": "你",
+          "py": "nǐ",
+          "gloss": "you",
+          "pos": "pron"
+        },
+        {
+          "w": "打",
+          "py": "dǎ",
+          "gloss": "to make (a call)",
+          "pos": "verb"
+        },
+        {
+          "w": "电话",
+          "py": "diàn huà",
+          "gloss": "phone call",
+          "pos": "noun"
+        },
+        {
+          "w": "。",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    },
+    {
+      "zh": "我旁边有一个很奇怪的人，我跟你说话，他一直回答我。”",
+      "en": "There's a very strange person next to me. I talk to him, and he keeps answering me.\"",
+      "tokens": [
+        {
+          "w": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "pos": "pron"
+        },
+        {
+          "w": "旁边",
+          "py": "páng biān",
+          "gloss": "side",
+          "pos": "noun"
+        },
+        {
+          "w": "有",
+          "py": "yǒu",
+          "gloss": "there is",
+          "pos": "verb"
+        },
+        {
+          "w": "一",
+          "py": "yí",
+          "gloss": "a",
+          "pos": "quant"
+        },
+        {
+          "w": "个",
+          "py": "gè",
+          "gloss": "(measure word)",
+          "pos": "quant"
+        },
+        {
+          "w": "很",
+          "py": "hěn",
+          "gloss": "very",
+          "pos": "adv"
+        },
+        {
+          "w": "奇怪",
+          "py": "qí guài",
+          "gloss": "strange",
+          "pos": "adj"
+        },
+        {
+          "w": "的",
+          "py": "de",
+          "gloss": "(modifier)",
+          "pos": "part"
+        },
+        {
+          "w": "人",
+          "py": "rén",
+          "gloss": "person",
+          "pos": "noun"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "我",
+          "py": "wǒ",
+          "gloss": "I",
+          "pos": "pron"
+        },
+        {
+          "w": "跟",
+          "py": "gēn",
+          "gloss": "with",
+          "pos": "conn"
+        },
+        {
+          "w": "你",
+          "py": "nǐ",
+          "gloss": "you",
+          "pos": "pron"
+        },
+        {
+          "w": "说话",
+          "py": "shuō huà",
+          "gloss": "to talk",
+          "pos": "verb"
+        },
+        {
+          "w": "，",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        },
+        {
+          "w": "他",
+          "py": "tā",
+          "gloss": "he",
+          "pos": "pron"
+        },
+        {
+          "w": "一直",
+          "py": "yì zhí",
+          "gloss": "keeps on",
+          "pos": "adv"
+        },
+        {
+          "w": "回答",
+          "py": "huí dá",
+          "gloss": "to answer",
+          "pos": "verb"
+        },
+        {
+          "w": "我",
+          "py": "wǒ",
+          "gloss": "me",
+          "pos": "pron"
+        },
+        {
+          "w": "。”",
+          "py": "",
+          "gloss": "",
+          "pos": ""
+        }
+      ]
+    }
+  ],
+  "new_words": [
+    {
+      "w": "奇怪",
+      "py": "qí guài",
+      "gloss": "strange"
+    },
+    {
+      "w": "厕所",
+      "py": "cè suǒ",
+      "gloss": "toilet"
+    }
+  ],
+  "grammar_points": [
+    {
+      "pattern": "刚……，就……",
+      "explanation_en": "Use this to say that one thing happened right after another. 刚 means 'just', and 就 shows the second action followed very quickly.",
+      "example_zh": "我刚到家，就下雨了。",
+      "example_en": "I had just gotten home when it started to rain."
+    },
+    {
+      "pattern": "……，但是还是……",
+      "explanation_en": "Use 但是 (but) to show a contrast, and 还是 (still) to say the action continues in spite of it. The text also uses the short form 但还是.",
+      "example_zh": "天气很冷，但是我还是去跑步。",
+      "example_en": "The weather is very cold, but I still go running."
+    },
+    {
+      "pattern": "在 + verb",
+      "explanation_en": "Put 在 before a verb to show that an action is happening right now.",
+      "example_zh": "妈妈在做饭。",
+      "example_en": "Mom is cooking."
+    }
+  ],
+  "questions": [
+    {
+      "q_zh": "男人为什么去了第二间？",
+      "q_en": "Why did the man go into the second stall?",
+      "answer_en": "Because the first stall was taken."
+    },
+    {
+      "q_zh": "旁边的人问了男人什么？",
+      "q_en": "What did the person next to the man ask him?",
+      "answer_en": "He asked if the man was doing okay and what he was doing."
+    },
+    {
+      "q_zh": "旁边的人为什么说男人很奇怪？",
+      "q_en": "Why did the person next to him say the man was strange?",
+      "answer_en": "Because the man kept answering him while he was talking on the phone with someone else."
+    }
+  ]
+}
